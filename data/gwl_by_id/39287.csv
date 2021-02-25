@@ -1,0 +1,45 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+39287,356419N1190690W001,690474,1997-02-11T00:00:00Z,883.83,882.83,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+39287,356419N1190690W001,690473,1996-03-20T00:00:00Z,883.83,882.83,NA,NA,NA,NA,NA,Pump house locked,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+39287,356419N1190690W001,690472,1995-02-10T00:00:00Z,883.83,882.83,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+39287,356419N1190690W001,690471,1994-03-16T00:00:00Z,883.83,882.83,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+39287,356419N1190690W001,690470,1993-10-06T00:00:00Z,883.83,882.83,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+39287,356419N1190690W001,690469,1993-01-21T00:00:00Z,883.83,882.83,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+39287,356419N1190690W001,690468,1992-10-07T00:00:00Z,883.83,882.83,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+39287,356419N1190690W001,690467,1992-01-21T00:00:00Z,883.83,882.83,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+39287,356419N1190690W001,690466,1991-10-01T00:00:00Z,883.83,882.83,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+39287,356419N1190690W001,690465,1991-01-28T00:00:00Z,883.83,882.83,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+39287,356419N1190690W001,690464,1990-10-01T00:00:00Z,883.83,882.83,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+39287,356419N1190690W001,690463,1990-01-31T00:00:00Z,883.83,882.83,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+39287,356419N1190690W001,690462,1989-10-02T00:00:00Z,883.83,882.83,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+39287,356419N1190690W001,690461,1989-02-09T00:00:00Z,883.83,882.83,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+39287,356419N1190690W001,690460,1988-10-04T00:00:00Z,883.83,882.83,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+39287,356419N1190690W001,690459,1988-02-10T00:00:00Z,883.83,882.83,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+39287,356419N1190690W001,690458,1987-10-06T00:00:00Z,883.83,882.83,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+39287,356419N1190690W001,690457,1987-02-05T00:00:00Z,883.83,882.83,0,602,281.83,602,601,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+39287,356419N1190690W001,690456,1986-10-08T00:00:00Z,883.83,882.83,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+39287,356419N1190690W001,690455,1986-02-05T00:00:00Z,883.83,882.83,0,553,330.83,553,552,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+39287,356419N1190690W001,690454,1985-10-04T00:00:00Z,883.83,882.83,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+39287,356419N1190690W001,690453,1985-03-05T00:00:00Z,883.83,882.83,0,626.3,257.53,626.3,625.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+39287,356419N1190690W001,690452,1985-01-30T00:00:00Z,883.83,882.83,0,621,262.83,621,620,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+39287,356419N1190690W001,690451,1984-11-07T00:00:00Z,883.83,882.83,0,645.7,238.13,645.7,644.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+39287,356419N1190690W001,690450,1984-10-01T00:00:00Z,883.83,882.83,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+39287,356419N1190690W001,690449,1984-02-08T00:00:00Z,883.83,882.83,0,618,265.83,618,617,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+39287,356419N1190690W001,690448,1984-02-01T00:00:00Z,883.83,882.83,0,621,262.83,621,620,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+39287,356419N1190690W001,690447,1983-09-26T00:00:00Z,883.83,882.83,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+39287,356419N1190690W001,690446,1983-02-17T00:00:00Z,883.83,882.83,0,627,256.83,627,626,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+39287,356419N1190690W001,690445,1982-09-29T00:00:00Z,883.83,882.83,0,660,223.83,660,659,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+39287,356419N1190690W001,690444,1982-01-27T00:00:00Z,883.83,882.83,0,647,236.83,647,646,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+39287,356419N1190690W001,690443,1981-10-07T00:00:00Z,883.83,882.83,0,691,192.83,691,690,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+39287,356419N1190690W001,690442,1979-09-27T00:00:00Z,883.83,882.83,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NA,1085,KERN-TULARE WATER DISTRICT
+39287,356419N1190690W001,690441,1979-02-01T00:00:00Z,883.83,882.83,0,719,164.83,719,718,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1085,KERN-TULARE WATER DISTRICT
+39287,356419N1190690W001,690440,1979-01-26T00:00:00Z,883.83,882.83,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1085,KERN-TULARE WATER DISTRICT
+39287,356419N1190690W001,690439,1978-01-26T00:00:00Z,883.83,882.83,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1085,KERN-TULARE WATER DISTRICT
+39287,356419N1190690W001,690438,1977-03-07T00:00:00Z,883.83,882.83,0,584,299.83,584,583,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+39287,356419N1190690W001,690437,1976-11-23T00:00:00Z,883.83,882.83,0,602,281.83,602,601,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+39287,356419N1190690W001,690436,1975-02-25T00:00:00Z,883.83,882.83,0,590.5,293.33,590.5,589.5,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+39287,356419N1190690W001,690435,1974-02-21T00:00:00Z,883.83,882.83,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+39287,356419N1190690W001,690434,1973-02-08T00:00:00Z,883.83,882.83,0,427,456.83,427,426,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+39287,356419N1190690W001,690433,1972-10-18T00:00:00Z,883.83,882.83,0,514,369.83,514,513,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+39287,356419N1190690W001,690432,1972-02-23T00:00:00Z,883.83,882.83,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+39287,356419N1190690W001,690431,1971-02-03T00:00:00Z,883.83,882.83,0,545,338.83,545,544,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources

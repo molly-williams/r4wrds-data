@@ -1,0 +1,11 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+7025,375046N1211743W001,2237303,2017-03-29T00:00:00Z,134.27,132.87,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,624,Bureau of Reclamation,"TERMINATED 3/29/17 due to: very old well w/ questionable construction, tape hangs, nearby well used for more reliable data point.",624,Bureau of Reclamation
+7025,375046N1211743W001,2217544,2016-11-03T00:00:00Z,134.27,132.87,0,72.7,61.57,72.7,71.3,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,624,Bureau of Reclamation,NA,624,Bureau of Reclamation
+7025,375046N1211743W001,2185617,2016-03-28T00:00:00Z,134.27,132.87,NA,NA,NA,NA,NA,Special/Other,NA,NA,624,Bureau of Reclamation,dry,624,Bureau of Reclamation
+7025,375046N1211743W001,2158037,2015-10-20T00:00:00Z,134.27,132.87,NA,NA,NA,NA,NA,Special/Other,NA,NA,624,Bureau of Reclamation,well dry to apprx. 110 ft,624,Bureau of Reclamation
+7025,375046N1211743W001,2132561,2015-03-17T00:00:00Z,134.27,132.87,0,98.4,35.87,98.4,97,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,624,Bureau of Reclamation,NA,624,Bureau of Reclamation
+7025,375046N1211743W001,2029927,2014-10-29T00:00:00Z,134.27,132.87,0,100.3,33.97,100.3,98.9,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,624,Bureau of Reclamation,NA,624,Bureau of Reclamation
+7025,375046N1211743W001,1883621,2014-03-27T00:00:00Z,134.27,132.87,0,94.9,39.37,94.9,93.5,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,624,Bureau of Reclamation,NA,624,Bureau of Reclamation
+7025,375046N1211743W001,1807632,2013-10-22T00:00:00Z,134.27,132.87,3.4,100,37.67,96.6,95.2,NA,Steel tape measurement,Water level accuracy to nearest tenth of a foot,624,Bureau of Reclamation,NA,624,Bureau of Reclamation
+7025,375046N1211743W001,1726551,2013-04-24T00:00:00Z,134.27,132.87,NA,NA,NA,NA,NA,Pumping,NA,NA,624,Bureau of Reclamation,NA,624,Bureau of Reclamation
+7025,375046N1211743W001,1684072,2012-10-16T00:00:00Z,134.27,132.87,NA,NA,NA,NA,NA,Pumping,NA,NA,624,Bureau of Reclamation,NA,624,Bureau of Reclamation

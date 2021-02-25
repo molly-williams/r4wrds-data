@@ -1,0 +1,5 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+18590,362411N1201574W001,908979,1962-03-22T00:00:00Z,390.97,389.97,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+18590,362411N1201574W001,908978,1960-10-13T00:00:00Z,390.97,389.97,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+18590,362411N1201574W001,908977,1960-05-10T00:00:00Z,390.97,389.97,0,436,-45.03,436,435,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+18590,362411N1201574W001,908976,1958-05-09T00:00:00Z,390.97,389.97,0,375.6,15.37,375.6,374.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey

@@ -1,0 +1,13 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+21913,360950N1200929W002,976558,2008-12-17T00:00:00Z,430.95,429.95,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,5100,Westlands Water District
+21913,360950N1200929W002,976557,1991-12-11T00:00:00Z,430.95,429.95,NA,NA,NA,NA,NA,Unable to locate well,NA,NA,1,Department of Water Resources,NA,5100,Westlands Water District
+21913,360950N1200929W002,976556,1991-01-23T00:00:00Z,430.95,429.95,0,404,26.95,404,403,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+21913,360950N1200929W002,976555,1990-01-10T00:00:00Z,430.95,429.95,0,394,36.95,394,393,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+21913,360950N1200929W002,976554,1988-12-14T00:00:00Z,430.95,429.95,0,386,44.95,386,385,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+21913,360950N1200929W002,976553,1987-12-21T00:00:00Z,430.95,429.95,0,396,34.95,396,395,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+21913,360950N1200929W002,976552,1986-12-31T00:00:00Z,430.95,429.95,0,396,34.95,396,395,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+21913,360950N1200929W002,976551,1984-12-07T00:00:00Z,430.95,429.95,0,429,1.95,429,428,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+21913,360950N1200929W002,976550,1982-12-08T00:00:00Z,430.95,429.95,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,5100,Westlands Water District
+21913,360950N1200929W002,976549,1975-12-16T00:00:00Z,430.95,429.95,0,514,-83.05,514,513,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+21913,360950N1200929W002,976548,1974-12-17T00:00:00Z,430.95,429.95,0,513,-82.05,513,512,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+21913,360950N1200929W002,976547,1968-12-18T00:00:00Z,430.95,429.95,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources

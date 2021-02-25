@@ -1,0 +1,34 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+34025,363069N1199227W001,910116,1990-02-07T00:00:00Z,227.86,226.86,NA,NA,NA,NA,NA,Well has been destroyed,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+34025,363069N1199227W001,910115,1989-10-10T00:00:00Z,227.86,226.86,NA,NA,NA,NA,NA,Unable to locate well,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+34025,363069N1199227W001,910114,1989-02-15T00:00:00Z,227.86,226.86,0,116,111.86,116,115,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+34025,363069N1199227W001,910113,1988-10-13T00:00:00Z,227.86,226.86,0,100,127.86,100,99,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+34025,363069N1199227W001,910112,1988-02-17T00:00:00Z,227.86,226.86,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+34025,363069N1199227W001,910111,1987-10-13T00:00:00Z,227.86,226.86,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+34025,363069N1199227W001,910110,1987-02-25T00:00:00Z,227.86,226.86,0,95,132.86,95,94,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+34025,363069N1199227W001,910109,1986-10-08T00:00:00Z,227.86,226.86,0,91,136.86,91,90,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+34025,363069N1199227W001,910108,1986-02-11T00:00:00Z,227.86,226.86,0,80,147.86,80,79,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+34025,363069N1199227W001,910107,1985-10-28T00:00:00Z,227.86,226.86,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+34025,363069N1199227W001,910106,1985-02-20T00:00:00Z,227.86,226.86,0,100,127.86,100,99,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+34025,363069N1199227W001,910105,1984-12-13T00:00:00Z,227.86,226.86,NA,NA,NA,NA,NA,Well has been destroyed,NA,NA,1,Department of Water Resources,NA,5100,Westlands Water District
+34025,363069N1199227W001,910104,1984-10-29T00:00:00Z,227.86,226.86,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+34025,363069N1199227W001,910103,1984-02-17T00:00:00Z,227.86,226.86,0,102,125.86,102,101,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+34025,363069N1199227W001,910102,1983-10-17T00:00:00Z,227.86,226.86,0,108,119.86,108,107,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+34025,363069N1199227W001,910101,1983-03-22T00:00:00Z,227.86,226.86,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+34025,363069N1199227W001,910100,1982-12-20T00:00:00Z,227.86,226.86,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,5100,Westlands Water District
+34025,363069N1199227W001,910099,1982-10-12T00:00:00Z,227.86,226.86,0,121,106.86,121,120,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+34025,363069N1199227W001,910098,1982-02-02T00:00:00Z,227.86,226.86,0,135,92.86,135,134,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+34025,363069N1199227W001,910097,1981-09-29T00:00:00Z,227.86,226.86,0,136,91.86,136,135,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+34025,363069N1199227W001,910096,1981-02-17T00:00:00Z,227.86,226.86,0,140,87.86,140,139,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+34025,363069N1199227W001,910095,1980-09-30T00:00:00Z,227.86,226.86,0,140,87.86,140,139,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+34025,363069N1199227W001,910094,1980-02-04T00:00:00Z,227.86,226.86,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+34025,363069N1199227W001,910093,1979-10-02T00:00:00Z,227.86,226.86,0,150,77.86,150,149,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+34025,363069N1199227W001,910092,1978-02-23T00:00:00Z,227.86,226.86,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+34025,363069N1199227W001,910091,1977-10-19T00:00:00Z,227.86,226.86,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+34025,363069N1199227W001,910090,1977-02-01T00:00:00Z,227.86,226.86,0,155,72.86,155,154,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+34025,363069N1199227W001,910089,1976-10-21T00:00:00Z,227.86,226.86,0,160,67.86,160,159,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+34025,363069N1199227W001,910088,1975-02-18T00:00:00Z,227.86,226.86,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+34025,363069N1199227W001,910087,1974-03-12T00:00:00Z,227.86,226.86,0,176,51.86,176,175,Oil or foreign substance in casing,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+34025,363069N1199227W001,910086,1973-04-11T00:00:00Z,227.86,226.86,0,163,64.86,163,162,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+34025,363069N1199227W001,910085,1972-02-17T00:00:00Z,227.86,226.86,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+34025,363069N1199227W001,910084,1968-12-21T00:00:00Z,227.86,226.86,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources

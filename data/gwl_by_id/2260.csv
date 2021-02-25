@@ -1,0 +1,97 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+2260,379875N1210145W001,78805,2012-10-10T00:00:00Z,157.5,156.5,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,62476,2012-04-04T00:00:00Z,157.5,156.5,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706474,2011-11-08T00:00:00Z,157.5,156.5,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NO READINGS WITH STEEL TAPE OR SOLINST,1,Department of Water Resources
+2260,379875N1210145W001,1706473,2011-04-21T00:00:00Z,157.5,156.5,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706472,2010-11-02T00:00:00Z,157.5,156.5,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,GATE LOCKED,1,Department of Water Resources
+2260,379875N1210145W001,1706471,2010-03-24T00:00:00Z,157.5,156.5,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706470,2009-10-27T00:00:00Z,157.5,156.5,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706469,2009-04-10T00:00:00Z,157.5,156.5,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NO READING,1,Department of Water Resources
+2260,379875N1210145W001,1706468,2008-10-21T00:00:00Z,157.5,156.5,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706467,2008-03-17T00:00:00Z,157.5,156.5,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,"GATE LOCKED,DOG",1,Department of Water Resources
+2260,379875N1210145W001,1706466,2007-11-08T00:00:00Z,157.5,156.5,0,173.2,-15.7,173.2,172.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706465,2007-04-18T00:00:00Z,157.5,156.5,0,171.3,-13.8,171.3,170.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706464,2006-10-31T00:00:00Z,157.5,156.5,0,174.5,-17,174.5,173.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706463,2006-03-29T00:00:00Z,157.5,156.5,0,171.8,-14.3,171.8,170.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706462,2005-11-01T00:00:00Z,157.5,156.5,0,182,-24.5,182,181,Oil or foreign substance in casing,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706461,2005-04-04T00:00:00Z,157.5,156.5,0,171.8,-14.3,171.8,170.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706460,2004-10-21T00:00:00Z,157.5,156.5,0,174,-16.5,174,173,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706459,2004-03-15T00:00:00Z,157.5,156.5,0,171.8,-14.3,171.8,170.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706458,2003-10-10T00:00:00Z,157.5,156.5,0,179.3,-21.8,179.3,178.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706457,2003-03-26T00:00:00Z,157.5,156.5,0,171.7,-14.2,171.7,170.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706456,2002-10-21T00:00:00Z,157.5,156.5,0,175.5,-18,175.5,174.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706453,2002-03-19T00:00:00Z,157.5,156.5,0,172,-14.5,172,171,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706455,2001-10-29T00:00:00Z,157.5,156.5,0,175.3,-17.8,175.3,174.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706454,2001-03-28T00:00:00Z,157.5,156.5,0,172.8,-15.3,172.8,171.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706446,2000-10-27T00:00:00Z,157.5,156.5,0,180.2,-22.7,180.2,179.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706445,2000-03-24T00:00:00Z,157.5,156.5,0,179.3,-21.8,179.3,178.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706450,1999-11-08T00:00:00Z,157.5,156.5,0,188,-30.5,188,187,Casing leaking or wet,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706444,1999-04-08T00:00:00Z,157.5,156.5,0,186,-28.5,186,185,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706452,1998-11-04T00:00:00Z,157.5,156.5,0,179.8,-22.3,179.8,178.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706451,1998-05-19T00:00:00Z,157.5,156.5,0,179,-21.5,179,178,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706449,1997-10-16T00:00:00Z,157.5,156.5,0,183.3,-25.8,183.3,182.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706448,1997-04-15T00:00:00Z,157.5,156.5,0,181.5,-24,181.5,180.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706447,1996-11-12T00:00:00Z,157.5,156.5,0,183,-25.5,183,182,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706443,1996-04-18T00:00:00Z,157.5,156.5,0,180,-22.5,180,179,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706442,1995-11-07T00:00:00Z,157.5,156.5,NA,NA,NA,NA,NA,Dry well,NA,NA,1,Department of Water Resources,DRY AT 200',1,Department of Water Resources
+2260,379875N1210145W001,1706441,1995-04-13T00:00:00Z,157.5,156.5,0,180.3,-22.8,180.3,179.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706440,1994-11-22T00:00:00Z,157.5,NA,NA,NA,NA,NA,NA,Dry well,NA,NA,1,Department of Water Resources,DRY AT 245',1,Department of Water Resources
+2260,379875N1210145W001,1706439,1994-03-08T00:00:00Z,157.5,156.5,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,GATE LOCKED,1,Department of Water Resources
+2260,379875N1210145W001,1706438,1993-11-03T00:00:00Z,157.5,156.5,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706437,1993-03-31T00:00:00Z,157.5,156.5,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,TAPE HUNG UP & CASING WET,1,Department of Water Resources
+2260,379875N1210145W001,1706436,1992-10-16T00:00:00Z,157.5,156.5,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,"GATE LOCKED, NO KEY",1,Department of Water Resources
+2260,379875N1210145W001,1706435,1992-03-19T00:00:00Z,157.5,156.5,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,TAPE HUNG UP & CASING WET,1,Department of Water Resources
+2260,379875N1210145W001,1706434,1991-10-17T00:00:00Z,157.5,156.5,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,TAPE HANGS AT 182',1,Department of Water Resources
+2260,379875N1210145W001,1706433,1991-03-11T00:00:00Z,157.5,156.5,0,180,-22.5,180,179,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706432,1990-10-12T00:00:00Z,157.5,156.5,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706431,1990-03-19T00:00:00Z,157.5,156.5,0,178,-20.5,178,177,Other,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706429,1989-10-06T00:00:00Z,157.5,156.5,0,180,-22.5,180,179,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706430,1989-03-14T00:00:00Z,157.5,156.5,0,178,-20.5,178,177,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706428,1988-10-13T00:00:00Z,157.5,156.5,0,179.2,-21.7,179.2,178.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706427,1988-03-03T00:00:00Z,157.5,156.5,0,174.8,-17.3,174.8,173.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706426,1987-10-13T00:00:00Z,157.5,156.5,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706425,1987-03-13T00:00:00Z,157.5,156.5,0,168.6,-11.1,168.6,167.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706424,1986-10-15T00:00:00Z,157.5,156.5,0,168.2,-10.7,168.2,167.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706423,1985-10-03T00:00:00Z,157.5,156.5,0,166.4,-8.9,166.4,165.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706422,1985-03-20T00:00:00Z,157.5,156.5,0,164.6,-7.1,164.6,163.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706421,1984-03-22T00:00:00Z,157.5,156.5,0,165.2,-7.7,165.2,164.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706420,1983-11-22T00:00:00Z,157.5,156.5,0,168.1,-10.6,168.1,167.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706419,1983-04-20T00:00:00Z,157.5,156.5,0,167.5,-10,167.5,166.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706418,1982-11-02T00:00:00Z,157.5,156.5,0,171.2,-13.7,171.2,170.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706417,1982-04-21T00:00:00Z,157.5,156.5,0,168.6,-11.1,168.6,167.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706416,1981-10-15T00:00:00Z,157.5,156.5,0,172.5,-15,172.5,171.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706415,1981-03-20T00:00:00Z,157.5,156.5,0,167.9,-10.4,167.9,166.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706414,1980-10-29T00:00:00Z,157.5,156.5,0,171.5,-14,171.5,170.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706413,1980-03-27T00:00:00Z,157.5,156.5,0,167,-9.5,167,166,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706412,1979-10-15T00:00:00Z,157.5,156.5,0,170.9,-13.4,170.9,169.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706411,1979-03-20T00:00:00Z,157.5,156.5,0,170.7,-13.2,170.7,169.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706410,1978-10-10T00:00:00Z,157.5,156.5,0,170.1,-12.6,170.1,169.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706409,1978-03-14T00:00:00Z,157.5,156.5,0,165.1,-7.6,165.1,164.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706408,1977-10-05T00:00:00Z,157.5,156.5,0,167.3,-9.8,167.3,166.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706407,1977-02-28T00:00:00Z,157.5,156.5,0,163.7,-6.2,163.7,162.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706406,1976-10-05T00:00:00Z,157.5,156.5,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706405,1976-03-10T00:00:00Z,157.5,156.5,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706404,1975-10-22T00:00:00Z,157.5,156.5,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706403,1975-03-20T00:00:00Z,157.5,156.5,0,161.4,-3.9,161.4,160.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706402,1974-10-25T00:00:00Z,157.5,156.5,0,159.9,-2.4,159.9,158.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706401,1974-03-06T00:00:00Z,157.5,156.5,0,157.2,0.3,157.2,156.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706400,1973-10-12T00:00:00Z,157.5,156.5,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706399,1973-03-22T00:00:00Z,157.5,156.5,0,154.6,2.9,154.6,153.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706398,1972-10-30T00:00:00Z,157.5,156.5,0,158,-0.5,158,157,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706397,1972-03-08T00:00:00Z,157.5,156.5,0,152.2,5.3,152.2,151.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706396,1971-10-14T00:00:00Z,157.5,156.5,0,155.3,2.2,155.3,154.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706395,1971-03-11T00:00:00Z,157.5,156.5,0,150.4,7.1,150.4,149.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706394,1970-10-21T00:00:00Z,157.5,156.5,0,153.8,3.7,153.8,152.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706393,1970-03-31T00:00:00Z,157.5,156.5,0,149.1,8.4,149.1,148.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706392,1969-03-27T00:00:00Z,157.5,156.5,0,146.9,10.6,146.9,145.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706391,1968-10-09T00:00:00Z,157.5,156.5,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706390,1968-03-06T00:00:00Z,157.5,156.5,0,144.8,12.7,144.8,143.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706389,1967-10-11T00:00:00Z,157.5,156.5,0,148.3,9.2,148.3,147.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706388,1967-03-07T00:00:00Z,157.5,156.5,0,144,13.5,144,143,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706387,1966-10-04T00:00:00Z,157.5,156.5,0,147.1,10.4,147.1,146.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706386,1966-03-10T00:00:00Z,157.5,156.5,0,140.7,16.8,140.7,139.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706385,1965-10-06T00:00:00Z,157.5,156.5,0,142.8,14.7,142.8,141.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706384,1965-03-15T00:00:00Z,157.5,156.5,0,138.4,19.1,138.4,137.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706383,1964-10-09T00:00:00Z,157.5,156.5,0,140.5,17,140.5,139.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706382,1964-04-02T00:00:00Z,157.5,156.5,0,135,22.5,135,134,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+2260,379875N1210145W001,1706381,1963-03-29T00:00:00Z,157.5,156.5,0,132,25.5,132,131,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources

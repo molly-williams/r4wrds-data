@@ -1,0 +1,62 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+33700,367443N1198293W001,1174402,1965-06-30T00:00:00Z,285.51,285.01,NA,NA,NA,NA,NA,Well has been destroyed,NA,NA,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174401,1965-02-25T00:00:00Z,285.51,285.01,0,68.4,217.11,68.4,67.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174400,1965-01-30T00:00:00Z,285.51,285.01,0,72.4,213.11,72.4,71.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174399,1964-12-28T00:00:00Z,285.51,285.01,0,71.1,214.41,71.1,70.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174398,1964-11-28T00:00:00Z,285.51,285.01,0,70.1,215.41,70.1,69.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174397,1964-10-29T00:00:00Z,285.51,285.01,0,70.3,215.21,70.3,69.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174396,1964-09-28T00:00:00Z,285.51,285.01,0,70.5,215.01,70.5,70,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174395,1964-08-26T00:00:00Z,285.51,285.01,0,70.7,214.81,70.7,70.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174394,1964-07-29T00:00:00Z,285.51,285.01,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174393,1964-06-30T00:00:00Z,285.51,285.01,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174392,1964-05-28T00:00:00Z,285.51,285.01,0,75.5,210.01,75.5,75,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174391,1964-04-28T00:00:00Z,285.51,285.01,0,66.4,219.11,66.4,65.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174390,1964-03-26T00:00:00Z,285.51,285.01,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174389,1964-03-05T00:00:00Z,285.51,285.01,0,68.4,217.11,68.4,67.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174388,1964-01-27T00:00:00Z,285.51,285.01,0,66,219.51,66,65.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174387,1963-12-30T00:00:00Z,285.51,285.01,0,68.4,217.11,68.4,67.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174386,1963-11-30T00:00:00Z,285.51,285.01,0,67.5,218.01,67.5,67,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174385,1963-10-29T00:00:00Z,285.51,285.01,0,73.8,211.71,73.8,73.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174384,1963-09-30T00:00:00Z,285.51,285.01,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174383,1963-08-28T00:00:00Z,285.51,285.01,0,73.8,211.71,73.8,73.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174382,1963-07-30T00:00:00Z,285.51,285.01,0,69.6,215.91,69.6,69.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174381,1963-06-26T00:00:00Z,285.51,285.01,0,66.2,219.31,66.2,65.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174380,1963-05-29T00:00:00Z,285.51,285.01,0,67.4,218.11,67.4,66.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174379,1963-04-30T00:00:00Z,285.51,285.01,0,65.8,219.71,65.8,65.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174378,1963-03-30T00:00:00Z,285.51,285.01,0,71.5,214.01,71.5,71,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174377,1963-03-28T00:00:00Z,285.51,285.01,0,71,214.51,71,70.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174376,1963-02-26T00:00:00Z,285.51,285.01,0,70.8,214.71,70.8,70.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174375,1963-01-31T00:00:00Z,285.51,285.01,0,71.9,213.61,71.9,71.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174374,1962-12-28T00:00:00Z,285.51,285.01,0,71.6,213.91,71.6,71.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174373,1962-11-28T00:00:00Z,285.51,285.01,0,72.5,213.01,72.5,72,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174372,1962-10-25T00:00:00Z,285.51,285.01,0,67.5,218.01,67.5,67,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174371,1962-09-27T00:00:00Z,285.51,285.01,0,66.9,218.61,66.9,66.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174370,1962-08-30T00:00:00Z,285.51,285.01,0,74.7,210.81,74.7,74.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174369,1962-07-25T00:00:00Z,285.51,285.01,0,68.6,216.91,68.6,68.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174368,1962-06-29T00:00:00Z,285.51,285.01,0,71.7,213.81,71.7,71.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174367,1962-05-29T00:00:00Z,285.51,285.01,0,65.8,219.71,65.8,65.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174366,1962-04-27T00:00:00Z,285.51,285.01,0,71.7,213.81,71.7,71.2,Nearby pump operating,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174365,1962-04-11T00:00:00Z,285.51,285.01,0,71.5,214.01,71.5,71,Nearby pump operating,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174364,1962-02-27T00:00:00Z,285.51,285.01,0,64.1,221.41,64.1,63.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174363,1962-01-26T00:00:00Z,285.51,285.01,0,64.6,220.91,64.6,64.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174362,1961-12-26T00:00:00Z,285.51,285.01,0,64.8,220.71,64.8,64.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174361,1961-11-26T00:00:00Z,285.51,285.01,0,65.1,220.41,65.1,64.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174360,1961-10-28T00:00:00Z,285.51,285.01,0,65.4,220.11,65.4,64.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174359,1961-09-27T00:00:00Z,285.51,285.01,0,72.3,213.21,72.3,71.8,Nearby pump operating,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174358,1961-08-29T00:00:00Z,285.51,285.01,0,74.1,211.41,74.1,73.6,Nearby pump operating,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174357,1961-07-26T00:00:00Z,285.51,285.01,0,72.3,213.21,72.3,71.8,Nearby pump operating,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174356,1961-03-05T00:00:00Z,285.51,285.01,0,60.2,225.31,60.2,59.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174355,1960-10-29T00:00:00Z,285.51,285.01,0,61.5,224.01,61.5,61,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174354,1960-02-27T00:00:00Z,285.51,285.01,0,55.5,230.01,55.5,55,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174353,1959-09-26T00:00:00Z,285.51,285.01,0,55.7,229.81,55.7,55.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174352,1959-02-27T00:00:00Z,285.51,285.01,0,50.2,235.31,50.2,49.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174351,1958-10-28T00:00:00Z,285.51,285.01,0,51.3,234.21,51.3,50.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174350,1958-02-27T00:00:00Z,285.51,285.01,0,51.5,234.01,51.5,51,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174349,1957-10-29T00:00:00Z,285.51,285.01,0,53.2,232.31,53.2,52.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174348,1957-08-30T00:00:00Z,285.51,285.01,0,57.1,228.41,57.1,56.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174347,1957-03-01T00:00:00Z,285.51,285.01,0,48.8,236.71,48.8,48.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174346,1956-10-30T00:00:00Z,285.51,285.01,0,49,236.51,49,48.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174345,1956-08-30T00:00:00Z,285.51,285.01,0,53.6,231.91,53.6,53.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174344,1956-01-30T00:00:00Z,285.51,285.01,0,48.6,236.91,48.6,48.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174343,1955-11-30T00:00:00Z,285.51,285.01,0,49.2,236.31,49.2,48.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+33700,367443N1198293W001,1174342,1955-02-28T00:00:00Z,285.51,285.01,0,45.8,239.71,45.8,45.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District

@@ -1,0 +1,86 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+11427,350253N1189496W001,2530082,2020-02-04T00:00:00Z,783,780,0,631.1,151.9,631.1,628.1,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,5042,Wheeler Ridge-Maricopa Water Storage District,NA,5042,Wheeler Ridge-Maricopa Water Storage District
+11427,350253N1189496W001,2478729,2019-10-01T00:00:00Z,783,780,0,627.6,155.4,627.6,624.6,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,5042,Wheeler Ridge-Maricopa Water Storage District,NA,5042,Wheeler Ridge-Maricopa Water Storage District
+11427,350253N1189496W001,2468785,2019-04-05T00:00:00Z,783,780,0,554.8,228.2,554.8,551.8,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,5042,Wheeler Ridge-Maricopa Water Storage District,NA,5042,Wheeler Ridge-Maricopa Water Storage District
+11427,350253N1189496W001,2415885,2018-10-03T00:00:00Z,783,780,0,629.4,153.6,629.4,626.4,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,5042,Wheeler Ridge-Maricopa Water Storage District,NA,2025,White Wolf GSA
+11427,350253N1189496W001,2407622,2018-01-15T00:00:00Z,783,780,0,638.4,144.6,638.4,635.4,Acoustical sounder,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,5042,Wheeler Ridge-Maricopa Water Storage District,NA,5042,Wheeler Ridge-Maricopa Water Storage District
+11427,350253N1189496W001,2278640,2017-10-03T00:00:00Z,783,780,0,626.8,156.2,626.8,623.8,Acoustical sounder,Acoustic or sonic sounder,Water level accuracy to nearest tenth of a foot,5042,Wheeler Ridge-Maricopa Water Storage District,NA,5042,Wheeler Ridge-Maricopa Water Storage District
+11427,350253N1189496W001,2257330,2017-02-17T00:00:00Z,783,780,0,623.8,159.2,623.8,620.8,NA,Unknown,Water level accuracy is unknown,5042,Wheeler Ridge-Maricopa Water Storage District,NA,5042,Wheeler Ridge-Maricopa Water Storage District
+11427,350253N1189496W001,1248532,2010-11-02T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Pump house locked,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+11427,350253N1189496W001,1248531,2010-03-05T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Pump house locked,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+11427,350253N1189496W001,1248530,2009-10-28T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Pump house locked,NA,NA,1,Department of Water Resources,WRM - FENCED,5118,Arvin-Edison Water Storage District
+11427,350253N1189496W001,1248529,2009-03-24T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Pump house locked,NA,NA,1,Department of Water Resources,WRM - FENCED,5118,Arvin-Edison Water Storage District
+11427,350253N1189496W001,1248526,2008-02-23T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Pump house locked,NA,NA,1,Department of Water Resources,WRM - FENCED,5118,Arvin-Edison Water Storage District
+11427,350253N1189496W001,1248527,2007-10-30T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Pump house locked,NA,NA,1,Department of Water Resources,WRM - FENCED,5118,Arvin-Edison Water Storage District
+11427,350253N1189496W001,1248525,2007-02-06T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Pump house locked,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+11427,350253N1189496W001,1248528,2006-10-10T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Pump house locked,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+11427,350253N1189496W001,1248524,2006-03-14T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Pump house locked,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+11427,350253N1189496W001,1248523,1999-11-29T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Unable to locate well,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+11427,350253N1189496W001,1248522,1999-02-23T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Unable to locate well,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+11427,350253N1189496W001,1248521,1996-12-02T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Unable to locate well,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+11427,350253N1189496W001,1248520,1995-12-14T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Unable to locate well,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+11427,350253N1189496W001,1248519,1995-02-08T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+11427,350253N1189496W001,1248518,1994-02-22T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+11427,350253N1189496W001,1248517,1993-10-13T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+11427,350253N1189496W001,1248516,1993-02-17T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+11427,350253N1189496W001,1248515,1992-10-22T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+11427,350253N1189496W001,1248514,1992-01-22T00:00:00Z,784.53,782.53,0,524,260.53,524,522,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+11427,350253N1189496W001,1248513,1991-09-17T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+11427,350253N1189496W001,1248512,1991-02-15T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+11427,350253N1189496W001,1248511,1990-10-23T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+11427,350253N1189496W001,1248510,1990-04-10T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+11427,350253N1189496W001,1248509,1989-10-26T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+11427,350253N1189496W001,1248508,1989-02-23T00:00:00Z,784.53,782.53,0,615,169.53,615,613,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+11427,350253N1189496W001,1248507,1988-10-27T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+11427,350253N1189496W001,1248506,1988-03-14T00:00:00Z,784.53,782.53,0,601,183.53,601,599,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+11427,350253N1189496W001,1248505,1987-12-02T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+11427,350253N1189496W001,1248504,1987-02-12T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+11427,350253N1189496W001,1248503,1986-11-12T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+11427,350253N1189496W001,1248502,1986-03-18T00:00:00Z,784.53,782.53,0,616,168.53,616,614,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+11427,350253N1189496W001,1248501,1986-01-01T00:00:00Z,784.53,782.53,0,632,152.53,632,630,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5042,Wheeler Ridge-Maricopa Water Storage District
+11427,350253N1189496W001,1248500,1985-10-18T00:00:00Z,784.53,782.53,0,612,172.53,612,610,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+11427,350253N1189496W001,1248499,1985-03-06T00:00:00Z,784.53,782.53,0,615,169.53,615,613,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+11427,350253N1189496W001,1248498,1985-01-01T00:00:00Z,784.53,782.53,0,640,144.53,640,638,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5042,Wheeler Ridge-Maricopa Water Storage District
+11427,350253N1189496W001,1248497,1984-11-02T00:00:00Z,784.53,782.53,0,621,163.53,621,619,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+11427,350253N1189496W001,1248496,1984-02-28T00:00:00Z,784.53,782.53,0,615,169.53,615,613,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+11427,350253N1189496W001,1248495,1983-10-31T00:00:00Z,784.53,782.53,0,627,157.53,627,625,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+11427,350253N1189496W001,1248494,1983-02-25T00:00:00Z,784.53,782.53,0,614,170.53,614,612,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+11427,350253N1189496W001,1248493,1982-12-01T00:00:00Z,784.53,782.53,0,629,155.53,629,627,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5042,Wheeler Ridge-Maricopa Water Storage District
+11427,350253N1189496W001,1248492,1982-02-01T00:00:00Z,784.53,782.53,0,619,165.53,619,617,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+11427,350253N1189496W001,1248491,1981-12-01T00:00:00Z,784.53,782.53,0,632,152.53,632,630,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5042,Wheeler Ridge-Maricopa Water Storage District
+11427,350253N1189496W001,1248490,1981-11-16T00:00:00Z,784.53,782.53,0,619,165.53,619,617,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+11427,350253N1189496W001,1248489,1981-03-09T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+11427,350253N1189496W001,1248488,1980-10-21T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+11427,350253N1189496W001,1248487,1980-02-20T00:00:00Z,784.53,782.53,0,718,66.53,718,716,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5042,Wheeler Ridge-Maricopa Water Storage District
+11427,350253N1189496W001,1248486,1980-02-07T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+11427,350253N1189496W001,1248485,1979-10-24T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+11427,350253N1189496W001,1248484,1979-02-22T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+11427,350253N1189496W001,1248483,1979-01-30T00:00:00Z,784.53,782.53,0,665,119.53,665,663,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5042,Wheeler Ridge-Maricopa Water Storage District
+11427,350253N1189496W001,1248482,1978-01-12T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+11427,350253N1189496W001,1248481,1977-10-26T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+11427,350253N1189496W001,1248480,1977-02-24T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+11427,350253N1189496W001,1248479,1976-12-21T00:00:00Z,784.53,782.53,0,614,170.53,614,612,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5042,Wheeler Ridge-Maricopa Water Storage District
+11427,350253N1189496W001,1248478,1976-10-19T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+11427,350253N1189496W001,1248477,1976-02-17T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+11427,350253N1189496W001,1248476,1976-02-10T00:00:00Z,784.53,782.53,0,621,163.53,621,619,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5042,Wheeler Ridge-Maricopa Water Storage District
+11427,350253N1189496W001,1248475,1975-10-14T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+11427,350253N1189496W001,1248474,1975-02-10T00:00:00Z,784.53,782.53,0,635.3,149.23,635.3,633.3,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5042,Wheeler Ridge-Maricopa Water Storage District
+11427,350253N1189496W001,1248473,1968-09-24T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+11427,350253N1189496W001,1248472,1968-01-30T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+11427,350253N1189496W001,1248471,1967-09-27T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+11427,350253N1189496W001,1248470,1967-01-31T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+11427,350253N1189496W001,1248469,1966-09-27T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+11427,350253N1189496W001,1248468,1966-01-25T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+11427,350253N1189496W001,1248467,1965-09-29T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+11427,350253N1189496W001,1248466,1965-01-27T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+11427,350253N1189496W001,1248465,1964-09-23T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+11427,350253N1189496W001,1248464,1964-01-29T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+11427,350253N1189496W001,1248463,1963-09-18T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+11427,350253N1189496W001,1248462,1963-01-30T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+11427,350253N1189496W001,1248461,1962-10-04T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+11427,350253N1189496W001,1248460,1962-01-31T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+11427,350253N1189496W001,1248459,1960-09-29T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+11427,350253N1189496W001,1248458,1959-02-05T00:00:00Z,784.53,782.53,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5167,United States Geological Survey
+11427,350253N1189496W001,1248457,1958-09-29T00:00:00Z,784.53,782.53,0,515.1,269.43,515.1,513.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+11427,350253N1189496W001,1248456,1958-01-29T00:00:00Z,784.53,782.53,0,501.7,282.83,501.7,499.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+11427,350253N1189496W001,1248455,1957-02-25T00:00:00Z,784.53,782.53,0,491.2,293.33,491.2,489.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources

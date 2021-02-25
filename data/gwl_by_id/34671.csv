@@ -1,0 +1,74 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+34671,364286N1195154W001,1068002,2011-02-21T00:00:00Z,278.7,278.7,0,45.8,232.9,45.8,45.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1068004,2010-10-11T00:00:00Z,278.7,278.7,NA,NA,NA,NA,NA,Dry well,NA,NA,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1068001,2010-02-15T00:00:00Z,278.7,278.7,0,112,166.7,112,112,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1068003,2009-10-20T00:00:00Z,278.7,278.7,0,120,158.7,120,120,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1068000,2009-08-31T00:00:00Z,278.7,278.7,0,120,158.7,120,120,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067999,2009-04-13T00:00:00Z,278.7,278.7,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067997,2006-03-23T00:00:00Z,278.7,278.7,0,80,198.7,80,80,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067998,2006-01-16T00:00:00Z,278.7,278.7,0,77.8,200.9,77.8,77.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067996,2005-03-14T00:00:00Z,278.7,278.7,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067995,2002-10-14T00:00:00Z,278.7,278.7,0,75.7,203,75.7,75.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+34671,364286N1195154W001,1067994,2001-04-11T00:00:00Z,278.7,278.7,0,65.2,213.5,65.2,65.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067993,2000-02-14T00:00:00Z,278.7,278.7,0,53.9,224.8,53.9,53.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067992,1999-12-03T00:00:00Z,278.7,278.7,0,64.5,214.2,64.5,64.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067991,1999-04-19T00:00:00Z,278.7,278.7,0,57.3,221.4,57.3,57.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067990,1998-12-08T00:00:00Z,278.7,278.7,0,62,216.7,62,62,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067989,1998-03-13T00:00:00Z,278.7,278.7,0,60,218.7,60,60,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067988,1997-03-03T00:00:00Z,278.7,278.7,0,61.9,216.8,61.9,61.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067987,1996-11-07T00:00:00Z,278.7,278.7,0,68.8,209.9,68.8,68.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067986,1996-02-28T00:00:00Z,278.7,278.7,0,67.8,210.9,67.8,67.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067985,1995-11-06T00:00:00Z,278.7,278.7,0,70,208.7,70,70,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067984,1995-03-14T00:00:00Z,278.7,278.7,0,69.8,208.9,69.8,69.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067983,1994-09-20T00:00:00Z,278.7,278.7,0,76.2,202.5,76.2,76.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067982,1994-02-10T00:00:00Z,278.7,278.7,0,68,210.7,68,68,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067981,1993-10-14T00:00:00Z,278.7,278.7,0,72.8,205.9,72.8,72.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067980,1993-03-08T00:00:00Z,278.7,278.7,0,72.2,206.5,72.2,72.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067979,1992-11-11T00:00:00Z,278.7,278.7,0,76.4,202.3,76.4,76.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067978,1992-03-09T00:00:00Z,278.7,278.7,0,69,209.7,69,69,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067977,1991-11-13T00:00:00Z,278.7,278.7,0,72.3,206.4,72.3,72.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067976,1991-03-11T00:00:00Z,278.7,278.7,0,65.4,213.3,65.4,65.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067975,1990-11-13T00:00:00Z,278.7,278.7,0,69.8,208.9,69.8,69.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067974,1990-02-27T00:00:00Z,278.7,278.7,0,65.4,213.3,65.4,65.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067973,1989-11-02T00:00:00Z,278.7,278.7,0,62.5,216.2,62.5,62.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067972,1989-02-23T00:00:00Z,278.7,278.7,0,55,223.7,55,55,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067971,1988-10-13T00:00:00Z,278.7,278.7,0,52.5,226.2,52.5,52.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067970,1988-02-02T00:00:00Z,278.7,278.7,0,40.1,238.6,40.1,40.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067969,1987-10-08T00:00:00Z,278.7,278.7,0,43.7,235,43.7,43.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067968,1987-01-30T00:00:00Z,278.7,278.7,0,32.7,246,32.7,32.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067967,1986-10-02T00:00:00Z,278.7,278.7,0,43.3,235.4,43.3,43.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+34671,364286N1195154W001,1067966,1986-01-30T00:00:00Z,278.7,278.7,0,37.1,241.6,37.1,37.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+34671,364286N1195154W001,1067965,1985-09-26T00:00:00Z,278.7,278.7,0,47.8,230.9,47.8,47.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+34671,364286N1195154W001,1067964,1985-02-05T00:00:00Z,278.7,278.7,0,33,245.7,33,33,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+34671,364286N1195154W001,1067963,1984-09-26T00:00:00Z,278.7,278.7,0,44.2,234.5,44.2,44.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+34671,364286N1195154W001,1067962,1984-02-02T00:00:00Z,278.7,278.7,0,31.1,247.6,31.1,31.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+34671,364286N1195154W001,1067961,1983-09-28T00:00:00Z,278.7,278.7,0,40.4,238.3,40.4,40.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+34671,364286N1195154W001,1067960,1983-02-16T00:00:00Z,278.7,278.7,0,44.9,233.8,44.9,44.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067959,1982-09-28T00:00:00Z,278.7,278.7,0,51.6,227.1,51.6,51.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067958,1982-02-02T00:00:00Z,278.7,278.7,0,52.9,225.8,52.9,52.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+34671,364286N1195154W001,1067957,1981-09-29T00:00:00Z,278.7,278.7,0,58.6,220.1,58.6,58.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+34671,364286N1195154W001,1067956,1981-02-02T00:00:00Z,278.7,278.7,0,48.6,230.1,48.6,48.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067955,1980-09-30T00:00:00Z,278.7,278.7,0,53.1,225.6,53.1,53.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067954,1980-02-05T00:00:00Z,278.7,278.7,0,54.8,223.9,54.8,54.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067953,1979-09-26T00:00:00Z,278.7,278.7,0,69,209.7,69,69,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067952,1979-02-05T00:00:00Z,278.7,278.7,0,53,225.7,53,53,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067951,1978-09-28T00:00:00Z,278.7,278.7,0,59.2,219.5,59.2,59.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067950,1978-02-21T00:00:00Z,278.7,278.7,0,59.5,219.2,59.5,59.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067949,1977-09-28T00:00:00Z,278.7,278.7,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067948,1977-02-01T00:00:00Z,278.7,278.7,0,54.1,224.6,54.1,54.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067947,1976-10-05T00:00:00Z,278.7,278.7,0,63.7,215,63.7,63.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067946,1976-02-04T00:00:00Z,278.7,278.7,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067945,1975-09-30T00:00:00Z,278.7,278.7,0,64.1,214.6,64.1,64.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067944,1975-02-04T00:00:00Z,278.7,278.7,0,45,233.7,45,45,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067943,1974-10-03T00:00:00Z,278.7,278.7,0,52.7,226,52.7,52.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067942,1974-03-03T00:00:00Z,278.7,278.7,0,48.7,230,48.7,48.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067941,1973-11-01T00:00:00Z,278.7,278.7,0,53.6,225.1,53.6,53.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067940,1973-03-02T00:00:00Z,278.7,278.7,0,48,230.7,48,48,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067939,1972-10-04T00:00:00Z,278.7,278.7,0,63.2,215.5,63.2,63.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067938,1972-03-01T00:00:00Z,278.7,278.7,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067937,1971-03-02T00:00:00Z,278.7,278.7,0,36.6,242.1,36.6,36.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067936,1970-10-01T00:00:00Z,278.7,278.7,0,44,234.7,44,44,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067935,1970-03-02T00:00:00Z,278.7,278.7,0,29.5,249.2,29.5,29.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067934,1969-03-26T00:00:00Z,278.7,278.7,0,41.5,237.2,41.5,41.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067933,1968-02-27T00:00:00Z,278.7,278.7,0,37.5,241.2,37.5,37.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District
+34671,364286N1195154W001,1067932,1967-02-28T00:00:00Z,278.7,278.7,0,47.4,231.3,47.4,47.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,785,Alta Irrigation District

@@ -1,0 +1,30 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+12153,350694N1191649W001,1251382,1982-12-01T00:00:00Z,532.49,532.49,0,395,137.49,395,395,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5042,Wheeler Ridge-Maricopa Water Storage District
+12153,350694N1191649W001,1251381,1981-12-01T00:00:00Z,532.49,532.49,0,400,132.49,400,400,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5042,Wheeler Ridge-Maricopa Water Storage District
+12153,350694N1191649W001,1251380,1981-09-24T00:00:00Z,532.49,532.49,0,395,137.49,395,395,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12153,350694N1191649W001,1251379,1980-12-01T00:00:00Z,532.49,532.49,0,404,128.49,404,404,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5042,Wheeler Ridge-Maricopa Water Storage District
+12153,350694N1191649W001,1251378,1980-10-08T00:00:00Z,532.49,532.49,0,405,127.49,405,405,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12153,350694N1191649W001,1251377,1980-02-17T00:00:00Z,532.49,532.49,0,409,123.49,409,409,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5042,Wheeler Ridge-Maricopa Water Storage District
+12153,350694N1191649W001,1251376,1979-09-25T00:00:00Z,532.49,532.49,0,400,132.49,400,400,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12153,350694N1191649W001,1251375,1979-03-13T00:00:00Z,532.49,532.49,0,413.5,118.99,413.5,413.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5042,Wheeler Ridge-Maricopa Water Storage District
+12153,350694N1191649W001,1251374,1978-01-10T00:00:00Z,532.49,532.49,0,421,111.49,421,421,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5042,Wheeler Ridge-Maricopa Water Storage District
+12153,350694N1191649W001,1251373,1969-09-16T00:00:00Z,532.49,532.49,0,484,48.49,484,484,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+12153,350694N1191649W001,1251372,1969-01-23T00:00:00Z,532.49,532.49,0,488,44.49,488,488,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+12153,350694N1191649W001,1251371,1968-09-16T00:00:00Z,532.49,532.49,0,490,42.49,490,490,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+12153,350694N1191649W001,1251370,1968-01-22T00:00:00Z,532.49,532.49,0,489,43.49,489,489,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+12153,350694N1191649W001,1251369,1960-07-25T00:00:00Z,532.49,532.49,0,485,47.49,485,485,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+12153,350694N1191649W001,1251368,1959-09-04T00:00:00Z,532.49,532.49,0,469,63.49,469,469,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+12153,350694N1191649W001,1251367,1959-02-12T00:00:00Z,532.49,532.49,0,474,58.49,474,474,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+12153,350694N1191649W001,1251366,1959-01-26T00:00:00Z,532.49,532.49,0,445,87.49,445,445,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+12153,350694N1191649W001,1251365,1958-12-04T00:00:00Z,532.49,532.49,0,433.9,98.59,433.9,433.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+12153,350694N1191649W001,1251364,1958-10-16T00:00:00Z,532.49,532.49,0,437,95.49,437,437,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+12153,350694N1191649W001,1251363,1958-08-28T00:00:00Z,532.49,532.49,0,460.5,71.99,460.5,460.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+12153,350694N1191649W001,1251362,1958-01-24T00:00:00Z,532.49,532.49,0,459.7,72.79,459.7,459.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+12153,350694N1191649W001,1251361,1958-01-14T00:00:00Z,532.49,532.49,0,451,81.49,451,451,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+12153,350694N1191649W001,1251360,1957-12-02T00:00:00Z,532.49,532.49,0,421.7,110.79,421.7,421.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+12153,350694N1191649W001,1251359,1957-02-13T00:00:00Z,532.49,532.49,0,430,102.49,430,430,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+12153,350694N1191649W001,1251358,1955-02-04T00:00:00Z,532.49,532.49,0,367,165.49,367,367,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+12153,350694N1191649W001,1251357,1954-10-04T00:00:00Z,532.49,532.49,0,364,168.49,364,364,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+12153,350694N1191649W001,1251356,1954-05-17T00:00:00Z,532.49,532.49,0,378,154.49,378,378,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+12153,350694N1191649W001,1251355,1953-12-07T00:00:00Z,532.49,532.49,0,349.4,183.09,349.4,349.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+12153,350694N1191649W001,1251354,1952-01-23T00:00:00Z,532.49,532.49,0,276,256.49,276,276,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY

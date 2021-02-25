@@ -1,0 +1,4 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+18212,370043N1202396W001,1989044,2014-02-14T12:00:00Z,208.23,207.23,0,203.4,4.83,203.4,202.4,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,624,Bureau of Reclamation
+18212,370043N1202396W001,1989466,2013-03-11T13:00:00Z,208.23,207.23,0,196.8,11.43,196.8,195.8,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,pump removed,624,Bureau of Reclamation
+18212,370043N1202396W001,1989829,2012-02-09T13:00:00Z,208.23,207.23,0,194.3,13.93,194.3,193.3,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,624,Bureau of Reclamation

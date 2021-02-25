@@ -1,0 +1,87 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+22127,354641N1192002W001,1989443,2014-02-14T17:30:00Z,353.71,352.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22127,354641N1192002W001,1989708,2012-02-08T12:00:00Z,353.71,352.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22127,354641N1192002W001,730147,2010-10-27T00:00:00Z,353.71,352.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,N/A,1,Department of Water Resources
+22127,354641N1192002W001,730146,2010-01-13T00:00:00Z,353.71,352.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22127,354641N1192002W001,730144,2008-10-09T00:00:00Z,353.71,352.71,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22127,354641N1192002W001,730145,2007-10-17T00:00:00Z,353.71,352.71,0,199,154.71,199,198,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+22127,354641N1192002W001,730143,2006-01-27T00:00:00Z,353.71,352.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22127,354641N1192002W001,730142,2004-10-26T00:00:00Z,353.71,352.71,0,227,126.71,227,226,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+22127,354641N1192002W001,730141,2003-10-29T00:00:00Z,353.71,352.71,0,222,131.71,222,221,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+22127,354641N1192002W001,730140,2001-10-03T00:00:00Z,353.71,352.71,0,192,161.71,192,191,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+22127,354641N1192002W001,730139,1999-10-06T00:00:00Z,353.71,352.71,0,173,180.71,173,172,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+22127,354641N1192002W001,730138,1994-01-26T00:00:00Z,353.71,352.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22127,354641N1192002W001,730137,1993-10-07T00:00:00Z,353.71,352.71,0,228,125.71,228,227,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22127,354641N1192002W001,730136,1993-10-06T00:00:00Z,353.71,352.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22127,354641N1192002W001,730135,1993-01-27T00:00:00Z,353.71,352.71,0,222,131.71,222,221,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22127,354641N1192002W001,730134,1992-10-08T00:00:00Z,353.71,352.71,0,225,128.71,225,224,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22127,354641N1192002W001,730133,1992-10-07T00:00:00Z,353.71,352.71,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22127,354641N1192002W001,730132,1992-01-29T00:00:00Z,353.71,352.71,0,214,139.71,214,213,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22127,354641N1192002W001,730131,1991-10-03T00:00:00Z,353.71,352.71,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22127,354641N1192002W001,730130,1991-10-02T00:00:00Z,353.71,352.71,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22127,354641N1192002W001,730129,1991-01-30T00:00:00Z,353.71,352.71,0,205,148.71,205,204,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22127,354641N1192002W001,730128,1990-10-05T00:00:00Z,353.71,352.71,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22127,354641N1192002W001,730127,1990-10-03T00:00:00Z,353.71,352.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22127,354641N1192002W001,730126,1990-01-25T00:00:00Z,353.71,352.71,0,187,166.71,187,186,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22127,354641N1192002W001,730125,1990-01-24T00:00:00Z,353.71,352.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22127,354641N1192002W001,730124,1989-10-04T00:00:00Z,353.71,352.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22127,354641N1192002W001,730123,1989-01-26T00:00:00Z,353.71,352.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22127,354641N1192002W001,730122,1989-01-25T00:00:00Z,353.71,352.71,0,180,173.71,180,179,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22127,354641N1192002W001,730121,1988-10-06T00:00:00Z,353.71,352.71,0,201,152.71,201,200,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22127,354641N1192002W001,730120,1988-02-03T00:00:00Z,353.71,352.71,0,170,183.71,170,169,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22127,354641N1192002W001,730119,1988-01-28T00:00:00Z,353.71,352.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22127,354641N1192002W001,730118,1987-10-08T00:00:00Z,353.71,352.71,0,174,179.71,174,173,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22127,354641N1192002W001,730117,1987-01-30T00:00:00Z,353.71,352.71,0,162,191.71,162,161,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22127,354641N1192002W001,730116,1986-10-03T00:00:00Z,353.71,352.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22127,354641N1192002W001,730115,1986-09-30T00:00:00Z,353.71,352.71,0,170,183.71,170,169,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22127,354641N1192002W001,730114,1986-02-03T00:00:00Z,353.71,352.71,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22127,354641N1192002W001,730113,1986-01-29T00:00:00Z,353.71,352.71,0,172,181.71,172,171,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22127,354641N1192002W001,730112,1985-10-04T00:00:00Z,353.71,352.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22127,354641N1192002W001,730111,1985-10-01T00:00:00Z,353.71,352.71,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22127,354641N1192002W001,730110,1985-02-14T00:00:00Z,353.71,352.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22127,354641N1192002W001,730109,1985-01-29T00:00:00Z,353.71,352.71,0,211,142.71,211,210,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22127,354641N1192002W001,730108,1984-10-11T00:00:00Z,353.71,352.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22127,354641N1192002W001,730107,1984-10-04T00:00:00Z,353.71,352.71,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22127,354641N1192002W001,730106,1984-03-08T00:00:00Z,353.71,352.71,0,159,194.71,159,158,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22127,354641N1192002W001,730105,1984-01-31T00:00:00Z,353.71,352.71,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22127,354641N1192002W001,730104,1983-10-30T00:00:00Z,353.71,352.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22127,354641N1192002W001,730103,1983-09-27T00:00:00Z,353.71,352.71,0,199,154.71,199,198,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22127,354641N1192002W001,730102,1983-01-31T00:00:00Z,353.71,352.71,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,1070,TENNECO-WEST
+22127,354641N1192002W001,730101,1983-01-27T00:00:00Z,353.71,352.71,0,195,158.71,195,194,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22127,354641N1192002W001,730100,1982-09-29T00:00:00Z,353.71,352.71,0,198,155.71,198,197,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22127,354641N1192002W001,730099,1982-08-16T00:00:00Z,353.71,352.71,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,1070,TENNECO-WEST
+22127,354641N1192002W001,730098,1982-02-11T00:00:00Z,353.71,352.71,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22127,354641N1192002W001,730097,1982-01-28T00:00:00Z,353.71,352.71,0,195,158.71,195,194,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22127,354641N1192002W001,730096,1981-09-24T00:00:00Z,353.71,352.71,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22127,354641N1192002W001,730095,1981-08-20T00:00:00Z,353.71,352.71,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22127,354641N1192002W001,730094,1981-02-10T00:00:00Z,353.71,352.71,0,172,181.71,172,171,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1070,TENNECO-WEST
+22127,354641N1192002W001,730093,1981-01-29T00:00:00Z,353.71,352.71,0,226,127.71,226,225,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22127,354641N1192002W001,730092,1980-09-25T00:00:00Z,353.71,352.71,0,218,135.71,218,217,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22127,354641N1192002W001,730091,1980-08-12T00:00:00Z,353.71,352.71,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1070,TENNECO-WEST
+22127,354641N1192002W001,730090,1980-01-24T00:00:00Z,353.71,352.71,0,222,131.71,222,221,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22127,354641N1192002W001,730089,1979-09-27T00:00:00Z,353.71,352.71,0,213,140.71,213,212,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22127,354641N1192002W001,730088,1979-08-21T00:00:00Z,353.71,352.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1070,TENNECO-WEST
+22127,354641N1192002W001,730087,1979-01-24T00:00:00Z,353.71,352.71,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22127,354641N1192002W001,730086,1978-10-05T00:00:00Z,353.71,352.71,0,232,121.71,232,231,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22127,354641N1192002W001,730085,1978-01-27T00:00:00Z,353.71,352.71,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22127,354641N1192002W001,730084,1977-10-11T00:00:00Z,353.71,352.71,0,228,125.71,228,227,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22127,354641N1192002W001,730083,1977-01-27T00:00:00Z,353.71,352.71,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22127,354641N1192002W001,730082,1976-10-06T00:00:00Z,353.71,352.71,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22127,354641N1192002W001,730081,1976-01-28T00:00:00Z,353.71,352.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22127,354641N1192002W001,730080,1975-09-26T00:00:00Z,353.71,352.71,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22127,354641N1192002W001,730079,1975-02-04T00:00:00Z,353.71,352.71,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22127,354641N1192002W001,730078,1974-09-26T00:00:00Z,353.71,352.71,0,202.5,151.21,202.5,201.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22127,354641N1192002W001,730077,1974-09-23T00:00:00Z,353.71,352.71,0,188,165.71,188,187,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+22127,354641N1192002W001,730076,1974-02-05T00:00:00Z,353.71,352.71,0,190,163.71,190,189,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22127,354641N1192002W001,730075,1974-01-29T00:00:00Z,353.71,352.71,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22127,354641N1192002W001,730074,1973-09-27T00:00:00Z,353.71,352.71,0,205,148.71,205,204,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22127,354641N1192002W001,730073,1973-02-06T00:00:00Z,353.71,352.71,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22127,354641N1192002W001,730072,1973-01-30T00:00:00Z,353.71,352.71,0,177.6,176.11,177.6,176.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22127,354641N1192002W001,730071,1972-10-03T00:00:00Z,353.71,352.71,0,199.5,154.21,199.5,198.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22127,354641N1192002W001,730070,1972-09-28T00:00:00Z,353.71,352.71,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22127,354641N1192002W001,730069,1972-01-27T00:00:00Z,353.71,352.71,0,209,144.71,209,208,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22127,354641N1192002W001,730068,1972-01-26T00:00:00Z,353.71,352.71,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22127,354641N1192002W001,730067,1971-09-23T00:00:00Z,353.71,352.71,0,177,176.71,177,176,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22127,354641N1192002W001,730066,1971-09-22T00:00:00Z,353.71,352.71,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22127,354641N1192002W001,730065,1970-09-30T00:00:00Z,353.71,352.71,0,159,194.71,159,158,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22127,354641N1192002W001,730064,1970-09-24T00:00:00Z,353.71,352.71,0,161.1,192.61,161.1,160.1,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY

@@ -1,0 +1,247 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+19698,356569N1193505W001,2581816,2020-03-13T18:36:00Z,299.3,298.1,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,Noise nearby,1,Department of Water Resources
+19698,356569N1193505W001,2526334,2019-10-10T19:59:00Z,299.3,298.1,0,324.6,-25.3,324.6,323.4,Acoustical sounder,Acoustic or sonic sounder,Water level accuracy to nearest foot,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,2454324,2019-03-11T21:18:00Z,299.3,298.1,0,317.3,-18,317.3,316.1,Casing leaking or wet,Acoustic or sonic sounder,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NM7 noise,1,Department of Water Resources
+19698,356569N1193505W001,2430991,2018-10-03T19:10:00Z,299.3,298.1,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NM7 noise,1,Department of Water Resources
+19698,356569N1193505W001,2287227,2018-03-06T21:31:00Z,299.3,298.1,0,317,-17.7,317,315.8,Acoustical sounder,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,Moved dot,1,Department of Water Resources
+19698,356569N1193505W001,2275306,2017-10-23T18:54:00Z,299.3,298.1,0,332,-32.7,332,330.8,Other,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,Questionable,1,Department of Water Resources
+19698,356569N1193505W001,2240834,2017-03-17T12:00:00Z,299.3,298.1,0,334,-34.7,334,332.8,Acoustical sounder,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,2187823,2016-03-09T12:00:00Z,299.3,298.1,0,372,-72.7,372,370.8,Nearby pump operating,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,2170128,2015-10-07T00:00:00Z,299.3,298.1,0,408,-108.7,408,406.8,Acoustical sounder,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,2136025,2015-03-05T13:45:00Z,299.3,298.1,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,2108137,2014-10-06T00:00:00Z,299.3,298.1,0,390,-90.7,390,388.8,Acoustical sounder,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,1882196,2014-01-21T12:00:00Z,299.3,298.1,0,332,-32.7,332,330.8,Acoustical sounder,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,1811875,2013-10-28T12:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,1723781,2013-02-19T12:00:00Z,299.3,298.1,0,286,13.3,286,284.8,Acoustical sounder,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,1821328,2012-10-11T12:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,66994,2012-01-20T12:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877328,2011-10-18T00:00:00Z,299.3,298.1,0,261,38.3,261,259.8,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877327,2011-01-11T00:00:00Z,299.3,298.1,0,269,30.3,269,267.8,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877326,2010-10-26T00:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877325,2010-01-12T00:00:00Z,299.3,298.1,0,299,0.3,299,297.8,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877324,2009-10-29T00:00:00Z,299.3,298.1,0,341,-41.7,341,339.8,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877321,2009-01-20T00:00:00Z,299.3,298.1,0,283,16.3,283,281.8,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877320,2008-10-08T00:00:00Z,299.3,298.1,0,347,-47.7,347,345.8,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877319,2008-02-01T00:00:00Z,299.3,298.1,0,278,21.3,278,276.8,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877323,2007-10-19T00:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877318,2007-01-11T00:00:00Z,299.3,298.1,0,196,103.3,196,194.8,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877322,2006-10-19T00:00:00Z,299.3,298.1,0,213,86.3,213,211.8,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877317,2006-01-12T00:00:00Z,299.3,298.1,0,208,91.3,208,206.8,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877316,2005-10-21T00:00:00Z,299.3,298.1,0,234,65.3,234,232.8,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877315,2005-01-24T00:00:00Z,299.3,298.1,0,259,40.3,259,257.8,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877314,2004-10-18T00:00:00Z,299.3,298.1,0,307,-7.7,307,305.8,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877313,2004-01-26T00:00:00Z,299.3,298.1,0,229,70.3,229,227.8,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877312,2003-10-27T00:00:00Z,299.3,298.1,0,242,57.3,242,240.8,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877311,2002-11-15T00:00:00Z,299.3,298.1,0,253,46.3,253,251.8,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877309,2002-01-07T00:00:00Z,299.3,298.1,0,236,63.3,236,234.8,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,2C23-1,1,Department of Water Resources
+19698,356569N1193505W001,877308,2001-10-01T00:00:00Z,299.3,298.1,0,299,0.3,299,297.8,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877310,2001-01-22T00:00:00Z,299.3,298.1,0,203,96.3,203,201.8,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877307,2000-01-03T00:00:00Z,299.3,298.1,0,197,102.3,197,195.8,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877306,1999-10-04T00:00:00Z,299.3,298.1,0,230.2,69.1,230.2,229,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877305,1999-01-04T00:00:00Z,299.3,298.1,0,198.2,101.1,198.2,197,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877304,1998-10-05T00:00:00Z,299.3,298.1,0,237.2,62.1,237.2,236,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877303,1998-01-05T00:00:00Z,299.3,298.1,0,211.2,88.1,211.2,210,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877302,1997-10-06T00:00:00Z,299.3,298.1,0,252.2,47.1,252.2,251,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1070,TENNECO-WEST
+19698,356569N1193505W001,877301,1997-01-06T00:00:00Z,299.3,298.1,0,213.2,86.1,213.2,212,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1070,TENNECO-WEST
+19698,356569N1193505W001,877300,1996-10-07T00:00:00Z,299.3,298.1,0,259.2,40.1,259.2,258,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1070,TENNECO-WEST
+19698,356569N1193505W001,877299,1996-01-08T00:00:00Z,299.3,298.1,0,226.2,73.1,226.2,225,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1070,TENNECO-WEST
+19698,356569N1193505W001,877298,1995-10-02T00:00:00Z,299.3,298.1,0,270.2,29.1,270.2,269,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1070,TENNECO-WEST
+19698,356569N1193505W001,877297,1995-01-23T00:00:00Z,299.3,298.1,0,254.2,45.1,254.2,253,Casing leaking or wet,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1070,TENNECO-WEST
+19698,356569N1193505W001,877296,1994-01-24T00:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877295,1993-10-04T00:00:00Z,299.3,298.1,0,262.2,37.1,262.2,261,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877294,1993-01-25T00:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877293,1992-10-05T00:00:00Z,299.3,298.1,0,324.2,-24.9,324.2,323,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877292,1992-01-27T00:00:00Z,299.3,298.1,0,245.2,54.1,245.2,244,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877291,1991-09-30T00:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877290,1991-01-28T00:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877289,1990-10-01T00:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877288,1990-01-22T00:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877287,1989-10-02T00:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877286,1989-01-23T00:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877285,1988-10-03T00:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877284,1988-01-25T00:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877283,1987-10-05T00:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877282,1987-01-26T00:00:00Z,299.3,298.1,0,160.2,139.1,160.2,159,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877281,1986-09-29T00:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19698,356569N1193505W001,877280,1986-01-31T00:00:00Z,299.3,298.1,0,175.4,123.9,175.4,174.2,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19698,356569N1193505W001,877279,1985-09-30T00:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19698,356569N1193505W001,877278,1985-02-13T00:00:00Z,299.3,298.1,0,189.2,110.1,189.2,188,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19698,356569N1193505W001,877277,1984-10-10T00:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19698,356569N1193505W001,877276,1984-03-06T00:00:00Z,299.3,298.1,0,238.2,61.1,238.2,237,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19698,356569N1193505W001,877275,1983-10-30T00:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19698,356569N1193505W001,877274,1983-01-15T00:00:00Z,299.3,298.1,0,196,103.3,196,194.8,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1070,TENNECO-WEST
+19698,356569N1193505W001,877273,1982-08-10T00:00:00Z,299.3,298.1,0,312,-12.7,312,310.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1070,TENNECO-WEST
+19698,356569N1193505W001,877272,1982-01-27T00:00:00Z,299.3,298.1,0,214.2,85.1,214.2,213,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19698,356569N1193505W001,877271,1981-08-14T00:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19698,356569N1193505W001,877270,1981-01-19T00:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1070,TENNECO-WEST
+19698,356569N1193505W001,877269,1980-08-05T00:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1070,TENNECO-WEST
+19698,356569N1193505W001,877268,1980-01-03T00:00:00Z,299.3,298.1,0,216,83.3,216,214.8,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1070,TENNECO-WEST
+19698,356569N1193505W001,877267,1979-08-20T00:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1070,TENNECO-WEST
+19698,356569N1193505W001,877266,1979-01-22T00:00:00Z,299.3,298.1,0,213,86.3,213,211.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877265,1978-10-02T00:00:00Z,299.3,298.1,0,266.2,33.1,266.2,265,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877264,1978-01-25T00:00:00Z,299.3,298.1,0,252,47.3,252,250.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877263,1977-10-04T00:00:00Z,299.3,298.1,0,268.2,31.1,268.2,267,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877262,1977-01-25T00:00:00Z,299.3,298.1,0,246.2,53.1,246.2,245,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877261,1976-10-06T00:00:00Z,299.3,298.1,0,310,-10.7,310,308.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877260,1976-01-26T00:00:00Z,299.3,298.1,0,276.2,23.1,276.2,275,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877259,1975-09-22T00:00:00Z,299.3,298.1,0,327,-27.7,327,325.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877258,1975-01-30T00:00:00Z,299.3,298.1,0,250.2,49.1,250.2,249,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877257,1974-09-27T00:00:00Z,299.3,298.1,0,323.2,-23.9,323.2,322,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877256,1973-01-29T00:00:00Z,299.3,298.1,0,207,92.3,207,205.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877255,1972-09-25T00:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877254,1972-01-23T00:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877253,1971-09-24T00:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877252,1971-02-05T00:00:00Z,299.3,298.1,0,187.2,112.1,187.2,186,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+19698,356569N1193505W001,877251,1970-09-29T00:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877250,1969-09-24T00:00:00Z,299.3,298.1,0,280,19.3,280,278.8,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877249,1969-01-30T00:00:00Z,299.3,298.1,0,185,114.3,185,183.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877248,1968-09-10T00:00:00Z,299.3,298.1,0,311,-11.7,311,309.8,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877247,1968-02-02T00:00:00Z,299.3,298.1,0,195,104.3,195,193.8,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877246,1967-02-21T00:00:00Z,299.3,298.1,0,192,107.3,192,190.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877245,1966-02-16T00:00:00Z,299.3,298.1,0,161,138.3,161,159.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877244,1966-02-02T00:00:00Z,299.3,298.1,0,162,137.3,162,160.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877243,1964-06-16T00:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877242,1964-04-22T00:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877241,1964-02-04T00:00:00Z,299.3,298.1,0,173,126.3,173,171.8,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877240,1964-02-01T00:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877239,1964-01-17T00:00:00Z,299.3,298.1,0,167,132.3,167,165.8,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877238,1964-01-03T00:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877237,1963-09-05T00:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877236,1963-08-20T00:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877235,1963-08-02T00:00:00Z,299.3,298.1,0,295,4.3,295,293.8,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877234,1963-07-16T00:00:00Z,299.3,298.1,0,275,24.3,275,273.8,Pumped recently,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877233,1963-07-02T00:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877232,1963-06-18T00:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877231,1963-03-04T00:00:00Z,299.3,298.1,0,191,108.3,191,189.8,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877230,1963-02-18T00:00:00Z,299.3,298.1,0,165,134.3,165,163.8,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877229,1963-02-06T00:00:00Z,299.3,298.1,0,172,127.3,172,170.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877228,1963-01-16T00:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877227,1963-01-03T00:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877226,1962-10-15T00:00:00Z,299.3,298.1,0,203,96.3,203,201.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877225,1962-09-12T00:00:00Z,299.3,298.1,0,281,18.3,281,279.8,Pumping,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877224,1962-08-30T00:00:00Z,299.3,298.1,0,304,-4.7,304,302.8,Pumping,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877223,1962-08-13T00:00:00Z,299.3,298.1,0,295,4.3,295,293.8,Pumping,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877222,1962-07-17T00:00:00Z,299.3,298.1,0,295,4.3,295,293.8,Pumping,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877221,1962-07-05T00:00:00Z,299.3,298.1,0,287,12.3,287,285.8,Pumping,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877220,1962-06-18T00:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877219,1962-05-16T00:00:00Z,299.3,298.1,0,195,104.3,195,193.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877218,1962-05-03T00:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877217,1962-04-17T00:00:00Z,299.3,298.1,0,206,93.3,206,204.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877216,1962-03-06T00:00:00Z,299.3,298.1,0,144,155.3,144,142.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877215,1962-02-23T00:00:00Z,299.3,298.1,0,146,153.3,146,144.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877214,1962-02-05T00:00:00Z,299.3,298.1,0,153,146.3,153,151.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877213,1962-01-19T00:00:00Z,299.3,298.1,0,165,134.3,165,163.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877212,1962-01-10T00:00:00Z,299.3,298.1,0,158,141.3,158,156.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877211,1961-12-19T00:00:00Z,299.3,298.1,0,167,132.3,167,165.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877210,1961-11-21T00:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877209,1961-10-18T00:00:00Z,299.3,298.1,0,215,84.3,215,213.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877208,1961-09-06T00:00:00Z,299.3,298.1,0,280,19.3,280,278.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877207,1961-03-03T00:00:00Z,299.3,298.1,0,195,104.3,195,193.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877206,1961-02-21T00:00:00Z,299.3,298.1,0,157,142.3,157,155.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877205,1961-02-06T00:00:00Z,299.3,298.1,0,145,154.3,145,143.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877204,1961-01-16T00:00:00Z,299.3,298.1,0,152,147.3,152,150.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877203,1961-01-04T00:00:00Z,299.3,298.1,0,150,149.3,150,148.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877202,1960-12-19T00:00:00Z,299.3,298.1,0,157,142.3,157,155.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877201,1960-09-06T00:00:00Z,299.3,298.1,0,272,27.3,272,270.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877200,1960-08-16T00:00:00Z,299.3,298.1,0,292,7.3,292,290.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877199,1960-08-03T00:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877198,1960-07-18T00:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877197,1960-07-05T00:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877196,1960-06-23T00:00:00Z,299.3,298.1,0,258,41.3,258,256.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877195,1960-03-14T00:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877194,1960-02-17T00:00:00Z,299.3,298.1,0,144,155.3,144,142.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877193,1960-02-05T00:00:00Z,299.3,298.1,0,150,149.3,150,148.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877192,1960-01-18T00:00:00Z,299.3,298.1,0,164,135.3,164,162.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877191,1960-01-06T00:00:00Z,299.3,298.1,0,164,135.3,164,162.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877190,1959-12-14T00:00:00Z,299.3,298.1,0,170,129.3,170,168.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877189,1959-09-08T00:00:00Z,299.3,298.1,0,239,60.3,239,237.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877188,1959-07-02T00:00:00Z,299.3,298.1,0,222,77.3,222,220.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877187,1959-06-16T00:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877186,1959-04-22T00:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877185,1959-03-03T00:00:00Z,299.3,298.1,0,165,134.3,165,163.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877184,1959-02-17T00:00:00Z,299.3,298.1,0,143,156.3,143,141.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877183,1959-02-04T00:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877182,1959-01-20T00:00:00Z,299.3,298.1,0,135,164.3,135,133.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877181,1959-01-12T00:00:00Z,299.3,298.1,0,138,161.3,138,136.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877180,1958-12-15T00:00:00Z,299.3,298.1,0,140,159.3,140,138.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877179,1958-09-03T00:00:00Z,299.3,298.1,0,225,74.3,225,223.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877178,1958-08-19T00:00:00Z,299.3,298.1,0,225,74.3,225,223.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877177,1958-08-12T00:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877176,1958-07-17T00:00:00Z,299.3,298.1,0,235,64.3,235,233.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877175,1958-03-04T00:00:00Z,299.3,298.1,0,130,169.3,130,128.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877174,1958-02-18T00:00:00Z,299.3,298.1,0,131.2,168.1,131.2,130,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877173,1958-02-05T00:00:00Z,299.3,298.1,0,133,166.3,133,131.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877172,1958-01-16T00:00:00Z,299.3,298.1,0,139,160.3,139,137.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877171,1957-12-12T00:00:00Z,299.3,298.1,0,146.5,152.8,146.5,145.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877170,1957-09-19T00:00:00Z,299.3,298.1,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877169,1957-06-20T00:00:00Z,299.3,298.1,0,250,49.3,250,248.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877168,1957-05-21T00:00:00Z,299.3,298.1,0,205,94.3,205,203.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877167,1957-04-18T00:00:00Z,299.3,298.1,0,196.5,102.8,196.5,195.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877166,1957-03-20T00:00:00Z,299.3,298.1,0,205,94.3,205,203.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877165,1957-02-11T00:00:00Z,299.3,298.1,0,129,170.3,129,127.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877164,1956-11-20T00:00:00Z,299.3,298.1,0,150,149.3,150,148.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877163,1956-10-18T00:00:00Z,299.3,298.1,0,175,124.3,175,173.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877162,1956-03-06T00:00:00Z,299.3,298.1,0,156.5,142.8,156.5,155.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877161,1956-02-21T00:00:00Z,299.3,298.1,0,137.5,161.8,137.5,136.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877160,1956-02-08T00:00:00Z,299.3,298.1,0,127.6,171.7,127.6,126.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877159,1955-12-06T00:00:00Z,299.3,298.1,0,145,154.3,145,143.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877158,1955-11-07T00:00:00Z,299.3,298.1,0,162,137.3,162,160.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877157,1955-10-05T00:00:00Z,299.3,298.1,0,193,106.3,193,191.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877156,1955-09-20T00:00:00Z,299.3,298.1,0,216,83.3,216,214.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877155,1955-07-06T00:00:00Z,299.3,298.1,0,218,81.3,218,216.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877154,1955-03-03T00:00:00Z,299.3,298.1,0,129,170.3,129,127.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877153,1955-02-04T00:00:00Z,299.3,298.1,0,117,182.3,117,115.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877152,1954-12-17T00:00:00Z,299.3,298.1,0,130,169.3,130,128.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877151,1954-11-09T00:00:00Z,299.3,298.1,0,161,138.3,161,159.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877150,1954-10-06T00:00:00Z,299.3,298.1,0,229,70.3,229,227.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877149,1954-06-09T00:00:00Z,299.3,298.1,0,193.2,106.1,193.2,192,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877148,1954-02-17T00:00:00Z,299.3,298.1,0,110.5,188.8,110.5,109.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877147,1953-12-09T00:00:00Z,299.3,298.1,0,121.5,177.8,121.5,120.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877146,1953-11-05T00:00:00Z,299.3,298.1,0,142,157.3,142,140.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877145,1953-10-20T00:00:00Z,299.3,298.1,0,152,147.3,152,150.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877144,1953-09-22T00:00:00Z,299.3,298.1,0,205.5,93.8,205.5,204.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877143,1953-07-02T00:00:00Z,299.3,298.1,0,198.5,100.8,198.5,197.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877142,1953-04-20T00:00:00Z,299.3,298.1,0,169.5,129.8,169.5,168.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877141,1953-03-05T00:00:00Z,299.3,298.1,0,118.2,181.1,118.2,117,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877140,1953-02-06T00:00:00Z,299.3,298.1,0,103.8,195.5,103.8,102.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877139,1952-12-12T00:00:00Z,299.3,298.1,0,115.5,183.8,115.5,114.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877138,1952-11-12T00:00:00Z,299.3,298.1,0,132.5,166.8,132.5,131.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877137,1952-10-22T00:00:00Z,299.3,298.1,0,146,153.3,146,144.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877136,1952-09-18T00:00:00Z,299.3,298.1,0,194,105.3,194,192.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877135,1952-06-05T00:00:00Z,299.3,298.1,0,155.5,143.8,155.5,154.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877134,1952-02-26T00:00:00Z,299.3,298.1,0,103.1,196.2,103.1,101.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877133,1951-12-26T00:00:00Z,299.3,298.1,0,115,184.3,115,113.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877132,1951-11-14T00:00:00Z,299.3,298.1,0,129.5,169.8,129.5,128.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877131,1951-10-25T00:00:00Z,299.3,298.1,0,139.5,159.8,139.5,138.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877130,1951-09-23T00:00:00Z,299.3,298.1,0,167.5,131.8,167.5,166.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877129,1951-05-16T00:00:00Z,299.3,298.1,0,130.5,168.8,130.5,129.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877128,1951-02-03T00:00:00Z,299.3,298.1,0,99.1,200.2,99.1,97.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877127,1950-12-18T00:00:00Z,299.3,298.1,0,108.5,190.8,108.5,107.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877126,1950-11-28T00:00:00Z,299.3,298.1,0,117.3,182,117.3,116.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877125,1950-10-26T00:00:00Z,299.3,298.1,0,128.5,170.8,128.5,127.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877124,1950-09-12T00:00:00Z,299.3,298.1,0,172.5,126.8,172.5,171.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877123,1950-04-24T00:00:00Z,299.3,298.1,0,132.5,166.8,132.5,131.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877122,1950-02-17T00:00:00Z,299.3,298.1,0,90.5,208.8,90.5,89.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877121,1949-12-16T00:00:00Z,299.3,298.1,0,104.5,194.8,104.5,103.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877120,1949-11-16T00:00:00Z,299.3,298.1,0,109,190.3,109,107.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877119,1949-10-19T00:00:00Z,299.3,298.1,0,117,182.3,117,115.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877118,1949-02-14T00:00:00Z,299.3,298.1,0,87.1,212.2,87.1,85.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877117,1948-12-02T00:00:00Z,299.3,298.1,0,123,176.3,123,121.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877116,1948-02-05T00:00:00Z,299.3,298.1,0,80,219.3,80,78.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877115,1947-12-01T00:00:00Z,299.3,298.1,0,85.5,213.8,85.5,84.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877114,1947-02-14T00:00:00Z,299.3,298.1,0,65.7,233.6,65.7,64.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877113,1946-11-26T00:00:00Z,299.3,298.1,0,84,215.3,84,82.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877112,1946-01-25T00:00:00Z,299.3,298.1,0,67.5,231.8,67.5,66.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877111,1945-11-27T00:00:00Z,299.3,298.1,0,62.5,236.8,62.5,61.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877110,1944-10-14T00:00:00Z,299.3,298.1,0,88.5,210.8,88.5,87.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877109,1943-12-07T00:00:00Z,299.3,298.1,0,68,231.3,68,66.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877108,1943-11-11T00:00:00Z,299.3,298.1,0,73,226.3,73,71.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877107,1943-03-03T00:00:00Z,299.3,298.1,0,55,244.3,55,53.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877106,1943-02-03T00:00:00Z,299.3,298.1,0,57.2,242.1,57.2,56,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877105,1943-01-06T00:00:00Z,299.3,298.1,0,60.6,238.7,60.6,59.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877104,1942-12-04T00:00:00Z,299.3,298.1,0,66.5,232.8,66.5,65.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877103,1942-11-27T00:00:00Z,299.3,298.1,0,67.5,231.8,67.5,66.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877102,1942-11-05T00:00:00Z,299.3,298.1,0,74.5,224.8,74.5,73.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877101,1942-10-01T00:00:00Z,299.3,298.1,0,86.5,212.8,86.5,85.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877100,1942-09-03T00:00:00Z,299.3,298.1,0,101.5,197.8,101.5,100.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+19698,356569N1193505W001,877099,1942-02-26T00:00:00Z,299.3,298.1,0,53.9,245.4,53.9,52.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY

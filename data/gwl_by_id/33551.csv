@@ -1,0 +1,11 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+33551,366192N1203271W001,2461481,2019-03-21T09:00:00Z,173.56,172.56,7,32,148.56,25,24,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,624,Bureau of Reclamation
+33551,366192N1203271W001,2431832,2018-10-15T14:10:00Z,173.56,172.56,0,38,135.56,38,37,Casing leaking or wet,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,624,Bureau of Reclamation
+33551,366192N1203271W001,2290180,2018-03-12T12:00:00Z,173.56,172.56,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,"No pump, dry Abandon Well, possibly caved in or obs.",624,Bureau of Reclamation
+33551,366192N1203271W001,2281375,2017-10-19T14:15:00Z,173.56,172.56,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+33551,366192N1203271W001,2256568,2017-03-09T07:00:00Z,173.56,172.56,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+33551,366192N1203271W001,2233805,2016-10-12T07:00:00Z,173.56,172.56,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+33551,366192N1203271W001,2197868,2016-03-15T08:20:00Z,173.56,172.56,0,75,98.56,75,74,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,624,Bureau of Reclamation
+33551,366192N1203271W001,2176225,2015-10-13T09:15:00Z,173.56,172.56,0,76,97.56,76,75,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,Dry?,624,Bureau of Reclamation
+33551,366192N1203271W001,2142969,2015-03-10T13:00:00Z,173.56,172.56,NA,NA,NA,NA,NA,Dry well,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+33551,366192N1203271W001,1989299,2014-02-14T07:15:00Z,173.56,172.56,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation

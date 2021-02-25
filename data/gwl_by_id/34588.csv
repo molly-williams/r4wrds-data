@@ -1,0 +1,109 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+34588,355325N1194927W001,2581627,2020-03-09T20:56:00Z,251.48,251.48,0,300.7,-49.22,300.7,300.7,Acoustical sounder,Acoustic or sonic sounder,Water level accuracy to nearest foot,1,Department of Water Resources,NA,1,Department of Water Resources
+34588,355325N1194927W001,2507343,2019-11-18T19:55:00Z,251.48,251.48,0,289.3,-37.82,289.3,289.3,NA,Electric sounder measurement,Water level accuracy to nearest foot,1,Department of Water Resources,NA,1,Department of Water Resources
+34588,355325N1194927W001,2454550,2019-03-14T16:47:00Z,251.48,251.48,0,293.4,-41.92,293.4,293.4,NA,Steel tape measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,Tape only.,1,Department of Water Resources
+34588,355325N1194927W001,2431438,2018-10-03T22:13:00Z,251.48,251.48,0,290,-38.52,290,290,Acoustical sounder,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+34588,355325N1194927W001,2286890,2018-03-08T00:11:00Z,251.48,251.48,0,293.7,-42.22,293.7,293.7,Acoustical sounder,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+34588,355325N1194927W001,2272407,2017-10-25T18:19:00Z,251.48,251.48,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,"added, not on original template",1,Department of Water Resources
+34588,355325N1194927W001,2220439,2016-10-01T10:00:00Z,251.48,251.48,0,317,-65.52,317,317,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+34588,355325N1194927W001,2220438,2016-03-01T14:00:00Z,251.48,251.48,0,318,-66.52,318,318,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+34588,355325N1194927W001,2220437,2015-10-01T11:00:00Z,251.48,251.48,0,296.3,-44.82,296.3,296.3,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+34588,355325N1194927W001,2220436,2015-03-01T09:00:00Z,251.48,251.48,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+34588,355325N1194927W001,2220435,2014-09-01T11:00:00Z,251.48,251.48,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+34588,355325N1194927W001,2220434,2014-01-01T09:00:00Z,251.48,251.48,0,293.8,-42.32,293.8,293.8,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+34588,355325N1194927W001,2220433,2013-10-01T10:00:00Z,251.48,251.48,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+34588,355325N1194927W001,2220432,2012-12-01T07:00:00Z,251.48,251.48,0,210,41.48,210,210,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+34588,355325N1194927W001,708967,2011-10-18T00:00:00Z,251.48,251.48,0,255.6,-4.12,255.6,255.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+34588,355325N1194927W001,708966,2011-01-14T00:00:00Z,251.48,251.48,0,278.4,-26.92,278.4,278.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+34588,355325N1194927W001,708965,2010-10-27T00:00:00Z,251.48,251.48,0,291.2,-39.72,291.2,291.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+34588,355325N1194927W001,708964,2010-01-12T00:00:00Z,251.48,251.48,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+34588,355325N1194927W001,708963,2009-10-28T00:00:00Z,251.48,251.48,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+34588,355325N1194927W001,708961,2009-01-20T00:00:00Z,251.48,251.48,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708960,2008-10-09T00:00:00Z,251.48,251.48,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708959,2008-01-30T00:00:00Z,251.48,251.48,0,278,-26.52,278,278,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708958,2007-10-19T00:00:00Z,251.48,251.48,0,299,-47.52,299,299,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708957,2007-01-11T00:00:00Z,251.48,251.48,0,209,42.48,209,209,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708962,2006-10-18T00:00:00Z,251.48,251.48,0,205.6,45.88,205.6,205.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708956,2006-01-11T00:00:00Z,251.48,251.48,0,145.9,105.58,145.9,145.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708955,2005-10-19T00:00:00Z,251.48,251.48,0,230,21.48,230,230,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708951,2005-01-25T00:00:00Z,251.48,251.48,0,225,26.48,225,225,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708950,2004-11-04T00:00:00Z,251.48,251.48,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708954,2004-10-20T00:00:00Z,251.48,251.48,0,254.4,-2.92,254.4,254.4,Pumping,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708949,2004-01-27T00:00:00Z,251.48,251.48,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708952,2004-01-26T00:00:00Z,251.48,251.48,0,204,47.48,204,204,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708953,2003-11-13T00:00:00Z,251.48,251.48,0,209.1,42.38,209.1,209.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708948,2003-10-29T00:00:00Z,251.48,251.48,0,209.5,41.98,209.5,209.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708946,2003-01-28T00:00:00Z,251.48,251.48,0,219,32.48,219,219,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708947,2002-11-06T00:00:00Z,251.48,251.48,0,227.3,24.18,227.3,227.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708942,2002-01-17T00:00:00Z,251.48,251.48,0,213.3,38.18,213.3,213.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708943,2002-01-09T00:00:00Z,251.48,251.48,0,221,30.48,221,221,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708940,2001-10-26T00:00:00Z,251.48,251.48,0,223,28.48,223,223,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708941,2001-10-03T00:00:00Z,251.48,251.48,0,240,11.48,240,240,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708945,2001-02-27T00:00:00Z,251.48,251.48,0,199,52.48,199,199,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708944,2001-01-23T00:00:00Z,251.48,251.48,0,191.4,60.08,191.4,191.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708939,2000-01-05T00:00:00Z,251.48,251.48,0,209,42.48,209,209,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708938,1999-10-06T00:00:00Z,251.48,251.48,0,208,43.48,208,208,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708937,1999-02-09T00:00:00Z,251.48,251.48,0,203.8,47.68,203.8,203.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708936,1999-01-06T00:00:00Z,251.48,251.48,0,220,31.48,220,220,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+34588,355325N1194927W001,708935,1998-10-07T00:00:00Z,251.48,251.48,0,215,36.48,215,215,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+34588,355325N1194927W001,708934,1998-02-05T00:00:00Z,251.48,251.48,0,217.7,33.78,217.7,217.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708933,1998-01-07T00:00:00Z,251.48,251.48,0,247,4.48,247,247,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+34588,355325N1194927W001,708932,1994-01-31T00:00:00Z,251.48,251.48,0,238.3,13.18,238.3,238.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708931,1994-01-26T00:00:00Z,251.48,251.48,0,243,8.48,243,243,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+34588,355325N1194927W001,708930,1993-10-12T00:00:00Z,251.48,251.48,0,241,10.48,241,241,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708929,1993-10-06T00:00:00Z,251.48,251.48,0,244,7.48,244,244,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+34588,355325N1194927W001,708928,1993-02-11T00:00:00Z,251.48,251.48,0,246.1,5.38,246.1,246.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708927,1993-01-27T00:00:00Z,251.48,251.48,0,167,84.48,167,167,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+34588,355325N1194927W001,708926,1992-10-21T00:00:00Z,251.48,251.48,0,251,0.48,251,251,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708925,1992-10-07T00:00:00Z,251.48,251.48,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+34588,355325N1194927W001,708924,1992-02-06T00:00:00Z,251.48,251.48,0,233.9,17.58,233.9,233.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708923,1992-01-29T00:00:00Z,251.48,251.48,0,240,11.48,240,240,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+34588,355325N1194927W001,708922,1991-10-10T00:00:00Z,251.48,251.48,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708921,1991-10-02T00:00:00Z,251.48,251.48,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+34588,355325N1194927W001,708920,1991-01-30T00:00:00Z,251.48,251.48,0,236,15.48,236,236,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+34588,355325N1194927W001,708919,1990-10-10T00:00:00Z,251.48,251.48,0,235,16.48,235,235,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708918,1990-02-05T00:00:00Z,251.48,251.48,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708917,1990-01-24T00:00:00Z,251.48,251.48,0,207,44.48,207,207,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+34588,355325N1194927W001,708916,1989-10-11T00:00:00Z,251.48,251.48,0,210,41.48,210,210,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708915,1989-10-04T00:00:00Z,251.48,251.48,0,215,36.48,215,215,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+34588,355325N1194927W001,708914,1989-01-31T00:00:00Z,251.48,251.48,0,223,28.48,223,223,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708913,1989-01-26T00:00:00Z,251.48,251.48,0,200,51.48,200,200,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+34588,355325N1194927W001,708912,1988-10-12T00:00:00Z,251.48,251.48,0,222,29.48,222,222,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708911,1988-10-06T00:00:00Z,251.48,251.48,0,215,36.48,215,215,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+34588,355325N1194927W001,708910,1988-02-16T00:00:00Z,251.48,251.48,0,213,38.48,213,213,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708909,1988-01-28T00:00:00Z,251.48,251.48,0,199,52.48,199,199,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+34588,355325N1194927W001,708908,1987-11-09T00:00:00Z,251.48,251.48,0,225,26.48,225,225,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708907,1987-10-07T00:00:00Z,251.48,251.48,0,215,36.48,215,215,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+34588,355325N1194927W001,708906,1987-02-04T00:00:00Z,251.48,251.48,0,217,34.48,217,217,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708905,1987-01-29T00:00:00Z,251.48,251.48,0,210,41.48,210,210,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+34588,355325N1194927W001,708904,1986-10-17T00:00:00Z,251.48,251.48,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+34588,355325N1194927W001,708903,1986-10-02T00:00:00Z,251.48,251.48,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+34588,355325N1194927W001,708902,1986-02-06T00:00:00Z,251.48,251.48,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+34588,355325N1194927W001,708901,1986-01-30T00:00:00Z,251.48,251.48,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+34588,355325N1194927W001,708900,1985-10-09T00:00:00Z,251.48,251.48,0,234,17.48,234,234,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+34588,355325N1194927W001,708899,1985-10-01T00:00:00Z,251.48,251.48,0,227,24.48,227,227,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+34588,355325N1194927W001,708898,1985-02-05T00:00:00Z,251.48,251.48,0,205,46.48,205,205,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+34588,355325N1194927W001,708897,1985-01-31T00:00:00Z,251.48,251.48,0,204,47.48,204,204,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+34588,355325N1194927W001,708896,1984-11-01T00:00:00Z,251.48,251.48,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+34588,355325N1194927W001,708895,1984-10-01T00:00:00Z,251.48,251.48,0,233,18.48,233,233,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+34588,355325N1194927W001,708894,1984-02-09T00:00:00Z,251.48,251.48,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+34588,355325N1194927W001,708893,1984-01-31T00:00:00Z,251.48,251.48,0,211,40.48,211,211,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+34588,355325N1194927W001,708892,1983-10-17T00:00:00Z,251.48,251.48,0,220,31.48,220,220,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+34588,355325N1194927W001,708891,1983-09-28T00:00:00Z,251.48,251.48,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+34588,355325N1194927W001,708890,1983-02-17T00:00:00Z,251.48,251.48,0,225,26.48,225,225,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+34588,355325N1194927W001,708889,1983-02-03T00:00:00Z,251.48,251.48,0,227,24.48,227,227,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708888,1982-10-05T00:00:00Z,251.48,251.48,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+34588,355325N1194927W001,708887,1982-10-01T00:00:00Z,251.48,251.48,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+34588,355325N1194927W001,708886,1982-01-30T00:00:00Z,251.48,251.48,0,226,25.48,226,226,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+34588,355325N1194927W001,708885,1982-01-29T00:00:00Z,251.48,251.48,0,230,21.48,230,230,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+34588,355325N1194927W001,708884,1981-09-29T00:00:00Z,251.48,251.48,0,235,16.48,235,235,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+34588,355325N1194927W001,708883,1981-02-19T00:00:00Z,251.48,251.48,0,229,22.48,229,229,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708882,1980-09-26T00:00:00Z,251.48,251.48,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708881,1980-02-04T00:00:00Z,251.48,251.48,0,225,26.48,225,225,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708880,1979-10-02T00:00:00Z,251.48,251.48,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708879,1979-01-23T00:00:00Z,251.48,251.48,0,223,28.48,223,223,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708878,1978-10-09T00:00:00Z,251.48,251.48,0,245,6.48,245,245,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708877,1978-02-08T00:00:00Z,251.48,251.48,0,234,17.48,234,234,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708876,1977-10-10T00:00:00Z,251.48,251.48,0,247,4.48,247,247,Casing leaking or wet,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708875,1977-02-07T00:00:00Z,251.48,251.48,0,6768,-6516.52,6768,6768,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+34588,355325N1194927W001,708874,1976-10-11T00:00:00Z,251.48,251.48,0,6754,-6502.52,6754,6754,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency

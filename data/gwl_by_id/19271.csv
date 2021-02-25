@@ -1,0 +1,4 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+19271,361817N1200963W001,938513,1960-10-11T00:00:00Z,375.09,373.59,0,281,94.09,281,279.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+19271,361817N1200963W001,938512,1960-05-05T00:00:00Z,375.09,373.59,0,286.9,88.19,286.9,285.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+19271,361817N1200963W001,938511,1959-05-07T00:00:00Z,375.09,373.59,0,673.3,-298.21,673.3,671.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey

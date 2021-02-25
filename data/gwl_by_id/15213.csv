@@ -1,0 +1,83 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+15213,350761N1188467W001,1090536,2010-11-01T00:00:00Z,610.55,608.55,0,348,262.55,348,346,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090535,2010-03-05T00:00:00Z,610.55,608.55,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090534,2009-10-30T00:00:00Z,610.55,608.55,0,384,226.55,384,382,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090533,2009-03-23T00:00:00Z,610.55,608.55,0,383,227.55,383,381,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090530,2008-02-23T00:00:00Z,610.55,608.55,0,375,235.55,375,373,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090531,2007-10-22T00:00:00Z,610.55,608.55,0,386,224.55,386,384,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090529,2007-02-08T00:00:00Z,610.55,608.55,0,373,237.55,373,371,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090532,2006-10-10T00:00:00Z,610.55,608.55,0,335,275.55,335,333,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090528,2006-03-13T00:00:00Z,610.55,608.55,0,375,235.55,375,373,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090527,2004-02-18T00:00:00Z,610.55,608.55,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090526,2001-03-06T00:00:00Z,610.55,608.55,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090525,2000-03-16T00:00:00Z,610.55,608.55,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090524,1999-02-25T00:00:00Z,610.55,608.55,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090523,1998-11-11T00:00:00Z,610.55,608.55,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090522,1998-02-13T00:00:00Z,610.55,608.55,0,356,254.55,356,354,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090521,1997-10-27T00:00:00Z,610.55,608.55,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090520,1996-10-30T00:00:00Z,610.55,608.55,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090519,1996-01-15T00:00:00Z,610.55,608.55,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090518,1995-02-08T00:00:00Z,610.55,608.55,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090517,1994-12-03T00:00:00Z,610.55,608.55,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090516,1994-02-23T00:00:00Z,610.55,608.55,0,436,174.55,436,434,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090515,1993-10-15T00:00:00Z,610.55,608.55,0,438,172.55,438,436,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090514,1993-02-25T00:00:00Z,610.55,608.55,0,439,171.55,439,437,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090513,1992-10-27T00:00:00Z,610.55,608.55,0,439,171.55,439,437,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090512,1992-01-21T00:00:00Z,610.55,608.55,0,435,175.55,435,433,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090511,1991-09-25T00:00:00Z,610.55,608.55,0,449,161.55,449,447,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090510,1991-02-19T00:00:00Z,610.55,608.55,0,437,173.55,437,435,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090509,1990-10-29T00:00:00Z,610.55,608.55,0,439,171.55,439,437,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090508,1990-04-17T00:00:00Z,610.55,608.55,0,441,169.55,441,439,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090507,1989-10-27T00:00:00Z,610.55,608.55,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090506,1989-02-23T00:00:00Z,610.55,608.55,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090505,1988-10-28T00:00:00Z,610.55,608.55,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090504,1988-03-15T00:00:00Z,610.55,608.55,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090503,1987-12-07T00:00:00Z,610.55,608.55,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090502,1987-02-18T00:00:00Z,610.55,608.55,0,423,187.55,423,421,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090501,1986-11-24T00:00:00Z,610.55,608.55,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+15213,350761N1188467W001,1090500,1986-03-19T00:00:00Z,610.55,608.55,0,423,187.55,423,421,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+15213,350761N1188467W001,1090499,1985-10-22T00:00:00Z,610.55,608.55,0,433,177.55,433,431,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+15213,350761N1188467W001,1090498,1985-03-11T00:00:00Z,610.55,608.55,0,430,180.55,430,428,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+15213,350761N1188467W001,1090497,1984-11-05T00:00:00Z,610.55,608.55,0,436,174.55,436,434,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+15213,350761N1188467W001,1090496,1984-02-29T00:00:00Z,610.55,608.55,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+15213,350761N1188467W001,1090495,1983-11-03T00:00:00Z,610.55,608.55,0,446,164.55,446,444,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+15213,350761N1188467W001,1090494,1983-02-28T00:00:00Z,610.55,608.55,0,449,161.55,449,447,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090493,1982-12-03T00:00:00Z,610.55,608.55,0,454,156.55,454,452,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090492,1982-02-02T00:00:00Z,610.55,608.55,0,457,153.55,457,455,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+15213,350761N1188467W001,1090491,1981-11-18T00:00:00Z,610.55,608.55,0,462,148.55,462,460,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090490,1981-03-10T00:00:00Z,610.55,608.55,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090489,1980-10-22T00:00:00Z,610.55,608.55,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090488,1980-02-07T00:00:00Z,610.55,608.55,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090487,1979-10-25T00:00:00Z,610.55,608.55,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090486,1979-02-27T00:00:00Z,610.55,608.55,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090485,1978-03-14T00:00:00Z,610.55,608.55,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090484,1977-10-27T00:00:00Z,610.55,608.55,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090483,1977-03-09T00:00:00Z,610.55,608.55,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090482,1976-10-20T00:00:00Z,610.55,608.55,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090481,1976-02-20T00:00:00Z,610.55,608.55,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090480,1975-10-16T00:00:00Z,610.55,608.55,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090479,1975-02-07T00:00:00Z,610.55,608.55,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090478,1974-09-25T00:00:00Z,610.55,608.55,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090477,1974-02-01T00:00:00Z,610.55,608.55,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090476,1973-02-13T00:00:00Z,610.55,608.55,0,479.8,130.75,479.8,477.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090475,1972-10-05T00:00:00Z,610.55,608.55,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090474,1972-02-02T00:00:00Z,610.55,608.55,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090473,1971-10-13T00:00:00Z,610.55,608.55,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090472,1970-02-04T00:00:00Z,610.55,608.55,0,453.6,156.95,453.6,451.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090471,1969-09-01T00:00:00Z,610.55,608.55,0,460.2,150.35,460.2,458.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090470,1969-02-03T00:00:00Z,610.55,608.55,0,467,143.55,467,465,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090469,1968-09-24T00:00:00Z,610.55,608.55,0,477,133.55,477,475,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+15213,350761N1188467W001,1090468,1968-01-29T00:00:00Z,610.55,608.55,0,457,153.55,457,455,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+15213,350761N1188467W001,1090467,1967-09-26T00:00:00Z,610.55,608.55,0,458.6,151.95,458.6,456.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+15213,350761N1188467W001,1090466,1967-01-31T00:00:00Z,610.55,608.55,0,440,170.55,440,438,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+15213,350761N1188467W001,1090465,1966-01-25T00:00:00Z,610.55,608.55,NA,NA,NA,NA,NA,Unable to locate well,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+15213,350761N1188467W001,1090464,1965-09-28T00:00:00Z,610.55,608.55,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+15213,350761N1188467W001,1090463,1965-01-25T00:00:00Z,610.55,608.55,0,418,192.55,418,416,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+15213,350761N1188467W001,1090462,1964-09-22T00:00:00Z,610.55,608.55,0,424,186.55,424,422,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+15213,350761N1188467W001,1090461,1964-01-28T00:00:00Z,610.55,608.55,0,409.6,200.95,409.6,407.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+15213,350761N1188467W001,1090460,1963-09-17T00:00:00Z,610.55,608.55,0,420,190.55,420,418,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+15213,350761N1188467W001,1090459,1963-01-29T00:00:00Z,610.55,608.55,0,394,216.55,394,392,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+15213,350761N1188467W001,1090458,1962-10-03T00:00:00Z,610.55,608.55,0,398,212.55,398,396,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+15213,350761N1188467W001,1090457,1962-01-30T00:00:00Z,610.55,608.55,0,394,216.55,394,392,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+15213,350761N1188467W001,1090456,1961-02-01T00:00:00Z,610.55,608.55,0,377,233.55,377,375,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15213,350761N1188467W001,1090455,1960-09-28T00:00:00Z,610.55,608.55,0,407.5,203.05,407.5,405.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation

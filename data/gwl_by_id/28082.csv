@@ -1,0 +1,11 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+28082,345056N1179240W001,1572743,1964-03-11T00:00:00Z,3090.94,3090.94,0,26.04,3064.9,26.04,26.04,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+28082,345056N1179240W001,1572742,1960-11-23T00:00:00Z,3090.94,3090.94,0,25.5,3065.44,25.5,25.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+28082,345056N1179240W001,1572741,1959-10-23T00:00:00Z,3090.94,3090.94,0,25.7,3065.24,25.7,25.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+28082,345056N1179240W001,1572740,1958-11-14T00:00:00Z,3090.94,3090.94,0,24.7,3066.24,24.7,24.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+28082,345056N1179240W001,1572739,1957-11-30T00:00:00Z,3090.94,3090.94,0,24.7,3066.24,24.7,24.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+28082,345056N1179240W001,1572738,1956-11-26T00:00:00Z,3090.94,3090.94,0,23.8,3067.14,23.8,23.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+28082,345056N1179240W001,1572737,1955-10-26T00:00:00Z,3090.94,3090.94,0,23.4,3067.54,23.4,23.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+28082,345056N1179240W001,1572736,1954-11-08T00:00:00Z,3090.94,3090.94,0,23,3067.94,23,23,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+28082,345056N1179240W001,1572735,1953-11-27T00:00:00Z,3090.94,3090.94,0,22.9,3068.04,22.9,22.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+28082,345056N1179240W001,1572734,1920-01-01T00:00:00Z,3090.94,3090.94,0,20,3070.94,20,20,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey

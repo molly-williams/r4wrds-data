@@ -1,0 +1,59 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+11287,370568N1207793W001,1214723,1977-03-06T00:00:00Z,101.03,100.43,NA,NA,NA,NA,NA,Well has been destroyed,NA,NA,1,Department of Water Resources,NA,1092,SAN LUIS CANAL COMPANY
+11287,370568N1207793W001,1214722,1974-04-01T00:00:00Z,101.03,100.43,0,5.19,95.84,5.19,4.59,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1092,SAN LUIS CANAL COMPANY
+11287,370568N1207793W001,1214721,1971-06-17T00:00:00Z,101.03,100.43,0,6.09,94.94,6.09,5.49,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+11287,370568N1207793W001,1214720,1971-04-01T00:00:00Z,101.03,100.43,0,4.59,96.44,4.59,3.99,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1092,SAN LUIS CANAL COMPANY
+11287,370568N1207793W001,1214719,1970-03-01T00:00:00Z,101.03,100.43,0,4.79,96.24,4.79,4.19,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1092,SAN LUIS CANAL COMPANY
+11287,370568N1207793W001,1214718,1969-05-01T00:00:00Z,101.03,100.43,0,4.79,96.24,4.79,4.19,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1092,SAN LUIS CANAL COMPANY
+11287,370568N1207793W001,1214717,1968-05-01T00:00:00Z,101.03,100.43,0,3.89,97.14,3.89,3.29,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1092,SAN LUIS CANAL COMPANY
+11287,370568N1207793W001,1214716,1967-03-01T00:00:00Z,101.03,100.43,0,2.59,98.44,2.59,1.99,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1092,SAN LUIS CANAL COMPANY
+11287,370568N1207793W001,1214715,1966-02-01T00:00:00Z,101.03,100.43,0,1.59,99.44,1.59,0.99,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1092,SAN LUIS CANAL COMPANY
+11287,370568N1207793W001,1214714,1965-03-01T00:00:00Z,101.03,100.43,0,2.89,98.14,2.89,2.29,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1092,SAN LUIS CANAL COMPANY
+11287,370568N1207793W001,1214713,1964-12-01T00:00:00Z,101.03,100.43,0,3.59,97.44,3.59,2.99,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1092,SAN LUIS CANAL COMPANY
+11287,370568N1207793W001,1214712,1964-08-19T00:00:00Z,101.03,100.43,0,5.99,95.04,5.99,5.39,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1092,SAN LUIS CANAL COMPANY
+11287,370568N1207793W001,1214711,1964-06-04T00:00:00Z,101.03,100.43,0,5.59,95.44,5.59,4.99,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1092,SAN LUIS CANAL COMPANY
+11287,370568N1207793W001,1214710,1964-06-01T00:00:00Z,101.03,100.43,0,4.69,96.34,4.69,4.09,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1092,SAN LUIS CANAL COMPANY
+11287,370568N1207793W001,1214709,1963-11-04T00:00:00Z,101.03,100.43,0,5.59,95.44,5.59,4.99,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1092,SAN LUIS CANAL COMPANY
+11287,370568N1207793W001,1214708,1963-09-20T00:00:00Z,101.03,100.43,0,6.29,94.74,6.29,5.69,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1092,SAN LUIS CANAL COMPANY
+11287,370568N1207793W001,1214707,1963-07-11T00:00:00Z,101.03,100.43,0,6.39,94.64,6.39,5.79,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1092,SAN LUIS CANAL COMPANY
+11287,370568N1207793W001,1214706,1963-02-04T00:00:00Z,101.03,100.43,0,3.99,97.04,3.99,3.39,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1092,SAN LUIS CANAL COMPANY
+11287,370568N1207793W001,1214705,1962-10-04T00:00:00Z,101.03,100.43,0,8.19,92.84,8.19,7.59,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1092,SAN LUIS CANAL COMPANY
+11287,370568N1207793W001,1214704,1962-08-01T00:00:00Z,101.03,100.43,0,8.29,92.74,8.29,7.69,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1092,SAN LUIS CANAL COMPANY
+11287,370568N1207793W001,1214703,1962-01-23T00:00:00Z,101.03,100.43,0,5.29,95.74,5.29,4.69,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1092,SAN LUIS CANAL COMPANY
+11287,370568N1207793W001,1214702,1961-11-01T00:00:00Z,101.03,100.43,0,7.39,93.64,7.39,6.79,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1092,SAN LUIS CANAL COMPANY
+11287,370568N1207793W001,1214701,1961-09-26T00:00:00Z,101.03,100.43,0,9.49,91.54,9.49,8.89,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+11287,370568N1207793W001,1214700,1961-05-01T00:00:00Z,101.03,100.43,0,4.49,96.54,4.49,3.89,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+11287,370568N1207793W001,1214699,1961-04-01T00:00:00Z,101.03,100.43,0,4.79,96.24,4.79,4.19,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1092,SAN LUIS CANAL COMPANY
+11287,370568N1207793W001,1214698,1961-03-15T00:00:00Z,101.03,100.43,NA,NA,NA,NA,NA,Unable to locate well,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+11287,370568N1207793W001,1214697,1961-03-01T00:00:00Z,101.03,100.43,0,3.69,97.34,3.69,3.09,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+11287,370568N1207793W001,1214696,1961-02-01T00:00:00Z,101.03,100.43,0,2.29,98.74,2.29,1.69,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+11287,370568N1207793W001,1214695,1961-01-01T00:00:00Z,101.03,100.43,0,3.29,97.74,3.29,2.69,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+11287,370568N1207793W001,1214694,1960-12-01T00:00:00Z,101.03,100.43,0,4.69,96.34,4.69,4.09,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+11287,370568N1207793W001,1214693,1960-11-01T00:00:00Z,101.03,100.43,0,5.99,95.04,5.99,5.39,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+11287,370568N1207793W001,1214692,1960-10-07T00:00:00Z,101.03,100.43,0,9.09,91.94,9.09,8.49,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+11287,370568N1207793W001,1214691,1960-10-01T00:00:00Z,101.03,100.43,0,8.79,92.24,8.79,8.19,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1092,SAN LUIS CANAL COMPANY
+11287,370568N1207793W001,1214690,1960-09-01T00:00:00Z,101.03,100.43,0,7.99,93.04,7.99,7.39,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+11287,370568N1207793W001,1214689,1960-08-01T00:00:00Z,101.03,100.43,0,7.79,93.24,7.79,7.19,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+11287,370568N1207793W001,1214688,1960-07-01T00:00:00Z,101.03,100.43,0,6.79,94.24,6.79,6.19,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+11287,370568N1207793W001,1214687,1960-06-01T00:00:00Z,101.03,100.43,0,5.59,95.44,5.59,4.99,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1092,SAN LUIS CANAL COMPANY
+11287,370568N1207793W001,1214686,1960-05-01T00:00:00Z,101.03,100.43,0,3.79,97.24,3.79,3.19,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1092,SAN LUIS CANAL COMPANY
+11287,370568N1207793W001,1214685,1960-04-01T00:00:00Z,101.03,100.43,0,4.59,96.44,4.59,3.99,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1092,SAN LUIS CANAL COMPANY
+11287,370568N1207793W001,1214684,1960-03-16T00:00:00Z,101.03,100.43,0,4.39,96.64,4.39,3.79,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+11287,370568N1207793W001,1214683,1960-03-01T00:00:00Z,101.03,100.43,0,3.49,97.54,3.49,2.89,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1092,SAN LUIS CANAL COMPANY
+11287,370568N1207793W001,1214682,1960-02-01T00:00:00Z,101.03,100.43,0,3.19,97.84,3.19,2.59,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1092,SAN LUIS CANAL COMPANY
+11287,370568N1207793W001,1214681,1960-01-01T00:00:00Z,101.03,100.43,0,4.79,96.24,4.79,4.19,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1092,SAN LUIS CANAL COMPANY
+11287,370568N1207793W001,1214680,1959-11-01T00:00:00Z,101.03,100.43,0,6.19,94.84,6.19,5.59,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1092,SAN LUIS CANAL COMPANY
+11287,370568N1207793W001,1214679,1959-10-01T00:00:00Z,101.03,100.43,0,7.99,93.04,7.99,7.39,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1092,SAN LUIS CANAL COMPANY
+11287,370568N1207793W001,1214678,1959-09-30T00:00:00Z,101.03,100.43,0,8.29,92.74,8.29,7.69,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+11287,370568N1207793W001,1214677,1959-09-01T00:00:00Z,101.03,100.43,0,8.4,92.63,8.4,7.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1092,SAN LUIS CANAL COMPANY
+11287,370568N1207793W001,1214676,1959-08-01T00:00:00Z,101.03,100.43,0,8.19,92.84,8.19,7.59,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1092,SAN LUIS CANAL COMPANY
+11287,370568N1207793W001,1214675,1959-07-01T00:00:00Z,101.03,100.43,0,6.19,94.84,6.19,5.59,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1092,SAN LUIS CANAL COMPANY
+11287,370568N1207793W001,1214674,1959-06-01T00:00:00Z,101.03,100.43,0,4.59,96.44,4.59,3.99,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1092,SAN LUIS CANAL COMPANY
+11287,370568N1207793W001,1214673,1959-05-01T00:00:00Z,101.03,100.43,0,5.79,95.24,5.79,5.19,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1092,SAN LUIS CANAL COMPANY
+11287,370568N1207793W001,1214672,1959-04-01T00:00:00Z,101.03,100.43,0,4.59,96.44,4.59,3.99,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1092,SAN LUIS CANAL COMPANY
+11287,370568N1207793W001,1214671,1959-03-17T00:00:00Z,101.03,100.43,0,4.39,96.64,4.39,3.79,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+11287,370568N1207793W001,1214670,1959-03-01T00:00:00Z,101.03,100.43,0,3.79,97.24,3.79,3.19,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1092,SAN LUIS CANAL COMPANY
+11287,370568N1207793W001,1214669,1959-02-01T00:00:00Z,101.03,100.43,0,4.19,96.84,4.19,3.59,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1092,SAN LUIS CANAL COMPANY
+11287,370568N1207793W001,1214668,1959-01-01T00:00:00Z,101.03,100.43,0,4.79,96.24,4.79,4.19,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1092,SAN LUIS CANAL COMPANY
+11287,370568N1207793W001,1214667,1958-09-23T00:00:00Z,101.03,100.43,0,9.59,91.44,9.59,8.99,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+11287,370568N1207793W001,1214666,1958-03-19T00:00:00Z,101.03,100.43,0,2.99,98.04,2.99,2.39,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources

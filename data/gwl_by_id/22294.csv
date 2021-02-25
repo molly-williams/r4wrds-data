@@ -1,0 +1,54 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+22294,353114N1193326W001,2134103,2015-03-10T17:15:00Z,300.62,299.62,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22294,353114N1193326W001,2108983,2014-10-08T00:00:00Z,300.62,299.62,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22294,353114N1193326W001,1872963,2014-01-27T00:00:00Z,300.62,299.62,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22294,353114N1193326W001,1812319,2013-10-16T00:00:00Z,300.62,299.62,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22294,353114N1193326W001,96418,2013-01-30T00:00:00Z,300.62,299.62,0,0,300.62,0,-1,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+22294,353114N1193326W001,78898,2012-10-23T00:00:00Z,300.62,299.62,0,0,300.62,0,-1,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+22294,353114N1193326W001,54875,2012-02-08T00:00:00Z,300.62,299.62,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22294,353114N1193326W001,753519,2010-10-19T00:00:00Z,300.62,299.62,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22294,353114N1193326W001,753518,2007-10-30T00:00:00Z,300.62,299.62,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22294,353114N1193326W001,753516,2002-02-05T00:00:00Z,300.62,299.62,0,92.4,208.22,92.4,91.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+22294,353114N1193326W001,753515,2001-10-24T00:00:00Z,300.62,299.62,0,96.4,204.22,96.4,95.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+22294,353114N1193326W001,753517,2001-02-07T00:00:00Z,300.62,299.62,0,56.2,244.42,56.2,55.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+22294,353114N1193326W001,753514,2000-02-22T00:00:00Z,300.62,299.62,0,134,166.62,134,133,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+22294,353114N1193326W001,753513,1999-10-07T00:00:00Z,300.62,299.62,0,41.6,259.02,41.6,40.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+22294,353114N1193326W001,753512,1999-03-03T00:00:00Z,300.62,299.62,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22294,353114N1193326W001,753511,1998-10-06T00:00:00Z,300.62,299.62,0,38.6,262.02,38.6,37.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+22294,353114N1193326W001,753510,1998-02-27T00:00:00Z,300.62,299.62,0,84.1,216.52,84.1,83.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+22294,353114N1193326W001,753509,1997-10-31T00:00:00Z,300.62,299.62,0,91.2,209.42,91.2,90.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1070,TENNECO-WEST
+22294,353114N1193326W001,753508,1997-01-17T00:00:00Z,300.62,299.62,0,103.3,197.32,103.3,102.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1070,TENNECO-WEST
+22294,353114N1193326W001,753507,1996-10-10T00:00:00Z,300.62,299.62,0,135,165.62,135,134,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1070,TENNECO-WEST
+22294,353114N1193326W001,753506,1996-02-14T00:00:00Z,300.62,299.62,0,148,152.62,148,147,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1070,TENNECO-WEST
+22294,353114N1193326W001,753505,1995-02-07T00:00:00Z,300.62,299.62,0,177.1,123.52,177.1,176.1,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+22294,353114N1193326W001,753504,1994-10-19T00:00:00Z,300.62,299.62,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22294,353114N1193326W001,753503,1994-01-19T00:00:00Z,300.62,299.62,0,167,133.62,167,166,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+22294,353114N1193326W001,753502,1993-10-13T00:00:00Z,300.62,299.62,0,162,138.62,162,161,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+22294,353114N1193326W001,753501,1993-01-26T00:00:00Z,300.62,299.62,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22294,353114N1193326W001,753500,1992-11-23T00:00:00Z,300.62,299.62,0,168,132.62,168,167,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+22294,353114N1193326W001,753499,1992-01-14T00:00:00Z,300.62,299.62,NA,NA,NA,NA,NA,Pump house locked,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22294,353114N1193326W001,753498,1991-10-11T00:00:00Z,300.62,299.62,0,166,134.62,166,165,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+22294,353114N1193326W001,753497,1991-01-28T00:00:00Z,300.62,299.62,0,146,154.62,146,145,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+22294,353114N1193326W001,753496,1990-10-31T00:00:00Z,300.62,299.62,0,147,153.62,147,146,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+22294,353114N1193326W001,753495,1990-01-17T00:00:00Z,300.62,299.62,0,140,160.62,140,139,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+22294,353114N1193326W001,753494,1989-10-03T00:00:00Z,300.62,299.62,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22294,353114N1193326W001,753493,1989-01-24T00:00:00Z,300.62,299.62,0,130,170.62,130,129,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+22294,353114N1193326W001,753492,1988-11-09T00:00:00Z,300.62,299.62,0,133,167.62,133,132,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+22294,353114N1193326W001,753491,1988-01-26T00:00:00Z,300.62,299.62,0,121,179.62,121,120,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+22294,353114N1193326W001,753490,1987-10-06T00:00:00Z,300.62,299.62,0,125,175.62,125,124,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+22294,353114N1193326W001,753489,1987-02-10T00:00:00Z,300.62,299.62,0,112,188.62,112,111,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+22294,353114N1193326W001,753488,1986-09-30T00:00:00Z,300.62,299.62,0,136,164.62,136,135,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22294,353114N1193326W001,753487,1986-02-10T00:00:00Z,300.62,299.62,0,116,184.62,116,115,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22294,353114N1193326W001,753486,1985-10-02T00:00:00Z,300.62,299.62,0,125,175.62,125,124,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22294,353114N1193326W001,753485,1985-02-14T00:00:00Z,300.62,299.62,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22294,353114N1193326W001,753484,1984-10-11T00:00:00Z,300.62,299.62,0,139,161.62,139,138,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22294,353114N1193326W001,753483,1984-03-19T00:00:00Z,300.62,299.62,0,150,150.62,150,149,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22294,353114N1193326W001,753482,1983-10-30T00:00:00Z,300.62,299.62,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22294,353114N1193326W001,753481,1983-02-02T00:00:00Z,300.62,299.62,0,136,164.62,136,135,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1070,TENNECO-WEST
+22294,353114N1193326W001,753480,1982-08-23T00:00:00Z,300.62,299.62,0,142,158.62,142,141,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1070,TENNECO-WEST
+22294,353114N1193326W001,753479,1982-02-26T00:00:00Z,300.62,299.62,0,142,158.62,142,141,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22294,353114N1193326W001,753478,1981-08-24T00:00:00Z,300.62,299.62,0,154,146.62,154,153,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22294,353114N1193326W001,753477,1981-02-23T00:00:00Z,300.62,299.62,0,126,174.62,126,125,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1070,TENNECO-WEST
+22294,353114N1193326W001,753476,1980-08-21T00:00:00Z,300.62,299.62,0,130,170.62,130,129,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1070,TENNECO-WEST
+22294,353114N1193326W001,753475,1980-02-04T00:00:00Z,300.62,299.62,0,136,164.62,136,135,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1070,TENNECO-WEST
+22294,353114N1193326W001,753474,1979-08-24T00:00:00Z,300.62,299.62,0,138,162.62,138,137,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1070,TENNECO-WEST

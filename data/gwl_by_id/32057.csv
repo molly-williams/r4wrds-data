@@ -1,0 +1,7 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+32057,371274N1204504W001,1370973,1982-01-25T00:00:00Z,159.93,159.23,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NA,5167,United States Geological Survey
+32057,371274N1204504W001,1370972,1981-10-05T00:00:00Z,159.93,159.23,0,70.1,89.83,70.1,69.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+32057,371274N1204504W001,1370971,1981-02-20T00:00:00Z,159.93,159.23,0,50.7,109.23,50.7,50,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+32057,371274N1204504W001,1370970,1980-09-23T00:00:00Z,159.93,159.23,0,51,108.93,51,50.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+32057,371274N1204504W001,1370969,1980-02-26T00:00:00Z,159.93,159.23,0,63,96.93,63,62.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+32057,371274N1204504W001,1370968,1979-09-28T00:00:00Z,159.93,159.23,0,64.7,95.23,64.7,64,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation

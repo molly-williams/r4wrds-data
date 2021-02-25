@@ -1,0 +1,10 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+25876,365020N1201520W001,1020560,2009-10-12T00:00:00Z,195.88,194.78,0,19.8,176.08,19.8,18.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+25876,365020N1201520W001,1020559,2009-04-22T00:00:00Z,195.88,194.78,0,18.5,177.38,18.5,17.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+25876,365020N1201520W001,1020558,2008-10-27T00:00:00Z,195.88,194.78,0,14.1,181.78,14.1,13,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+25876,365020N1201520W001,1020557,2008-04-24T00:00:00Z,195.88,194.78,0,19.7,176.18,19.7,18.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+25876,365020N1201520W001,1020556,2007-10-01T00:00:00Z,195.88,194.78,NA,NA,NA,NA,NA,Unable to locate well,NA,NA,1,Department of Water Resources,NA,5100,Westlands Water District
+25876,365020N1201520W001,1020555,2007-04-01T00:00:00Z,195.88,194.78,NA,NA,NA,NA,NA,Unable to locate well,NA,NA,1,Department of Water Resources,NA,5100,Westlands Water District
+25876,365020N1201520W001,1020554,2006-10-01T00:00:00Z,195.88,194.78,0,16.4,179.48,16.4,15.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+25876,365020N1201520W001,1020553,2006-04-01T00:00:00Z,195.88,194.78,NA,NA,NA,NA,NA,Unable to locate well,NA,NA,1,Department of Water Resources,NA,5100,Westlands Water District
+25876,365020N1201520W001,1020552,2005-04-01T00:00:00Z,195.88,194.78,0,8.8,187.08,8.8,7.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District

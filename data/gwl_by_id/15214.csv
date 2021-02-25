@@ -1,0 +1,16 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+15214,350753N1188467W001,1090551,1972-02-02T00:00:00Z,609.55,608.55,NA,NA,NA,NA,NA,Unable to locate well,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15214,350753N1188467W001,1090550,1971-10-13T00:00:00Z,609.55,608.55,NA,NA,NA,NA,NA,Unable to locate well,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15214,350753N1188467W001,1090549,1971-02-17T00:00:00Z,609.55,608.55,NA,NA,NA,NA,NA,Unable to locate well,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15214,350753N1188467W001,1090548,1970-02-04T00:00:00Z,609.55,608.55,0,459.4,150.15,459.4,458.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15214,350753N1188467W001,1090547,1969-02-03T00:00:00Z,609.55,608.55,0,455.1,154.45,455.1,454.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+15214,350753N1188467W001,1090546,1967-09-26T00:00:00Z,609.55,608.55,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+15214,350753N1188467W001,1090545,1967-01-31T00:00:00Z,609.55,608.55,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+15214,350753N1188467W001,1090544,1966-09-27T00:00:00Z,609.55,608.55,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+15214,350753N1188467W001,1090543,1966-01-25T00:00:00Z,609.55,608.55,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+15214,350753N1188467W001,1090542,1965-09-28T00:00:00Z,609.55,608.55,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+15214,350753N1188467W001,1090541,1965-01-25T00:00:00Z,609.55,608.55,0,417.2,192.35,417.2,416.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+15214,350753N1188467W001,1090540,1964-09-22T00:00:00Z,609.55,608.55,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+15214,350753N1188467W001,1090539,1964-01-28T00:00:00Z,609.55,608.55,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+15214,350753N1188467W001,1090538,1963-09-17T00:00:00Z,609.55,608.55,0,421,188.55,421,420,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+15214,350753N1188467W001,1090537,1962-01-30T00:00:00Z,609.55,608.55,0,399.6,209.95,399.6,398.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation

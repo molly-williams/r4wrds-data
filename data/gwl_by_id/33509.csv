@@ -1,0 +1,6 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+33509,370182N1204746W001,2197603,2016-03-18T08:30:00Z,133.25,132.25,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,Well Destroyed,624,Bureau of Reclamation
+33509,370182N1204746W001,2176265,2015-10-20T07:15:00Z,133.25,132.25,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+33509,370182N1204746W001,2141482,2015-03-10T11:00:00Z,133.25,132.25,0,60,73.25,60,59,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,624,Bureau of Reclamation
+33509,370182N1204746W001,1989341,2014-02-28T13:00:00Z,133.25,132.25,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+33509,370182N1204746W001,1989749,2012-02-08T12:45:00Z,133.25,132.25,4.4,40,97.65,35.6,34.6,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,624,Bureau of Reclamation

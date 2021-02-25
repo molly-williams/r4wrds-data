@@ -1,0 +1,6 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+5020,374052N1210874W001,1415023,1962-03-28T00:00:00Z,120.45,119.55,0,57.9,62.55,57.9,57,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+5020,374052N1210874W001,1415022,1961-03-20T00:00:00Z,120.45,119.55,0,66.8,53.65,66.8,65.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+5020,374052N1210874W001,1415021,1960-03-09T00:00:00Z,120.45,119.55,0,72.6,47.85,72.6,71.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+5020,374052N1210874W001,1415020,1959-03-26T00:00:00Z,120.45,119.55,0,77.7,42.75,77.7,76.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+5020,374052N1210874W001,1415019,1958-10-23T00:00:00Z,120.45,119.55,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources

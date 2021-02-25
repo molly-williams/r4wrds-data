@@ -1,0 +1,12 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+20227,356175N1193502W001,880491,1963-01-30T00:00:00Z,317.1,316.6,0,196.4,120.7,196.4,195.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+20227,356175N1193502W001,880490,1962-10-01T00:00:00Z,317.1,316.6,0,230.2,86.9,230.2,229.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+20227,356175N1193502W001,880489,1962-02-06T00:00:00Z,317.1,316.6,0,170.5,146.6,170.5,170,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+20227,356175N1193502W001,880488,1961-09-06T00:00:00Z,317.1,316.6,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20227,356175N1193502W001,880487,1961-02-09T00:00:00Z,317.1,316.6,0,167.7,149.4,167.7,167.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+20227,356175N1193502W001,880486,1960-10-10T00:00:00Z,317.1,316.6,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+20227,356175N1193502W001,880485,1960-02-10T00:00:00Z,317.1,316.6,0,153.5,163.6,153.5,153,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+20227,356175N1193502W001,880484,1959-10-01T00:00:00Z,317.1,316.6,0,210.6,106.5,210.6,210.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+20227,356175N1193502W001,880483,1959-02-05T00:00:00Z,317.1,316.6,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+20227,356175N1193502W001,880482,1958-10-01T00:00:00Z,317.1,316.6,0,160,157.1,160,159.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+20227,356175N1193502W001,880481,1958-02-10T00:00:00Z,317.1,316.6,0,140.1,177,140.1,139.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation

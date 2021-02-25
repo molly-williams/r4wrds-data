@@ -1,0 +1,9 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+31874,363139N1200757W001,886813,1965-12-16T00:00:00Z,283.99,282.99,NA,NA,NA,NA,NA,Well has been destroyed,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+31874,363139N1200757W001,886812,1964-12-21T00:00:00Z,283.99,282.99,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+31874,363139N1200757W001,886811,1963-12-17T00:00:00Z,283.99,282.99,0,433.5,-149.51,433.5,432.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+31874,363139N1200757W001,886810,1962-03-28T00:00:00Z,283.99,282.99,0,408.3,-124.31,408.3,407.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+31874,363139N1200757W001,886809,1961-05-04T00:00:00Z,283.99,282.99,0,422,-138.01,422,421,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+31874,363139N1200757W001,886808,1960-10-14T00:00:00Z,283.99,282.99,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+31874,363139N1200757W001,886807,1960-05-13T00:00:00Z,283.99,282.99,0,380.9,-96.91,380.9,379.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+31874,363139N1200757W001,886806,1959-05-05T00:00:00Z,283.99,282.99,0,411.3,-127.31,411.3,410.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey

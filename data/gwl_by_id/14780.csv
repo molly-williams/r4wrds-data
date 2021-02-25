@@ -1,0 +1,15 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+14780,368549N1204170W001,1099591,2010-01-26T00:00:00Z,150.31,149.31,NA,NA,NA,NA,NA,Unable to locate well,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+14780,368549N1204170W001,1099590,2009-02-10T00:00:00Z,150.31,149.31,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+14780,368549N1204170W001,1099587,2008-02-21T00:00:00Z,150.31,149.31,NA,NA,NA,NA,NA,Well has been destroyed,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+14780,368549N1204170W001,1099588,2007-10-12T00:00:00Z,150.31,149.31,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+14780,368549N1204170W001,1099589,2006-09-27T00:00:00Z,150.31,149.31,NA,NA,NA,NA,NA,Unable to locate well,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+14780,368549N1204170W001,1099586,2006-02-08T00:00:00Z,150.31,149.31,NA,NA,NA,NA,NA,Well has been destroyed,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+14780,368549N1204170W001,1099585,2005-02-10T00:00:00Z,150.31,149.31,NA,NA,NA,NA,NA,Unable to locate well,NA,NA,1,Department of Water Resources,NO LONGER EXISTS,624,Bureau of Reclamation
+14780,368549N1204170W001,1099583,2004-01-29T00:00:00Z,150.31,149.31,0,12.1,138.21,12.1,11.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+14780,368549N1204170W001,1099584,2003-09-22T00:00:00Z,150.31,149.31,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+14780,368549N1204170W001,1099582,2003-01-22T00:00:00Z,150.31,149.31,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+14780,368549N1204170W001,1099581,2001-01-22T00:00:00Z,150.31,149.31,0,11.5,138.81,11.5,10.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+14780,368549N1204170W001,1099580,2000-02-15T00:00:00Z,150.31,149.31,0,11.6,138.71,11.6,10.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+14780,368549N1204170W001,1099579,1999-10-13T00:00:00Z,150.31,149.31,0,6.1,144.21,6.1,5.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+14780,368549N1204170W001,1099578,1999-01-19T00:00:00Z,150.31,149.31,0,10.2,140.11,10.2,9.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation

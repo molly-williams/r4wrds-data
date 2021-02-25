@@ -1,0 +1,212 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+20224,356172N1193677W001,2240858,2017-03-17T12:00:00Z,304.59,303.59,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,Skip,1,Department of Water Resources
+20224,356172N1193677W001,2187847,2016-03-09T12:00:00Z,304.59,303.59,NA,NA,NA,NA,NA,Pump house locked,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+20224,356172N1193677W001,2170152,2015-10-07T00:00:00Z,304.59,303.59,NA,NA,NA,NA,NA,Pump house locked,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+20224,356172N1193677W001,2136049,2015-03-05T18:15:00Z,304.59,303.59,0,366,-61.41,366,365,Acoustical sounder,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+20224,356172N1193677W001,2108161,2014-10-06T00:00:00Z,304.59,303.59,0,381,-76.41,381,380,Acoustical sounder,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+20224,356172N1193677W001,1882220,2014-01-21T12:00:00Z,304.59,303.59,0,345,-40.41,345,344,Acoustical sounder,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+20224,356172N1193677W001,1811899,2013-10-28T12:00:00Z,304.59,303.59,0,358,-53.41,358,357,Acoustical sounder,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+20224,356172N1193677W001,1723805,2013-02-19T12:00:00Z,304.59,303.59,0,289,15.59,289,288,Acoustical sounder,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+20224,356172N1193677W001,1821352,2012-10-11T12:00:00Z,304.59,303.59,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+20224,356172N1193677W001,67018,2012-01-20T12:00:00Z,304.59,303.59,0,260,44.59,260,259,Acoustical sounder,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+20224,356172N1193677W001,880109,2011-10-18T00:00:00Z,304.59,303.59,0,268,36.59,268,267,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+20224,356172N1193677W001,880108,2011-01-11T00:00:00Z,304.59,303.59,0,274,30.59,274,273,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+20224,356172N1193677W001,880107,2010-10-26T00:00:00Z,304.59,303.59,0,296,8.59,296,295,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+20224,356172N1193677W001,880106,2010-01-12T00:00:00Z,304.59,303.59,0,304,0.59,304,303,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+20224,356172N1193677W001,880105,2009-10-29T00:00:00Z,304.59,303.59,0,341,-36.41,341,340,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+20224,356172N1193677W001,880104,2009-02-12T00:00:00Z,304.59,303.59,NA,NA,NA,NA,NA,Pump house locked,NA,NA,1,Department of Water Resources,LOCKED,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,880101,2009-01-20T00:00:00Z,304.59,303.59,0,288,16.59,288,287,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1102,"SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT"
+20224,356172N1193677W001,880097,2008-10-08T00:00:00Z,304.59,303.59,0,341,-36.41,341,340,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1102,"SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT"
+20224,356172N1193677W001,880098,2008-02-14T00:00:00Z,304.59,303.59,0,298,6.59,298,297,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,880096,2008-02-01T00:00:00Z,304.59,303.59,NA,NA,NA,NA,NA,Pump house locked,NA,NA,1,Department of Water Resources,NA,1102,"SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT"
+20224,356172N1193677W001,880103,2007-10-19T00:00:00Z,304.59,303.59,NA,NA,NA,NA,NA,Pump house locked,NA,NA,1,Department of Water Resources,NA,1102,"SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT"
+20224,356172N1193677W001,880099,2007-10-09T00:00:00Z,304.59,303.59,0,321,-16.41,321,320,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1102,"SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT"
+20224,356172N1193677W001,880095,2007-01-22T00:00:00Z,304.59,303.59,0,216,88.59,216,215,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1102,"SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT"
+20224,356172N1193677W001,880094,2007-01-11T00:00:00Z,304.59,303.59,0,215,89.59,215,214,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1102,"SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT"
+20224,356172N1193677W001,880102,2006-10-19T00:00:00Z,304.59,303.59,0,229,75.59,229,228,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1102,"SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT"
+20224,356172N1193677W001,880100,2006-09-25T00:00:00Z,304.59,303.59,0,241,63.59,241,240,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1102,"SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT"
+20224,356172N1193677W001,880093,2006-01-12T00:00:00Z,304.59,303.59,0,225,79.59,225,224,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+20224,356172N1193677W001,880090,2005-01-28T00:00:00Z,304.59,303.59,0,254,50.59,254,253,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+20224,356172N1193677W001,880092,2005-01-24T00:00:00Z,304.59,303.59,0,252,52.59,252,251,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,880089,2004-10-18T00:00:00Z,304.59,303.59,0,312,-7.41,312,311,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+20224,356172N1193677W001,880088,2004-01-26T00:00:00Z,304.59,303.59,0,229,75.59,229,228,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+20224,356172N1193677W001,880087,2003-10-27T00:00:00Z,304.59,303.59,0,252,52.59,252,251,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+20224,356172N1193677W001,880091,2003-09-15T00:00:00Z,304.59,303.59,0,268,36.59,268,267,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,880085,2003-01-27T00:00:00Z,304.59,303.59,0,237,67.59,237,236,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+20224,356172N1193677W001,880086,2002-11-08T00:00:00Z,304.59,303.59,0,269,35.59,269,268,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+20224,356172N1193677W001,880083,2002-01-07T00:00:00Z,304.59,303.59,0,246,58.59,246,245,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,2C34-1,1,Department of Water Resources
+20224,356172N1193677W001,880082,2001-10-01T00:00:00Z,304.59,303.59,0,302,2.59,302,301,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+20224,356172N1193677W001,880084,2001-01-22T00:00:00Z,304.59,303.59,0,208,96.59,208,207,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+20224,356172N1193677W001,880081,2000-01-03T00:00:00Z,304.59,303.59,0,213,91.59,213,212,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+20224,356172N1193677W001,880080,1999-10-04T00:00:00Z,304.59,303.59,0,239,65.59,239,238,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+20224,356172N1193677W001,880079,1999-01-04T00:00:00Z,304.59,303.59,0,215,89.59,215,214,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+20224,356172N1193677W001,880078,1998-10-05T00:00:00Z,304.59,303.59,0,249,55.59,249,248,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+20224,356172N1193677W001,880077,1998-01-05T00:00:00Z,304.59,303.59,0,229,75.59,229,228,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+20224,356172N1193677W001,880076,1994-01-24T00:00:00Z,304.59,303.59,0,243,61.59,243,242,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,880075,1993-10-04T00:00:00Z,304.59,303.59,0,267,37.59,267,266,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,880074,1993-01-25T00:00:00Z,304.59,303.59,0,257,47.59,257,256,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,880073,1992-10-05T00:00:00Z,304.59,303.59,0,310,-5.41,310,309,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,880072,1992-01-27T00:00:00Z,304.59,303.59,0,247,57.59,247,246,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+20224,356172N1193677W001,880071,1991-09-30T00:00:00Z,304.59,303.59,0,315,-10.41,315,314,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+20224,356172N1193677W001,880070,1991-01-28T00:00:00Z,304.59,303.59,0,252,52.59,252,251,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,880069,1990-01-22T00:00:00Z,304.59,303.59,0,219,85.59,219,218,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+20224,356172N1193677W001,880068,1989-10-02T00:00:00Z,304.59,303.59,0,262,42.59,262,261,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+20224,356172N1193677W001,880067,1989-01-23T00:00:00Z,304.59,303.59,0,213,91.59,213,212,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+20224,356172N1193677W001,880066,1988-10-03T00:00:00Z,304.59,303.59,0,265,39.59,265,264,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+20224,356172N1193677W001,880065,1988-02-01T00:00:00Z,304.59,303.59,NA,NA,NA,NA,NA,Pump house locked,NA,NA,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,880064,1988-01-25T00:00:00Z,304.59,303.59,0,191,113.59,191,190,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+20224,356172N1193677W001,880063,1987-10-05T00:00:00Z,304.59,303.59,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+20224,356172N1193677W001,880062,1987-01-26T00:00:00Z,304.59,303.59,0,172,132.59,172,171,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+20224,356172N1193677W001,880061,1986-09-29T00:00:00Z,304.59,303.59,NA,NA,NA,NA,NA,Pump house locked,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+20224,356172N1193677W001,880060,1986-01-29T00:00:00Z,304.59,303.59,0,206,98.59,206,205,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+20224,356172N1193677W001,880059,1986-01-27T00:00:00Z,304.59,303.59,0,197,107.59,197,196,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+20224,356172N1193677W001,880058,1985-09-30T00:00:00Z,304.59,303.59,NA,NA,NA,NA,NA,Pump house locked,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+20224,356172N1193677W001,880057,1985-02-13T00:00:00Z,304.59,303.59,0,210,94.59,210,209,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+20224,356172N1193677W001,880056,1985-01-28T00:00:00Z,304.59,303.59,0,204,100.59,204,203,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+20224,356172N1193677W001,880055,1984-10-10T00:00:00Z,304.59,303.59,0,246,58.59,246,245,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+20224,356172N1193677W001,880054,1984-10-01T00:00:00Z,304.59,303.59,0,255,49.59,255,254,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+20224,356172N1193677W001,880053,1984-03-06T00:00:00Z,304.59,303.59,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+20224,356172N1193677W001,880052,1984-01-30T00:00:00Z,304.59,303.59,0,203,101.59,203,202,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+20224,356172N1193677W001,880051,1983-10-30T00:00:00Z,304.59,303.59,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+20224,356172N1193677W001,880050,1983-09-26T00:00:00Z,304.59,303.59,0,245,59.59,245,244,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+20224,356172N1193677W001,880049,1983-01-24T00:00:00Z,304.59,303.59,0,221,83.59,221,220,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,880048,1983-01-17T00:00:00Z,304.59,303.59,0,205,99.59,205,204,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1070,TENNECO-WEST
+20224,356172N1193677W001,880047,1982-09-27T00:00:00Z,304.59,303.59,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,880046,1982-08-11T00:00:00Z,304.59,303.59,0,306,-1.41,306,305,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1070,TENNECO-WEST
+20224,356172N1193677W001,880045,1982-02-02T00:00:00Z,304.59,303.59,0,239,65.59,239,238,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+20224,356172N1193677W001,880044,1982-01-25T00:00:00Z,304.59,303.59,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+20224,356172N1193677W001,880043,1981-09-21T00:00:00Z,304.59,303.59,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+20224,356172N1193677W001,880042,1981-08-11T00:00:00Z,304.59,303.59,0,332,-27.41,332,331,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+20224,356172N1193677W001,880041,1981-01-26T00:00:00Z,304.59,303.59,0,249,55.59,249,248,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,880040,1981-01-20T00:00:00Z,304.59,303.59,0,236,68.59,236,235,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1070,TENNECO-WEST
+20224,356172N1193677W001,880039,1980-09-22T00:00:00Z,304.59,303.59,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,880038,1980-08-05T00:00:00Z,304.59,303.59,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1070,TENNECO-WEST
+20224,356172N1193677W001,880037,1980-01-22T00:00:00Z,304.59,303.59,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1070,TENNECO-WEST
+20224,356172N1193677W001,880036,1980-01-21T00:00:00Z,304.59,303.59,0,250,54.59,250,249,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,880035,1979-09-24T00:00:00Z,304.59,303.59,0,282,22.59,282,281,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,880034,1979-08-20T00:00:00Z,304.59,303.59,0,328,-23.41,328,327,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1070,TENNECO-WEST
+20224,356172N1193677W001,880033,1979-01-24T00:00:00Z,304.59,303.59,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,880032,1979-01-22T00:00:00Z,304.59,303.59,0,257,47.59,257,256,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,880031,1978-01-25T00:00:00Z,304.59,303.59,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,880030,1978-01-24T00:00:00Z,304.59,303.59,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,880029,1977-10-04T00:00:00Z,304.59,303.59,0,328,-23.41,328,327,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,880028,1977-10-03T00:00:00Z,304.59,303.59,0,330,-25.41,330,329,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,880027,1977-06-01T00:00:00Z,304.59,303.59,0,327.7,-23.11,327.7,326.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,880026,1977-01-26T00:00:00Z,304.59,303.59,0,255,49.59,255,254,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,880025,1977-01-25T00:00:00Z,304.59,303.59,0,311,-6.41,311,310,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,880024,1976-10-04T00:00:00Z,304.59,303.59,0,309.7,-5.11,309.7,308.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,880023,1976-01-26T00:00:00Z,304.59,303.59,0,278,26.59,278,277,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+20224,356172N1193677W001,880022,1975-09-22T00:00:00Z,304.59,303.59,0,304.7,-0.11,304.7,303.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,880021,1975-01-30T00:00:00Z,304.59,303.59,0,259,45.59,259,258,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+20224,356172N1193677W001,880020,1975-01-27T00:00:00Z,304.59,303.59,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,880019,1974-09-23T00:00:00Z,304.59,303.59,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,880018,1974-02-04T00:00:00Z,304.59,303.59,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,880017,1973-01-29T00:00:00Z,304.59,303.59,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,880016,1972-09-26T00:00:00Z,304.59,303.59,0,315,-10.41,315,314,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+20224,356172N1193677W001,880015,1972-09-25T00:00:00Z,304.59,303.59,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,880014,1972-01-25T00:00:00Z,304.59,303.59,0,219,85.59,219,218,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+20224,356172N1193677W001,880013,1971-09-24T00:00:00Z,304.59,303.59,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+20224,356172N1193677W001,880012,1971-09-20T00:00:00Z,304.59,303.59,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,880011,1971-01-25T00:00:00Z,304.59,303.59,0,225,79.59,225,224,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,880010,1970-09-28T00:00:00Z,304.59,303.59,0,287,17.59,287,286,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,880009,1970-01-21T00:00:00Z,304.59,303.59,0,206,98.59,206,205,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,880008,1969-09-24T00:00:00Z,304.59,303.59,0,267,37.59,267,266,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,880007,1969-09-22T00:00:00Z,304.59,303.59,0,263,41.59,263,262,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,880006,1969-02-03T00:00:00Z,304.59,303.59,0,195,109.59,195,194,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,880005,1969-01-30T00:00:00Z,304.59,303.59,0,205,99.59,205,204,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,880004,1968-09-23T00:00:00Z,304.59,303.59,0,282,22.59,282,281,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,880003,1968-09-10T00:00:00Z,304.59,303.59,0,304,0.59,304,303,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,880002,1968-02-02T00:00:00Z,304.59,303.59,0,210,94.59,210,209,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,880001,1968-01-31T00:00:00Z,304.59,303.59,0,201,103.59,201,200,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,880000,1967-09-25T00:00:00Z,304.59,303.59,0,267,37.59,267,266,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,879999,1967-08-14T00:00:00Z,304.59,303.59,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,879998,1967-07-17T00:00:00Z,304.59,303.59,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,879997,1967-06-15T00:00:00Z,304.59,303.59,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,879996,1967-05-17T00:00:00Z,304.59,303.59,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,879995,1967-04-20T00:00:00Z,304.59,303.59,0,213,91.59,213,212,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,879994,1967-01-30T00:00:00Z,304.59,303.59,0,216,88.59,216,215,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,879993,1967-01-23T00:00:00Z,304.59,303.59,0,208,96.59,208,207,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879992,1966-11-15T00:00:00Z,304.59,303.59,0,226,78.59,226,225,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,879991,1966-10-18T00:00:00Z,304.59,303.59,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,879990,1966-09-27T00:00:00Z,304.59,303.59,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,879989,1966-02-16T00:00:00Z,304.59,303.59,0,190,114.59,190,189,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879988,1966-01-27T00:00:00Z,304.59,303.59,0,198,106.59,198,197,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5033,North Kern Water Storage District
+20224,356172N1193677W001,879987,1965-12-16T00:00:00Z,304.59,303.59,0,191,113.59,191,190,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5033,North Kern Water Storage District
+20224,356172N1193677W001,879986,1965-11-16T00:00:00Z,304.59,303.59,0,218,86.59,218,217,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5033,North Kern Water Storage District
+20224,356172N1193677W001,879985,1965-09-29T00:00:00Z,304.59,303.59,0,277,27.59,277,276,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+20224,356172N1193677W001,879984,1965-08-17T00:00:00Z,304.59,303.59,0,290,14.59,290,289,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+20224,356172N1193677W001,879983,1965-07-26T00:00:00Z,304.59,303.59,0,284,20.59,284,283,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+20224,356172N1193677W001,879982,1965-06-18T00:00:00Z,304.59,303.59,0,268,36.59,268,267,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+20224,356172N1193677W001,879981,1965-01-26T00:00:00Z,304.59,303.59,0,180,124.59,180,179,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,879980,1964-11-17T00:00:00Z,304.59,303.59,NA,NA,NA,NA,NA,Pump house locked,NA,NA,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,879979,1964-10-14T00:00:00Z,304.59,303.59,0,232,72.59,232,231,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,879978,1964-09-21T00:00:00Z,304.59,303.59,NA,NA,NA,NA,NA,Pump house locked,NA,NA,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,879977,1964-09-08T00:00:00Z,304.59,303.59,0,290,14.59,290,289,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879976,1964-08-24T00:00:00Z,304.59,303.59,NA,NA,NA,NA,NA,Pump house locked,NA,NA,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,879975,1964-07-15T00:00:00Z,304.59,303.59,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,879974,1964-02-04T00:00:00Z,304.59,303.59,0,187,117.59,187,186,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879973,1963-07-02T00:00:00Z,304.59,303.59,0,252,52.59,252,251,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879972,1963-02-06T00:00:00Z,304.59,303.59,0,192,112.59,192,191,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879971,1963-01-28T00:00:00Z,304.59,303.59,NA,NA,NA,NA,NA,Pump house locked,NA,NA,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,879970,1962-12-17T00:00:00Z,304.59,303.59,0,183,121.59,183,182,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,879969,1962-11-14T00:00:00Z,304.59,303.59,0,213,91.59,213,212,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,879968,1962-10-15T00:00:00Z,304.59,303.59,0,222,82.59,222,221,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879967,1962-10-10T00:00:00Z,304.59,303.59,0,229,75.59,229,228,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,879966,1962-09-17T00:00:00Z,304.59,303.59,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,879965,1962-08-31T00:00:00Z,304.59,303.59,0,283,21.59,283,282,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879964,1962-05-14T00:00:00Z,304.59,303.59,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,879963,1962-03-18T00:00:00Z,304.59,303.59,0,220,84.59,220,219,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879962,1962-02-06T00:00:00Z,304.59,303.59,0,172,132.59,172,171,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879961,1961-10-18T00:00:00Z,304.59,303.59,0,230,74.59,230,229,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879960,1961-10-04T00:00:00Z,304.59,303.59,0,230.5,74.09,230.5,229.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,879959,1961-09-06T00:00:00Z,304.59,303.59,0,277,27.59,277,276,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879958,1961-06-04T00:00:00Z,304.59,303.59,0,249,55.59,249,248,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,879957,1961-02-06T00:00:00Z,304.59,303.59,0,163,141.59,163,162,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879956,1960-10-12T00:00:00Z,304.59,303.59,0,218.2,86.39,218.2,217.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+20224,356172N1193677W001,879955,1960-02-05T00:00:00Z,304.59,303.59,0,146.8,157.79,146.8,145.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879954,1959-09-04T00:00:00Z,304.59,303.59,0,237.8,66.79,237.8,236.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879953,1959-01-20T00:00:00Z,304.59,303.59,0,138.8,165.79,138.8,137.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879952,1958-09-03T00:00:00Z,304.59,303.59,0,223.8,80.79,223.8,222.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879951,1958-03-18T00:00:00Z,304.59,303.59,0,148.8,155.79,148.8,147.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879950,1958-03-04T00:00:00Z,304.59,303.59,0,134.3,170.29,134.3,133.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879949,1958-02-18T00:00:00Z,304.59,303.59,0,135.8,168.79,135.8,134.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879948,1958-02-04T00:00:00Z,304.59,303.59,0,139.8,164.79,139.8,138.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879947,1958-01-16T00:00:00Z,304.59,303.59,0,145.8,158.79,145.8,144.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879946,1957-12-12T00:00:00Z,304.59,303.59,0,157.3,147.29,157.3,156.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879945,1957-09-19T00:00:00Z,304.59,303.59,0,226.3,78.29,226.3,225.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879944,1957-08-21T00:00:00Z,304.59,303.59,0,254.8,49.79,254.8,253.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879943,1957-07-18T00:00:00Z,304.59,303.59,0,267.3,37.29,267.3,266.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879942,1957-06-20T00:00:00Z,304.59,303.59,0,241.8,62.79,241.8,240.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879941,1957-05-21T00:00:00Z,304.59,303.59,0,182.8,121.79,182.8,181.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879940,1957-04-24T00:00:00Z,304.59,303.59,0,196.8,107.79,196.8,195.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879939,1957-04-18T00:00:00Z,304.59,303.59,0,200.8,103.79,200.8,199.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879938,1957-03-20T00:00:00Z,304.59,303.59,0,178.8,125.79,178.8,177.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879937,1957-02-11T00:00:00Z,304.59,303.59,0,135.8,168.79,135.8,134.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879936,1956-11-20T00:00:00Z,304.59,303.59,0,158.8,145.79,158.8,157.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879935,1956-10-18T00:00:00Z,304.59,303.59,0,179.8,124.79,179.8,178.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879934,1956-03-06T00:00:00Z,304.59,303.59,0,144.8,159.79,144.8,143.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879933,1956-02-21T00:00:00Z,304.59,303.59,0,138.8,165.79,138.8,137.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879932,1956-02-08T00:00:00Z,304.59,303.59,0,132.8,171.79,132.8,131.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879931,1955-12-21T00:00:00Z,304.59,303.59,0,143.8,160.79,143.8,142.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879930,1955-11-21T00:00:00Z,304.59,303.59,0,156.8,147.79,156.8,155.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879929,1955-10-05T00:00:00Z,304.59,303.59,0,195.8,108.79,195.8,194.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879928,1955-08-17T00:00:00Z,304.59,303.59,0,235.8,68.79,235.8,234.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879927,1955-03-03T00:00:00Z,304.59,303.59,0,126,178.59,126,125,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879926,1955-02-03T00:00:00Z,304.59,303.59,0,118.1,186.49,118.1,117.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879925,1954-12-17T00:00:00Z,304.59,303.59,0,132.8,171.79,132.8,131.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879924,1954-11-09T00:00:00Z,304.59,303.59,0,157.8,146.79,157.8,156.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879923,1954-10-20T00:00:00Z,304.59,303.59,0,166.8,137.79,166.8,165.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879922,1954-09-07T00:00:00Z,304.59,303.59,0,217.8,86.79,217.8,216.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879921,1954-02-17T00:00:00Z,304.59,303.59,0,112.8,191.79,112.8,111.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879920,1953-12-07T00:00:00Z,304.59,303.59,0,125.2,179.39,125.2,124.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879919,1953-11-05T00:00:00Z,304.59,303.59,0,144.8,159.79,144.8,143.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879918,1953-10-20T00:00:00Z,304.59,303.59,0,152.8,151.79,152.8,151.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879917,1953-08-18T00:00:00Z,304.59,303.59,0,222.8,81.79,222.8,221.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879916,1953-07-02T00:00:00Z,304.59,303.59,0,182.8,121.79,182.8,181.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879915,1953-04-21T00:00:00Z,304.59,303.59,0,159.8,144.79,159.8,158.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879914,1953-02-05T00:00:00Z,304.59,303.59,0,106.6,197.99,106.6,105.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879913,1952-12-11T00:00:00Z,304.59,303.59,0,117.5,187.09,117.5,116.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879912,1952-11-06T00:00:00Z,304.59,303.59,0,135.4,169.19,135.4,134.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879911,1952-10-20T00:00:00Z,304.59,303.59,0,158.5,146.09,158.5,157.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879910,1952-08-25T00:00:00Z,304.59,303.59,0,211.8,92.79,211.8,210.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+20224,356172N1193677W001,879909,1952-06-23T00:00:00Z,304.59,303.59,0,164.8,139.79,164.8,163.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY

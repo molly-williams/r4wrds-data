@@ -1,0 +1,4 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+13621,368638N1199129W001,1989130,2014-02-13T13:15:00Z,303.93,303.43,0,139.5,164.43,139.5,139,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,624,Bureau of Reclamation
+13621,368638N1199129W001,1989552,2013-03-13T13:00:00Z,303.93,303.43,0,125,178.93,125,124.5,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,624,Bureau of Reclamation
+13621,368638N1199129W001,1989915,2012-02-06T14:00:00Z,303.93,303.43,0,120.7,183.23,120.7,120.2,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,624,Bureau of Reclamation

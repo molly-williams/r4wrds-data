@@ -1,0 +1,7 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+51326,387830N1202510W001,2462649,2019-03-14T11:15:00Z,178,177,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,no pump,1,Department of Water Resources
+51326,387830N1202510W001,2431946,2018-10-19T00:00:00Z,178,177,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+51326,387830N1202510W001,2256850,2017-03-10T11:20:00Z,178,177,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,no access to well from property owner,624,Bureau of Reclamation
+51326,387830N1202510W001,2233661,2016-10-18T08:45:00Z,178,177,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,Remove from well group - No longer measured.,624,Bureau of Reclamation
+51326,387830N1202510W001,2197656,2016-03-14T18:20:00Z,178,177,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,Well Destroyed,624,Bureau of Reclamation
+51326,387830N1202510W001,2176320,2015-10-13T10:30:00Z,178,177,8,127,59,119,118,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,Pipe almost buried,624,Bureau of Reclamation

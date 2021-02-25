@@ -1,0 +1,85 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+12394,371002N1208574W001,2135096,2015-03-23T17:15:00Z,99.81,99.61,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,2107108,2014-10-22T12:00:00Z,99.81,99.61,NA,NA,NA,NA,NA,Dry well,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1881095,2014-03-17T00:00:00Z,99.81,99.61,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1812845,2013-12-16T00:00:00Z,99.81,99.61,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1723156,2013-03-22T12:00:00Z,99.81,99.61,NA,NA,NA,NA,NA,Dry well,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,66591,2012-03-13T12:00:00Z,99.81,99.61,0,8.3,91.51,8.3,8.1,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364559,2011-11-09T00:00:00Z,99.81,99.61,NA,NA,NA,NA,NA,Dry well,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364558,2011-10-10T00:00:00Z,99.81,99.61,NA,NA,NA,NA,NA,Dry well,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364557,2011-03-07T00:00:00Z,99.81,99.61,NA,NA,NA,NA,NA,Dry well,NA,NA,1,Department of Water Resources,@ 8.0 FT,1,Department of Water Resources
+12394,371002N1208574W001,1364556,2010-11-30T00:00:00Z,99.81,99.61,0,8,91.81,8,7.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,DRY,1,Department of Water Resources
+12394,371002N1208574W001,1364555,2010-11-29T00:00:00Z,99.81,99.61,0,8,91.81,8,7.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,DRY,1,Department of Water Resources
+12394,371002N1208574W001,1364554,2010-07-13T00:00:00Z,99.81,99.61,NA,NA,NA,NA,NA,Dry well,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364553,2010-03-24T00:00:00Z,99.81,99.61,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364552,2009-11-24T00:00:00Z,99.81,99.61,0,8.5,91.31,8.5,8.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364550,2009-03-16T00:00:00Z,99.81,99.61,0,8.5,91.31,8.5,8.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,MUDD,1,Department of Water Resources
+12394,371002N1208574W001,1364551,2008-11-12T00:00:00Z,99.81,99.61,NA,NA,NA,NA,NA,Dry well,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364548,2008-03-25T00:00:00Z,99.81,99.61,0,3.1,96.71,3.1,2.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364549,2007-11-12T00:00:00Z,99.81,99.61,0,2.2,97.61,2.2,2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364547,2007-04-11T00:00:00Z,99.81,99.61,0,1.6,98.21,1.6,1.4,Recharge or surface water effects near well,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364546,2006-11-30T00:00:00Z,99.81,99.61,0,7.9,91.91,7.9,7.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364545,2006-04-19T00:00:00Z,99.81,99.61,0,7.7,92.11,7.7,7.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364544,2005-04-06T00:00:00Z,99.81,99.61,0,7.6,92.21,7.6,7.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364543,2004-03-17T00:00:00Z,99.81,99.61,0,8.3,91.51,8.3,8.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364542,2003-03-21T00:00:00Z,99.81,99.61,0,7.1,92.71,7.1,6.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364540,2002-03-19T00:00:00Z,99.81,99.61,0,7.3,92.51,7.3,7.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364539,2001-11-27T00:00:00Z,99.81,99.61,0,8.5,91.31,8.5,8.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364541,2001-03-19T00:00:00Z,99.81,99.61,0,8.4,91.41,8.4,8.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364538,2000-03-16T00:00:00Z,99.81,99.61,0,8.2,91.61,8.2,8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364537,1999-11-09T00:00:00Z,99.81,99.61,0,11.2,88.61,11.2,11,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364536,1999-03-17T00:00:00Z,99.81,99.61,0,7.9,91.91,7.9,7.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364535,1998-11-17T00:00:00Z,99.81,99.61,0,9.3,90.51,9.3,9.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364534,1998-03-17T00:00:00Z,99.81,99.61,0,6.4,93.41,6.4,6.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364533,1997-11-14T00:00:00Z,99.81,99.61,0,14.9,84.91,14.9,14.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364532,1997-03-12T00:00:00Z,99.81,99.61,0,10.1,89.71,10.1,9.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364531,1996-11-14T00:00:00Z,99.81,99.61,0,13.7,86.11,13.7,13.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364530,1996-03-27T00:00:00Z,99.81,99.61,0,13.2,86.61,13.2,13,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364529,1995-11-16T00:00:00Z,99.81,99.61,0,13.2,86.61,13.2,13,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364528,1995-03-29T00:00:00Z,99.81,99.61,0,12.2,87.61,12.2,12,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364527,1994-11-15T00:00:00Z,99.81,99.61,0,16.2,83.61,16.2,16,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364526,1993-11-03T00:00:00Z,99.81,99.61,0,14.7,85.11,14.7,14.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364525,1993-04-13T00:00:00Z,99.81,99.61,0,21.7,78.11,21.7,21.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364524,1992-10-20T00:00:00Z,99.81,99.61,0,20.7,79.11,20.7,20.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364523,1992-02-04T00:00:00Z,99.81,99.61,0,13.7,86.11,13.7,13.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364522,1991-10-22T00:00:00Z,99.81,99.61,0,18.2,81.61,18.2,18,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364521,1991-01-03T00:00:00Z,99.81,99.61,0,14.2,85.61,14.2,14,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364520,1990-10-23T00:00:00Z,99.81,99.61,0,16.2,83.61,16.2,16,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364519,1990-02-14T00:00:00Z,99.81,99.61,0,11.2,88.61,11.2,11,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364518,1989-10-30T00:00:00Z,99.81,99.61,0,17.7,82.11,17.7,17.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364517,1989-03-22T00:00:00Z,99.81,99.61,0,11.2,88.61,11.2,11,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364516,1988-11-02T00:00:00Z,99.81,99.61,0,12.2,87.61,12.2,12,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364515,1988-03-15T00:00:00Z,99.81,99.61,0,18.2,81.61,18.2,18,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364514,1987-11-03T00:00:00Z,99.81,99.61,0,12.2,87.61,12.2,12,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364513,1987-03-26T00:00:00Z,99.81,99.61,0,10.7,89.11,10.7,10.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364512,1986-10-22T00:00:00Z,99.81,99.61,0,11.5,88.31,11.5,11.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364511,1986-03-27T00:00:00Z,99.81,99.61,0,8.5,91.31,8.5,8.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364510,1985-10-24T00:00:00Z,99.81,99.61,0,11.7,88.11,11.7,11.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364509,1985-04-17T00:00:00Z,99.81,99.61,0,18,81.81,18,17.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364508,1984-12-06T00:00:00Z,99.81,99.61,0,10,89.81,10,9.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364507,1983-11-09T00:00:00Z,99.81,99.61,0,12.5,87.31,12.5,12.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364506,1983-04-21T00:00:00Z,99.81,99.61,0,13,86.81,13,12.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364505,1982-11-04T00:00:00Z,99.81,99.61,0,13,86.81,13,12.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364504,1982-04-21T00:00:00Z,99.81,99.61,0,10.7,89.11,10.7,10.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364503,1981-10-21T00:00:00Z,99.81,99.61,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364502,1981-04-03T00:00:00Z,99.81,99.61,0,14,85.81,14,13.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364501,1980-10-21T00:00:00Z,99.81,99.61,0,16,83.81,16,15.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364500,1980-03-20T00:00:00Z,99.81,99.61,0,11,88.81,11,10.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364499,1979-10-17T00:00:00Z,99.81,99.61,0,18,81.81,18,17.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364498,1979-03-13T00:00:00Z,99.81,99.61,0,12,87.81,12,11.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364497,1978-09-26T00:00:00Z,99.81,99.61,0,17.8,82.01,17.8,17.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364496,1978-04-11T00:00:00Z,99.81,99.61,0,11,88.81,11,10.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364495,1977-10-18T00:00:00Z,99.81,99.61,0,23.2,76.61,23.2,23,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364494,1976-10-14T00:00:00Z,99.81,99.61,0,12.7,87.11,12.7,12.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364493,1976-08-03T00:00:00Z,99.81,99.61,0,11.2,88.61,11.2,11,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364492,1976-03-16T00:00:00Z,99.81,99.61,0,11.7,88.11,11.7,11.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364491,1975-10-15T00:00:00Z,99.81,99.61,0,16.2,83.61,16.2,16,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364490,1975-03-26T00:00:00Z,99.81,99.61,0,11.7,88.11,11.7,11.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364489,1974-10-16T00:00:00Z,99.81,99.61,0,13.7,86.11,13.7,13.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364488,1974-04-10T00:00:00Z,99.81,99.61,0,12.2,87.61,12.2,12,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364487,1973-10-03T00:00:00Z,99.81,99.61,0,14.2,85.61,14.2,14,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364486,1973-04-11T00:00:00Z,99.81,99.61,0,13,86.81,13,12.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364485,1972-10-11T00:00:00Z,99.81,99.61,0,19,80.81,19,18.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364484,1972-03-09T00:00:00Z,99.81,99.61,0,14.2,85.61,14.2,14,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364483,1971-10-18T00:00:00Z,99.81,99.61,0,20.2,79.61,20.2,20,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+12394,371002N1208574W001,1364482,1971-06-08T00:00:00Z,99.81,99.61,0,15.9,83.91,15.9,15.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources

@@ -1,0 +1,5 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+46931,365741N1203017W001,1877743,2013-11-19T11:33:00Z,198,198,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,5100,Westlands Water District,NA,5100,Westlands Water District
+46931,365741N1203017W001,93990,2013-01-17T12:30:00Z,198,198,NA,NA,NA,NA,NA,Unable to locate well,NA,NA,5100,Westlands Water District,NA,5100,Westlands Water District
+46931,365741N1203017W001,55900,2012-04-26T09:22:00Z,198,198,0,262,-64,262,262,NA,Acoustic or sonic sounder,Water level accuracy to nearest foot,5100,Westlands Water District,NA,5100,Westlands Water District
+46931,365741N1203017W001,36185,2011-11-22T00:00:00Z,198,198,0,206,-8,206,206,Other,Acoustic or sonic sounder,Water level accuracy to nearest foot,5100,Westlands Water District,Unknown problem,5100,Westlands Water District

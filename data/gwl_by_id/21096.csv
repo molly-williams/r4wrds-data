@@ -1,0 +1,18 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+21096,361519N1202632W001,938124,1974-02-28T00:00:00Z,579.02,577.02,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+21096,361519N1202632W001,938123,1973-02-09T00:00:00Z,579.02,577.02,NA,NA,NA,NA,NA,Dry well,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+21096,361519N1202632W001,938122,1972-01-17T00:00:00Z,579.02,577.02,NA,NA,NA,NA,NA,Dry well,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+21096,361519N1202632W001,938121,1971-01-14T00:00:00Z,579.02,577.02,0,214,365.02,214,212,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+21096,361519N1202632W001,938120,1969-12-17T00:00:00Z,579.02,577.02,0,210,369.02,210,208,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+21096,361519N1202632W001,938119,1969-04-02T00:00:00Z,579.02,577.02,0,206.5,372.52,206.5,204.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+21096,361519N1202632W001,938118,1967-02-09T00:00:00Z,579.02,577.02,0,212,367.02,212,210,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+21096,361519N1202632W001,938117,1966-02-17T00:00:00Z,579.02,577.02,0,201,378.02,201,199,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+21096,361519N1202632W001,938116,1964-12-18T00:00:00Z,579.02,577.02,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+21096,361519N1202632W001,938115,1963-01-08T00:00:00Z,579.02,577.02,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+21096,361519N1202632W001,938114,1962-03-21T00:00:00Z,579.02,577.02,0,171.2,407.82,171.2,169.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+21096,361519N1202632W001,938113,1961-05-04T00:00:00Z,579.02,577.02,0,178,401.02,178,176,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+21096,361519N1202632W001,938112,1960-10-11T00:00:00Z,579.02,577.02,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+21096,361519N1202632W001,938111,1960-05-04T00:00:00Z,579.02,577.02,0,143.1,435.92,143.1,141.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+21096,361519N1202632W001,938110,1959-10-12T00:00:00Z,579.02,577.02,0,178.4,400.62,178.4,176.4,Pumping,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+21096,361519N1202632W001,938109,1959-05-06T00:00:00Z,579.02,577.02,0,146.3,432.72,146.3,144.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+21096,361519N1202632W001,938108,1958-10-23T00:00:00Z,579.02,577.02,0,147.3,431.72,147.3,145.3,Oil or foreign substance in casing,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey

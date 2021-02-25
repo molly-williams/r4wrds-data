@@ -1,0 +1,15 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+21104,361411N1202596W001,938203,1975-01-03T00:00:00Z,588.53,588.03,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+21104,361411N1202596W001,938202,1974-02-28T00:00:00Z,588.53,588.03,0,210.5,378.03,210.5,210,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+21104,361411N1202596W001,938201,1973-02-05T00:00:00Z,588.53,588.03,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+21104,361411N1202596W001,938200,1972-01-17T00:00:00Z,588.53,588.03,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+21104,361411N1202596W001,938199,1969-12-17T00:00:00Z,588.53,588.03,0,187,401.53,187,186.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+21104,361411N1202596W001,938198,1969-04-02T00:00:00Z,588.53,588.03,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+21104,361411N1202596W001,938197,1968-03-05T00:00:00Z,588.53,588.03,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+21104,361411N1202596W001,938196,1966-02-16T00:00:00Z,588.53,588.03,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+21104,361411N1202596W001,938195,1964-12-18T00:00:00Z,588.53,588.03,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+21104,361411N1202596W001,938194,1964-01-20T00:00:00Z,588.53,588.03,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+21104,361411N1202596W001,938193,1962-03-22T00:00:00Z,588.53,588.03,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+21104,361411N1202596W001,938192,1959-10-12T00:00:00Z,588.53,588.03,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5167,United States Geological Survey
+21104,361411N1202596W001,938191,1959-05-06T00:00:00Z,588.53,588.03,0,215.6,372.93,215.6,215.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+21104,361411N1202596W001,938190,1958-10-22T00:00:00Z,588.53,588.03,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5167,United States Geological Survey

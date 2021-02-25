@@ -1,0 +1,5 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+49073,348430N1194770W001,2125536,2015-03-12T00:00:00Z,2852.5,2852,NA,NA,NA,NA,NA,Special/Other,NA,NA,5082,Santa Barbara County Water Agency,owner revoked access,5082,Santa Barbara County Water Agency
+49073,348430N1194770W001,2107871,2014-03-20T00:00:00Z,2852.5,2852,0,99.75,2752.75,99.75,99.25,NA,Electric sounder measurement,Water level accuracy to nearest hundredth of a foot,5082,Santa Barbara County Water Agency,NA,5082,Santa Barbara County Water Agency
+49073,348430N1194770W001,2107870,2013-03-26T00:00:00Z,2852.5,2852,0,102.9,2749.6,102.9,102.4,Pumping,Electric sounder measurement,Water level accuracy to nearest hundredth of a foot,5082,Santa Barbara County Water Agency,NA,5082,Santa Barbara County Water Agency
+49073,348430N1194770W001,2107869,2012-03-05T00:00:00Z,2852.5,2852,0,83.94,2768.56,83.94,83.44,NA,Electric sounder measurement,Water level accuracy to nearest hundredth of a foot,5082,Santa Barbara County Water Agency,NA,5082,Santa Barbara County Water Agency

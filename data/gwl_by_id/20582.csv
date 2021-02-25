@@ -1,0 +1,5 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+20582,365300N1203338W001,2109462,2014-12-08T14:15:00Z,269.7,269.7,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,5100,Westlands Water District,NA,5100,Westlands Water District
+20582,365300N1203338W001,1823756,2014-01-03T14:40:00Z,269.7,269.7,0,360,-90.3,360,360,NA,Acoustic or sonic sounder,Water level accuracy to nearest foot,5100,Westlands Water District,NA,5100,Westlands Water District
+20582,365300N1203338W001,94052,2013-01-04T13:05:00Z,269.7,269.7,NA,NA,NA,NA,NA,Special/Other,NA,NA,5100,Westlands Water District,Capped,5100,Westlands Water District
+20582,365300N1203338W001,36243,2011-12-12T09:33:00Z,269.7,269.7,0,242,27.7,242,242,NA,Acoustic or sonic sounder,Water level accuracy to nearest foot,5100,Westlands Water District,NA,5100,Westlands Water District

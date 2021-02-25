@@ -1,0 +1,6 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+32141,369421N1207460W001,1265253,1962-03-27T00:00:00Z,133.09,132.39,NA,NA,NA,NA,NA,Unable to locate well,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+32141,369421N1207460W001,1265252,1961-09-27T00:00:00Z,133.09,132.39,0,0.99,132.1,0.99,0.29,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+32141,369421N1207460W001,1265251,1960-10-01T00:00:00Z,133.09,132.39,0,0.99,132.1,0.99,0.29,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+32141,369421N1207460W001,1265250,1960-09-28T00:00:00Z,133.09,132.39,0,0.99,132.1,0.99,0.29,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+32141,369421N1207460W001,1265249,1959-09-21T00:00:00Z,133.09,132.39,0,1.39,131.7,1.39,0.69,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation

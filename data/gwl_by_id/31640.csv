@@ -1,0 +1,39 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+31640,370463N1200357W001,1228973,1985-01-25T00:00:00Z,338.3,337.3,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+31640,370463N1200357W001,1228972,1984-10-01T00:00:00Z,338.3,337.3,0,118.4,219.9,118.4,117.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+31640,370463N1200357W001,1228971,1984-02-01T00:00:00Z,338.3,337.3,0,105.6,232.7,105.6,104.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+31640,370463N1200357W001,1228970,1983-09-21T00:00:00Z,338.3,337.3,0,106.6,231.7,106.6,105.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+31640,370463N1200357W001,1228969,1983-01-20T00:00:00Z,338.3,337.3,0,105.6,232.7,105.6,104.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,868,Madera Irrigation District
+31640,370463N1200357W001,1228968,1982-09-27T00:00:00Z,338.3,337.3,0,110.8,227.5,110.8,109.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,868,Madera Irrigation District
+31640,370463N1200357W001,1228967,1982-01-21T00:00:00Z,338.3,337.3,0,112.7,225.6,112.7,111.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+31640,370463N1200357W001,1228966,1981-09-21T00:00:00Z,338.3,337.3,0,119,219.3,119,118,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+31640,370463N1200357W001,1228965,1981-01-26T00:00:00Z,338.3,337.3,0,110,228.3,110,109,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,868,Madera Irrigation District
+31640,370463N1200357W001,1228964,1980-09-22T00:00:00Z,338.3,337.3,0,111.9,226.4,111.9,110.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,868,Madera Irrigation District
+31640,370463N1200357W001,1228963,1980-01-23T00:00:00Z,338.3,337.3,0,111.1,227.2,111.1,110.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,868,Madera Irrigation District
+31640,370463N1200357W001,1228962,1979-09-20T00:00:00Z,338.3,337.3,0,118.5,219.8,118.5,117.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,868,Madera Irrigation District
+31640,370463N1200357W001,1228961,1979-01-23T00:00:00Z,338.3,337.3,0,111.5,226.8,111.5,110.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,868,Madera Irrigation District
+31640,370463N1200357W001,1228960,1978-10-02T00:00:00Z,338.3,337.3,0,116.8,221.5,116.8,115.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,868,Madera Irrigation District
+31640,370463N1200357W001,1228959,1978-01-20T00:00:00Z,338.3,337.3,0,118.4,219.9,118.4,117.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,868,Madera Irrigation District
+31640,370463N1200357W001,1228958,1977-10-03T00:00:00Z,338.3,337.3,0,124.4,213.9,124.4,123.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,868,Madera Irrigation District
+31640,370463N1200357W001,1228957,1977-01-18T00:00:00Z,338.3,337.3,0,114.6,223.7,114.6,113.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,868,Madera Irrigation District
+31640,370463N1200357W001,1228956,1976-10-01T00:00:00Z,338.3,337.3,0,114.6,223.7,114.6,113.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,868,Madera Irrigation District
+31640,370463N1200357W001,1228955,1976-01-20T00:00:00Z,338.3,337.3,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+31640,370463N1200357W001,1228954,1975-10-06T00:00:00Z,338.3,337.3,0,109.6,228.7,109.6,108.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+31640,370463N1200357W001,1228953,1975-01-21T00:00:00Z,338.3,337.3,0,111.2,227.1,111.2,110.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+31640,370463N1200357W001,1228952,1974-09-27T00:00:00Z,338.3,337.3,0,107.8,230.5,107.8,106.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+31640,370463N1200357W001,1228951,1974-02-08T00:00:00Z,338.3,337.3,0,102.9,235.4,102.9,101.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+31640,370463N1200357W001,1228950,1973-10-09T00:00:00Z,338.3,337.3,0,104,234.3,104,103,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+31640,370463N1200357W001,1228949,1973-02-26T00:00:00Z,338.3,337.3,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+31640,370463N1200357W001,1228948,1972-10-16T00:00:00Z,338.3,337.3,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+31640,370463N1200357W001,1228947,1972-02-10T00:00:00Z,338.3,337.3,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+31640,370463N1200357W001,1228946,1971-10-13T00:00:00Z,338.3,337.3,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+31640,370463N1200357W001,1228945,1970-10-13T00:00:00Z,338.3,337.3,NA,NA,NA,NA,NA,Dry well,NA,NA,1,Department of Water Resources,NA,743,County of Madera
+31640,370463N1200357W001,1228944,1970-02-11T00:00:00Z,338.3,337.3,0,90.1,248.2,90.1,89.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+31640,370463N1200357W001,1228943,1969-10-02T00:00:00Z,338.3,337.3,0,93.3,245,93.3,92.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+31640,370463N1200357W001,1228942,1969-02-17T00:00:00Z,338.3,337.3,0,96,242.3,96,95,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+31640,370463N1200357W001,1228941,1968-02-01T00:00:00Z,338.3,337.3,0,93.5,244.8,93.5,92.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+31640,370463N1200357W001,1228940,1967-02-10T00:00:00Z,338.3,337.3,0,91.6,246.7,91.6,90.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+31640,370463N1200357W001,1228939,1966-02-03T00:00:00Z,338.3,337.3,0,88,250.3,88,87,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+31640,370463N1200357W001,1228938,1965-02-08T00:00:00Z,338.3,337.3,0,86,252.3,86,85,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+31640,370463N1200357W001,1228937,1964-10-05T00:00:00Z,338.3,337.3,0,89,249.3,89,88,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+31640,370463N1200357W001,1228936,1964-02-11T00:00:00Z,338.3,337.3,0,82.9,255.4,82.9,81.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation

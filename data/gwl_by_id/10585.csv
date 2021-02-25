@@ -1,0 +1,12 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+10585,349808N1166804W001,2298953,2018-03-06T15:20:00Z,1802,1802,0,107.6,1694.4,107.6,107.6,NA,Unknown,Water level accuracy to nearest tenth of a foot,5161,Mojave Water Agency,NA,783,US Geological Survey
+10585,349808N1166804W001,2206471,2016-03-09T08:56:00Z,1802,1802,0,107.09,1694.91,107.09,107.09,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,5161,Mojave Water Agency,NA,783,US Geological Survey
+10585,349808N1166804W001,2096358,2012-03-16T18:30:00Z,1802,1802,0,106.19,1695.81,106.19,106.19,NA,Unknown,Water level accuracy to nearest tenth of a foot,5161,Mojave Water Agency,NA,5161,Mojave Water Agency
+10585,349808N1166804W001,2096357,2010-03-12T00:00:00Z,1802,1802,0,106.79,1695.21,106.79,106.79,NA,Unknown,Water level accuracy to nearest tenth of a foot,5161,Mojave Water Agency,NA,5161,Mojave Water Agency
+10585,349808N1166804W001,2096356,2008-05-01T00:00:00Z,1802,1802,0,107.16,1694.84,107.16,107.16,NA,Unknown,Water level accuracy to nearest tenth of a foot,5161,Mojave Water Agency,NA,5161,Mojave Water Agency
+10585,349808N1166804W001,2096355,2006-03-30T00:00:00Z,1802,1802,0,107.33,1694.67,107.33,107.33,NA,Unknown,Water level accuracy to nearest tenth of a foot,5161,Mojave Water Agency,NA,5161,Mojave Water Agency
+10585,349808N1166804W001,2096354,2004-03-09T00:00:00Z,1802,1802,0,107.79,1694.21,107.79,107.79,NA,Unknown,Water level accuracy to nearest tenth of a foot,5161,Mojave Water Agency,NA,5161,Mojave Water Agency
+10585,349808N1166804W001,2096353,2002-03-14T00:00:00Z,1802,1802,0,107.98,1694.02,107.98,107.98,NA,Unknown,Water level accuracy to nearest tenth of a foot,5161,Mojave Water Agency,NA,5161,Mojave Water Agency
+10585,349808N1166804W001,2096352,2000-03-23T00:00:00Z,1802,1802,0,108.5,1693.5,108.5,108.5,NA,Unknown,Water level accuracy to nearest tenth of a foot,5161,Mojave Water Agency,NA,5161,Mojave Water Agency
+10585,349808N1166804W001,2096351,1998-03-24T00:00:00Z,1802,1802,0,109.36,1692.64,109.36,109.36,NA,Unknown,Water level accuracy to nearest tenth of a foot,5161,Mojave Water Agency,NA,5161,Mojave Water Agency
+10585,349808N1166804W001,2096350,1992-11-18T00:00:00Z,1802,1802,0,112.59,1689.41,112.59,112.59,Pumped recently,Unknown,Water level accuracy to nearest tenth of a foot,5161,Mojave Water Agency,NA,5161,Mojave Water Agency

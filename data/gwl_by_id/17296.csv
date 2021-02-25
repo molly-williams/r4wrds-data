@@ -1,0 +1,87 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+17296,362336N1194207W001,1988962,2013-03-08T14:15:00Z,270.217,269.717,NA,NA,NA,NA,NA,Pump house locked,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+17296,362336N1194207W001,93884,2011-02-17T09:45:00Z,270.217,269.717,0,135,135.217,135,134.5,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+17296,362336N1194207W001,922564,2010-01-20T00:00:00Z,270.22,269.72,0,145,125.22,145,144.5,Pumped recently,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922563,2009-03-03T00:00:00Z,270.22,269.72,0,157,113.22,157,156.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NO OIL,5030,Tulare Irrigation District
+17296,362336N1194207W001,922561,2007-10-15T00:00:00Z,270.22,269.72,0,152,118.22,152,151.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NO OIL,5030,Tulare Irrigation District
+17296,362336N1194207W001,922560,2007-01-26T00:00:00Z,270.22,269.72,0,120,150.22,120,119.5,Nearby pump operating,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NO OIL,5030,Tulare Irrigation District
+17296,362336N1194207W001,922562,2006-10-06T00:00:00Z,270.22,269.72,0,136,134.22,136,135.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,TAPE-136 FEET,5030,Tulare Irrigation District
+17296,362336N1194207W001,922559,2006-02-02T00:00:00Z,270.22,269.72,0,120,150.22,120,119.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922558,2005-01-28T00:00:00Z,270.22,269.72,0,144,126.22,144,143.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922556,2004-02-03T00:00:00Z,270.22,269.72,0,124,146.22,124,123.5,Nearby pump operating,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922557,2003-09-25T00:00:00Z,270.22,269.72,0,147,123.22,147,146.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NO OIL,5030,Tulare Irrigation District
+17296,362336N1194207W001,922553,2003-01-30T00:00:00Z,270.22,269.72,0,130,140.22,130,129.5,Pumped recently,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922555,2002-09-23T00:00:00Z,270.22,269.72,0,142,128.22,142,141.5,Pumped recently,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+17296,362336N1194207W001,922554,2002-01-21T00:00:00Z,270.22,269.72,0,111,159.22,111,110.5,Nearby pump operating,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+17296,362336N1194207W001,922552,2001-01-26T00:00:00Z,270.22,269.72,0,105,165.22,105,104.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922551,2000-01-25T00:00:00Z,270.22,269.72,0,97,173.22,97,96.5,Pumped recently,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922550,1999-10-08T00:00:00Z,270.22,269.72,0,115,155.22,115,114.5,Pumped recently,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922549,1999-01-20T00:00:00Z,270.22,269.72,0,90.5,179.72,90.5,90,Other,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922548,1998-10-09T00:00:00Z,270.22,269.72,0,100,170.22,100,99.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922547,1998-01-20T00:00:00Z,270.22,269.72,0,101,169.22,101,100.5,Pumped recently,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922546,1997-10-06T00:00:00Z,270.22,269.72,0,117,153.22,117,116.5,Pumped recently,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922545,1997-01-16T00:00:00Z,270.22,269.72,0,104.5,165.72,104.5,104,Pumped recently,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922544,1996-10-04T00:00:00Z,270.22,269.72,0,124,146.22,124,123.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922543,1996-01-16T00:00:00Z,270.22,269.72,0,108,162.22,108,107.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922542,1995-10-09T00:00:00Z,270.22,269.72,0,108.5,161.72,108.5,108,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922541,1995-02-02T00:00:00Z,270.22,269.72,0,114.5,155.72,114.5,114,Nearby pump operating,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922540,1994-09-29T00:00:00Z,270.22,269.72,0,119,151.22,119,118.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922539,1994-01-20T00:00:00Z,270.22,269.72,0,105,165.22,105,104.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922538,1993-10-05T00:00:00Z,270.22,269.72,0,107,163.22,107,106.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922537,1993-01-28T00:00:00Z,270.22,269.72,0,116,154.22,116,115.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922536,1992-10-08T00:00:00Z,270.22,269.72,0,117,153.22,117,116.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922535,1992-01-22T00:00:00Z,270.22,269.72,0,104.5,165.72,104.5,104,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922534,1991-10-01T00:00:00Z,270.22,269.72,0,107,163.22,107,106.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922533,1991-01-22T00:00:00Z,270.22,269.72,0,95,175.22,95,94.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922532,1990-10-03T00:00:00Z,270.22,269.72,0,96.5,173.72,96.5,96,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922531,1990-01-17T00:00:00Z,270.22,269.72,0,81,189.22,81,80.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922530,1989-10-06T00:00:00Z,270.22,269.72,0,84,186.22,84,83.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922529,1989-01-27T00:00:00Z,270.22,269.72,0,74,196.22,74,73.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922528,1988-10-03T00:00:00Z,270.22,269.72,0,58.5,211.72,58.5,58,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922527,1988-01-22T00:00:00Z,270.22,269.72,0,55.5,214.72,55.5,55,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922526,1987-10-07T00:00:00Z,270.22,269.72,0,55,215.22,55,54.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922525,1987-02-06T00:00:00Z,270.22,269.72,0,44.5,225.72,44.5,44,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922524,1986-10-03T00:00:00Z,270.22,269.72,0,47,223.22,47,46.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+17296,362336N1194207W001,922523,1986-02-20T00:00:00Z,270.22,269.72,0,54.5,215.72,54.5,54,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+17296,362336N1194207W001,922522,1985-10-01T00:00:00Z,270.22,269.72,0,56,214.22,56,55.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+17296,362336N1194207W001,922521,1985-02-07T00:00:00Z,270.22,269.72,0,47,223.22,47,46.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+17296,362336N1194207W001,922520,1984-10-17T00:00:00Z,270.22,269.72,0,49.5,220.72,49.5,49,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+17296,362336N1194207W001,922519,1984-02-24T00:00:00Z,270.22,269.72,0,55,215.22,55,54.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+17296,362336N1194207W001,922518,1983-10-18T00:00:00Z,270.22,269.72,0,52,218.22,52,51.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+17296,362336N1194207W001,922517,1983-02-07T00:00:00Z,270.22,269.72,0,62,208.22,62,61.5,Pumped recently,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922516,1982-10-06T00:00:00Z,270.22,269.72,0,69.5,200.72,69.5,69,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922515,1982-02-11T00:00:00Z,270.22,269.72,0,72,198.22,72,71.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+17296,362336N1194207W001,922514,1981-09-25T00:00:00Z,270.22,269.72,0,88,182.22,88,87.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+17296,362336N1194207W001,922513,1981-02-02T00:00:00Z,270.22,269.72,0,65,205.22,65,64.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922512,1980-09-26T00:00:00Z,270.22,269.72,0,81,189.22,81,80.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922511,1980-01-28T00:00:00Z,270.22,269.72,0,44,226.22,44,43.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922510,1979-09-24T00:00:00Z,270.22,269.72,0,70,200.22,70,69.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922509,1979-01-23T00:00:00Z,270.22,269.72,0,86.5,183.72,86.5,86,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922508,1978-02-01T00:00:00Z,270.22,269.72,0,99.5,170.72,99.5,99,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922507,1977-10-04T00:00:00Z,270.22,269.72,0,92,178.22,92,91.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922506,1977-01-25T00:00:00Z,270.22,269.72,0,93,177.22,93,92.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922505,1976-10-07T00:00:00Z,270.22,269.72,0,88,182.22,88,87.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922504,1976-01-28T00:00:00Z,270.22,269.72,0,71,199.22,71,70.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922503,1975-10-01T00:00:00Z,270.22,269.72,0,81,189.22,81,80.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922502,1975-02-11T00:00:00Z,270.22,269.72,0,76,194.22,76,75.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922501,1974-10-03T00:00:00Z,270.22,269.72,0,83,187.22,83,82.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922500,1974-01-23T00:00:00Z,270.22,269.72,0,80,190.22,80,79.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922499,1973-10-02T00:00:00Z,270.22,269.72,0,84.5,185.72,84.5,84,Pumped recently,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922498,1973-02-12T00:00:00Z,270.22,269.72,0,88.1,182.12,88.1,87.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922497,1972-10-10T00:00:00Z,270.22,269.72,0,91.4,178.82,91.4,90.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922496,1972-02-17T00:00:00Z,270.22,269.72,0,83.7,186.52,83.7,83.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922495,1971-10-11T00:00:00Z,270.22,269.72,0,81.7,188.52,81.7,81.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922494,1971-02-13T00:00:00Z,270.22,269.72,0,75.8,194.42,75.8,75.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922493,1970-10-02T00:00:00Z,270.22,269.72,0,74.5,195.72,74.5,74,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922492,1970-02-02T00:00:00Z,270.22,269.72,0,72,198.22,72,71.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922491,1969-09-25T00:00:00Z,270.22,269.72,0,79.4,190.82,79.4,78.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+17296,362336N1194207W001,922490,1969-02-04T00:00:00Z,270.22,269.72,0,51.5,218.72,51.5,51,Other,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922489,1968-02-01T00:00:00Z,270.22,269.72,0,76.3,193.92,76.3,75.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922488,1967-02-10T00:00:00Z,270.22,269.72,0,91,179.22,91,90.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922487,1966-02-04T00:00:00Z,270.22,269.72,0,86.1,184.12,86.1,85.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922486,1965-02-02T00:00:00Z,270.22,269.72,0,93.7,176.52,93.7,93.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922485,1964-10-01T00:00:00Z,270.22,269.72,0,97.4,172.82,97.4,96.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922484,1964-02-11T00:00:00Z,270.22,269.72,0,89,181.22,89,88.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922483,1963-02-20T00:00:00Z,270.22,269.72,0,98,172.22,98,97.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922482,1962-02-08T00:00:00Z,270.22,269.72,0,100,170.22,100,99.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District
+17296,362336N1194207W001,922481,1961-10-04T00:00:00Z,270.22,269.72,0,102.8,167.42,102.8,102.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5030,Tulare Irrigation District

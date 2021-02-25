@@ -1,0 +1,13 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+13352,367932N1206560W001,1128083,1961-10-11T00:00:00Z,255.92,254.92,NA,NA,NA,NA,NA,Well has been destroyed,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+13352,367932N1206560W001,1128082,1961-03-15T00:00:00Z,255.92,254.92,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+13352,367932N1206560W001,1128081,1960-10-12T00:00:00Z,255.92,254.92,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+13352,367932N1206560W001,1128080,1960-10-11T00:00:00Z,255.92,254.92,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+13352,367932N1206560W001,1128079,1960-10-01T00:00:00Z,255.92,254.92,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+13352,367932N1206560W001,1128078,1960-05-12T00:00:00Z,255.92,254.92,0,287.4,-31.48,287.4,286.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+13352,367932N1206560W001,1128077,1960-03-23T00:00:00Z,255.92,254.92,0,429.3,-173.38,429.3,428.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+13352,367932N1206560W001,1128076,1959-10-07T00:00:00Z,255.92,254.92,0,416,-160.08,416,415,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+13352,367932N1206560W001,1128075,1959-05-07T00:00:00Z,255.92,254.92,0,373.3,-117.38,373.3,372.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+13352,367932N1206560W001,1128074,1959-03-25T00:00:00Z,255.92,254.92,0,384.2,-128.28,384.2,383.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+13352,367932N1206560W001,1128073,1958-10-21T00:00:00Z,255.92,254.92,0,382.3,-126.38,382.3,381.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+13352,367932N1206560W001,1128072,1958-05-07T00:00:00Z,255.92,254.92,0,364.2,-108.28,364.2,363.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey

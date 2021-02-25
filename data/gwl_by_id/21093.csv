@@ -1,0 +1,13 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+21093,361728N1202107W001,938079,1966-02-15T00:00:00Z,491.98,489.98,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+21093,361728N1202107W001,938078,1964-12-15T00:00:00Z,491.98,489.98,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+21093,361728N1202107W001,938077,1964-01-20T00:00:00Z,491.98,489.98,0,247,244.98,247,245,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+21093,361728N1202107W001,938076,1963-01-08T00:00:00Z,491.98,489.98,0,246,245.98,246,244,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+21093,361728N1202107W001,938075,1962-03-21T00:00:00Z,491.98,489.98,0,250.7,241.28,250.7,248.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+21093,361728N1202107W001,938074,1961-05-03T00:00:00Z,491.98,489.98,0,268,223.98,268,266,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+21093,361728N1202107W001,938073,1960-10-11T00:00:00Z,491.98,489.98,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+21093,361728N1202107W001,938072,1960-05-04T00:00:00Z,491.98,489.98,0,271.7,220.28,271.7,269.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+21093,361728N1202107W001,938071,1959-10-14T00:00:00Z,491.98,489.98,0,278.9,213.08,278.9,276.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+21093,361728N1202107W001,938070,1959-05-06T00:00:00Z,491.98,489.98,0,247.1,244.88,247.1,245.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+21093,361728N1202107W001,938069,1958-10-23T00:00:00Z,491.98,489.98,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,5167,United States Geological Survey
+21093,361728N1202107W001,938068,1958-05-07T00:00:00Z,491.98,489.98,0,267.4,224.58,267.4,265.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey

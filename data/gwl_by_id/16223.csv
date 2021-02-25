@@ -1,0 +1,84 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+16223,364577N1191884W001,1076592,2008-02-13T00:00:00Z,367.2,366.7,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076591,2007-01-11T00:00:00Z,367.2,366.7,0,21,346.2,21,20.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076593,2006-10-11T00:00:00Z,367.2,366.7,0,25,342.2,25,24.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076590,2006-01-31T00:00:00Z,367.2,366.7,0,24,343.2,24,23.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076588,2004-02-05T00:00:00Z,367.2,366.7,0,24,343.2,24,23.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076589,2003-10-07T00:00:00Z,367.2,366.7,0,27,340.2,27,26.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076585,2003-01-20T00:00:00Z,367.2,366.7,0,26,341.2,26,25.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076587,2002-10-02T00:00:00Z,367.2,366.7,0,24.5,342.7,24.5,24,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+16223,364577N1191884W001,1076586,2002-01-30T00:00:00Z,367.2,366.7,0,18,349.2,18,17.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+16223,364577N1191884W001,1076584,2001-02-04T00:00:00Z,367.2,366.7,0,14,353.2,14,13.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076583,2000-02-03T00:00:00Z,367.2,366.7,0,10,357.2,10,9.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076582,1999-10-19T00:00:00Z,367.2,366.7,0,11,356.2,11,10.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076581,1999-02-09T00:00:00Z,367.2,366.7,0,19,348.2,19,18.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076580,1998-10-08T00:00:00Z,367.2,366.7,0,21,346.2,21,20.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076579,1998-01-27T00:00:00Z,367.2,366.7,0,34.5,332.7,34.5,34,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076578,1997-01-23T00:00:00Z,367.2,366.7,0,24,343.2,24,23.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1094,IVANHOE IRRIGATION DISTRICT
+16223,364577N1191884W001,1076577,1996-09-26T00:00:00Z,367.2,366.7,0,27,340.2,27,26.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1094,IVANHOE IRRIGATION DISTRICT
+16223,364577N1191884W001,1076576,1996-01-24T00:00:00Z,367.2,366.7,0,29,338.2,29,28.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1094,IVANHOE IRRIGATION DISTRICT
+16223,364577N1191884W001,1076575,1995-10-05T00:00:00Z,367.2,366.7,0,24,343.2,24,23.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076574,1995-01-25T00:00:00Z,367.2,366.7,0,26,341.2,26,25.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1094,IVANHOE IRRIGATION DISTRICT
+16223,364577N1191884W001,1076573,1994-10-12T00:00:00Z,367.2,366.7,0,28.5,338.7,28.5,28,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1094,IVANHOE IRRIGATION DISTRICT
+16223,364577N1191884W001,1076572,1994-01-27T00:00:00Z,367.2,366.7,0,24,343.2,24,23.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076571,1993-10-07T00:00:00Z,367.2,366.7,0,29,338.2,29,28.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076570,1993-01-28T00:00:00Z,367.2,366.7,0,32,335.2,32,31.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076569,1992-10-14T00:00:00Z,367.2,366.7,0,33.5,333.7,33.5,33,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076568,1992-01-22T00:00:00Z,367.2,366.7,0,29.5,337.7,29.5,29,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076567,1991-10-07T00:00:00Z,367.2,366.7,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076566,1991-01-28T00:00:00Z,367.2,366.7,0,26,341.2,26,25.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076565,1990-09-27T00:00:00Z,367.2,366.7,0,28,339.2,28,27.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076564,1990-01-24T00:00:00Z,367.2,366.7,0,23,344.2,23,22.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076563,1989-10-02T00:00:00Z,367.2,366.7,0,19,348.2,19,18.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076562,1989-01-31T00:00:00Z,367.2,366.7,0,16,351.2,16,15.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076561,1988-10-04T00:00:00Z,367.2,366.7,0,19,348.2,19,18.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076560,1988-01-26T00:00:00Z,367.2,366.7,0,15,352.2,15,14.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076559,1987-10-07T00:00:00Z,367.2,366.7,0,14,353.2,14,13.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076558,1987-01-21T00:00:00Z,367.2,366.7,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076557,1986-10-03T00:00:00Z,367.2,366.7,0,9,358.2,9,8.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+16223,364577N1191884W001,1076556,1986-01-28T00:00:00Z,367.2,366.7,0,9.8,357.4,9.8,9.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+16223,364577N1191884W001,1076555,1985-10-02T00:00:00Z,367.2,366.7,0,10.5,356.7,10.5,10,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+16223,364577N1191884W001,1076554,1985-02-04T00:00:00Z,367.2,366.7,0,10.5,356.7,10.5,10,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+16223,364577N1191884W001,1076553,1984-10-09T00:00:00Z,367.2,366.7,0,11.5,355.7,11.5,11,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+16223,364577N1191884W001,1076552,1984-01-20T00:00:00Z,367.2,366.7,0,7,360.2,7,6.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+16223,364577N1191884W001,1076551,1983-10-06T00:00:00Z,367.2,366.7,0,6.5,360.7,6.5,6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+16223,364577N1191884W001,1076550,1983-02-03T00:00:00Z,367.2,366.7,0,11,356.2,11,10.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076549,1982-10-08T00:00:00Z,367.2,366.7,0,17.8,349.4,17.8,17.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076548,1982-01-25T00:00:00Z,367.2,366.7,0,21.9,345.3,21.9,21.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+16223,364577N1191884W001,1076547,1981-09-23T00:00:00Z,367.2,366.7,0,24.9,342.3,24.9,24.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+16223,364577N1191884W001,1076546,1981-01-20T00:00:00Z,367.2,366.7,0,23.9,343.3,23.9,23.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076545,1980-09-25T00:00:00Z,367.2,366.7,0,25.2,342,25.2,24.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076544,1980-01-21T00:00:00Z,367.2,366.7,0,24.3,342.9,24.3,23.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076543,1979-09-14T00:00:00Z,367.2,366.7,0,27.5,339.7,27.5,27,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076542,1979-01-18T00:00:00Z,367.2,366.7,0,28.9,338.3,28.9,28.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076541,1978-10-03T00:00:00Z,367.2,366.7,0,32.1,335.1,32.1,31.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076540,1978-01-24T00:00:00Z,367.2,366.7,0,44,323.2,44,43.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076539,1977-10-11T00:00:00Z,367.2,366.7,0,43.2,324,43.2,42.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076538,1977-08-02T00:00:00Z,367.2,366.7,0,42.1,325.1,42.1,41.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076537,1977-01-26T00:00:00Z,367.2,366.7,0,29.1,338.1,29.1,28.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076536,1976-10-07T00:00:00Z,367.2,366.7,0,30.9,336.3,30.9,30.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076535,1976-01-26T00:00:00Z,367.2,366.7,0,20.8,346.4,20.8,20.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076534,1975-10-14T00:00:00Z,367.2,366.7,0,24.7,342.5,24.7,24.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076533,1975-01-23T00:00:00Z,367.2,366.7,0,16.5,350.7,16.5,16,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076532,1974-10-07T00:00:00Z,367.2,366.7,0,14.9,352.3,14.9,14.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076531,1974-02-05T00:00:00Z,367.2,366.7,0,13,354.2,13,12.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076530,1973-02-06T00:00:00Z,367.2,366.7,0,19.5,347.7,19.5,19,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076529,1972-10-02T00:00:00Z,367.2,366.7,0,21.5,345.7,21.5,21,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076528,1972-02-01T00:00:00Z,367.2,366.7,0,10.5,356.7,10.5,10,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076527,1971-09-28T00:00:00Z,367.2,366.7,0,11.1,356.1,11.1,10.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,608,Stone Corral Irrigation District
+16223,364577N1191884W001,1076526,1971-02-02T00:00:00Z,367.2,366.7,0,6.8,360.4,6.8,6.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+16223,364577N1191884W001,1076525,1970-09-28T00:00:00Z,367.2,366.7,0,10,357.2,10,9.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+16223,364577N1191884W001,1076524,1970-02-02T00:00:00Z,367.2,366.7,0,6,361.2,6,5.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+16223,364577N1191884W001,1076523,1969-09-29T00:00:00Z,367.2,366.7,0,7.7,359.5,7.7,7.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+16223,364577N1191884W001,1076522,1969-02-06T00:00:00Z,367.2,366.7,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+16223,364577N1191884W001,1076521,1968-02-06T00:00:00Z,367.2,366.7,0,7.8,359.4,7.8,7.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+16223,364577N1191884W001,1076520,1967-02-06T00:00:00Z,367.2,366.7,0,9,358.2,9,8.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+16223,364577N1191884W001,1076519,1966-01-31T00:00:00Z,367.2,366.7,0,8,359.2,8,7.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+16223,364577N1191884W001,1076518,1965-02-01T00:00:00Z,367.2,366.7,0,9.3,357.9,9.3,8.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+16223,364577N1191884W001,1076517,1964-09-28T00:00:00Z,367.2,366.7,0,9.5,357.7,9.5,9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+16223,364577N1191884W001,1076516,1964-02-06T00:00:00Z,367.2,366.7,0,12.4,354.8,12.4,11.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+16223,364577N1191884W001,1076515,1963-09-27T00:00:00Z,367.2,366.7,0,15.4,351.8,15.4,14.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+16223,364577N1191884W001,1076514,1963-02-04T00:00:00Z,367.2,366.7,0,27,340.2,27,26.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+16223,364577N1191884W001,1076513,1962-10-10T00:00:00Z,367.2,366.7,0,23.1,344.1,23.1,22.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+16223,364577N1191884W001,1076512,1962-02-07T00:00:00Z,367.2,366.7,0,40.3,326.9,40.3,39.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+16223,364577N1191884W001,1076511,1961-09-26T00:00:00Z,367.2,366.7,0,43.1,324.1,43.1,42.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation

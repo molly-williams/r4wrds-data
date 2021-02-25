@@ -1,0 +1,52 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+19004,356256N1195182W001,873353,2004-11-03T00:00:00Z,243.46,242.46,0,298.8,-55.34,298.8,297.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+19004,356256N1195182W001,873351,2004-01-26T00:00:00Z,243.46,242.46,0,222,21.46,222,221,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+19004,356256N1195182W001,873352,2003-11-13T00:00:00Z,243.46,242.46,0,230.9,12.56,230.9,229.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+19004,356256N1195182W001,873349,2002-01-25T00:00:00Z,243.46,242.46,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+19004,356256N1195182W001,873348,2001-10-30T00:00:00Z,243.46,242.46,0,254.3,-10.84,254.3,253.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+19004,356256N1195182W001,873350,2001-01-22T00:00:00Z,243.46,242.46,0,199.1,44.36,199.1,198.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+19004,356256N1195182W001,873347,2000-01-20T00:00:00Z,243.46,242.46,0,210.5,32.96,210.5,209.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+19004,356256N1195182W001,873346,1999-10-11T00:00:00Z,243.46,242.46,0,214.5,28.96,214.5,213.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+19004,356256N1195182W001,873345,1999-02-09T00:00:00Z,243.46,242.46,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+19004,356256N1195182W001,873344,1998-10-28T00:00:00Z,243.46,242.46,0,223.3,20.16,223.3,222.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+19004,356256N1195182W001,873343,1998-02-11T00:00:00Z,243.46,242.46,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+19004,356256N1195182W001,873342,1997-10-14T00:00:00Z,243.46,242.46,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1082,VENTURA COUNTY FLOOD CONTROL DISTRICT
+19004,356256N1195182W001,873341,1997-02-06T00:00:00Z,243.46,242.46,0,231.1,12.36,231.1,230.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1082,VENTURA COUNTY FLOOD CONTROL DISTRICT
+19004,356256N1195182W001,873340,1996-10-17T00:00:00Z,243.46,242.46,0,256.5,-13.04,256.5,255.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+19004,356256N1195182W001,873339,1996-01-30T00:00:00Z,243.46,242.46,0,242.9,0.56,242.9,241.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+19004,356256N1195182W001,873338,1995-10-02T00:00:00Z,243.46,242.46,0,263.8,-20.34,263.8,262.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+19004,356256N1195182W001,873337,1995-02-16T00:00:00Z,243.46,242.46,0,260,-16.54,260,259,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+19004,356256N1195182W001,873336,1994-10-05T00:00:00Z,243.46,242.46,0,296.3,-52.84,296.3,295.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+19004,356256N1195182W001,873335,1994-02-24T00:00:00Z,243.46,242.46,0,254.8,-11.34,254.8,253.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+19004,356256N1195182W001,873334,1993-10-12T00:00:00Z,243.46,242.46,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+19004,356256N1195182W001,873333,1993-02-22T00:00:00Z,243.46,242.46,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+19004,356256N1195182W001,873332,1992-11-02T00:00:00Z,243.46,242.46,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+19004,356256N1195182W001,873331,1992-02-14T00:00:00Z,243.46,242.46,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+19004,356256N1195182W001,873330,1991-10-21T00:00:00Z,243.46,242.46,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+19004,356256N1195182W001,873329,1991-01-31T00:00:00Z,243.46,242.46,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+19004,356256N1195182W001,873328,1990-10-16T00:00:00Z,243.46,242.46,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+19004,356256N1195182W001,873327,1990-02-05T00:00:00Z,243.46,242.46,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+19004,356256N1195182W001,873326,1989-10-23T00:00:00Z,243.46,242.46,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+19004,356256N1195182W001,873325,1989-01-30T00:00:00Z,243.46,242.46,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+19004,356256N1195182W001,873324,1988-10-24T00:00:00Z,243.46,242.46,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+19004,356256N1195182W001,873323,1988-02-23T00:00:00Z,243.46,242.46,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+19004,356256N1195182W001,873322,1987-11-11T00:00:00Z,243.46,242.46,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+19004,356256N1195182W001,873321,1987-02-05T00:00:00Z,243.46,242.46,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+19004,356256N1195182W001,873320,1986-10-09T00:00:00Z,243.46,242.46,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19004,356256N1195182W001,873319,1986-02-03T00:00:00Z,243.46,242.46,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19004,356256N1195182W001,873318,1985-10-07T00:00:00Z,243.46,242.46,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19004,356256N1195182W001,873317,1985-02-01T00:00:00Z,243.46,242.46,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19004,356256N1195182W001,873316,1984-10-26T00:00:00Z,243.46,242.46,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19004,356256N1195182W001,873315,1984-02-02T00:00:00Z,243.46,242.46,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19004,356256N1195182W001,873314,1983-10-13T00:00:00Z,243.46,242.46,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19004,356256N1195182W001,873313,1983-02-09T00:00:00Z,243.46,242.46,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19004,356256N1195182W001,873312,1982-10-01T00:00:00Z,243.46,242.46,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19004,356256N1195182W001,873311,1982-01-29T00:00:00Z,243.46,242.46,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19004,356256N1195182W001,873310,1981-09-29T00:00:00Z,243.46,242.46,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19004,356256N1195182W001,873309,1981-03-06T00:00:00Z,243.46,242.46,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+19004,356256N1195182W001,873308,1980-10-01T00:00:00Z,243.46,242.46,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+19004,356256N1195182W001,873307,1980-02-04T00:00:00Z,243.46,242.46,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+19004,356256N1195182W001,873306,1979-09-28T00:00:00Z,243.46,242.46,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+19004,356256N1195182W001,873305,1979-02-05T00:00:00Z,243.46,242.46,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+19004,356256N1195182W001,873304,1978-02-08T00:00:00Z,243.46,242.46,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+19004,356256N1195182W001,873303,1976-05-26T00:00:00Z,243.46,242.46,0,284,-40.54,284,283,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources

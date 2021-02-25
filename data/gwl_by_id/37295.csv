@@ -1,0 +1,14 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+37295,351008N1190166W001,667156,1968-09-23T00:00:00Z,357.93,357.43,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+37295,351008N1190166W001,667155,1968-01-29T00:00:00Z,357.93,357.43,0,343.8,14.13,343.8,343.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+37295,351008N1190166W001,667154,1967-09-25T00:00:00Z,357.93,357.43,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+37295,351008N1190166W001,667153,1967-01-30T00:00:00Z,357.93,357.43,0,337.2,20.73,337.2,336.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+37295,351008N1190166W001,667152,1966-09-26T00:00:00Z,357.93,357.43,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+37295,351008N1190166W001,667151,1966-01-26T00:00:00Z,357.93,357.43,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+37295,351008N1190166W001,667150,1965-09-29T00:00:00Z,357.93,357.43,0,335,22.93,335,334.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+37295,351008N1190166W001,667149,1965-01-27T00:00:00Z,357.93,357.43,0,299,58.93,299,298.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+37295,351008N1190166W001,667148,1964-09-23T00:00:00Z,357.93,357.43,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+37295,351008N1190166W001,667147,1964-01-29T00:00:00Z,357.93,357.43,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+37295,351008N1190166W001,667146,1963-01-30T00:00:00Z,357.93,357.43,0,291.2,66.73,291.2,290.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+37295,351008N1190166W001,667145,1962-10-02T00:00:00Z,357.93,357.43,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+37295,351008N1190166W001,667144,1962-01-29T00:00:00Z,357.93,357.43,0,279.5,78.43,279.5,279,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation

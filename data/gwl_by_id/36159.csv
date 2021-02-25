@@ -1,0 +1,7 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+36159,364599N1200868W001,1054527,2008-11-20T00:00:00Z,206.83,206.83,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,5100,Westlands Water District
+36159,364599N1200868W001,1054526,1993-11-30T00:00:00Z,206.83,206.83,NA,NA,NA,NA,NA,Unable to locate well,NA,NA,1,Department of Water Resources,NA,5100,Westlands Water District
+36159,364599N1200868W001,1054525,1991-11-27T00:00:00Z,206.83,206.83,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,5100,Westlands Water District
+36159,364599N1200868W001,1054524,1988-12-07T00:00:00Z,206.83,206.83,0,147,59.83,147,147,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+36159,364599N1200868W001,1054523,1987-12-14T00:00:00Z,206.83,206.83,0,140,66.83,140,140,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+36159,364599N1200868W001,1054522,1986-12-03T00:00:00Z,206.83,206.83,0,139,67.83,139,139,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District

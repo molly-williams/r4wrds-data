@@ -1,0 +1,5 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+38878,374049N1210835W001,1415315,1961-10-06T00:00:00Z,116.95,116.25,0,30.5,86.45,30.5,29.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+38878,374049N1210835W001,1415314,1960-10-06T00:00:00Z,116.95,116.25,0,30.2,86.75,30.2,29.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+38878,374049N1210835W001,1415313,1960-10-01T00:00:00Z,116.95,116.25,0,30.2,86.75,30.2,29.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+38878,374049N1210835W001,1415312,1959-10-02T00:00:00Z,116.95,116.25,0,28.2,88.75,28.2,27.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation

@@ -1,0 +1,78 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+48732,382214N1224591W002,2463797,2019-04-15T00:00:00Z,21.14,22.52,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,5083,Sonoma County Water Agency,This well is being removed from the monitoring network because of access issues.,5083,Sonoma County Water Agency
+48732,382214N1224591W002,2447649,2018-10-15T00:00:00Z,21.14,22.52,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,2290262,2018-03-19T00:00:00Z,21.14,22.52,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,5083,Sonoma County Water Agency,gate locked,5083,Sonoma County Water Agency
+48732,382214N1224591W002,2283035,2017-10-01T00:00:00Z,21.14,22.52,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,2253618,2017-03-14T00:00:00Z,21.14,22.52,0,14.8,6.34,14.8,16.18,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,2225451,2016-10-18T00:00:00Z,21.14,22.52,0,24.7,-3.56,24.7,26.08,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,2281407,2016-03-02T00:00:00Z,21.14,22.52,0,16.7,4.44,16.7,18.08,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,2199677,2015-10-14T00:00:00Z,17,17,NA,NA,NA,NA,NA,Special/Other,NA,NA,5083,Sonoma County Water Agency,Well inaccessible,5083,Sonoma County Water Agency
+48732,382214N1224591W002,2199676,2015-03-11T00:00:00Z,17,17,NA,NA,NA,NA,NA,Special/Other,NA,NA,5083,Sonoma County Water Agency,Well inaccessible,5083,Sonoma County Water Agency
+48732,382214N1224591W002,2148382,2014-10-14T00:00:00Z,17,17,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,1886705,2014-03-11T00:00:00Z,17,17,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,1886704,2013-11-20T00:00:00Z,17,17,0,27.9,-10.9,27.9,27.9,NA,NA,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,1886703,2013-04-10T00:00:00Z,17,17,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,1886702,2012-11-08T00:00:00Z,17,17,0,25,-8,25,25,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,1886701,2012-04-18T00:00:00Z,17,17,0,17.3,-0.3,17.3,17.3,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,64960,2011-11-09T00:00:00Z,17,17,0,19.4,-2.4,19.4,19.4,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53987,2011-04-21T00:00:00Z,17,17,0,15.6,1.4,15.6,15.6,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53986,2010-12-02T00:00:00Z,17,17,0,19.7,-2.7,19.7,19.7,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53985,2010-04-21T00:00:00Z,17,17,0,15.6,1.4,15.6,15.6,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53984,2009-11-10T00:00:00Z,17,17,0,20.7,-3.7,20.7,20.7,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53983,2009-04-21T00:00:00Z,17,17,0,18.2,-1.2,18.2,18.2,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53982,2008-11-25T00:00:00Z,17,17,0,22.9,-5.9,22.9,22.9,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53981,2008-04-10T00:00:00Z,17,17,0,19.5,-2.5,19.5,19.5,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53980,2007-11-01T00:00:00Z,17,17,0,19,-2,19,19,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53979,2007-03-29T00:00:00Z,17,17,0,14.5,2.5,14.5,14.5,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53978,2006-04-19T00:00:00Z,17,17,0,11,6,11,11,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53977,2005-11-17T00:00:00Z,17,17,0,17.8,-0.8,17.8,17.8,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53976,2005-04-07T00:00:00Z,17,17,0,13,4,13,13,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53975,2004-11-08T00:00:00Z,17,17,0,18.7,-1.7,18.7,18.7,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53974,2004-04-07T00:00:00Z,17,17,0,16,1,16,16,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53973,2003-11-12T00:00:00Z,17,17,NA,NA,NA,NA,NA,Pumping,NA,NA,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53972,2003-03-27T00:00:00Z,17,17,0,14.5,2.5,14.5,14.5,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53971,2002-11-18T00:00:00Z,17,17,0,18.6,-1.6,18.6,18.6,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53970,2002-03-20T00:00:00Z,17,17,0,13.5,3.5,13.5,13.5,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53969,2001-11-14T00:00:00Z,17,17,0,17.4,-0.4,17.4,17.4,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53968,2001-03-28T00:00:00Z,17,17,NA,NA,NA,NA,NA,Pumping,NA,NA,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53967,2000-12-12T00:00:00Z,17,17,NA,NA,NA,NA,NA,Pumping,NA,NA,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53966,2000-04-25T00:00:00Z,17,17,NA,NA,NA,NA,NA,Pumping,NA,NA,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53965,1999-10-07T00:00:00Z,17,17,NA,NA,NA,NA,NA,Pumping,NA,NA,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53964,1999-03-23T00:00:00Z,17,17,NA,NA,NA,NA,NA,Pumping,NA,NA,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53963,1998-10-23T00:00:00Z,17,17,0,16.6,0.4,16.6,16.6,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53962,1998-03-25T00:00:00Z,17,17,NA,NA,NA,NA,NA,Pumping,NA,NA,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53961,1997-10-15T00:00:00Z,17,17,NA,NA,NA,NA,NA,Pumping,NA,NA,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53960,1997-03-28T00:00:00Z,17,17,0,13.5,3.5,13.5,13.5,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53959,1996-11-25T00:00:00Z,17,17,0,16.1,0.9,16.1,16.1,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53958,1996-04-02T00:00:00Z,17,17,NA,NA,NA,NA,NA,Pumping,NA,NA,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53957,1995-11-14T00:00:00Z,17,17,NA,NA,NA,NA,NA,Pumping,NA,NA,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53956,1995-04-26T00:00:00Z,17,17,NA,NA,NA,NA,NA,Pumping,NA,NA,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53955,1994-09-22T00:00:00Z,17,17,NA,NA,NA,NA,NA,Pumping,NA,NA,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53954,1994-04-07T00:00:00Z,17,17,0,14.4,2.6,14.4,14.4,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53953,1993-10-18T00:00:00Z,17,17,0,17,0,17,17,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53952,1993-04-15T00:00:00Z,17,17,0,12.4,4.6,12.4,12.4,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53951,1992-10-13T00:00:00Z,17,17,0,22.5,-5.5,22.5,22.5,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53950,1992-03-19T00:00:00Z,17,17,0,13.6,3.4,13.6,13.6,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53949,1991-10-28T00:00:00Z,17,17,0,17,0,17,17,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53948,1991-03-11T00:00:00Z,17,17,0,15.5,1.5,15.5,15.5,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53947,1990-10-22T00:00:00Z,17,17,0,17.6,-0.6,17.6,17.6,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53946,1990-03-14T00:00:00Z,17,17,0,12.9,4.1,12.9,12.9,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53945,1989-11-07T00:00:00Z,17,17,0,15.7,1.3,15.7,15.7,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53944,1989-04-12T00:00:00Z,17,17,0,12.7,4.3,12.7,12.7,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53943,1988-10-13T00:00:00Z,17,17,0,14.9,2.1,14.9,14.9,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53942,1988-03-31T00:00:00Z,17,17,0,12.5,4.5,12.5,12.5,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53941,1987-11-18T00:00:00Z,17,17,0,14.7,2.3,14.7,14.7,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53940,1987-03-17T00:00:00Z,17,17,0,11.9,5.1,11.9,11.9,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53939,1986-10-29T00:00:00Z,17,17,0,13.8,3.2,13.8,13.8,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53938,1986-03-24T00:00:00Z,17,17,0,10.9,6.1,10.9,10.9,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53937,1985-10-24T00:00:00Z,17,17,0,14.7,2.3,14.7,14.7,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53936,1985-03-20T00:00:00Z,17,17,0,12.2,4.8,12.2,12.2,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53935,1984-10-11T00:00:00Z,17,17,0,15.5,1.5,15.5,15.5,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53934,1984-03-15T00:00:00Z,17,17,0,12.5,4.5,12.5,12.5,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53933,1983-10-11T00:00:00Z,17,17,0,15.8,1.2,15.8,15.8,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53932,1983-04-04T00:00:00Z,17,17,0,10.8,6.2,10.8,10.8,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53931,1982-10-19T00:00:00Z,17,17,0,15.8,1.2,15.8,15.8,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53930,1982-03-10T00:00:00Z,17,17,0,11.8,5.2,11.8,11.8,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53929,1981-10-16T00:00:00Z,17,17,0,15.8,1.2,15.8,15.8,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53928,1981-04-10T00:00:00Z,17,17,0,12.4,4.6,12.4,12.4,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency
+48732,382214N1224591W002,53927,1980-10-13T00:00:00Z,17,17,0,15.7,1.3,15.7,15.7,NA,Unknown,Water level accuracy is unknown,5083,Sonoma County Water Agency,NA,5083,Sonoma County Water Agency

@@ -1,0 +1,8 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+22540,357756N1199663W001,850671,1961-03-08T00:00:00Z,508.03,508.03,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22540,357756N1199663W001,850670,1960-10-14T00:00:00Z,508.03,508.03,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22540,357756N1199663W001,850669,1959-10-14T00:00:00Z,508.03,508.03,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5167,United States Geological Survey
+22540,357756N1199663W001,850668,1959-04-01T00:00:00Z,508.03,508.03,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5167,United States Geological Survey
+22540,357756N1199663W001,850667,1958-10-24T00:00:00Z,508.03,508.03,0,150.2,357.83,150.2,150.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+22540,357756N1199663W001,850666,1958-04-16T00:00:00Z,508.03,508.03,NA,NA,NA,NA,NA,Casing leaking or wet,NA,NA,1,Department of Water Resources,NA,5167,United States Geological Survey
+22540,357756N1199663W001,850665,1956-05-22T00:00:00Z,508.03,508.03,0,154.4,353.63,154.4,154.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey

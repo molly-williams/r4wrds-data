@@ -1,0 +1,77 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+30976,375246N1206074W001,2108843,2014-10-16T00:00:00Z,255.36,254.36,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1877286,2014-03-12T00:00:00Z,255.36,254.36,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1813215,2013-12-13T00:00:00Z,255.36,254.36,0,227.7,27.66,227.7,226.7,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1723360,2013-03-13T12:00:00Z,255.36,254.36,0,221.3,34.06,221.3,220.3,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,78623,2012-11-07T00:00:00Z,255.36,254.36,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,66136,2012-04-06T12:00:00Z,255.36,254.36,0,213,42.36,213,212,Acoustical sounder,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394648,2011-11-16T00:00:00Z,255.36,254.36,0,218,37.36,218,217,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394647,2011-03-14T00:00:00Z,255.36,254.36,0,206,49.36,206,205,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394646,2010-11-15T00:00:00Z,255.36,254.36,0,307,-51.64,307,306,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394645,2010-05-11T00:00:00Z,255.36,254.36,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394644,2009-11-18T00:00:00Z,255.36,254.36,0,216,39.36,216,215,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394642,2009-04-23T00:00:00Z,255.36,254.36,0,211,44.36,211,210,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394643,2008-08-09T00:00:00Z,255.36,254.36,0,210,45.36,210,209,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394641,2008-03-27T00:00:00Z,255.36,254.36,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394640,2007-03-22T00:00:00Z,255.36,254.36,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394639,2006-11-20T00:00:00Z,255.36,254.36,0,201,54.36,201,200,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394638,2006-03-23T00:00:00Z,255.36,254.36,0,195,60.36,195,194,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394637,2005-04-21T00:00:00Z,255.36,254.36,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394636,2004-03-29T00:00:00Z,255.36,254.36,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394635,2003-03-24T00:00:00Z,255.36,254.36,0,188,67.36,188,187,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394633,2002-03-14T00:00:00Z,255.36,254.36,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394632,2001-11-07T00:00:00Z,255.36,254.36,0,192,63.36,192,191,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394634,2001-03-06T00:00:00Z,255.36,254.36,0,182,73.36,182,181,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394631,2000-03-20T00:00:00Z,255.36,254.36,0,180,75.36,180,179,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394630,1999-11-01T00:00:00Z,255.36,254.36,0,190,65.36,190,189,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394629,1998-11-02T00:00:00Z,255.36,254.36,0,192,63.36,192,191,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394628,1998-04-06T00:00:00Z,255.36,254.36,0,180,75.36,180,179,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394627,1997-11-05T00:00:00Z,255.36,254.36,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394626,1997-03-12T00:00:00Z,255.36,254.36,0,162,93.36,162,161,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394625,1996-11-28T00:00:00Z,255.36,254.36,0,162,93.36,162,161,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394624,1996-04-11T00:00:00Z,255.36,254.36,0,166,89.36,166,165,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394623,1995-11-09T00:00:00Z,255.36,254.36,0,165,90.36,165,164,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394622,1995-03-09T00:00:00Z,255.36,254.36,0,164,91.36,164,163,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394621,1994-11-03T00:00:00Z,255.36,254.36,0,166,89.36,166,165,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394620,1994-02-17T00:00:00Z,255.36,254.36,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394619,1993-10-28T00:00:00Z,255.36,254.36,0,186,69.36,186,185,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394618,1993-03-04T00:00:00Z,255.36,254.36,0,181,74.36,181,180,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394617,1992-10-27T00:00:00Z,255.36,254.36,0,164,91.36,164,163,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394616,1992-02-20T00:00:00Z,255.36,254.36,0,181,74.36,181,180,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394615,1991-10-17T00:00:00Z,255.36,254.36,0,191,64.36,191,190,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394614,1991-02-07T00:00:00Z,255.36,254.36,0,182,73.36,182,181,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394613,1990-10-17T00:00:00Z,255.36,254.36,0,186,69.36,186,185,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394612,1990-02-06T00:00:00Z,255.36,254.36,0,176,79.36,176,175,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394611,1989-11-01T00:00:00Z,255.36,254.36,0,180,75.36,180,179,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394610,1989-03-08T00:00:00Z,255.36,254.36,0,163,92.36,163,162,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394609,1988-10-26T00:00:00Z,255.36,254.36,0,179.9,75.46,179.9,178.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394608,1988-03-07T00:00:00Z,255.36,254.36,0,159,96.36,159,158,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394607,1987-11-13T00:00:00Z,255.36,254.36,0,159,96.36,159,158,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394606,1987-03-11T00:00:00Z,255.36,254.36,0,158,97.36,158,157,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394605,1986-11-06T00:00:00Z,255.36,254.36,0,161,94.36,161,160,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394604,1986-03-20T00:00:00Z,255.36,254.36,0,142,113.36,142,141,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394603,1985-11-07T00:00:00Z,255.36,254.36,0,165,90.36,165,164,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394602,1985-03-21T00:00:00Z,255.36,254.36,0,145,110.36,145,144,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394601,1984-11-07T00:00:00Z,255.36,254.36,0,162,93.36,162,161,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394600,1983-11-01T00:00:00Z,255.36,254.36,0,152,103.36,152,151,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394599,1983-04-12T00:00:00Z,255.36,254.36,0,151,104.36,151,150,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394598,1982-10-14T00:00:00Z,255.36,254.36,0,160,95.36,160,159,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394597,1982-03-25T00:00:00Z,255.36,254.36,0,151,104.36,151,150,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394596,1981-10-13T00:00:00Z,255.36,254.36,0,160,95.36,160,159,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394595,1981-03-17T00:00:00Z,255.36,254.36,0,150,105.36,150,149,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394594,1980-10-08T00:00:00Z,255.36,254.36,0,159,96.36,159,158,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394593,1980-03-13T00:00:00Z,255.36,254.36,0,149,106.36,149,148,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394592,1979-10-24T00:00:00Z,255.36,254.36,0,143,112.36,143,142,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394591,1979-02-08T00:00:00Z,255.36,254.36,0,148,107.36,148,147,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394590,1978-10-27T00:00:00Z,255.36,254.36,0,151,104.36,151,150,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394589,1977-11-03T00:00:00Z,255.36,254.36,0,156,99.36,156,155,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394588,1977-03-03T00:00:00Z,255.36,254.36,0,148,107.36,148,147,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394587,1976-10-28T00:00:00Z,255.36,254.36,0,148,107.36,148,147,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394586,1976-08-06T00:00:00Z,255.36,254.36,0,158,97.36,158,157,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394585,1976-02-25T00:00:00Z,255.36,254.36,0,145,110.36,145,144,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394584,1975-10-07T00:00:00Z,255.36,254.36,0,141,114.36,141,140,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30976,375246N1206074W001,1394583,1973-03-28T00:00:00Z,255.36,254.36,0,136.9,118.46,136.9,135.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+30976,375246N1206074W001,1394582,1972-10-18T00:00:00Z,255.36,254.36,0,152,103.36,152,151,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+30976,375246N1206074W001,1394581,1972-03-22T00:00:00Z,255.36,254.36,0,132.8,122.56,132.8,131.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+30976,375246N1206074W001,1394580,1971-10-19T00:00:00Z,255.36,254.36,0,143.4,111.96,143.4,142.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+30976,375246N1206074W001,1394579,1971-03-24T00:00:00Z,255.36,254.36,0,125.8,129.56,125.8,124.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation

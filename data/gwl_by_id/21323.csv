@@ -1,0 +1,55 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+21323,354858N1192899W001,1989431,2014-02-14T14:30:00Z,332.69,331.69,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21323,354858N1192899W001,1989696,2012-02-08T09:00:00Z,332.69,331.69,0,263,69.69,263,262,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21323,354858N1192899W001,727022,2006-01-27T00:00:00Z,332.69,331.69,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+21323,354858N1192899W001,727021,1994-01-26T00:00:00Z,332.69,331.69,0,250,82.69,250,249,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+21323,354858N1192899W001,727020,1993-10-06T00:00:00Z,332.69,331.69,0,257,75.69,257,256,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+21323,354858N1192899W001,727019,1993-01-27T00:00:00Z,332.69,331.69,0,253,79.69,253,252,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+21323,354858N1192899W001,727018,1992-10-07T00:00:00Z,332.69,331.69,0,260,72.69,260,259,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+21323,354858N1192899W001,727017,1992-01-28T00:00:00Z,332.69,331.69,0,251,81.69,251,250,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+21323,354858N1192899W001,727016,1991-10-02T00:00:00Z,332.69,331.69,0,249,83.69,249,248,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+21323,354858N1192899W001,727015,1991-01-30T00:00:00Z,332.69,331.69,0,240,92.69,240,239,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+21323,354858N1192899W001,727014,1990-10-04T00:00:00Z,332.69,331.69,0,245,87.69,245,244,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+21323,354858N1192899W001,727013,1990-01-23T00:00:00Z,332.69,331.69,0,227,105.69,227,226,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+21323,354858N1192899W001,727012,1989-10-04T00:00:00Z,332.69,331.69,0,227,105.69,227,226,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+21323,354858N1192899W001,727011,1989-01-24T00:00:00Z,332.69,331.69,0,216,116.69,216,215,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+21323,354858N1192899W001,727010,1988-10-04T00:00:00Z,332.69,331.69,0,226,106.69,226,225,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+21323,354858N1192899W001,727009,1988-02-02T00:00:00Z,332.69,331.69,0,214,118.69,214,213,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+21323,354858N1192899W001,727008,1987-10-07T00:00:00Z,332.69,331.69,0,220,112.69,220,219,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+21323,354858N1192899W001,727007,1987-01-27T00:00:00Z,332.69,331.69,0,208,124.69,208,207,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+21323,354858N1192899W001,727006,1986-10-01T00:00:00Z,332.69,331.69,0,215,117.69,215,214,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21323,354858N1192899W001,727005,1986-01-29T00:00:00Z,332.69,331.69,0,218,114.69,218,217,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21323,354858N1192899W001,727004,1985-10-02T00:00:00Z,332.69,331.69,0,222,110.69,222,221,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21323,354858N1192899W001,727003,1985-01-30T00:00:00Z,332.69,331.69,0,220,112.69,220,219,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21323,354858N1192899W001,727002,1984-10-03T00:00:00Z,332.69,331.69,0,222,110.69,222,221,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21323,354858N1192899W001,727001,1984-01-31T00:00:00Z,332.69,331.69,0,223,109.69,223,222,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21323,354858N1192899W001,727000,1983-09-27T00:00:00Z,332.69,331.69,0,234,98.69,234,233,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21323,354858N1192899W001,726999,1983-01-26T00:00:00Z,332.69,331.69,0,233,99.69,233,232,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+21323,354858N1192899W001,726998,1982-09-28T00:00:00Z,332.69,331.69,0,241,91.69,241,240,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+21323,354858N1192899W001,726997,1982-01-27T00:00:00Z,332.69,331.69,0,258,74.69,258,257,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21323,354858N1192899W001,726996,1981-09-23T00:00:00Z,332.69,331.69,0,258,74.69,258,257,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21323,354858N1192899W001,726995,1981-01-28T00:00:00Z,332.69,331.69,0,253,79.69,253,252,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+21323,354858N1192899W001,726994,1980-09-24T00:00:00Z,332.69,331.69,0,242,90.69,242,241,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+21323,354858N1192899W001,726993,1980-01-23T00:00:00Z,332.69,331.69,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+21323,354858N1192899W001,726992,1979-09-26T00:00:00Z,332.69,331.69,0,239,93.69,239,238,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+21323,354858N1192899W001,726991,1979-01-23T00:00:00Z,332.69,331.69,0,230,102.69,230,229,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+21323,354858N1192899W001,726990,1978-10-04T00:00:00Z,332.69,331.69,0,241,91.69,241,240,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+21323,354858N1192899W001,726989,1978-01-27T00:00:00Z,332.69,331.69,0,241,91.69,241,240,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+21323,354858N1192899W001,726988,1977-10-10T00:00:00Z,332.69,331.69,0,244,88.69,244,243,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+21323,354858N1192899W001,726987,1977-08-09T00:00:00Z,332.69,331.69,0,247.3,85.39,247.3,246.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+21323,354858N1192899W001,726986,1977-01-27T00:00:00Z,332.69,331.69,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+21323,354858N1192899W001,726985,1976-10-05T00:00:00Z,332.69,331.69,0,256.9,75.79,256.9,255.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+21323,354858N1192899W001,726984,1976-01-27T00:00:00Z,332.69,331.69,0,229.7,102.99,229.7,228.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+21323,354858N1192899W001,726983,1975-09-25T00:00:00Z,332.69,331.69,0,255.9,76.79,255.9,254.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+21323,354858N1192899W001,726982,1975-02-03T00:00:00Z,332.69,331.69,0,218,114.69,218,217,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+21323,354858N1192899W001,726981,1974-09-25T00:00:00Z,332.69,331.69,0,241.5,91.19,241.5,240.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+21323,354858N1192899W001,726980,1974-02-06T00:00:00Z,332.69,331.69,NA,NA,NA,NA,NA,Casing leaking or wet,NA,NA,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+21323,354858N1192899W001,726979,1973-10-01T00:00:00Z,332.69,331.69,0,213.5,119.19,213.5,212.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+21323,354858N1192899W001,726978,1973-02-01T00:00:00Z,332.69,331.69,0,213.4,119.29,213.4,212.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+21323,354858N1192899W001,726977,1972-10-02T00:00:00Z,332.69,331.69,0,222,110.69,222,221,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+21323,354858N1192899W001,726976,1972-01-26T00:00:00Z,332.69,331.69,0,196,136.69,196,195,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+21323,354858N1192899W001,726975,1971-09-22T00:00:00Z,332.69,331.69,NA,NA,NA,NA,NA,Unable to locate well,NA,NA,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+21323,354858N1192899W001,726974,1970-09-22T00:00:00Z,332.69,331.69,0,210.5,122.19,210.5,209.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21323,354858N1192899W001,726973,1969-12-22T00:00:00Z,332.69,331.69,0,192.5,140.19,192.5,191.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1080,U S BUREAU OF STANDARDS
+21323,354858N1192899W001,726972,1969-11-24T00:00:00Z,332.69,331.69,0,194.3,138.39,194.3,193.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1080,U S BUREAU OF STANDARDS
+21323,354858N1192899W001,726971,1969-10-20T00:00:00Z,332.69,331.69,0,197.2,135.49,197.2,196.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1080,U S BUREAU OF STANDARDS

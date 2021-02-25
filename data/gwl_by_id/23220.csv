@@ -1,0 +1,75 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+23220,357491N1194374W001,854231,1967-09-28T00:00:00Z,223.6,222.6,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+23220,357491N1194374W001,854230,1966-01-27T00:00:00Z,223.6,222.6,0,124,99.6,124,123,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+23220,357491N1194374W001,854229,1965-02-03T00:00:00Z,223.6,222.6,0,104,119.6,104,103,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+23220,357491N1194374W001,854228,1964-09-28T00:00:00Z,223.6,222.6,0,160,63.6,160,159,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+23220,357491N1194374W001,854227,1964-01-31T00:00:00Z,223.6,222.6,0,130,93.6,130,129,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+23220,357491N1194374W001,854226,1963-10-01T00:00:00Z,223.6,222.6,0,194,29.6,194,193,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+23220,357491N1194374W001,854225,1963-02-07T00:00:00Z,223.6,222.6,0,122,101.6,122,121,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+23220,357491N1194374W001,854224,1962-10-11T00:00:00Z,223.6,222.6,0,178.5,45.1,178.5,177.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+23220,357491N1194374W001,854223,1962-02-13T00:00:00Z,223.6,222.6,0,137.2,86.4,137.2,136.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+23220,357491N1194374W001,854222,1961-10-16T00:00:00Z,223.6,222.6,0,174,49.6,174,173,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+23220,357491N1194374W001,854221,1961-02-14T00:00:00Z,223.6,222.6,0,131.4,92.2,131.4,130.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1117,UNKNOWN AGENCY
+23220,357491N1194374W001,854220,1960-10-07T00:00:00Z,223.6,222.6,NA,NA,NA,NA,NA,Casing leaking or wet,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+23220,357491N1194374W001,854219,1960-02-17T00:00:00Z,223.6,222.6,0,129.8,93.8,129.8,128.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1106,JAMES IRRIGATION DISTRICT
+23220,357491N1194374W001,854218,1959-09-30T00:00:00Z,223.6,222.6,0,151.6,72,151.6,150.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854217,1959-02-06T00:00:00Z,223.6,222.6,0,105,118.6,105,104,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854216,1958-10-02T00:00:00Z,223.6,222.6,0,167.6,56,167.6,166.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854215,1958-02-10T00:00:00Z,223.6,222.6,0,103.9,119.7,103.9,102.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854214,1957-10-03T00:00:00Z,223.6,222.6,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854213,1957-02-12T00:00:00Z,223.6,222.6,0,99.7,123.9,99.7,98.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854212,1956-10-09T00:00:00Z,223.6,222.6,0,161.9,61.7,161.9,160.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854211,1956-02-14T00:00:00Z,223.6,222.6,0,93.8,129.8,93.8,92.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854210,1955-09-15T00:00:00Z,223.6,222.6,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854209,1955-02-14T00:00:00Z,223.6,222.6,0,84.7,138.9,84.7,83.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854208,1954-09-20T00:00:00Z,223.6,222.6,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854207,1954-02-10T00:00:00Z,223.6,222.6,0,76.8,146.8,76.8,75.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854206,1953-12-05T00:00:00Z,223.6,222.6,0,103.4,120.2,103.4,102.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854205,1953-09-22T00:00:00Z,223.6,222.6,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854204,1953-01-26T00:00:00Z,223.6,222.6,0,71.2,152.4,71.2,70.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854203,1952-10-29T00:00:00Z,223.6,222.6,0,120.4,103.2,120.4,119.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854202,1952-02-05T00:00:00Z,223.6,222.6,0,71.9,151.7,71.9,70.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854201,1951-12-05T00:00:00Z,223.6,222.6,0,98.2,125.4,98.2,97.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854200,1951-11-02T00:00:00Z,223.6,222.6,0,123.4,100.2,123.4,122.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854199,1951-09-05T00:00:00Z,223.6,222.6,0,147,76.6,147,146,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854198,1951-02-01T00:00:00Z,223.6,222.6,0,66.1,157.5,66.1,65.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854197,1950-12-07T00:00:00Z,223.6,222.6,0,87.3,136.3,87.3,86.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854196,1950-11-02T00:00:00Z,223.6,222.6,0,110.8,112.8,110.8,109.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854195,1950-10-03T00:00:00Z,223.6,222.6,0,120.8,102.8,120.8,119.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854194,1950-02-01T00:00:00Z,223.6,222.6,0,59.7,163.9,59.7,58.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854193,1949-12-03T00:00:00Z,223.6,222.6,0,84.9,138.7,84.9,83.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854192,1949-11-18T00:00:00Z,223.6,222.6,0,93.4,130.2,93.4,92.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854191,1949-09-20T00:00:00Z,223.6,222.6,0,116.7,106.9,116.7,115.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854190,1949-02-07T00:00:00Z,223.6,222.6,0,56.3,167.3,56.3,55.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854189,1948-11-19T00:00:00Z,223.6,222.6,0,72.9,150.7,72.9,71.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854188,1948-09-16T00:00:00Z,223.6,222.6,0,98.9,124.7,98.9,97.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854187,1948-02-09T00:00:00Z,223.6,222.6,0,47.1,176.5,47.1,46.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854186,1947-12-10T00:00:00Z,223.6,222.6,0,58,165.6,58,57,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854185,1947-11-26T00:00:00Z,223.6,222.6,0,62.6,161,62.6,61.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854184,1947-11-14T00:00:00Z,223.6,222.6,0,69.9,153.7,69.9,68.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854183,1946-12-18T00:00:00Z,223.6,222.6,0,46.6,177,46.6,45.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854182,1946-11-30T00:00:00Z,223.6,222.6,0,58.1,165.5,58.1,57.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854181,1946-10-16T00:00:00Z,223.6,222.6,0,74.8,148.8,74.8,73.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854180,1946-02-13T00:00:00Z,223.6,222.6,0,26,197.6,26,25,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854179,1945-12-12T00:00:00Z,223.6,222.6,0,42.1,181.5,42.1,41.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854178,1945-12-01T00:00:00Z,223.6,222.6,0,44.4,179.2,44.4,43.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854177,1945-11-10T00:00:00Z,223.6,222.6,0,53.8,169.8,53.8,52.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854176,1944-12-03T00:00:00Z,223.6,222.6,0,40.3,183.3,40.3,39.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854175,1944-11-18T00:00:00Z,223.6,222.6,0,50.5,173.1,50.5,49.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854174,1943-11-29T00:00:00Z,223.6,222.6,0,37.9,185.7,37.9,36.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854173,1943-11-12T00:00:00Z,223.6,222.6,0,43.7,179.9,43.7,42.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854172,1942-11-27T00:00:00Z,223.6,222.6,0,35.7,187.9,35.7,34.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854171,1942-11-13T00:00:00Z,223.6,222.6,0,43,180.6,43,42,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854170,1941-12-16T00:00:00Z,223.6,222.6,0,21,202.6,21,20,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854169,1941-11-17T00:00:00Z,223.6,222.6,0,29.1,194.5,29.1,28.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854168,1941-04-21T00:00:00Z,223.6,222.6,0,8.4,215.2,8.4,7.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854167,1941-01-29T00:00:00Z,223.6,222.6,0,14.9,208.7,14.9,13.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854166,1940-12-04T00:00:00Z,223.6,222.6,0,27.6,196,27.6,26.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854165,1940-09-12T00:00:00Z,223.6,222.6,0,53.1,170.5,53.1,52.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854164,1940-03-06T00:00:00Z,223.6,222.6,0,10.1,213.5,10.1,9.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854163,1940-02-05T00:00:00Z,223.6,222.6,0,14.6,209,14.6,13.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854162,1939-12-02T00:00:00Z,223.6,222.6,0,34.4,189.2,34.4,33.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854161,1937-12-20T00:00:00Z,223.6,222.6,0,22.1,201.5,22.1,21.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854160,1937-11-16T00:00:00Z,223.6,222.6,0,31.8,191.8,31.8,30.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854159,1937-10-18T00:00:00Z,223.6,222.6,0,39.3,184.3,39.3,38.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23220,357491N1194374W001,854158,1937-09-17T00:00:00Z,223.6,222.6,0,51.9,171.7,51.9,50.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation

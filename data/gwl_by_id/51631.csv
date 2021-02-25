@@ -1,0 +1,5 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+51631,390046N1218760W001,2245379,2009-08-31T12:00:00Z,30.4,30,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,WTM,1462,Reclamation District 108
+51631,390046N1218760W001,2245378,2009-08-03T15:52:00Z,30.4,30,0,20,10.4,20,19.6,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,WTM,1462,Reclamation District 108
+51631,390046N1218760W001,2245377,2009-07-02T14:36:00Z,30.4,30,0,15,15.4,15,14.6,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,WTM,1462,Reclamation District 108
+51631,390046N1218760W001,2245376,2009-06-17T14:31:00Z,30.4,30,0,15,15.4,15,14.6,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,WTM,1462,Reclamation District 108

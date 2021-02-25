@@ -1,0 +1,12 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+18891,357986N1190534W001,845970,1962-02-06T00:00:00Z,603.43,602.73,0,361.7,241.73,361.7,361,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+18891,357986N1190534W001,845969,1961-02-10T00:00:00Z,603.43,602.73,0,378.8,224.63,378.8,378.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+18891,357986N1190534W001,845968,1960-10-07T00:00:00Z,603.43,602.73,0,384.8,218.63,384.8,384.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+18891,357986N1190534W001,845967,1960-02-11T00:00:00Z,603.43,602.73,0,380.5,222.93,380.5,379.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+18891,357986N1190534W001,845966,1959-10-05T00:00:00Z,603.43,602.73,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5167,United States Geological Survey
+18891,357986N1190534W001,845965,1959-02-24T00:00:00Z,603.43,602.73,0,374,229.43,374,373.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+18891,357986N1190534W001,845964,1959-02-17T00:00:00Z,603.43,602.73,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,5167,United States Geological Survey
+18891,357986N1190534W001,845963,1958-11-13T00:00:00Z,603.43,602.73,0,353.4,250.03,353.4,352.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+18891,357986N1190534W001,845962,1958-02-01T00:00:00Z,603.43,602.73,0,336,267.43,336,335.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+18891,357986N1190534W001,845961,1957-10-14T00:00:00Z,603.43,602.73,0,400,203.43,400,399.3,Casing leaking or wet,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+18891,357986N1190534W001,845960,1957-02-25T00:00:00Z,603.43,602.73,0,386.7,216.73,386.7,386,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey

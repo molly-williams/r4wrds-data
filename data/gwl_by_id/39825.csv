@@ -1,0 +1,51 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+39825,370057N1200174W001,1274722,2006-01-23T00:00:00Z,319.32,318.32,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,868,Madera Irrigation District
+39825,370057N1200174W001,1274721,1992-10-08T00:00:00Z,319.32,318.32,NA,NA,NA,NA,NA,Well has been destroyed,NA,NA,1,Department of Water Resources,NA,868,Madera Irrigation District
+39825,370057N1200174W001,1274720,1992-01-27T00:00:00Z,319.32,318.32,0,102.4,216.92,102.4,101.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,868,Madera Irrigation District
+39825,370057N1200174W001,1274719,1991-10-02T00:00:00Z,319.32,318.32,0,121.1,198.22,121.1,120.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,868,Madera Irrigation District
+39825,370057N1200174W001,1274718,1991-01-29T00:00:00Z,319.32,318.32,0,100,219.32,100,99,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,868,Madera Irrigation District
+39825,370057N1200174W001,1274717,1990-10-03T00:00:00Z,319.32,318.32,0,117.2,202.12,117.2,116.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,868,Madera Irrigation District
+39825,370057N1200174W001,1274716,1990-01-22T00:00:00Z,319.32,318.32,0,90.9,228.42,90.9,89.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,868,Madera Irrigation District
+39825,370057N1200174W001,1274715,1989-10-02T00:00:00Z,319.32,318.32,0,113,206.32,113,112,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,868,Madera Irrigation District
+39825,370057N1200174W001,1274714,1989-01-23T00:00:00Z,319.32,318.32,0,86,233.32,86,85,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,868,Madera Irrigation District
+39825,370057N1200174W001,1274713,1988-10-03T00:00:00Z,319.32,318.32,0,98.9,220.42,98.9,97.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,868,Madera Irrigation District
+39825,370057N1200174W001,1274712,1988-02-01T00:00:00Z,319.32,318.32,0,80.7,238.62,80.7,79.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,868,Madera Irrigation District
+39825,370057N1200174W001,1274711,1987-10-05T00:00:00Z,319.32,318.32,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,868,Madera Irrigation District
+39825,370057N1200174W001,1274710,1987-01-28T00:00:00Z,319.32,318.32,0,70.8,248.52,70.8,69.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,868,Madera Irrigation District
+39825,370057N1200174W001,1274709,1986-10-02T00:00:00Z,319.32,318.32,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+39825,370057N1200174W001,1274708,1986-01-20T00:00:00Z,319.32,318.32,0,72.5,246.82,72.5,71.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+39825,370057N1200174W001,1274707,1985-10-03T00:00:00Z,319.32,318.32,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+39825,370057N1200174W001,1274706,1985-01-31T00:00:00Z,319.32,318.32,0,70.8,248.52,70.8,69.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+39825,370057N1200174W001,1274705,1984-10-04T00:00:00Z,319.32,318.32,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+39825,370057N1200174W001,1274704,1984-02-02T00:00:00Z,319.32,318.32,0,68.7,250.62,68.7,67.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+39825,370057N1200174W001,1274703,1983-09-27T00:00:00Z,319.32,318.32,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+39825,370057N1200174W001,1274702,1983-01-24T00:00:00Z,319.32,318.32,0,75.3,244.02,75.3,74.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,868,Madera Irrigation District
+39825,370057N1200174W001,1274701,1982-09-27T00:00:00Z,319.32,318.32,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,868,Madera Irrigation District
+39825,370057N1200174W001,1274700,1982-01-21T00:00:00Z,319.32,318.32,0,80.4,238.92,80.4,79.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+39825,370057N1200174W001,1274699,1981-09-21T00:00:00Z,319.32,318.32,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+39825,370057N1200174W001,1274698,1981-01-26T00:00:00Z,319.32,318.32,0,77.2,242.12,77.2,76.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,868,Madera Irrigation District
+39825,370057N1200174W001,1274697,1980-09-22T00:00:00Z,319.32,318.32,0,94.2,225.12,94.2,93.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,868,Madera Irrigation District
+39825,370057N1200174W001,1274696,1980-01-23T00:00:00Z,319.32,318.32,0,78.9,240.42,78.9,77.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,868,Madera Irrigation District
+39825,370057N1200174W001,1274695,1979-09-20T00:00:00Z,319.32,318.32,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,868,Madera Irrigation District
+39825,370057N1200174W001,1274694,1979-01-23T00:00:00Z,319.32,318.32,0,76.7,242.62,76.7,75.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,868,Madera Irrigation District
+39825,370057N1200174W001,1274693,1978-01-23T00:00:00Z,319.32,318.32,0,84.9,234.42,84.9,83.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,868,Madera Irrigation District
+39825,370057N1200174W001,1274692,1977-10-05T00:00:00Z,319.32,318.32,0,101.6,217.72,101.6,100.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,868,Madera Irrigation District
+39825,370057N1200174W001,1274691,1977-01-19T00:00:00Z,319.32,318.32,0,70.3,249.02,70.3,69.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,868,Madera Irrigation District
+39825,370057N1200174W001,1274690,1976-10-04T00:00:00Z,319.32,318.32,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,868,Madera Irrigation District
+39825,370057N1200174W001,1274689,1976-01-26T00:00:00Z,319.32,318.32,0,67.2,252.12,67.2,66.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,868,Madera Irrigation District
+39825,370057N1200174W001,1274688,1975-10-01T00:00:00Z,319.32,318.32,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,868,Madera Irrigation District
+39825,370057N1200174W001,1274687,1975-01-29T00:00:00Z,319.32,318.32,0,60.9,258.42,60.9,59.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,868,Madera Irrigation District
+39825,370057N1200174W001,1274686,1974-10-01T00:00:00Z,319.32,318.32,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,868,Madera Irrigation District
+39825,370057N1200174W001,1274685,1974-02-04T00:00:00Z,319.32,318.32,0,60.3,259.02,60.3,59.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,868,Madera Irrigation District
+39825,370057N1200174W001,1274684,1973-02-06T00:00:00Z,319.32,318.32,0,60.4,258.92,60.4,59.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,868,Madera Irrigation District
+39825,370057N1200174W001,1274683,1972-10-09T00:00:00Z,319.32,318.32,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,868,Madera Irrigation District
+39825,370057N1200174W001,1274682,1972-02-07T00:00:00Z,319.32,318.32,0,62.1,257.22,62.1,61.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,868,Madera Irrigation District
+39825,370057N1200174W001,1274681,1971-10-04T00:00:00Z,319.32,318.32,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,868,Madera Irrigation District
+39825,370057N1200174W001,1274680,1971-02-11T00:00:00Z,319.32,318.32,0,61.7,257.62,61.7,60.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,868,Madera Irrigation District
+39825,370057N1200174W001,1274679,1970-02-02T00:00:00Z,319.32,318.32,0,58.8,260.52,58.8,57.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,868,Madera Irrigation District
+39825,370057N1200174W001,1274678,1969-02-10T00:00:00Z,319.32,318.32,0,62.1,257.22,62.1,61.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,868,Madera Irrigation District
+39825,370057N1200174W001,1274677,1968-02-05T00:00:00Z,319.32,318.32,0,60.8,258.52,60.8,59.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,868,Madera Irrigation District
+39825,370057N1200174W001,1274676,1967-02-06T00:00:00Z,319.32,318.32,0,78.5,240.82,78.5,77.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,868,Madera Irrigation District
+39825,370057N1200174W001,1274675,1966-02-10T00:00:00Z,319.32,318.32,0,81.8,237.52,81.8,80.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,868,Madera Irrigation District
+39825,370057N1200174W001,1274674,1965-02-15T00:00:00Z,319.32,318.32,0,81.2,238.12,81.2,80.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,868,Madera Irrigation District
+39825,370057N1200174W001,1274673,1964-02-17T00:00:00Z,319.32,318.32,0,77.1,242.22,77.1,76.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,868,Madera Irrigation District

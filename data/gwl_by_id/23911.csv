@@ -1,0 +1,12 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+23911,352302N1187496W001,654897,1965-01-25T00:00:00Z,662.54,662.04,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23911,352302N1187496W001,654896,1964-09-23T00:00:00Z,662.54,662.04,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23911,352302N1187496W001,654895,1964-01-29T00:00:00Z,662.54,662.04,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23911,352302N1187496W001,654894,1963-09-19T00:00:00Z,662.54,662.04,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23911,352302N1187496W001,654893,1963-01-31T00:00:00Z,662.54,662.04,0,457.9,204.64,457.9,457.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23911,352302N1187496W001,654892,1962-01-30T00:00:00Z,662.54,662.04,0,440,222.54,440,439.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23911,352302N1187496W001,654891,1961-10-03T00:00:00Z,662.54,662.04,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23911,352302N1187496W001,654890,1961-01-31T00:00:00Z,662.54,662.04,0,432.2,230.34,432.2,431.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+23911,352302N1187496W001,654889,1960-10-06T00:00:00Z,662.54,662.04,0,461.5,201.04,461.5,461,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23911,352302N1187496W001,654888,1960-02-04T00:00:00Z,662.54,662.04,0,431.6,230.94,431.6,431.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+23911,352302N1187496W001,654887,1959-09-30T00:00:00Z,662.54,662.04,0,452.6,209.94,452.6,452.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources

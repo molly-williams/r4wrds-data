@@ -1,0 +1,75 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+33378,368211N1196482W001,2431347,2018-10-16T19:46:00Z,388.54,388.54,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,Dropped,1,Department of Water Resources
+33378,368211N1196482W001,2286840,2018-03-13T22:05:00Z,388.54,388.54,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,Drop,1,Department of Water Resources
+33378,368211N1196482W001,2272261,2017-10-12T12:15:00Z,388.54,388.54,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,measurement discontinued,1,Department of Water Resources
+33378,368211N1196482W001,2240576,2017-03-27T12:00:00Z,388.54,388.54,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,Drop,1,Department of Water Resources
+33378,368211N1196482W001,2228049,2016-10-27T12:00:00Z,388.54,388.54,NA,NA,NA,NA,NA,Well has been destroyed,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+33378,368211N1196482W001,2187443,2016-02-29T12:00:00Z,388.54,388.54,NA,NA,NA,NA,NA,Well has been destroyed,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+33378,368211N1196482W001,2175463,2015-10-20T12:00:00Z,388.54,388.54,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+33378,368211N1196482W001,2135587,2015-04-09T07:45:00Z,388.54,388.54,NA,NA,NA,NA,NA,Well has been destroyed,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+33378,368211N1196482W001,2105950,2014-10-31T12:00:00Z,388.54,388.54,NA,NA,NA,NA,NA,Well has been destroyed,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+33378,368211N1196482W001,2105894,2014-03-25T12:00:00Z,388.54,388.54,NA,NA,NA,NA,NA,Well has been destroyed,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+33378,368211N1196482W001,1881382,2014-03-25T12:00:00Z,388.54,388.54,NA,NA,NA,NA,NA,Well has been destroyed,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+33378,368211N1196482W001,1812544,2013-10-21T12:00:00Z,388.54,388.54,NA,NA,NA,NA,NA,Well has been destroyed,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+33378,368211N1196482W001,1713820,2013-03-11T12:00:00Z,388.54,388.54,0,63.6,324.94,63.6,63.6,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+33378,368211N1196482W001,2105838,2013-03-11T12:00:00Z,388.54,388.54,0,63.6,324.94,63.6,63.6,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+33378,368211N1196482W001,68663,2012-10-03T00:00:00Z,388.54,388.54,0,64.7,323.84,64.7,64.7,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+33378,368211N1196482W001,54768,2012-02-22T00:00:00Z,388.54,388.54,0,62.8,325.74,62.8,62.8,NA,Steel tape measurement,Water level accuracy to nearest hundredth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+33378,368211N1196482W001,1148182,2011-10-27T00:00:00Z,388.54,388.54,NA,NA,NA,NA,NA,Unable to locate well,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+33378,368211N1196482W001,1148181,2011-02-22T00:00:00Z,388.54,388.54,0,67.8,320.74,67.8,67.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+33378,368211N1196482W001,1148180,2010-10-18T00:00:00Z,388.54,388.54,0,65.8,322.74,65.8,65.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+33378,368211N1196482W001,1148179,2010-05-20T00:00:00Z,388.54,388.54,0,64.2,324.34,64.2,64.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+33378,368211N1196482W001,1148178,2008-10-23T00:00:00Z,388.54,388.54,0,63.8,324.74,63.8,63.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+33378,368211N1196482W001,1148177,2008-04-30T00:00:00Z,388.54,388.54,0,61.6,326.94,61.6,61.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+33378,368211N1196482W001,1148176,2007-03-01T00:00:00Z,388.54,388.54,0,60,328.54,60,60,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+33378,368211N1196482W001,1148175,2006-11-08T00:00:00Z,388.54,388.54,0,56,332.54,56,56,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+33378,368211N1196482W001,1148174,2006-01-19T00:00:00Z,388.54,388.54,0,52,336.54,52,52,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+33378,368211N1196482W001,1148172,2005-01-12T00:00:00Z,388.54,388.54,0,62,326.54,62,62,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+33378,368211N1196482W001,1148173,2004-10-07T00:00:00Z,388.54,388.54,0,71,317.54,71,71,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+33378,368211N1196482W001,1148171,2004-02-19T00:00:00Z,388.54,388.54,0,61,327.54,61,61,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+33378,368211N1196482W001,1148170,2003-02-20T00:00:00Z,388.54,388.54,0,61,327.54,61,61,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+33378,368211N1196482W001,1148168,2002-02-19T00:00:00Z,388.54,388.54,0,57,331.54,57,57,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+33378,368211N1196482W001,1148167,2001-10-09T00:00:00Z,388.54,388.54,0,63,325.54,63,63,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+33378,368211N1196482W001,1148169,2001-02-14T00:00:00Z,388.54,388.54,0,56,332.54,56,56,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+33378,368211N1196482W001,1148166,2000-02-02T00:00:00Z,388.54,388.54,0,56,332.54,56,56,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+33378,368211N1196482W001,1148165,1999-10-13T00:00:00Z,388.54,388.54,0,56,332.54,56,56,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+33378,368211N1196482W001,1148164,1999-02-17T00:00:00Z,388.54,388.54,0,58,330.54,58,58,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+33378,368211N1196482W001,1148163,1998-10-14T00:00:00Z,388.54,388.54,0,54,334.54,54,54,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+33378,368211N1196482W001,1148162,1998-03-06T00:00:00Z,388.54,388.54,0,47.8,340.74,47.8,47.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+33378,368211N1196482W001,1148161,1997-10-24T00:00:00Z,388.54,388.54,0,53.9,334.64,53.9,53.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+33378,368211N1196482W001,1148160,1997-01-23T00:00:00Z,388.54,388.54,0,57.3,331.24,57.3,57.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+33378,368211N1196482W001,1148159,1996-11-07T00:00:00Z,388.54,388.54,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+33378,368211N1196482W001,1148158,1996-02-28T00:00:00Z,388.54,388.54,0,55.7,332.84,55.7,55.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+33378,368211N1196482W001,1148157,1995-10-31T00:00:00Z,388.54,388.54,0,60.2,328.34,60.2,60.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+33378,368211N1196482W001,1148156,1995-01-27T00:00:00Z,388.54,388.54,0,59.1,329.44,59.1,59.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+33378,368211N1196482W001,1148155,1994-10-28T00:00:00Z,388.54,388.54,0,60.6,327.94,60.6,60.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+33378,368211N1196482W001,1148154,1994-02-09T00:00:00Z,388.54,388.54,0,55.1,333.44,55.1,55.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+33378,368211N1196482W001,1148153,1993-11-10T00:00:00Z,388.54,388.54,NA,NA,NA,NA,NA,Casing leaking or wet,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+33378,368211N1196482W001,1148152,1993-01-21T00:00:00Z,388.54,388.54,0,56.3,332.24,56.3,56.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+33378,368211N1196482W001,1148151,1992-11-13T00:00:00Z,388.54,388.54,0,62.8,325.74,62.8,62.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+33378,368211N1196482W001,1148150,1992-02-19T00:00:00Z,388.54,388.54,0,57,331.54,57,57,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+33378,368211N1196482W001,1148149,1991-10-31T00:00:00Z,388.54,388.54,0,58.5,330.04,58.5,58.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+33378,368211N1196482W001,1148148,1991-02-01T00:00:00Z,388.54,388.54,0,64,324.54,64,64,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+33378,368211N1196482W001,1148147,1986-11-21T00:00:00Z,388.54,388.54,0,35,353.54,35,35,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,259,County of Fresno
+33378,368211N1196482W001,1148146,1986-02-03T00:00:00Z,388.54,388.54,0,36,352.54,36,36,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,259,County of Fresno
+33378,368211N1196482W001,1148145,1985-10-15T00:00:00Z,388.54,388.54,0,35,353.54,35,35,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,259,County of Fresno
+33378,368211N1196482W001,1148144,1985-02-01T00:00:00Z,388.54,388.54,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,259,County of Fresno
+33378,368211N1196482W001,1148143,1984-08-21T00:00:00Z,388.54,388.54,0,33,355.54,33,33,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,259,County of Fresno
+33378,368211N1196482W001,1148142,1984-01-26T00:00:00Z,388.54,388.54,0,33,355.54,33,33,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,259,County of Fresno
+33378,368211N1196482W001,1148141,1983-10-28T00:00:00Z,388.54,388.54,0,32,356.54,32,32,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,259,County of Fresno
+33378,368211N1196482W001,1148140,1983-02-01T00:00:00Z,388.54,388.54,0,37,351.54,37,37,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,259,County of Fresno
+33378,368211N1196482W001,1148139,1982-10-22T00:00:00Z,388.54,388.54,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,259,County of Fresno
+33378,368211N1196482W001,1148138,1982-04-22T00:00:00Z,388.54,388.54,0,41,347.54,41,41,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,259,County of Fresno
+33378,368211N1196482W001,1148137,1981-10-27T00:00:00Z,388.54,388.54,0,42,346.54,42,42,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,259,County of Fresno
+33378,368211N1196482W001,1148136,1981-02-03T00:00:00Z,388.54,388.54,0,41,347.54,41,41,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,259,County of Fresno
+33378,368211N1196482W001,1148135,1980-02-06T00:00:00Z,388.54,388.54,0,43,345.54,43,43,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,259,County of Fresno
+33378,368211N1196482W001,1148134,1979-10-25T00:00:00Z,388.54,388.54,0,43,345.54,43,43,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,259,County of Fresno
+33378,368211N1196482W001,1148133,1979-01-23T00:00:00Z,388.54,388.54,0,43,345.54,43,43,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,259,County of Fresno
+33378,368211N1196482W001,1148132,1978-10-19T00:00:00Z,388.54,388.54,0,43,345.54,43,43,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,259,County of Fresno
+33378,368211N1196482W001,1148131,1978-01-18T00:00:00Z,388.54,388.54,0,54,334.54,54,54,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,259,County of Fresno
+33378,368211N1196482W001,1148130,1977-10-18T00:00:00Z,388.54,388.54,0,52,336.54,52,52,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,259,County of Fresno
+33378,368211N1196482W001,1148129,1976-10-07T00:00:00Z,388.54,388.54,0,51,337.54,51,51,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,259,County of Fresno
+33378,368211N1196482W001,1148128,1976-01-14T00:00:00Z,388.54,388.54,0,34,354.54,34,34,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,259,County of Fresno
+33378,368211N1196482W001,1148127,1975-10-24T00:00:00Z,388.54,388.54,0,32,356.54,32,32,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,259,County of Fresno
+33378,368211N1196482W001,1148126,1975-01-15T00:00:00Z,388.54,388.54,0,32,356.54,32,32,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,259,County of Fresno
+33378,368211N1196482W001,1148125,1974-04-01T00:00:00Z,388.54,388.54,0,31,357.54,31,31,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,259,County of Fresno

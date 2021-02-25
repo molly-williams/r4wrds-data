@@ -1,0 +1,13 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+21852,353258N1188565W001,1726680,2013-03-11T00:00:00Z,579.76,579.76,0,332,247.76,332,332,Acoustical sounder,Acoustic or sonic sounder,Water level accuracy to nearest foot,5118,Arvin-Edison Water Storage District,NA,5118,Arvin-Edison Water Storage District
+21852,353258N1188565W001,68088,2012-03-09T00:00:00Z,579.76,579.76,341,341,579.76,0,0,Acoustical sounder,Acoustic or sonic sounder,Water level accuracy to nearest foot,5118,Arvin-Edison Water Storage District,NA,5118,Arvin-Edison Water Storage District
+21852,353258N1188565W001,18529,2011-11-18T00:00:00Z,579.76,579.76,0,384,195.76,384,384,NA,Acoustic or sonic sounder,Water level accuracy to nearest foot,5118,Arvin-Edison Water Storage District,NA,5118,Arvin-Edison Water Storage District
+21852,353258N1188565W001,766398,1963-09-17T00:00:00Z,579.76,579.76,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21852,353258N1188565W001,766397,1963-01-30T00:00:00Z,579.76,579.76,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21852,353258N1188565W001,766396,1962-10-02T00:00:00Z,579.76,579.76,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21852,353258N1188565W001,766395,1962-02-01T00:00:00Z,579.76,579.76,0,377.3,202.46,377.3,377.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21852,353258N1188565W001,766394,1961-10-02T00:00:00Z,579.76,579.76,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21852,353258N1188565W001,766393,1961-02-02T00:00:00Z,579.76,579.76,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21852,353258N1188565W001,766392,1960-10-05T00:00:00Z,579.76,579.76,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21852,353258N1188565W001,766391,1960-02-10T00:00:00Z,579.76,579.76,0,367.1,212.66,367.1,367.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21852,353258N1188565W001,766390,1958-12-06T00:00:00Z,579.76,579.76,0,350.1,229.66,350.1,350.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey

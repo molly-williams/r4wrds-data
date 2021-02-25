@@ -1,0 +1,29 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+21908,361089N1202360W001,2491864,2019-11-26T14:11:00Z,490,490,NA,NA,NA,NA,NA,Special/Other,NA,NA,5100,Westlands Water District,Capped,5100,Westlands Water District
+21908,361089N1202360W001,2465575,2019-06-11T13:15:00Z,490,490,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,5100,Westlands Water District,Measurement discontinued per DWR request; CASGEM well by mistake.,5100,Westlands Water District
+21908,361089N1202360W001,2437137,2018-12-10T13:07:00Z,490,490,NA,NA,NA,NA,NA,Pump house locked,NA,NA,5100,Westlands Water District,NA,5100,Westlands Water District
+21908,361089N1202360W001,2297408,2018-06-06T00:00:00Z,490,490,NA,NA,NA,NA,NA,Pump house locked,NA,NA,5100,Westlands Water District,NA,5100,Westlands Water District
+21908,361089N1202360W001,2280361,2017-12-14T13:25:00Z,490,490,NA,NA,NA,NA,NA,Pump house locked,NA,NA,5100,Westlands Water District,NA,5100,Westlands Water District
+21908,361089N1202360W001,2264053,2017-05-03T00:00:00Z,490,490,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,5100,Westlands Water District,NA,5100,Westlands Water District
+21908,361089N1202360W001,2225778,2017-01-11T00:00:00Z,490,490,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,5100,Westlands Water District,unable to pick-up due to heavy rains,5100,Westlands Water District
+21908,361089N1202360W001,2186135,2016-04-05T13:33:00Z,490,490,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,5100,Westlands Water District,NA,5100,Westlands Water District
+21908,361089N1202360W001,2156453,2015-10-07T12:50:00Z,490,490,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,5100,Westlands Water District,NA,5100,Westlands Water District
+21908,361089N1202360W001,2116505,2015-01-21T13:00:00Z,490,490,0,362,128,362,362,NA,Acoustic or sonic sounder,Water level accuracy to nearest foot,5100,Westlands Water District,NA,5100,Westlands Water District
+21908,361089N1202360W001,1882923,2013-12-31T11:35:00Z,490,490,NA,NA,NA,NA,NA,Pump house locked,NA,NA,5100,Westlands Water District,NA,5100,Westlands Water District
+21908,361089N1202360W001,89817,2012-12-19T08:39:00Z,490,490,NA,NA,NA,NA,NA,Pump house locked,NA,NA,5100,Westlands Water District,NA,5100,Westlands Water District
+21908,361089N1202360W001,37149,2011-12-19T00:00:00Z,490,490,NA,NA,NA,NA,NA,Pump house locked,NA,NA,5100,Westlands Water District,NA,5100,Westlands Water District
+21908,361089N1202360W001,62085,2010-12-15T00:00:00Z,490,490,NA,NA,NA,NA,NA,Pump house locked,NA,NA,5100,Westlands Water District,NA,5100,Westlands Water District
+21908,361089N1202360W001,2225779,2009-12-15T00:00:00Z,490,490,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,5100,Westlands Water District,NA,5100,Westlands Water District
+21908,361089N1202360W001,2225780,2008-12-17T00:00:00Z,490,490,NA,NA,NA,NA,NA,Pump house locked,NA,NA,5100,Westlands Water District,NA,5100,Westlands Water District
+21908,361089N1202360W001,2225781,2008-01-02T00:00:00Z,490,490,NA,NA,NA,NA,NA,Unable to locate well,NA,NA,5100,Westlands Water District,NA,5100,Westlands Water District
+21908,361089N1202360W001,2225782,2007-01-09T00:00:00Z,490,490,NA,NA,NA,NA,NA,Pump house locked,NA,NA,5100,Westlands Water District,NA,5100,Westlands Water District
+21908,361089N1202360W001,2225783,2005-12-19T00:00:00Z,490,490,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,5100,Westlands Water District,NA,5100,Westlands Water District
+21908,361089N1202360W001,2225784,2004-12-09T00:00:00Z,490,490,NA,NA,NA,NA,NA,Special/Other,NA,NA,5100,Westlands Water District,No access,5100,Westlands Water District
+21908,361089N1202360W001,2225785,2003-12-09T00:00:00Z,490,490,NA,NA,NA,NA,NA,Pump house locked,NA,NA,5100,Westlands Water District,NA,5100,Westlands Water District
+21908,361089N1202360W001,2225786,2002-12-30T00:00:00Z,490,490,NA,NA,NA,NA,NA,Pump house locked,NA,NA,5100,Westlands Water District,NA,5100,Westlands Water District
+21908,361089N1202360W001,2225787,2001-12-03T00:00:00Z,490,490,NA,NA,NA,NA,NA,Pump house locked,NA,NA,5100,Westlands Water District,NA,5100,Westlands Water District
+21908,361089N1202360W001,2225788,2000-12-29T00:00:00Z,490,490,NA,NA,NA,NA,NA,Pump house locked,NA,NA,5100,Westlands Water District,NA,5100,Westlands Water District
+21908,361089N1202360W001,2225789,1999-12-10T00:00:00Z,490,490,NA,NA,NA,NA,NA,Special/Other,NA,NA,5100,Westlands Water District,No access,5100,Westlands Water District
+21908,361089N1202360W001,2225790,1998-12-01T00:00:00Z,490,490,NA,NA,NA,NA,NA,Pump house locked,NA,NA,5100,Westlands Water District,NA,5100,Westlands Water District
+21908,361089N1202360W001,2225791,1997-11-17T00:00:00Z,490,490,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,5100,Westlands Water District,NA,5100,Westlands Water District
+21908,361089N1202360W001,2225792,1996-11-21T00:00:00Z,490,490,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,5100,Westlands Water District,NA,5100,Westlands Water District

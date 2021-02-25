@@ -1,0 +1,7 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+39270,361669N1198779W001,940929,1962-03-21T00:00:00Z,210.88,209.88,0,269.8,-58.92,269.8,268.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+39270,361669N1198779W001,940928,1960-10-12T00:00:00Z,210.88,209.88,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+39270,361669N1198779W001,940927,1960-03-01T00:00:00Z,210.88,209.88,0,342,-131.12,342,341,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+39270,361669N1198779W001,940926,1959-10-16T00:00:00Z,210.88,209.88,0,239.8,-28.92,239.8,238.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+39270,361669N1198779W001,940925,1959-05-08T00:00:00Z,210.88,209.88,0,172.8,38.08,172.8,171.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+39270,361669N1198779W001,940924,1958-10-28T00:00:00Z,210.88,209.88,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,5167,United States Geological Survey

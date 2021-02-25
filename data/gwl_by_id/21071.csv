@@ -1,0 +1,78 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+21071,356439N1191515W001,688856,2010-11-11T00:00:00Z,540.72,539.72,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688857,2010-10-04T00:00:00Z,540.72,539.72,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NO READING,5038,Cawelo Water District
+21071,356439N1191515W001,688855,2010-03-15T00:00:00Z,540.72,539.72,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688854,2009-11-01T00:00:00Z,540.72,539.72,0,452,88.72,452,451,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688853,2009-03-02T00:00:00Z,540.72,539.72,0,427,113.72,427,426,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688852,2008-11-03T00:00:00Z,540.72,539.72,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688851,2008-03-03T00:00:00Z,540.72,539.72,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688850,2007-03-01T00:00:00Z,540.72,539.72,0,400,140.72,400,399,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688847,2006-11-01T00:00:00Z,540.72,539.72,0,400,140.72,400,399,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688848,2006-03-01T00:00:00Z,540.72,539.72,0,399,141.72,399,398,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688849,2005-11-01T00:00:00Z,540.72,539.72,0,413,127.72,413,412,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688844,2005-03-01T00:00:00Z,540.72,539.72,0,404,136.72,404,403,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688846,2004-11-01T00:00:00Z,540.72,539.72,0,422,118.72,422,421,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688845,2004-03-01T00:00:00Z,540.72,539.72,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688843,2003-11-01T00:00:00Z,540.72,539.72,0,407,133.72,407,406,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688842,2003-04-03T00:00:00Z,540.72,539.72,0,406,134.72,406,405,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688841,2002-11-11T00:00:00Z,540.72,539.72,0,420,120.72,420,419,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688839,2002-03-27T00:00:00Z,540.72,539.72,0,408,132.72,408,407,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688838,2001-11-01T00:00:00Z,540.72,539.72,0,424,116.72,424,423,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688840,2001-03-26T00:00:00Z,540.72,539.72,0,402,138.72,402,401,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688837,2000-03-01T00:00:00Z,540.72,539.72,0,404,136.72,404,403,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688836,1999-11-01T00:00:00Z,540.72,539.72,0,410,130.72,410,409,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688835,1999-03-01T00:00:00Z,540.72,539.72,0,408,132.72,408,407,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688834,1998-11-20T00:00:00Z,540.72,539.72,0,418,122.72,418,417,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688833,1998-03-02T00:00:00Z,540.72,539.72,0,416,124.72,416,415,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688832,1997-10-06T00:00:00Z,540.72,539.72,0,434,106.72,434,433,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688831,1997-03-03T00:00:00Z,540.72,539.72,0,420,120.72,420,419,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688830,1996-10-01T00:00:00Z,540.72,539.72,0,436,104.72,436,435,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688829,1996-03-18T00:00:00Z,540.72,539.72,0,428,112.72,428,427,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688828,1995-10-01T00:00:00Z,540.72,539.72,0,442,98.72,442,441,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688827,1995-03-01T00:00:00Z,540.72,539.72,0,440,100.72,440,439,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688826,1994-10-17T00:00:00Z,540.72,539.72,0,466,74.72,466,465,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688825,1994-02-10T00:00:00Z,540.72,539.72,0,438,102.72,438,437,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688824,1993-10-06T00:00:00Z,540.72,539.72,0,451,89.72,451,450,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688823,1993-03-03T00:00:00Z,540.72,539.72,0,451,89.72,451,450,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688822,1992-10-14T00:00:00Z,540.72,539.72,0,486,54.72,486,485,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688821,1992-02-01T00:00:00Z,540.72,539.72,0,447,93.72,447,446,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688820,1991-10-01T00:00:00Z,540.72,539.72,0,481,59.72,481,480,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688819,1991-02-01T00:00:00Z,540.72,539.72,0,455,85.72,455,454,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688818,1990-10-01T00:00:00Z,540.72,539.72,0,564,-23.28,564,563,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688817,1990-02-28T00:00:00Z,540.72,539.72,0,432,108.72,432,431,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688816,1989-11-08T00:00:00Z,540.72,539.72,0,437,103.72,437,436,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688815,1989-02-02T00:00:00Z,540.72,539.72,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688814,1988-11-02T00:00:00Z,540.72,539.72,0,447,93.72,447,446,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688813,1988-02-02T00:00:00Z,540.72,539.72,0,426,114.72,426,425,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688812,1987-11-01T00:00:00Z,540.72,539.72,0,437,103.72,437,436,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688811,1987-03-02T00:00:00Z,540.72,539.72,0,432,108.72,432,431,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688810,1986-03-03T00:00:00Z,540.72,539.72,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21071,356439N1191515W001,688809,1985-11-11T00:00:00Z,540.72,539.72,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21071,356439N1191515W001,688808,1985-02-01T00:00:00Z,540.72,539.72,0,461,79.72,461,460,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21071,356439N1191515W001,688807,1984-10-01T00:00:00Z,540.72,539.72,0,475,65.72,475,474,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21071,356439N1191515W001,688806,1983-12-01T00:00:00Z,540.72,539.72,0,471,69.72,471,470,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21071,356439N1191515W001,688805,1983-10-13T00:00:00Z,540.72,539.72,0,480,60.72,480,479,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21071,356439N1191515W001,688804,1983-03-01T00:00:00Z,540.72,539.72,0,487,53.72,487,486,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688803,1982-10-01T00:00:00Z,540.72,539.72,0,472,68.72,472,471,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688802,1982-02-10T00:00:00Z,540.72,539.72,0,503,37.72,503,502,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21071,356439N1191515W001,688801,1981-09-21T00:00:00Z,540.72,539.72,0,532,8.72,532,531,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21071,356439N1191515W001,688800,1981-02-04T00:00:00Z,540.72,539.72,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NA,1085,KERN-TULARE WATER DISTRICT
+21071,356439N1191515W001,688799,1981-01-21T00:00:00Z,540.72,539.72,0,501,39.72,501,500,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688798,1980-10-14T00:00:00Z,540.72,539.72,0,517,23.72,517,516,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688797,1980-10-06T00:00:00Z,540.72,539.72,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1085,KERN-TULARE WATER DISTRICT
+21071,356439N1191515W001,688796,1980-03-01T00:00:00Z,540.72,539.72,0,509,31.72,509,508,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688795,1980-01-23T00:00:00Z,540.72,539.72,0,500,40.72,500,499,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1085,KERN-TULARE WATER DISTRICT
+21071,356439N1191515W001,688794,1979-09-28T00:00:00Z,540.72,539.72,0,520,20.72,520,519,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1085,KERN-TULARE WATER DISTRICT
+21071,356439N1191515W001,688793,1979-09-01T00:00:00Z,540.72,539.72,0,523,17.72,523,522,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5038,Cawelo Water District
+21071,356439N1191515W001,688792,1979-01-25T00:00:00Z,540.72,539.72,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1085,KERN-TULARE WATER DISTRICT
+21071,356439N1191515W001,688791,1978-01-27T00:00:00Z,540.72,539.72,0,563,-22.28,563,562,Recharge or surface water effects near well,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1085,KERN-TULARE WATER DISTRICT
+21071,356439N1191515W001,688790,1977-11-30T00:00:00Z,540.72,539.72,0,562,-21.28,562,561,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+21071,356439N1191515W001,688789,1977-03-08T00:00:00Z,540.72,539.72,0,536,4.72,536,535,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+21071,356439N1191515W001,688788,1976-11-24T00:00:00Z,540.72,539.72,0,533,7.72,533,532,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+21071,356439N1191515W001,688787,1976-03-02T00:00:00Z,540.72,539.72,0,527,13.72,527,526,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+21071,356439N1191515W001,688786,1975-02-25T00:00:00Z,540.72,539.72,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+21071,356439N1191515W001,688785,1974-02-20T00:00:00Z,540.72,539.72,0,491,49.72,491,490,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+21071,356439N1191515W001,688784,1973-02-07T00:00:00Z,540.72,539.72,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+21071,356439N1191515W001,688783,1972-10-19T00:00:00Z,540.72,539.72,0,546,-5.28,546,545,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+21071,356439N1191515W001,688782,1972-02-23T00:00:00Z,540.72,539.72,0,480,60.72,480,479,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+21071,356439N1191515W001,688781,1971-02-05T00:00:00Z,540.72,539.72,0,485,55.72,485,484,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources

@@ -1,0 +1,11 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+51016,370618N1204232W002,2661864,2020-03-11T00:00:00Z,162.5,162.2,0,180,-17.5,180,179.7,NA,Acoustic or sonic sounder,Water level accuracy to nearest foot,6561,Chowchilla Water District GSA,NA,6561,Chowchilla Water District GSA
+51016,370618N1204232W002,2480195,2019-10-18T00:00:00Z,162.5,162.2,NA,NA,NA,NA,NA,Pumping,NA,NA,5144,Madera-Chowchilla CASGEM Group,NA,5144,Madera-Chowchilla CASGEM Group
+51016,370618N1204232W002,2451906,2019-03-14T00:00:00Z,162.5,162.2,0,159.61,2.89,159.61,159.31,NA,Acoustic or sonic sounder,Water level accuracy to nearest foot,5144,Madera-Chowchilla CASGEM Group,NA,5144,Madera-Chowchilla CASGEM Group
+51016,370618N1204232W002,2414146,2018-10-15T00:00:00Z,162.5,162.2,NA,NA,NA,NA,NA,Pumping,NA,NA,5144,Madera-Chowchilla CASGEM Group,NA,5144,Madera-Chowchilla CASGEM Group
+51016,370618N1204232W002,2288798,2018-03-12T00:00:00Z,162.5,162.2,0,170.41,-7.91,170.41,170.11,NA,Acoustic or sonic sounder,Water level accuracy to nearest foot,5144,Madera-Chowchilla CASGEM Group,NA,5144,Madera-Chowchilla CASGEM Group
+51016,370618N1204232W002,2266981,2017-10-10T00:00:00Z,162.5,162.2,NA,NA,NA,NA,NA,Pumping,NA,NA,5144,Madera-Chowchilla CASGEM Group,NA,5144,Madera-Chowchilla CASGEM Group
+51016,370618N1204232W002,2235765,2017-03-14T00:00:00Z,162.5,162.2,0,168,-5.5,168,167.7,NA,Steel tape measurement,Water level accuracy to nearest foot,5144,Madera-Chowchilla CASGEM Group,NA,5144,Madera-Chowchilla CASGEM Group
+51016,370618N1204232W002,2213733,2016-10-19T00:00:00Z,162.5,162.2,0,187,-24.5,187,186.7,Casing leaking or wet,Electric sounder measurement,Water level accuracy to nearest foot,5144,Madera-Chowchilla CASGEM Group,Falling Water,5144,Madera-Chowchilla CASGEM Group
+51016,370618N1204232W002,2186934,2016-03-09T00:00:00Z,170.2,169.1,0,168,2.2,168,166.9,NA,Electric sounder measurement,Water level accuracy to nearest foot,5144,Madera-Chowchilla CASGEM Group,NA,5144,Madera-Chowchilla CASGEM Group
+51016,370618N1204232W002,2168108,2015-10-19T00:00:00Z,170.2,169.1,0,186,-15.8,186,184.9,NA,Electric sounder measurement,Water level accuracy to nearest foot,5144,Madera-Chowchilla CASGEM Group,NA,5144,Madera-Chowchilla CASGEM Group

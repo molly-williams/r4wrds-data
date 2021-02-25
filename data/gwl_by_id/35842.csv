@@ -1,0 +1,13 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+35842,365522N1202616W001,1018464,2008-12-09T00:00:00Z,201.67,200.67,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,5100,Westlands Water District
+35842,365522N1202616W001,1018463,1992-01-14T00:00:00Z,201.67,200.67,NA,NA,NA,NA,NA,Unable to locate well,NA,NA,1,Department of Water Resources,NA,5100,Westlands Water District
+35842,365522N1202616W001,1018462,1989-12-12T00:00:00Z,201.67,200.67,0,113,88.67,113,112,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+35842,365522N1202616W001,1018461,1988-12-14T00:00:00Z,201.67,200.67,0,89,112.67,89,88,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+35842,365522N1202616W001,1018460,1987-12-11T00:00:00Z,201.67,200.67,0,88,113.67,88,87,Oil or foreign substance in casing,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+35842,365522N1202616W001,1018459,1986-12-12T00:00:00Z,201.67,200.67,0,89,112.67,89,88,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+35842,365522N1202616W001,1018458,1985-12-12T00:00:00Z,201.67,200.67,0,92,109.67,92,91,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+35842,365522N1202616W001,1018457,1984-12-05T00:00:00Z,201.67,200.67,0,91,110.67,91,90,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+35842,365522N1202616W001,1018456,1982-12-15T00:00:00Z,201.67,200.67,0,106,95.67,106,105,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+35842,365522N1202616W001,1018455,1981-12-21T00:00:00Z,201.67,200.67,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NA,5100,Westlands Water District
+35842,365522N1202616W001,1018454,1980-12-03T00:00:00Z,201.67,200.67,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NA,5100,Westlands Water District
+35842,365522N1202616W001,1018453,1961-05-03T00:00:00Z,201.67,200.67,0,115.2,86.47,115.2,114.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey

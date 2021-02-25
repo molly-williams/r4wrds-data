@@ -1,0 +1,5 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+55164,355874N1193523W001,2660597,2020-06-01T00:00:00Z,330.5,329,NA,NA,NA,NA,NA,Pumping,NA,NA,6717,Kern Groundwater Authority GSA,No measurement. Well pumping.,6717,Kern Groundwater Authority GSA
+55164,355874N1193523W001,2660596,2020-05-01T00:00:00Z,330.5,329,0,373.5,-43,373.5,372,NA,Acoustic or sonic sounder,Water level accuracy is unknown,6717,Kern Groundwater Authority GSA,NA,6717,Kern Groundwater Authority GSA
+55164,355874N1193523W001,2660595,2020-04-01T00:00:00Z,330.5,329,0,349.7,-19.2,349.7,348.2,NA,Acoustic or sonic sounder,Water level accuracy is unknown,6717,Kern Groundwater Authority GSA,NA,6717,Kern Groundwater Authority GSA
+55164,355874N1193523W001,2660594,2020-03-01T00:00:00Z,330.5,329,0,353.6,-23.1,353.6,352.1,NA,Acoustic or sonic sounder,Water level accuracy is unknown,6717,Kern Groundwater Authority GSA,NA,6717,Kern Groundwater Authority GSA

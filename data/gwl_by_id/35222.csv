@@ -1,0 +1,13 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+35222,353514N1188385W001,765812,1964-09-23T00:00:00Z,731.31,730.81,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35222,353514N1188385W001,765811,1964-01-28T00:00:00Z,731.31,730.81,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35222,353514N1188385W001,765810,1963-09-17T00:00:00Z,731.31,730.81,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35222,353514N1188385W001,765809,1963-01-30T00:00:00Z,731.31,730.81,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35222,353514N1188385W001,765808,1962-10-02T00:00:00Z,731.31,730.81,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35222,353514N1188385W001,765807,1962-02-02T00:00:00Z,731.31,730.81,0,353.5,377.81,353.5,353,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35222,353514N1188385W001,765806,1961-10-04T00:00:00Z,731.31,730.81,0,375.5,355.81,375.5,375,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35222,353514N1188385W001,765805,1961-01-31T00:00:00Z,731.31,730.81,0,345.4,385.91,345.4,344.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35222,353514N1188385W001,765804,1960-09-29T00:00:00Z,731.31,730.81,0,371.8,359.51,371.8,371.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35222,353514N1188385W001,765803,1959-09-25T00:00:00Z,731.31,730.81,0,360,371.31,360,359.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35222,353514N1188385W001,765802,1959-02-03T00:00:00Z,731.31,730.81,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35222,353514N1188385W001,765801,1958-09-23T00:00:00Z,731.31,730.81,0,334.1,397.21,334.1,333.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation

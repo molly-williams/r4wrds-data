@@ -1,0 +1,47 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+5603,383941N1213575W001,1405752,1999-11-30T00:00:00Z,49.89,49.39,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,Returned to DWR (Waterman),323,Sacramento County
+5603,383941N1213575W001,1405751,1995-10-03T00:00:00Z,49.89,49.39,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,MUD ON TAPE; POSSIBLE CAVE IN OR DRY,323,Sacramento County
+5603,383941N1213575W001,1405750,1995-04-10T00:00:00Z,49.89,49.39,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,DEBRIS IN WELL,323,Sacramento County
+5603,383941N1213575W001,1405749,1994-10-27T00:00:00Z,49.89,49.39,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,GATES LOCKED; PROPERTY FOR SALE,323,Sacramento County
+5603,383941N1213575W001,1405748,1994-03-30T00:00:00Z,49.89,49.39,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,GATES LOCKED; PROPERTY FOR SALE,323,Sacramento County
+5603,383941N1213575W001,1405747,1993-09-30T00:00:00Z,49.89,49.39,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,GATES LOCKED; PROPERTY FOR SALE,323,Sacramento County
+5603,383941N1213575W001,1405746,1993-03-11T00:00:00Z,49.89,49.39,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,GATES LOCKED,323,Sacramento County
+5603,383941N1213575W001,1405745,1992-10-15T00:00:00Z,49.89,49.39,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,GATES LOCKED; LAND FOR SALE,323,Sacramento County
+5603,383941N1213575W001,1405744,1992-04-01T00:00:00Z,49.89,49.39,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,GATES LOCKED; LAND FOR SALE,323,Sacramento County
+5603,383941N1213575W001,1405743,1991-10-09T00:00:00Z,49.89,49.39,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,323,Sacramento County
+5603,383941N1213575W001,1405742,1991-02-19T00:00:00Z,49.89,49.39,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,323,Sacramento County
+5603,383941N1213575W001,1405741,1990-10-03T00:00:00Z,49.89,49.39,0,120,-70.11,120,119.5,Oil or foreign substance in casing,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,323,Sacramento County
+5603,383941N1213575W001,1405740,1990-05-02T00:00:00Z,49.89,49.39,0,118.6,-68.71,118.6,118.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,323,Sacramento County
+5603,383941N1213575W001,1405739,1988-03-15T00:00:00Z,49.89,49.39,0,111.5,-61.61,111.5,111,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,323,Sacramento County
+5603,383941N1213575W001,1405738,1987-10-06T00:00:00Z,49.89,49.39,0,114,-64.11,114,113.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,323,Sacramento County
+5603,383941N1213575W001,1405737,1987-03-17T00:00:00Z,49.89,49.39,0,100.4,-50.51,100.4,99.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,323,Sacramento County
+5603,383941N1213575W001,1405736,1986-10-07T00:00:00Z,49.89,49.39,0,103.2,-53.31,103.2,102.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,323,Sacramento County
+5603,383941N1213575W001,1405735,1986-03-17T00:00:00Z,49.89,49.39,0,98.4,-48.51,98.4,97.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,323,Sacramento County
+5603,383941N1213575W001,1405734,1985-10-16T00:00:00Z,49.89,49.39,0,104,-54.11,104,103.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,323,Sacramento County
+5603,383941N1213575W001,1405733,1985-03-20T00:00:00Z,49.89,49.39,0,97,-47.11,97,96.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,323,Sacramento County
+5603,383941N1213575W001,1405732,1984-10-15T00:00:00Z,49.89,49.39,0,92.7,-42.81,92.7,92.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,323,Sacramento County
+5603,383941N1213575W001,1405731,1984-03-07T00:00:00Z,49.89,49.39,0,93.3,-43.41,93.3,92.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,323,Sacramento County
+5603,383941N1213575W001,1405730,1983-10-05T00:00:00Z,49.89,49.39,0,105.1,-55.21,105.1,104.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,323,Sacramento County
+5603,383941N1213575W001,1405729,1983-03-17T00:00:00Z,49.89,49.39,0,101.2,-51.31,101.2,100.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,323,Sacramento County
+5603,383941N1213575W001,1405728,1982-10-28T00:00:00Z,49.89,49.39,0,109.6,-59.71,109.6,109.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,323,Sacramento County
+5603,383941N1213575W001,1405727,1981-10-15T00:00:00Z,49.89,49.39,0,106,-56.11,106,105.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,323,Sacramento County
+5603,383941N1213575W001,1405726,1981-03-09T00:00:00Z,49.89,49.39,0,109,-59.11,109,108.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,323,Sacramento County
+5603,383941N1213575W001,1405725,1980-10-01T00:00:00Z,49.89,49.39,0,115,-65.11,115,114.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,323,Sacramento County
+5603,383941N1213575W001,1405724,1980-03-10T00:00:00Z,49.89,49.39,0,111.6,-61.71,111.6,111.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,323,Sacramento County
+5603,383941N1213575W001,1405723,1979-10-02T00:00:00Z,49.89,49.39,0,112,-62.11,112,111.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,323,Sacramento County
+5603,383941N1213575W001,1405722,1979-03-13T00:00:00Z,49.89,49.39,0,110,-60.11,110,109.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,323,Sacramento County
+5603,383941N1213575W001,1405721,1978-10-17T00:00:00Z,49.89,49.39,0,118,-68.11,118,117.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,323,Sacramento County
+5603,383941N1213575W001,1405720,1978-03-14T00:00:00Z,49.89,49.39,0,113.6,-63.71,113.6,113.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,323,Sacramento County
+5603,383941N1213575W001,1405719,1977-10-04T00:00:00Z,49.89,49.39,0,114.5,-64.61,114.5,114,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,323,Sacramento County
+5603,383941N1213575W001,1405718,1977-03-08T00:00:00Z,49.89,49.39,0,104,-54.11,104,103.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,323,Sacramento County
+5603,383941N1213575W001,1405717,1976-10-06T00:00:00Z,49.89,49.39,0,112.1,-62.21,112.1,111.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,323,Sacramento County
+5603,383941N1213575W001,1405716,1976-03-03T00:00:00Z,49.89,49.39,0,100,-50.11,100,99.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,323,Sacramento County
+5603,383941N1213575W001,1405715,1975-10-07T00:00:00Z,49.89,49.39,0,106.5,-56.61,106.5,106,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,323,Sacramento County
+5603,383941N1213575W001,1405714,1975-03-06T00:00:00Z,49.89,49.39,0,96,-46.11,96,95.5,Caved or deepened,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,323,Sacramento County
+5603,383941N1213575W001,1405713,1974-10-04T00:00:00Z,49.89,49.39,0,104.9,-55.01,104.9,104.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,323,Sacramento County
+5603,383941N1213575W001,1405712,1974-03-05T00:00:00Z,49.89,49.39,0,96.1,-46.21,96.1,95.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,323,Sacramento County
+5603,383941N1213575W001,1405711,1973-10-03T00:00:00Z,49.89,49.39,0,106.5,-56.61,106.5,106,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,323,Sacramento County
+5603,383941N1213575W001,1405710,1973-03-08T00:00:00Z,49.89,49.39,0,94.8,-44.91,94.8,94.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,323,Sacramento County
+5603,383941N1213575W001,1405709,1972-10-11T00:00:00Z,49.89,49.39,0,94.3,-44.41,94.3,93.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,323,Sacramento County
+5603,383941N1213575W001,1405708,1972-03-09T00:00:00Z,49.89,49.39,0,93.2,-43.31,93.2,92.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,323,Sacramento County
+5603,383941N1213575W001,1405707,1972-02-18T00:00:00Z,49.89,49.39,0,94.1,-44.21,94.1,93.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,323,Sacramento County

@@ -1,0 +1,66 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+22130,354641N1192085W001,2240913,2017-03-14T12:00:00Z,356.51,354.71,NA,NA,NA,NA,NA,Pump house locked,NA,NA,1,Department of Water Resources,Skip,1,Department of Water Resources
+22130,354641N1192085W001,2187902,2016-03-09T12:00:00Z,356.51,354.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22130,354641N1192085W001,2170207,2015-10-06T00:00:00Z,356.51,354.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22130,354641N1192085W001,2136104,2015-03-04T13:00:00Z,356.51,354.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22130,354641N1192085W001,2108216,2014-10-07T00:00:00Z,356.51,354.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22130,354641N1192085W001,1882275,2014-01-14T12:00:00Z,356.51,354.71,NA,NA,NA,NA,NA,Pump house locked,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22130,354641N1192085W001,1811954,2013-10-28T12:00:00Z,356.51,354.71,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22130,354641N1192085W001,1723860,2013-02-26T12:00:00Z,356.51,354.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22130,354641N1192085W001,1821407,2012-10-11T12:00:00Z,356.51,354.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22130,354641N1192085W001,67073,2012-01-20T12:00:00Z,356.51,354.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22130,354641N1192085W001,730412,2010-10-27T00:00:00Z,356.51,354.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22130,354641N1192085W001,730411,2010-01-13T00:00:00Z,356.51,354.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22130,354641N1192085W001,730410,2009-02-25T00:00:00Z,356.51,354.71,0,218,138.51,218,216.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22130,354641N1192085W001,730406,2008-10-09T00:00:00Z,356.51,354.71,0,226,130.51,226,224.2,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1102,"SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT"
+22130,354641N1192085W001,730407,2008-02-14T00:00:00Z,356.51,354.71,0,208,148.51,208,206.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22130,354641N1192085W001,730408,2007-10-11T00:00:00Z,356.51,354.71,0,210,146.51,210,208.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1102,"SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT"
+22130,354641N1192085W001,730405,2007-01-26T00:00:00Z,356.51,354.71,0,206,150.51,206,204.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1102,"SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT"
+22130,354641N1192085W001,730409,2006-10-03T00:00:00Z,356.51,354.71,0,212,144.51,212,210.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1102,"SAN JOAQUIN, SOUTHERN, MUNICIPAL UTILITY DISTRICT"
+22130,354641N1192085W001,730402,2005-01-26T00:00:00Z,356.51,354.71,0,221,135.51,221,219.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22130,354641N1192085W001,730403,2004-01-29T00:00:00Z,356.51,354.71,0,213,143.51,213,211.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22130,354641N1192085W001,730404,2003-09-19T00:00:00Z,356.51,354.71,0,216,140.51,216,214.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22130,354641N1192085W001,730401,2003-01-23T00:00:00Z,356.51,354.71,0,203,153.51,203,201.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22130,354641N1192085W001,730400,2001-01-25T00:00:00Z,356.51,354.71,0,188,168.51,188,186.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22130,354641N1192085W001,730399,2000-01-31T00:00:00Z,356.51,354.71,0,182,174.51,182,180.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22130,354641N1192085W001,730398,1999-10-07T00:00:00Z,356.51,354.71,0,185,171.51,185,183.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22130,354641N1192085W001,730397,1998-10-07T00:00:00Z,356.51,354.71,0,182,174.51,182,180.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22130,354641N1192085W001,730396,1998-02-05T00:00:00Z,356.51,354.71,0,207,149.51,207,205.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22130,354641N1192085W001,730395,1998-01-07T00:00:00Z,356.51,354.71,0,199.8,156.71,199.8,198,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+22130,354641N1192085W001,730394,1997-09-25T00:00:00Z,356.51,354.71,0,212,144.51,212,210.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22130,354641N1192085W001,730393,1997-01-30T00:00:00Z,356.51,354.71,0,215,141.51,215,213.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1106,JAMES IRRIGATION DISTRICT
+22130,354641N1192085W001,730392,1996-09-23T00:00:00Z,356.51,354.71,0,220,136.51,220,218.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1105,TERRA BELLA IRRIGATION DISTRICT
+22130,354641N1192085W001,730391,1996-01-18T00:00:00Z,356.51,354.71,0,226,130.51,226,224.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1105,TERRA BELLA IRRIGATION DISTRICT
+22130,354641N1192085W001,730390,1995-10-04T00:00:00Z,356.51,354.71,0,232,124.51,232,230.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5154,Shafter-Wasco Irrigation District
+22130,354641N1192085W001,730389,1995-01-25T00:00:00Z,356.51,354.71,0,232,124.51,232,230.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1105,TERRA BELLA IRRIGATION DISTRICT
+22130,354641N1192085W001,730388,1994-10-07T00:00:00Z,356.51,354.71,0,237.8,118.71,237.8,236,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1105,TERRA BELLA IRRIGATION DISTRICT
+22130,354641N1192085W001,730387,1994-01-26T00:00:00Z,356.51,354.71,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22130,354641N1192085W001,730386,1993-10-06T00:00:00Z,356.51,354.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22130,354641N1192085W001,730385,1993-01-27T00:00:00Z,356.51,354.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22130,354641N1192085W001,730384,1992-10-07T00:00:00Z,356.51,354.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22130,354641N1192085W001,730383,1992-01-29T00:00:00Z,356.51,354.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22130,354641N1192085W001,730382,1991-10-02T00:00:00Z,356.51,354.71,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22130,354641N1192085W001,730381,1991-01-30T00:00:00Z,356.51,354.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22130,354641N1192085W001,730380,1990-10-03T00:00:00Z,356.51,354.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22130,354641N1192085W001,730379,1990-01-24T00:00:00Z,356.51,354.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22130,354641N1192085W001,730378,1989-10-04T00:00:00Z,356.51,354.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22130,354641N1192085W001,730377,1989-01-26T00:00:00Z,356.51,354.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22130,354641N1192085W001,730376,1988-10-06T00:00:00Z,356.51,354.71,0,190,166.51,190,188.2,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+22130,354641N1192085W001,730375,1988-01-28T00:00:00Z,356.51,354.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22130,354641N1192085W001,730374,1987-10-08T00:00:00Z,356.51,354.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22130,354641N1192085W001,730373,1987-01-30T00:00:00Z,356.51,354.71,0,159,197.51,159,157.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+22130,354641N1192085W001,730372,1986-10-03T00:00:00Z,356.51,354.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22130,354641N1192085W001,730371,1986-02-03T00:00:00Z,356.51,354.71,0,171.8,184.71,171.8,170,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22130,354641N1192085W001,730370,1985-10-04T00:00:00Z,356.51,354.71,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22130,354641N1192085W001,730369,1985-02-14T00:00:00Z,356.51,354.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22130,354641N1192085W001,730368,1984-10-11T00:00:00Z,356.51,354.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22130,354641N1192085W001,730367,1984-03-08T00:00:00Z,356.51,354.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22130,354641N1192085W001,730366,1983-10-30T00:00:00Z,356.51,354.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22130,354641N1192085W001,730365,1983-01-31T00:00:00Z,356.51,354.71,0,209,147.51,209,207.2,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1070,TENNECO-WEST
+22130,354641N1192085W001,730364,1982-08-16T00:00:00Z,356.51,354.71,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1070,TENNECO-WEST
+22130,354641N1192085W001,730363,1982-02-11T00:00:00Z,356.51,354.71,0,199,157.51,199,197.2,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22130,354641N1192085W001,730362,1981-08-20T00:00:00Z,356.51,354.71,0,209,147.51,209,207.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22130,354641N1192085W001,730361,1981-02-10T00:00:00Z,356.51,354.71,0,193,163.51,193,191.2,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1070,TENNECO-WEST
+22130,354641N1192085W001,730360,1980-08-12T00:00:00Z,356.51,354.71,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1070,TENNECO-WEST
+22130,354641N1192085W001,730359,1980-01-24T00:00:00Z,356.51,354.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1070,TENNECO-WEST
+22130,354641N1192085W001,730358,1979-08-21T00:00:00Z,356.51,354.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1070,TENNECO-WEST

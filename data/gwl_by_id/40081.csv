@@ -1,0 +1,14 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+40081,363058N1201757W001,908385,1977-07-19T00:00:00Z,335.03,334.03,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+40081,363058N1201757W001,908384,1976-12-16T00:00:00Z,335.03,334.03,0,284,51.03,284,283,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+40081,363058N1201757W001,908383,1975-12-15T00:00:00Z,335.03,334.03,0,290.5,44.53,290.5,289.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+40081,363058N1201757W001,908382,1974-12-16T00:00:00Z,335.03,334.03,0,312,23.03,312,311,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+40081,363058N1201757W001,908381,1974-02-06T00:00:00Z,335.03,334.03,0,452,-116.97,452,451,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+40081,363058N1201757W001,908380,1968-12-16T00:00:00Z,335.03,334.03,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+40081,363058N1201757W001,908379,1967-12-22T00:00:00Z,335.03,334.03,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+40081,363058N1201757W001,908378,1966-12-28T00:00:00Z,335.03,334.03,0,577,-241.97,577,576,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+40081,363058N1201757W001,908377,1965-12-15T00:00:00Z,335.03,334.03,0,547,-211.97,547,546,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+40081,363058N1201757W001,908376,1964-12-18T00:00:00Z,335.03,334.03,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+40081,363058N1201757W001,908375,1963-12-18T00:00:00Z,335.03,334.03,0,545,-209.97,545,544,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+40081,363058N1201757W001,908374,1962-03-22T00:00:00Z,335.03,334.03,0,572,-236.97,572,571,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+40081,363058N1201757W001,908373,1961-05-02T00:00:00Z,335.03,334.03,0,561,-225.97,561,560,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey

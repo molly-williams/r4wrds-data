@@ -1,0 +1,7 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+26533,377255N1215119W001,1668770,1962-03-13T00:00:00Z,152.46,148.96,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+26533,377255N1215119W001,1668769,1961-03-13T00:00:00Z,152.46,148.96,0,39.7,112.76,39.7,36.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+26533,377255N1215119W001,1668768,1960-10-01T00:00:00Z,152.46,148.96,NA,NA,NA,NA,NA,Dry well,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+26533,377255N1215119W001,1668767,1960-09-22T00:00:00Z,152.46,148.96,0,19,133.46,19,15.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+26533,377255N1215119W001,1668766,1960-03-17T00:00:00Z,152.46,148.96,0,39.4,113.06,39.4,35.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+26533,377255N1215119W001,1668765,1959-10-09T00:00:00Z,152.46,148.96,0,20.7,131.76,20.7,17.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation

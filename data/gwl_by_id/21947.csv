@@ -1,0 +1,9 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+21947,351358N1189412W001,665487,1967-01-30T00:00:00Z,359.34,357.34,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21947,351358N1189412W001,665486,1966-09-27T00:00:00Z,359.34,357.34,0,274.8,84.54,274.8,272.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21947,351358N1189412W001,665485,1965-09-29T00:00:00Z,359.34,357.34,0,258,101.34,258,256,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21947,351358N1189412W001,665484,1965-01-27T00:00:00Z,359.34,357.34,0,217.1,142.24,217.1,215.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21947,351358N1189412W001,665483,1964-09-23T00:00:00Z,359.34,357.34,NA,NA,NA,NA,NA,Casing leaking or wet,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21947,351358N1189412W001,665482,1964-01-27T00:00:00Z,359.34,357.34,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21947,351358N1189412W001,665481,1963-01-30T00:00:00Z,359.34,357.34,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21947,351358N1189412W001,665480,1962-01-30T00:00:00Z,359.34,357.34,0,216,143.34,216,214,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation

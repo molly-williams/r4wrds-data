@@ -1,0 +1,6 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+51413,362273N1191386W002,2619924,2019-03-15T12:00:00Z,346,343,0,155,191,155,152,NA,Unknown,Water level accuracy is unknown,6722,East Kaweah GSA,NA,6722,East Kaweah GSA
+51413,362273N1191386W002,2619877,2018-10-15T12:00:00Z,346,343,0,170.6,175.4,170.6,167.6,NA,Unknown,Water level accuracy is unknown,6722,East Kaweah GSA,NA,6722,East Kaweah GSA
+51413,362273N1191386W002,2277838,2017-10-01T00:00:00Z,346,343,0,168.9,177.1,168.9,165.9,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,234,City of Lindsay,NA,234,City of Lindsay
+51413,362273N1191386W002,2277835,2017-02-28T00:00:00Z,346,343,0,153,193,153,150,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,234,City of Lindsay,NA,234,City of Lindsay
+51413,362273N1191386W002,2190510,2016-03-28T00:00:00Z,346,343,0,147.6,198.4,147.6,144.6,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,234,City of Lindsay,NA,234,City of Lindsay

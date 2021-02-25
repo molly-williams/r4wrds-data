@@ -1,0 +1,12 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+23602,353786N1191866W001,741716,1975-09-23T00:00:00Z,355.49,353.09,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+23602,353786N1191866W001,741715,1974-09-25T00:00:00Z,355.49,353.09,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+23602,353786N1191866W001,741714,1974-01-29T00:00:00Z,355.49,353.09,0,133.4,222.09,133.4,131,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+23602,353786N1191866W001,741713,1973-09-24T00:00:00Z,355.49,353.09,0,146.4,209.09,146.4,144,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+23602,353786N1191866W001,741712,1973-01-30T00:00:00Z,355.49,353.09,0,129.4,226.09,129.4,127,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+23602,353786N1191866W001,741711,1972-09-27T00:00:00Z,355.49,353.09,0,140.4,215.09,140.4,138,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+23602,353786N1191866W001,741710,1972-01-27T00:00:00Z,355.49,353.09,0,123.4,232.09,123.4,121,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+23602,353786N1191866W001,741709,1971-09-24T00:00:00Z,355.49,353.09,0,132.9,222.59,132.9,130.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+23602,353786N1191866W001,741708,1971-02-04T00:00:00Z,355.49,353.09,0,113.4,242.09,113.4,111,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+23602,353786N1191866W001,741707,1970-09-24T00:00:00Z,355.49,353.09,0,123,232.49,123,120.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+23602,353786N1191866W001,741706,1970-01-22T00:00:00Z,355.49,353.09,0,107,248.49,107,104.6,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY

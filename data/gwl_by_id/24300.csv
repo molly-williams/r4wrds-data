@@ -1,0 +1,49 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+24300,352314N1189849W001,781532,1976-10-07T00:00:00Z,328.72,327.22,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+24300,352314N1189849W001,781531,1976-01-19T00:00:00Z,328.72,327.22,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+24300,352314N1189849W001,781530,1975-09-30T00:00:00Z,328.72,327.22,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+24300,352314N1189849W001,781529,1975-01-21T00:00:00Z,328.72,327.22,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+24300,352314N1189849W001,781528,1974-09-25T00:00:00Z,328.72,327.22,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+24300,352314N1189849W001,781527,1974-01-29T00:00:00Z,328.72,327.22,0,120,208.72,120,118.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+24300,352314N1189849W001,781526,1973-01-31T00:00:00Z,328.72,327.22,0,122,206.72,122,120.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+24300,352314N1189849W001,781525,1972-09-26T00:00:00Z,328.72,327.22,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+24300,352314N1189849W001,781524,1972-01-26T00:00:00Z,328.72,327.22,0,97.5,231.22,97.5,96,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+24300,352314N1189849W001,781523,1971-09-21T00:00:00Z,328.72,327.22,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+24300,352314N1189849W001,781522,1970-09-22T00:00:00Z,328.72,327.22,0,110,218.72,110,108.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+24300,352314N1189849W001,781521,1970-01-27T00:00:00Z,328.72,327.22,0,85,243.72,85,83.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+24300,352314N1189849W001,781520,1969-09-23T00:00:00Z,328.72,327.22,0,108,220.72,108,106.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+24300,352314N1189849W001,781519,1969-01-29T00:00:00Z,328.72,327.22,0,79.1,249.62,79.1,77.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+24300,352314N1189849W001,781518,1968-09-24T00:00:00Z,328.72,327.22,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+24300,352314N1189849W001,781517,1968-01-30T00:00:00Z,328.72,327.22,0,117.5,211.22,117.5,116,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+24300,352314N1189849W001,781516,1967-09-26T00:00:00Z,328.72,327.22,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+24300,352314N1189849W001,781515,1967-01-31T00:00:00Z,328.72,327.22,0,115.8,212.92,115.8,114.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+24300,352314N1189849W001,781514,1966-09-28T00:00:00Z,328.72,327.22,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+24300,352314N1189849W001,781513,1966-01-26T00:00:00Z,328.72,327.22,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+24300,352314N1189849W001,781512,1965-09-29T00:00:00Z,328.72,327.22,0,112,216.72,112,110.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+24300,352314N1189849W001,781511,1965-01-28T00:00:00Z,328.72,327.22,0,87.1,241.62,87.1,85.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+24300,352314N1189849W001,781510,1964-09-21T00:00:00Z,328.72,327.22,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+24300,352314N1189849W001,781509,1964-01-27T00:00:00Z,328.72,327.22,0,100,228.72,100,98.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+24300,352314N1189849W001,781508,1963-09-16T00:00:00Z,328.72,327.22,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+24300,352314N1189849W001,781507,1963-01-29T00:00:00Z,328.72,327.22,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+24300,352314N1189849W001,781506,1962-10-02T00:00:00Z,328.72,327.22,0,102,226.72,102,100.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+24300,352314N1189849W001,781505,1962-01-30T00:00:00Z,328.72,327.22,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+24300,352314N1189849W001,781504,1961-10-03T00:00:00Z,328.72,327.22,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+24300,352314N1189849W001,781503,1961-02-07T00:00:00Z,328.72,327.22,NA,NA,NA,NA,NA,Pump house locked,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+24300,352314N1189849W001,781502,1960-10-06T00:00:00Z,328.72,327.22,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+24300,352314N1189849W001,781501,1960-02-03T00:00:00Z,328.72,327.22,0,83.9,244.82,83.9,82.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+24300,352314N1189849W001,781500,1959-09-22T00:00:00Z,328.72,327.22,0,100.9,227.82,100.9,99.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+24300,352314N1189849W001,781499,1959-02-03T00:00:00Z,328.72,327.22,0,65.8,262.92,65.8,64.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+24300,352314N1189849W001,781498,1958-09-26T00:00:00Z,328.72,327.22,0,75.8,252.92,75.8,74.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+24300,352314N1189849W001,781497,1958-02-06T00:00:00Z,328.72,327.22,0,63.1,265.62,63.1,61.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+24300,352314N1189849W001,781496,1957-09-24T00:00:00Z,328.72,327.22,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+24300,352314N1189849W001,781495,1957-02-05T00:00:00Z,328.72,327.22,0,45.5,283.22,45.5,44,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+24300,352314N1189849W001,781494,1956-10-04T00:00:00Z,328.72,327.22,0,71.9,256.82,71.9,70.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+24300,352314N1189849W001,781493,1956-02-09T00:00:00Z,328.72,327.22,0,43.2,285.52,43.2,41.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+24300,352314N1189849W001,781492,1956-01-31T00:00:00Z,328.72,327.22,0,48.8,279.92,48.8,47.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+24300,352314N1189849W001,781491,1955-10-17T00:00:00Z,328.72,327.22,0,58.2,270.52,58.2,56.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+24300,352314N1189849W001,781490,1955-01-24T00:00:00Z,328.72,327.22,0,41.2,287.52,41.2,39.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+24300,352314N1189849W001,781489,1954-11-22T00:00:00Z,328.72,327.22,0,46.4,282.32,46.4,44.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+24300,352314N1189849W001,781488,1954-05-24T00:00:00Z,328.72,327.22,0,63.7,265.02,63.7,62.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+24300,352314N1189849W001,781487,1953-11-25T00:00:00Z,328.72,327.22,0,40.2,288.52,40.2,38.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+24300,352314N1189849W001,781486,1953-05-26T00:00:00Z,328.72,327.22,0,44.2,284.52,44.2,42.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+24300,352314N1189849W001,781485,1952-12-01T00:00:00Z,328.72,327.22,0,39.2,289.52,39.2,37.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY

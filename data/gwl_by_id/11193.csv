@@ -1,0 +1,35 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+11193,387556N1214898W001,1240894,1978-03-16T00:00:00Z,41.92,41.42,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,DISCONTINUE MEASUREMENT,777,County of Sutter
+11193,387556N1214898W001,1240893,1977-09-30T00:00:00Z,41.92,41.42,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NO FALL MEASUREMENT,777,County of Sutter
+11193,387556N1214898W001,1240892,1977-06-08T00:00:00Z,41.92,41.42,0,81.7,-39.78,81.7,81.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+11193,387556N1214898W001,1240891,1977-02-28T00:00:00Z,41.92,41.42,0,72.4,-30.48,72.4,71.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+11193,387556N1214898W001,1240890,1976-10-05T00:00:00Z,41.92,41.42,0,73.9,-31.98,73.9,73.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+11193,387556N1214898W001,1240889,1976-02-27T00:00:00Z,41.92,41.42,0,66.2,-24.28,66.2,65.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+11193,387556N1214898W001,1240888,1975-11-04T00:00:00Z,41.92,41.42,0,71,-29.08,71,70.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+11193,387556N1214898W001,1240887,1975-03-26T00:00:00Z,41.92,41.42,0,64.1,-22.18,64.1,63.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+11193,387556N1214898W001,1240886,1974-10-09T00:00:00Z,41.92,41.42,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,PUMPING,1,Department of Water Resources
+11193,387556N1214898W001,1240885,1974-03-13T00:00:00Z,41.92,41.42,0,64.7,-22.78,64.7,64.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+11193,387556N1214898W001,1240884,1973-10-08T00:00:00Z,41.92,41.42,0,74.6,-32.68,74.6,74.1,Pumping,Unknown,Water level accuracy is unknown,1,Department of Water Resources,PUMPING,1,Department of Water Resources
+11193,387556N1214898W001,1240883,1973-03-15T00:00:00Z,41.92,41.42,0,63.7,-21.78,63.7,63.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+11193,387556N1214898W001,1240882,1972-10-19T00:00:00Z,41.92,41.42,0,70,-28.08,70,69.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+11193,387556N1214898W001,1240881,1972-03-14T00:00:00Z,41.92,41.42,0,62.5,-20.58,62.5,62,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+11193,387556N1214898W001,1240880,1971-10-13T00:00:00Z,41.92,41.42,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,PUMPING,777,County of Sutter
+11193,387556N1214898W001,1240879,1971-03-22T00:00:00Z,41.92,41.42,0,59.9,-17.98,59.9,59.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+11193,387556N1214898W001,1240878,1970-10-21T00:00:00Z,41.92,41.42,0,70.3,-28.38,70.3,69.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+11193,387556N1214898W001,1240877,1970-03-20T00:00:00Z,41.92,41.42,0,62,-20.08,62,61.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+11193,387556N1214898W001,1240876,1969-10-11T00:00:00Z,41.92,41.42,0,71.3,-29.38,71.3,70.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+11193,387556N1214898W001,1240875,1969-04-02T00:00:00Z,41.92,41.42,0,61.8,-19.88,61.8,61.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+11193,387556N1214898W001,1240874,1968-10-08T00:00:00Z,41.92,41.42,0,69,-27.08,69,68.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+11193,387556N1214898W001,1240873,1968-03-06T00:00:00Z,41.92,41.42,0,63.4,-21.48,63.4,62.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+11193,387556N1214898W001,1240872,1967-10-06T00:00:00Z,41.92,41.42,0,70.7,-28.78,70.7,70.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+11193,387556N1214898W001,1240871,1967-03-17T00:00:00Z,41.92,41.42,0,61,-19.08,61,60.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+11193,387556N1214898W001,1240870,1966-10-06T00:00:00Z,41.92,41.42,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,PUMPING,777,County of Sutter
+11193,387556N1214898W001,1240869,1966-03-10T00:00:00Z,41.92,41.42,0,58.8,-16.88,58.8,58.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+11193,387556N1214898W001,1240868,1965-10-12T00:00:00Z,41.92,41.42,0,73.5,-31.58,73.5,73,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+11193,387556N1214898W001,1240867,1965-03-16T00:00:00Z,41.92,41.42,0,57.6,-15.68,57.6,57.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+11193,387556N1214898W001,1240866,1964-10-06T00:00:00Z,41.92,41.42,0,72,-30.08,72,71.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+11193,387556N1214898W001,1240865,1964-03-28T00:00:00Z,41.92,41.42,0,55.7,-13.78,55.7,55.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+11193,387556N1214898W001,1240864,1963-10-21T00:00:00Z,41.92,41.42,0,60.9,-18.98,60.9,60.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+11193,387556N1214898W001,1240863,1963-03-25T00:00:00Z,41.92,41.42,0,54.4,-12.48,54.4,53.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+11193,387556N1214898W001,1240862,1962-10-01T00:00:00Z,41.92,41.42,0,67.5,-25.58,67.5,67,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+11193,387556N1214898W001,1240861,1962-08-08T00:00:00Z,41.92,41.42,0,72,-30.08,72,71.5,Pumping,Unknown,Water level accuracy is unknown,1,Department of Water Resources,PUMPING,1,Department of Water Resources

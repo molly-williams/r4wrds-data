@@ -1,0 +1,9 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+15671,368082N1200432W001,2290140,2018-03-14T08:20:00Z,253.42,252.42,NA,NA,NA,NA,NA,Casing leaking or wet,NA,NA,1,Department of Water Resources,0,624,Bureau of Reclamation
+15671,368082N1200432W001,2281335,2017-10-18T15:45:00Z,253.42,252.42,NA,NA,NA,NA,NA,Well has been destroyed,NA,NA,1,Department of Water Resources,Destroyed,624,Bureau of Reclamation
+15671,368082N1200432W001,2256528,2017-03-09T11:20:00Z,253.42,252.42,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,Discontinue measurement. Owner will not allow access.,624,Bureau of Reclamation
+15671,368082N1200432W001,2233765,2016-10-14T08:00:00Z,253.42,252.42,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,Remove from well group - No longer measured.,624,Bureau of Reclamation
+15671,368082N1200432W001,2197825,2016-03-15T07:40:00Z,253.42,252.42,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+15671,368082N1200432W001,2176178,2015-10-15T08:45:00Z,253.42,252.42,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,"Stop use, new location",624,Bureau of Reclamation
+15671,368082N1200432W001,2142926,2015-03-11T09:00:00Z,253.42,252.42,28.2,100,181.62,71.8,70.8,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,624,Bureau of Reclamation
+15671,368082N1200432W001,1989250,2014-02-10T11:30:00Z,253.42,252.42,6.7,80,180.12,73.3,72.3,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,624,Bureau of Reclamation

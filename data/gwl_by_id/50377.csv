@@ -1,0 +1,5 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+50377,380129N1217670W001,2183924,2016-03-02T00:00:00Z,61,61,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,5055,Diablo Water District,NA,5055,Diablo Water District
+50377,380129N1217670W001,2145456,2015-05-19T00:00:00Z,61,61,0,16.56,44.44,16.56,16.56,NA,Electric sounder measurement,Water level accuracy to nearest hundredth of a foot,5055,Diablo Water District,NA,5055,Diablo Water District
+50377,380129N1217670W001,2145454,2015-02-23T00:00:00Z,61,61,0,16.56,44.44,16.56,16.56,NA,Electric sounder measurement,Water level accuracy to nearest hundredth of a foot,5055,Diablo Water District,NA,5055,Diablo Water District
+50377,380129N1217670W001,2112666,2014-11-17T00:00:00Z,61,61,0,11.45,49.55,11.45,11.45,NA,Electric sounder measurement,Water level accuracy to nearest hundredth of a foot,5055,Diablo Water District,NA,5055,Diablo Water District

@@ -1,0 +1,91 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+33749,365513N1192370W001,2659891,2020-03-18T12:00:00Z,423.7,422.7,0,51.3,372.4,51.3,50.3,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,6540,Kings River East GSA,NA,6540,Kings River East GSA
+33749,365513N1192370W001,2659750,2019-10-17T12:00:00Z,423.7,422.7,0,52.3,371.4,52.3,51.3,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,6540,Kings River East GSA,NA,6540,Kings River East GSA
+33749,365513N1192370W001,2618035,2019-03-12T12:00:00Z,423.7,422.7,0,58.1,365.6,58.1,57.1,NA,Unknown,Water level accuracy to nearest tenth of a foot,6540,Kings River East GSA,NA,6540,Kings River East GSA
+33749,365513N1192370W001,2617971,2018-10-16T12:00:00Z,423.7,422.7,0,66.4,357.3,66.4,65.4,NA,Unknown,Water level accuracy to nearest tenth of a foot,6540,Kings River East GSA,NA,6540,Kings River East GSA
+33749,365513N1192370W001,1039030,2011-02-15T00:00:00Z,423.7,422.7,0,33.7,390,33.7,32.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1039029,2010-01-22T00:00:00Z,423.7,422.7,0,45.2,378.5,45.2,44.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1039028,2009-02-02T00:00:00Z,423.7,422.7,0,0.8,422.9,0.8,-0.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1039026,2007-10-24T00:00:00Z,423.7,422.7,0,42.2,381.5,42.2,41.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1039025,2007-01-23T00:00:00Z,423.7,422.7,0,34.9,388.8,34.9,33.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1039027,2006-12-01T00:00:00Z,423.7,422.7,0,32.9,390.8,32.9,31.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1039024,2006-01-27T00:00:00Z,423.7,422.7,0,33.3,390.4,33.3,32.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1039023,2005-02-02T00:00:00Z,423.7,422.7,0,38,385.7,38,37,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1039022,2004-01-28T00:00:00Z,423.7,422.7,0,28.9,394.8,28.9,27.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1039019,2003-01-21T00:00:00Z,423.7,422.7,0,31.3,392.4,31.3,30.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1039021,2002-09-18T00:00:00Z,423.7,422.7,0,38.9,384.8,38.9,37.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+33749,365513N1192370W001,1039020,2002-01-23T00:00:00Z,423.7,422.7,0,33,390.7,33,32,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+33749,365513N1192370W001,1039018,2001-01-30T00:00:00Z,423.7,422.7,0,21.6,402.1,21.6,20.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1039017,2000-01-31T00:00:00Z,423.7,422.7,0,23.3,400.4,23.3,22.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1039016,1999-10-05T00:00:00Z,423.7,422.7,0,26.5,397.2,26.5,25.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1039015,1999-01-27T00:00:00Z,423.7,422.7,0,18.2,405.5,18.2,17.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1039014,1998-10-07T00:00:00Z,423.7,422.7,0,25.2,398.5,25.2,24.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1039013,1998-01-20T00:00:00Z,423.7,422.7,0,35.2,388.5,35.2,34.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1039012,1997-10-09T00:00:00Z,423.7,422.7,0,36.2,387.5,36.2,35.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1039011,1997-01-13T00:00:00Z,423.7,422.7,0,26.7,397,26.7,25.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1039010,1996-10-04T00:00:00Z,423.7,422.7,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1039009,1996-01-15T00:00:00Z,423.7,422.7,0,43.4,380.3,43.4,42.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1039008,1995-10-05T00:00:00Z,423.7,422.7,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1039007,1995-02-01T00:00:00Z,423.7,422.7,0,41.7,382,41.7,40.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1039006,1994-09-27T00:00:00Z,423.7,422.7,0,54.8,368.9,54.8,53.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1039005,1994-01-25T00:00:00Z,423.7,422.7,0,43.7,380,43.7,42.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1039004,1993-10-05T00:00:00Z,423.7,422.7,0,50.5,373.2,50.5,49.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1039003,1993-01-25T00:00:00Z,423.7,422.7,0,33.4,390.3,33.4,32.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1039002,1992-10-08T00:00:00Z,423.7,422.7,0,49.2,374.5,49.2,48.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1039001,1992-01-31T00:00:00Z,423.7,422.7,0,49.7,374,49.7,48.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1039000,1991-10-01T00:00:00Z,423.7,422.7,0,52.8,370.9,52.8,51.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1038999,1991-02-04T00:00:00Z,423.7,422.7,0,56.2,367.5,56.2,55.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1038998,1990-10-03T00:00:00Z,423.7,422.7,0,49.3,374.4,49.3,48.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1038997,1990-01-25T00:00:00Z,423.7,422.7,0,42.6,381.1,42.6,41.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1038996,1989-10-03T00:00:00Z,423.7,422.7,0,50.8,372.9,50.8,49.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1038995,1989-01-25T00:00:00Z,423.7,422.7,0,37.7,386,37.7,36.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1038994,1988-10-05T00:00:00Z,423.7,422.7,0,38.3,385.4,38.3,37.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1038993,1988-02-09T00:00:00Z,423.7,422.7,0,30.1,393.6,30.1,29.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1038992,1987-10-06T00:00:00Z,423.7,422.7,0,34.2,389.5,34.2,33.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1038991,1987-01-26T00:00:00Z,423.7,422.7,0,22.7,401,22.7,21.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1038990,1986-09-30T00:00:00Z,423.7,422.7,0,22.4,401.3,22.4,21.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+33749,365513N1192370W001,1038989,1986-01-27T00:00:00Z,423.7,422.7,0,21.7,402,21.7,20.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+33749,365513N1192370W001,1038988,1985-10-02T00:00:00Z,423.7,422.7,0,26.8,396.9,26.8,25.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+33749,365513N1192370W001,1038987,1985-01-30T00:00:00Z,423.7,422.7,0,18.7,405,18.7,17.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+33749,365513N1192370W001,1038986,1984-10-01T00:00:00Z,423.7,422.7,0,23.6,400.1,23.6,22.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+33749,365513N1192370W001,1038985,1984-02-03T00:00:00Z,423.7,422.7,0,12.5,411.2,12.5,11.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+33749,365513N1192370W001,1038984,1983-09-28T00:00:00Z,423.7,422.7,0,18.5,405.2,18.5,17.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+33749,365513N1192370W001,1038983,1983-01-26T00:00:00Z,423.7,422.7,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1038982,1982-09-28T00:00:00Z,423.7,422.7,0,25.2,398.5,25.2,24.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1038981,1982-01-25T00:00:00Z,423.7,422.7,0,25.2,398.5,25.2,24.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+33749,365513N1192370W001,1038980,1981-10-05T00:00:00Z,423.7,422.7,0,26.6,397.1,26.6,25.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+33749,365513N1192370W001,1038979,1981-01-26T00:00:00Z,423.7,422.7,0,26.6,397.1,26.6,25.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1038978,1980-09-24T00:00:00Z,423.7,422.7,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1038977,1980-01-21T00:00:00Z,423.7,422.7,0,26.5,397.2,26.5,25.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1038976,1979-09-25T00:00:00Z,423.7,422.7,0,27.8,395.9,27.8,26.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1038975,1979-01-26T00:00:00Z,423.7,422.7,0,30.5,393.2,30.5,29.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1038974,1978-10-05T00:00:00Z,423.7,422.7,0,29.8,393.9,29.8,28.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1038973,1978-01-23T00:00:00Z,423.7,422.7,0,47,376.7,47,46,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1038972,1977-10-05T00:00:00Z,423.7,422.7,0,51.2,372.5,51.2,50.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1038971,1977-08-05T00:00:00Z,423.7,422.7,0,49.3,374.4,49.3,48.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1038970,1977-06-06T00:00:00Z,423.7,422.7,0,40.2,383.5,40.2,39.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1038969,1977-01-26T00:00:00Z,423.7,422.7,0,29.9,393.8,29.9,28.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1038968,1976-10-05T00:00:00Z,423.7,422.7,0,30.2,393.5,30.2,29.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1038967,1976-01-23T00:00:00Z,423.7,422.7,0,23.3,400.4,23.3,22.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1038966,1975-10-02T00:00:00Z,423.7,422.7,0,25.5,398.2,25.5,24.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1038965,1975-02-04T00:00:00Z,423.7,422.7,0,22,401.7,22,21,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1038964,1974-10-01T00:00:00Z,423.7,422.7,0,21.8,401.9,21.8,20.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1038963,1974-02-04T00:00:00Z,423.7,422.7,0,18.3,405.4,18.3,17.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1038962,1973-10-04T00:00:00Z,423.7,422.7,0,22.2,401.5,22.2,21.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1038961,1973-02-01T00:00:00Z,423.7,422.7,0,25,398.7,25,24,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1038960,1972-10-03T00:00:00Z,423.7,422.7,0,28.5,395.2,28.5,27.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1038959,1972-02-02T00:00:00Z,423.7,422.7,0,23.6,400.1,23.6,22.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1038958,1971-10-05T00:00:00Z,423.7,422.7,0,25.3,398.4,25.3,24.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1038957,1971-02-02T00:00:00Z,423.7,422.7,0,19.6,404.1,19.6,18.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1038956,1970-02-02T00:00:00Z,423.7,422.7,0,16.7,407,16.7,15.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1038955,1969-02-03T00:00:00Z,423.7,422.7,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1038954,1968-02-01T00:00:00Z,423.7,422.7,0,26.9,396.8,26.9,25.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1038953,1967-02-01T00:00:00Z,423.7,422.7,0,31.1,392.6,31.1,30.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1038952,1966-02-01T00:00:00Z,423.7,422.7,0,32.9,390.8,32.9,31.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1038951,1965-02-03T00:00:00Z,423.7,422.7,0,35.6,388.1,35.6,34.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1038950,1964-10-02T00:00:00Z,423.7,422.7,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1038949,1964-02-03T00:00:00Z,423.7,422.7,0,37.8,385.9,37.8,36.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1038948,1963-10-02T00:00:00Z,423.7,422.7,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1038947,1963-03-05T00:00:00Z,423.7,422.7,0,42.4,381.3,42.4,41.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1038946,1962-02-17T00:00:00Z,423.7,422.7,0,46.8,376.9,46.8,45.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District
+33749,365513N1192370W001,1038945,1961-10-12T00:00:00Z,423.7,422.7,0,51.1,372.6,51.1,50.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,398,Orange Cove Irrigation District

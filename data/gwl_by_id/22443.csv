@@ -1,0 +1,11 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+22443,350930N1189202W001,667559,1963-01-30T00:00:00Z,465.52,464.52,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22443,350930N1189202W001,667558,1962-10-02T00:00:00Z,465.52,464.52,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22443,350930N1189202W001,667557,1961-02-02T00:00:00Z,465.52,464.52,0,385.9,79.62,385.9,384.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22443,350930N1189202W001,667556,1960-10-04T00:00:00Z,465.52,464.52,0,367.5,98.02,367.5,366.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22443,350930N1189202W001,667555,1960-02-02T00:00:00Z,465.52,464.52,0,337.5,128.02,337.5,336.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+22443,350930N1189202W001,667554,1959-09-23T00:00:00Z,465.52,464.52,0,367,98.52,367,366,Other,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22443,350930N1189202W001,667553,1959-01-31T00:00:00Z,465.52,464.52,0,346,119.52,346,345,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22443,350930N1189202W001,667552,1958-09-22T00:00:00Z,465.52,464.52,0,337.4,128.12,337.4,336.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22443,350930N1189202W001,667551,1957-09-25T00:00:00Z,465.52,464.52,0,335,130.52,335,334,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22443,350930N1189202W001,667550,1956-10-03T00:00:00Z,465.52,464.52,0,330.5,135.02,330.5,329.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation

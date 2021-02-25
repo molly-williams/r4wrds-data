@@ -1,0 +1,5 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+12755,350664N1168046W001,2662439,2020-03-05T12:00:00Z,1792.3,1792.3,0,57.56,1734.74,57.56,57.56,NA,Electric sounder measurement,Water level accuracy to nearest hundredth of a foot,5161,Mojave Water Agency,NA,5161,Mojave Water Agency
+12755,350664N1168046W001,1236265,1959-12-09T00:00:00Z,1792.3,1792.3,0,52.52,1739.78,52.52,52.52,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+12755,350664N1168046W001,1236264,1943-06-16T00:00:00Z,1792.3,1792.3,0,52.3,1740,52.3,52.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+12755,350664N1168046W001,1236263,1941-07-20T00:00:00Z,1792.3,1792.3,0,50.3,1742,50.3,50.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey

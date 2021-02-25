@@ -1,0 +1,4 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+49141,347060N1204600W001,2109257,2014-03-20T00:00:00Z,276,275,NA,NA,NA,NA,NA,Well has been destroyed,NA,NA,5082,Santa Barbara County Water Agency,NA,5082,Santa Barbara County Water Agency
+49141,347060N1204600W001,2109256,2013-03-12T00:00:00Z,276,275,0,252.36,23.64,252.36,251.36,NA,Electric sounder measurement,Water level accuracy to nearest hundredth of a foot,5082,Santa Barbara County Water Agency,NA,5082,Santa Barbara County Water Agency
+49141,347060N1204600W001,2109255,2012-03-14T00:00:00Z,276,275,0,252.27,23.73,252.27,251.27,NA,Electric sounder measurement,Water level accuracy to nearest hundredth of a foot,5082,Santa Barbara County Water Agency,NA,5082,Santa Barbara County Water Agency
