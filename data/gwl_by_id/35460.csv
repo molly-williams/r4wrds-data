@@ -1,0 +1,6 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+35460,361519N1203385W001,937297,1960-10-10T00:00:00Z,656.08,655.08,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+35460,361519N1203385W001,937296,1960-05-02T00:00:00Z,656.08,655.08,0,198.4,457.68,198.4,197.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+35460,361519N1203385W001,937295,1959-10-13T00:00:00Z,656.08,655.08,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5167,United States Geological Survey
+35460,361519N1203385W001,937294,1959-05-04T00:00:00Z,656.08,655.08,0,191.1,464.98,191.1,190.1,Pumping,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+35460,361519N1203385W001,937293,1958-10-23T00:00:00Z,656.08,655.08,0,186.9,469.18,186.9,185.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey

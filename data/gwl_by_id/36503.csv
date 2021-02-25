@@ -1,0 +1,43 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+36503,353066N1189138W001,767371,1979-09-25T00:00:00Z,418.1,417.6,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36503,353066N1189138W001,767370,1979-01-16T00:00:00Z,418.1,417.6,0,309,109.1,309,308.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36503,353066N1189138W001,767369,1978-10-02T00:00:00Z,418.1,417.6,0,323,95.1,323,322.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36503,353066N1189138W001,767368,1978-01-27T00:00:00Z,418.1,417.6,0,281,137.1,281,280.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36503,353066N1189138W001,767367,1977-10-04T00:00:00Z,418.1,417.6,0,320.2,97.9,320.2,319.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36503,353066N1189138W001,767366,1977-08-05T00:00:00Z,418.1,417.6,0,311.9,106.2,311.9,311.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36503,353066N1189138W001,767365,1977-05-31T00:00:00Z,418.1,417.6,0,321.7,96.4,321.7,321.2,Pumped recently,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36503,353066N1189138W001,767364,1977-01-25T00:00:00Z,418.1,417.6,0,301.9,116.2,301.9,301.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36503,353066N1189138W001,767363,1976-10-13T00:00:00Z,418.1,417.6,0,309.6,108.5,309.6,309.1,Caved or deepened,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36503,353066N1189138W001,767362,1976-01-21T00:00:00Z,418.1,417.6,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36503,353066N1189138W001,767361,1975-10-01T00:00:00Z,418.1,417.6,0,243.6,174.5,243.6,243.1,Casing leaking or wet,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36503,353066N1189138W001,767360,1975-01-23T00:00:00Z,418.1,417.6,0,256.4,161.7,256.4,255.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36503,353066N1189138W001,767359,1974-09-26T00:00:00Z,418.1,417.6,NA,NA,NA,NA,NA,Pump house locked,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36503,353066N1189138W001,767358,1974-01-29T00:00:00Z,418.1,417.6,0,257,161.1,257,256.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36503,353066N1189138W001,767357,1973-10-02T00:00:00Z,418.1,417.6,0,249,169.1,249,248.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36503,353066N1189138W001,767356,1973-02-01T00:00:00Z,418.1,417.6,NA,NA,NA,NA,NA,Pump house locked,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36503,353066N1189138W001,767355,1972-09-27T00:00:00Z,418.1,417.6,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36503,353066N1189138W001,767354,1972-01-26T00:00:00Z,418.1,417.6,NA,NA,NA,NA,NA,Pump house locked,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36503,353066N1189138W001,767353,1971-09-22T00:00:00Z,418.1,417.6,0,265.4,152.7,265.4,264.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36503,353066N1189138W001,767352,1971-01-26T00:00:00Z,418.1,417.6,0,260.2,157.9,260.2,259.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36503,353066N1189138W001,767351,1970-01-26T00:00:00Z,418.1,417.6,0,265.7,152.4,265.7,265.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36503,353066N1189138W001,767350,1969-09-23T00:00:00Z,418.1,417.6,0,261.2,156.9,261.2,260.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36503,353066N1189138W001,767349,1968-09-24T00:00:00Z,418.1,417.6,0,271,147.1,271,270.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36503,353066N1189138W001,767348,1968-01-31T00:00:00Z,418.1,417.6,0,239,179.1,239,238.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36503,353066N1189138W001,767347,1968-01-29T00:00:00Z,418.1,417.6,0,257.4,160.7,257.4,256.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36503,353066N1189138W001,767346,1967-09-26T00:00:00Z,418.1,417.6,0,261,157.1,261,260.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36503,353066N1189138W001,767345,1967-01-30T00:00:00Z,418.1,417.6,0,246,172.1,246,245.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36503,353066N1189138W001,767344,1966-09-26T00:00:00Z,418.1,417.6,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36503,353066N1189138W001,767343,1966-01-24T00:00:00Z,418.1,417.6,0,239.1,179,239.1,238.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36503,353066N1189138W001,767342,1965-09-28T00:00:00Z,418.1,417.6,0,247.5,170.6,247.5,247,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36503,353066N1189138W001,767341,1965-01-27T00:00:00Z,418.1,417.6,0,233.9,184.2,233.9,233.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36503,353066N1189138W001,767340,1964-09-23T00:00:00Z,418.1,417.6,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36503,353066N1189138W001,767339,1964-01-28T00:00:00Z,418.1,417.6,0,226,192.1,226,225.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36503,353066N1189138W001,767338,1962-02-01T00:00:00Z,418.1,417.6,0,210.2,207.9,210.2,209.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36503,353066N1189138W001,767337,1961-10-05T00:00:00Z,418.1,417.6,0,213.5,204.6,213.5,213,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36503,353066N1189138W001,767336,1961-02-07T00:00:00Z,418.1,417.6,0,204,214.1,204,203.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36503,353066N1189138W001,767335,1960-10-04T00:00:00Z,418.1,417.6,0,203.3,214.8,203.3,202.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36503,353066N1189138W001,767334,1960-02-02T00:00:00Z,418.1,417.6,0,196.2,221.9,196.2,195.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36503,353066N1189138W001,767333,1959-09-30T00:00:00Z,418.1,417.6,0,195.9,222.2,195.9,195.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36503,353066N1189138W001,767332,1958-12-08T00:00:00Z,418.1,417.6,0,187.2,230.9,187.2,186.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+36503,353066N1189138W001,767331,1958-02-06T00:00:00Z,418.1,417.6,0,181.4,236.7,181.4,180.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+36503,353066N1189138W001,767330,1957-02-18T00:00:00Z,418.1,417.6,0,174.6,243.5,174.6,174.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey

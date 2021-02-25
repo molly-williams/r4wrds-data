@@ -1,0 +1,7 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+13361,367918N1206907W001,1128286,1980-01-25T00:00:00Z,350.63,349.63,NA,NA,NA,NA,NA,Unable to locate well,NA,NA,1,Department of Water Resources,NA,5100,Westlands Water District
+13361,367918N1206907W001,1128285,1974-12-16T00:00:00Z,350.63,349.63,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+13361,367918N1206907W001,1128284,1974-03-05T00:00:00Z,350.63,349.63,0,405.5,-54.87,405.5,404.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+13361,367918N1206907W001,1128283,1972-01-08T00:00:00Z,350.63,349.63,0,424.6,-73.97,424.6,423.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+13361,367918N1206907W001,1128282,1970-12-17T00:00:00Z,350.63,349.63,0,433.1,-82.47,433.1,432.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+13361,367918N1206907W001,1128281,1968-12-17T00:00:00Z,350.63,349.63,0,15.5,335.13,15.5,14.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources

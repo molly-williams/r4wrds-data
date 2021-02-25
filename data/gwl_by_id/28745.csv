@@ -1,0 +1,89 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+28745,373899N1206668W001,1425116,1973-03-02T00:00:00Z,147.4,146.4,NA,NA,NA,NA,NA,Dry well,NA,NA,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425115,1972-03-02T00:00:00Z,147.4,146.4,NA,NA,NA,NA,NA,Dry well,NA,NA,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425114,1970-10-05T00:00:00Z,147.4,146.4,0,16.3,131.1,16.3,15.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425113,1964-06-29T00:00:00Z,147.4,146.4,NA,NA,NA,NA,NA,Dry well,NA,NA,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425112,1964-06-01T00:00:00Z,147.4,146.4,0,17,130.4,17,16,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425111,1964-04-28T00:00:00Z,147.4,146.4,0,16.8,130.6,16.8,15.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425110,1964-04-07T00:00:00Z,147.4,146.4,0,16.6,130.8,16.6,15.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425109,1964-03-02T00:00:00Z,147.4,146.4,0,16.3,131.1,16.3,15.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425108,1964-01-30T00:00:00Z,147.4,146.4,0,16,131.4,16,15,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425107,1964-01-06T00:00:00Z,147.4,146.4,0,16,131.4,16,15,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425106,1963-12-02T00:00:00Z,147.4,146.4,0,15.7,131.7,15.7,14.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425105,1963-11-04T00:00:00Z,147.4,146.4,0,15.4,132,15.4,14.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425104,1963-09-30T00:00:00Z,147.4,146.4,0,15.7,131.7,15.7,14.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425103,1963-09-06T00:00:00Z,147.4,146.4,0,16.6,130.8,16.6,15.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425102,1963-07-31T00:00:00Z,147.4,146.4,0,16.9,130.5,16.9,15.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425101,1963-06-27T00:00:00Z,147.4,146.4,0,16.9,130.5,16.9,15.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425100,1963-05-29T00:00:00Z,147.4,146.4,0,18.9,128.5,18.9,17.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425099,1963-05-01T00:00:00Z,147.4,146.4,0,16,131.4,16,15,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425098,1963-04-01T00:00:00Z,147.4,146.4,0,16,131.4,16,15,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425097,1963-03-05T00:00:00Z,147.4,146.4,0,16.3,131.1,16.3,15.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425096,1963-03-01T00:00:00Z,147.4,146.4,0,16.1,131.3,16.1,15.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425095,1963-02-05T00:00:00Z,147.4,146.4,0,15.9,131.5,15.9,14.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425094,1963-01-07T00:00:00Z,147.4,146.4,0,16.9,130.5,16.9,15.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425093,1962-12-04T00:00:00Z,147.4,146.4,0,16.4,131,16.4,15.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425092,1962-10-30T00:00:00Z,147.4,146.4,0,17.2,130.2,17.2,16.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425091,1962-10-02T00:00:00Z,147.4,146.4,0,16.7,130.7,16.7,15.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425090,1962-09-06T00:00:00Z,147.4,146.4,0,15.4,132,15.4,14.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425089,1962-07-30T00:00:00Z,147.4,146.4,0,15.9,131.5,15.9,14.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425088,1962-07-02T00:00:00Z,147.4,146.4,0,16.9,130.5,16.9,15.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425087,1962-05-31T00:00:00Z,147.4,146.4,NA,NA,NA,NA,NA,Dry well,NA,NA,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425086,1962-05-02T00:00:00Z,147.4,146.4,NA,NA,NA,NA,NA,Dry well,NA,NA,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425085,1962-04-02T00:00:00Z,147.4,146.4,NA,NA,NA,NA,NA,Dry well,NA,NA,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425084,1962-02-05T00:00:00Z,147.4,146.4,NA,NA,NA,NA,NA,Dry well,NA,NA,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425083,1962-01-05T00:00:00Z,147.4,146.4,NA,NA,NA,NA,NA,Dry well,NA,NA,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425082,1961-11-28T00:00:00Z,147.4,146.4,NA,NA,NA,NA,NA,Dry well,NA,NA,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425081,1961-11-06T00:00:00Z,147.4,146.4,NA,NA,NA,NA,NA,Dry well,NA,NA,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425080,1961-09-05T00:00:00Z,147.4,146.4,NA,NA,NA,NA,NA,Dry well,NA,NA,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425079,1961-07-31T00:00:00Z,147.4,146.4,NA,NA,NA,NA,NA,Dry well,NA,NA,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425078,1961-07-05T00:00:00Z,147.4,146.4,NA,NA,NA,NA,NA,Dry well,NA,NA,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425077,1961-05-31T00:00:00Z,147.4,146.4,0,15.7,131.7,15.7,14.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425076,1961-05-02T00:00:00Z,147.4,146.4,0,15.7,131.7,15.7,14.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425075,1961-04-03T00:00:00Z,147.4,146.4,0,14.7,132.7,14.7,13.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425074,1961-03-30T00:00:00Z,147.4,146.4,0,15.7,131.7,15.7,14.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425073,1961-03-01T00:00:00Z,147.4,146.4,0,14.1,133.3,14.1,13.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425072,1961-02-27T00:00:00Z,147.4,146.4,0,15.1,132.3,15.1,14.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425071,1961-02-01T00:00:00Z,147.4,146.4,0,13.7,133.7,13.7,12.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425070,1961-01-30T00:00:00Z,147.4,146.4,0,14.7,132.7,14.7,13.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425069,1961-01-04T00:00:00Z,147.4,146.4,0,13.9,133.5,13.9,12.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425068,1960-12-05T00:00:00Z,147.4,146.4,0,13.8,133.6,13.8,12.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425067,1960-12-02T00:00:00Z,147.4,146.4,0,14.8,132.6,14.8,13.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425066,1960-10-25T00:00:00Z,147.4,146.4,0,14.7,132.7,14.7,13.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425065,1960-10-03T00:00:00Z,147.4,146.4,0,13.6,133.8,13.6,12.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425064,1960-10-01T00:00:00Z,147.4,146.4,0,13.6,133.8,13.6,12.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425063,1960-09-28T00:00:00Z,147.4,146.4,0,14.6,132.8,14.6,13.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425062,1960-09-07T00:00:00Z,147.4,146.4,0,14.2,133.2,14.2,13.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425061,1960-09-01T00:00:00Z,147.4,146.4,0,13.2,134.2,13.2,12.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425060,1960-08-01T00:00:00Z,147.4,146.4,0,14.6,132.8,14.6,13.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425059,1960-07-05T00:00:00Z,147.4,146.4,0,14.6,132.8,14.6,13.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425058,1960-07-01T00:00:00Z,147.4,146.4,0,13.6,133.8,13.6,12.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425057,1960-06-01T00:00:00Z,147.4,146.4,0,13.2,134.2,13.2,12.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425056,1960-05-01T00:00:00Z,147.4,146.4,0,13.1,134.3,13.1,12.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425055,1960-04-01T00:00:00Z,147.4,146.4,0,13,134.4,13,12,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425054,1960-03-03T00:00:00Z,147.4,146.4,0,12.7,134.7,12.7,11.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425053,1960-03-01T00:00:00Z,147.4,146.4,0,13.7,133.7,13.7,12.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425052,1960-02-01T00:00:00Z,147.4,146.4,0,12.5,134.9,12.5,11.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425051,1960-01-01T00:00:00Z,147.4,146.4,NA,NA,NA,NA,NA,Dry well,NA,NA,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425050,1959-10-05T00:00:00Z,147.4,146.4,NA,NA,NA,NA,NA,Dry well,NA,NA,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425049,1959-03-02T00:00:00Z,147.4,146.4,0,12,135.4,12,11,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425048,1958-12-01T00:00:00Z,147.4,146.4,0,11.1,136.3,11.1,10.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425047,1958-11-03T00:00:00Z,147.4,146.4,0,11,136.4,11,10,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425046,1958-10-01T00:00:00Z,147.4,146.4,0,11,136.4,11,10,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425045,1958-09-02T00:00:00Z,147.4,146.4,0,10.2,137.2,10.2,9.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425044,1958-08-05T00:00:00Z,147.4,146.4,0,10.1,137.3,10.1,9.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425043,1958-07-01T00:00:00Z,147.4,146.4,0,10.5,136.9,10.5,9.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425042,1958-03-31T00:00:00Z,147.4,146.4,0,10.7,136.7,10.7,9.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425041,1958-03-04T00:00:00Z,147.4,146.4,0,11.2,136.2,11.2,10.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425040,1957-10-31T00:00:00Z,147.4,146.4,0,10.3,137.1,10.3,9.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425039,1957-04-05T00:00:00Z,147.4,146.4,0,11.3,136.1,11.3,10.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425038,1956-06-27T00:00:00Z,147.4,146.4,0,8.3,139.1,8.3,7.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425037,1956-04-30T00:00:00Z,147.4,146.4,0,10.2,137.2,10.2,9.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425036,1955-11-01T00:00:00Z,147.4,146.4,0,9,138.4,9,8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425035,1955-06-01T00:00:00Z,147.4,146.4,0,11.1,136.3,11.1,10.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425034,1955-03-01T00:00:00Z,147.4,146.4,0,10.3,137.1,10.3,9.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425033,1954-08-01T00:00:00Z,147.4,146.4,0,8,139.4,8,7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425032,1954-04-01T00:00:00Z,147.4,146.4,0,10.2,137.2,10.2,9.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425031,1953-08-01T00:00:00Z,147.4,146.4,0,7.2,140.2,7.2,6.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425030,1953-04-01T00:00:00Z,147.4,146.4,0,10.2,137.2,10.2,9.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District
+28745,373899N1206668W001,1425029,1953-01-01T00:00:00Z,147.4,146.4,0,9.3,138.1,9.3,8.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District

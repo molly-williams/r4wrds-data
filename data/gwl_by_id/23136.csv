@@ -1,0 +1,115 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+23136,359256N1193756W001,93289,2011-02-01T11:15:00Z,259.22,258.72,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+23136,359256N1193756W001,821708,2010-01-22T00:00:00Z,225.69,225.69,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821707,2009-02-16T00:00:00Z,225.69,225.69,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821706,2007-10-03T00:00:00Z,225.69,225.69,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821705,2007-01-23T00:00:00Z,225.69,225.69,NA,NA,NA,NA,NA,Well has been destroyed,NA,NA,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821704,2006-01-24T00:00:00Z,225.69,225.69,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821703,2005-01-24T00:00:00Z,225.69,225.69,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821702,2003-09-22T00:00:00Z,225.69,225.69,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821701,2003-01-22T00:00:00Z,225.69,225.69,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821700,2001-02-02T00:00:00Z,225.69,225.69,0,89,136.69,89,89,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821699,2000-02-01T00:00:00Z,225.69,225.69,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821698,1999-10-06T00:00:00Z,225.69,225.69,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821697,1999-02-01T00:00:00Z,225.69,225.69,0,43,182.69,43,43,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821696,1998-10-07T00:00:00Z,225.69,225.69,0,48,177.69,48,48,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821695,1998-01-30T00:00:00Z,225.69,225.69,0,44.5,181.19,44.5,44.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821694,1997-10-07T00:00:00Z,225.69,225.69,0,49,176.69,49,49,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821693,1997-01-31T00:00:00Z,225.69,225.69,0,42,183.69,42,42,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821692,1996-10-07T00:00:00Z,225.69,225.69,0,43.5,182.19,43.5,43.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821691,1996-01-15T00:00:00Z,225.69,225.69,0,49,176.69,49,49,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821690,1995-10-04T00:00:00Z,225.69,225.69,0,46,179.69,46,46,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821689,1995-02-01T00:00:00Z,225.69,225.69,0,41.5,184.19,41.5,41.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821688,1994-10-04T00:00:00Z,225.69,225.69,0,47.5,178.19,47.5,47.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821687,1994-01-28T00:00:00Z,225.69,225.69,0,43,182.69,43,43,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821686,1993-10-05T00:00:00Z,225.69,225.69,0,69,156.69,69,69,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821685,1993-01-27T00:00:00Z,225.69,225.69,0,58,167.69,58,58,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821684,1992-10-06T00:00:00Z,225.69,225.69,0,69,156.69,69,69,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821683,1992-02-03T00:00:00Z,225.69,225.69,0,49,176.69,49,49,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821682,1991-10-02T00:00:00Z,225.69,225.69,0,49,176.69,49,49,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821681,1991-01-29T00:00:00Z,225.69,225.69,0,51,174.69,51,51,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821680,1990-10-04T00:00:00Z,225.69,225.69,0,47,178.69,47,47,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821679,1990-01-29T00:00:00Z,225.69,225.69,0,41,184.69,41,41,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821678,1989-10-02T00:00:00Z,225.69,225.69,0,45.5,180.19,45.5,45.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821677,1989-01-25T00:00:00Z,225.69,225.69,0,45.5,180.19,45.5,45.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821676,1988-10-03T00:00:00Z,225.69,225.69,0,47,178.69,47,47,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821675,1988-02-01T00:00:00Z,225.69,225.69,0,46,179.69,46,46,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821674,1987-09-29T00:00:00Z,225.69,225.69,0,51.5,174.19,51.5,51.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821673,1987-01-16T00:00:00Z,225.69,225.69,0,43,182.69,43,43,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821672,1986-10-01T00:00:00Z,225.69,225.69,0,91,134.69,91,91,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821671,1986-01-23T00:00:00Z,225.69,225.69,0,45,180.69,45,45,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821670,1985-09-27T00:00:00Z,225.69,225.69,0,43,182.69,43,43,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821669,1985-02-15T00:00:00Z,225.69,225.69,0,43,182.69,43,43,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821668,1984-10-09T00:00:00Z,225.69,225.69,0,50,175.69,50,50,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821667,1984-01-28T00:00:00Z,225.69,225.69,0,21.7,203.99,21.7,21.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821666,1983-09-20T00:00:00Z,225.69,225.69,0,37,188.69,37,37,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821665,1983-01-26T00:00:00Z,225.69,225.69,0,38,187.69,38,38,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821664,1982-09-28T00:00:00Z,225.69,225.69,0,51,174.69,51,51,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821663,1982-02-09T00:00:00Z,225.69,225.69,0,46,179.69,46,46,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821662,1981-09-23T00:00:00Z,225.69,225.69,0,51,174.69,51,51,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821661,1981-02-17T00:00:00Z,225.69,225.69,0,46,179.69,46,46,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821660,1980-09-24T00:00:00Z,225.69,225.69,0,54,171.69,54,54,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821659,1980-01-25T00:00:00Z,225.69,225.69,0,45.5,180.19,45.5,45.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821658,1979-10-01T00:00:00Z,225.69,225.69,0,50.8,174.89,50.8,50.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821657,1979-01-20T00:00:00Z,225.69,225.69,0,43,182.69,43,43,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821656,1978-09-29T00:00:00Z,225.69,225.69,0,48.6,177.09,48.6,48.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821655,1978-02-04T00:00:00Z,225.69,225.69,0,42.8,182.89,42.8,42.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821654,1977-10-12T00:00:00Z,225.69,225.69,0,50.6,175.09,50.6,50.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821653,1977-01-21T00:00:00Z,225.69,225.69,0,44,181.69,44,44,Casing leaking or wet,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821652,1976-10-14T00:00:00Z,225.69,225.69,0,46.7,178.99,46.7,46.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821651,1976-01-20T00:00:00Z,225.69,225.69,0,57.5,168.19,57.5,57.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821650,1975-09-24T00:00:00Z,225.69,225.69,0,56.1,169.59,56.1,56.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821649,1975-02-05T00:00:00Z,225.69,225.69,0,42.3,183.39,42.3,42.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821648,1974-10-04T00:00:00Z,225.69,225.69,0,50.9,174.79,50.9,50.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821647,1974-01-30T00:00:00Z,225.69,225.69,0,47.5,178.19,47.5,47.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+23136,359256N1193756W001,821646,1973-09-25T00:00:00Z,225.69,225.69,0,52.7,172.99,52.7,52.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821645,1973-02-01T00:00:00Z,225.69,225.69,0,45.2,180.49,45.2,45.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821644,1972-09-26T00:00:00Z,225.69,225.69,0,60.2,165.49,60.2,60.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821643,1972-01-25T00:00:00Z,225.69,225.69,0,49.2,176.49,49.2,49.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821642,1971-09-20T00:00:00Z,225.69,225.69,0,53,172.69,53,53,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821641,1971-01-28T00:00:00Z,225.69,225.69,0,47,178.69,47,47,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821640,1970-09-24T00:00:00Z,225.69,225.69,0,55.5,170.19,55.5,55.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821639,1970-01-29T00:00:00Z,225.69,225.69,0,55.3,170.39,55.3,55.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821638,1969-09-25T00:00:00Z,225.69,225.69,0,53.4,172.29,53.4,53.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821637,1969-02-03T00:00:00Z,225.69,225.69,0,44.9,180.79,44.9,44.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821636,1968-02-02T00:00:00Z,225.69,225.69,0,50.7,174.99,50.7,50.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821635,1967-02-02T00:00:00Z,225.69,225.69,0,46.1,179.59,46.1,46.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821634,1966-01-28T00:00:00Z,225.69,225.69,0,46.7,178.99,46.7,46.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821633,1965-01-29T00:00:00Z,225.69,225.69,0,47,178.69,47,47,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821632,1964-09-25T00:00:00Z,225.69,225.69,0,49.4,176.29,49.4,49.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821631,1964-01-30T00:00:00Z,225.69,225.69,0,47.8,177.89,47.8,47.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821630,1963-09-23T00:00:00Z,225.69,225.69,0,51.7,173.99,51.7,51.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821629,1962-02-21T00:00:00Z,225.69,225.69,0,44.7,180.99,44.7,44.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821628,1961-09-29T00:00:00Z,225.69,225.69,0,55.2,170.49,55.2,55.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821627,1961-02-09T00:00:00Z,225.69,225.69,0,47.8,177.89,47.8,47.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821626,1960-10-11T00:00:00Z,225.69,225.69,0,51.9,173.79,51.9,51.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821625,1960-02-16T00:00:00Z,225.69,225.69,0,58.4,167.29,58.4,58.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821624,1959-10-01T00:00:00Z,225.69,225.69,0,58.4,167.29,58.4,58.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821623,1959-02-21T00:00:00Z,225.69,225.69,0,52.3,173.39,52.3,52.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821622,1959-02-10T00:00:00Z,225.69,225.69,0,53.7,171.99,53.7,53.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821621,1958-10-01T00:00:00Z,225.69,225.69,0,55.5,170.19,55.5,55.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821620,1958-02-11T00:00:00Z,225.69,225.69,0,47,178.69,47,47,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821619,1957-10-02T00:00:00Z,225.69,225.69,0,55.6,170.09,55.6,55.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821618,1957-02-08T00:00:00Z,225.69,225.69,0,56.5,169.19,56.5,56.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821617,1956-10-09T00:00:00Z,225.69,225.69,0,62.3,163.39,62.3,62.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821616,1956-02-14T00:00:00Z,225.69,225.69,0,67.6,158.09,67.6,67.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821615,1955-09-19T00:00:00Z,225.69,225.69,0,59.3,166.39,59.3,59.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821614,1955-02-15T00:00:00Z,225.69,225.69,0,49.1,176.59,49.1,49.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821613,1954-09-22T00:00:00Z,225.69,225.69,0,55.8,169.89,55.8,55.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821612,1954-02-10T00:00:00Z,225.69,225.69,0,47.6,178.09,47.6,47.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821611,1953-02-09T00:00:00Z,225.69,225.69,0,49.1,176.59,49.1,49.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821610,1952-10-27T00:00:00Z,225.69,225.69,0,53.7,171.99,53.7,53.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821609,1952-02-19T00:00:00Z,225.69,225.69,0,47.7,177.99,47.7,47.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821608,1951-10-31T00:00:00Z,225.69,225.69,0,53.3,172.39,53.3,53.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821607,1951-01-26T00:00:00Z,225.69,225.69,0,56,169.69,56,56,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821606,1950-09-28T00:00:00Z,225.69,225.69,0,57.7,167.99,57.7,57.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821605,1950-02-08T00:00:00Z,225.69,225.69,0,48.7,176.99,48.7,48.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821604,1949-11-03T00:00:00Z,225.69,225.69,0,52,173.69,52,52,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821603,1949-10-04T00:00:00Z,225.69,225.69,0,51.3,174.39,51.3,51.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821602,1949-02-08T00:00:00Z,225.69,225.69,0,49.9,175.79,49.9,49.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821601,1948-11-17T00:00:00Z,225.69,225.69,0,49.8,175.89,49.8,49.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821600,1947-12-10T00:00:00Z,225.69,225.69,0,45.4,180.29,45.4,45.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821599,1947-11-05T00:00:00Z,225.69,225.69,0,46,179.69,46,46,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821598,1947-03-11T00:00:00Z,225.69,225.69,0,42.8,182.89,42.8,42.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821597,1946-10-30T00:00:00Z,225.69,225.69,0,43.2,182.49,43.2,43.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23136,359256N1193756W001,821596,1945-10-17T00:00:00Z,225.69,225.69,0,40.7,184.99,40.7,40.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation

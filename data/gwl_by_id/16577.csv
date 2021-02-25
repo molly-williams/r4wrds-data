@@ -1,0 +1,45 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+16577,361928N1195563W001,2162291,2015-10-14T00:00:00Z,226.3,225.8,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,5155,Kaweah Delta Water Conservation District,NA,5155,Kaweah Delta Water Conservation District
+16577,361928N1195563W001,2133917,2015-02-27T00:00:00Z,226.3,225.8,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,5155,Kaweah Delta Water Conservation District,NA,5155,Kaweah Delta Water Conservation District
+16577,361928N1195563W001,2026168,2014-10-18T00:00:00Z,226.3,225.8,NA,NA,NA,NA,NA,Pumping,NA,NA,5155,Kaweah Delta Water Conservation District,NA,5155,Kaweah Delta Water Conservation District
+16577,361928N1195563W001,1897076,2014-02-11T00:00:00Z,226.3,225.8,NA,NA,NA,NA,NA,Tape hung up,NA,NA,5155,Kaweah Delta Water Conservation District,NA,5155,Kaweah Delta Water Conservation District
+16577,361928N1195563W001,1835851,2013-10-15T00:00:00Z,226.3,225.8,0,293,-66.7,293,292.5,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,5155,Kaweah Delta Water Conservation District,NA,5155,Kaweah Delta Water Conservation District
+16577,361928N1195563W001,1722408,2013-03-05T00:00:00Z,223.5,223,NA,NA,NA,NA,NA,Pumping,NA,NA,5155,Kaweah Delta Water Conservation District,NA,5155,Kaweah Delta Water Conservation District
+16577,361928N1195563W001,89660,2012-10-10T00:00:00Z,223.5,223,0,287,-63.5,287,286.5,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,5155,Kaweah Delta Water Conservation District,NA,5155,Kaweah Delta Water Conservation District
+16577,361928N1195563W001,62152,2012-02-07T00:00:00Z,223.5,223,NA,NA,NA,NA,NA,Pumping,NA,NA,5155,Kaweah Delta Water Conservation District,NA,5155,Kaweah Delta Water Conservation District
+16577,361928N1195563W001,39537,2011-10-13T00:00:00Z,223.5,223,0,192,31.5,192,191.5,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,5155,Kaweah Delta Water Conservation District,NA,5155,Kaweah Delta Water Conservation District
+16577,361928N1195563W001,945402,2010-10-12T00:00:00Z,226.28,225.78,0,229,-2.72,229,228.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5155,Kaweah Delta Water Conservation District
+16577,361928N1195563W001,945400,2007-02-15T00:00:00Z,226.28,225.78,0,223,3.28,223,222.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5155,Kaweah Delta Water Conservation District
+16577,361928N1195563W001,945401,2006-12-04T00:00:00Z,226.28,225.78,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,PUMPING,5155,Kaweah Delta Water Conservation District
+16577,361928N1195563W001,945399,2006-02-02T00:00:00Z,226.28,225.78,0,174,52.28,174,173.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5155,Kaweah Delta Water Conservation District
+16577,361928N1195563W001,945398,2005-02-09T00:00:00Z,226.28,225.78,0,250,-23.72,250,249.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5155,Kaweah Delta Water Conservation District
+16577,361928N1195563W001,945395,2003-01-28T00:00:00Z,226.28,225.78,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5155,Kaweah Delta Water Conservation District
+16577,361928N1195563W001,945397,2002-09-23T00:00:00Z,226.28,225.78,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+16577,361928N1195563W001,945396,2002-01-17T00:00:00Z,226.28,225.78,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+16577,361928N1195563W001,945394,2001-02-01T00:00:00Z,226.28,225.78,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5155,Kaweah Delta Water Conservation District
+16577,361928N1195563W001,945393,1999-10-14T00:00:00Z,226.28,225.78,0,145,81.28,145,144.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5155,Kaweah Delta Water Conservation District
+16577,361928N1195563W001,945392,1999-02-05T00:00:00Z,226.28,225.78,0,104,122.28,104,103.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5155,Kaweah Delta Water Conservation District
+16577,361928N1195563W001,945391,1998-10-15T00:00:00Z,226.28,225.78,0,111,115.28,111,110.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5155,Kaweah Delta Water Conservation District
+16577,361928N1195563W001,945390,1998-01-22T00:00:00Z,226.28,225.78,0,126,100.28,126,125.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5155,Kaweah Delta Water Conservation District
+16577,361928N1195563W001,945389,1997-10-07T00:00:00Z,226.28,225.78,0,161,65.28,161,160.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5155,Kaweah Delta Water Conservation District
+16577,361928N1195563W001,945388,1997-02-15T00:00:00Z,226.28,225.78,0,116,110.28,116,115.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5155,Kaweah Delta Water Conservation District
+16577,361928N1195563W001,945387,1996-10-21T00:00:00Z,226.28,225.78,0,147,79.28,147,146.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5155,Kaweah Delta Water Conservation District
+16577,361928N1195563W001,945386,1996-02-28T00:00:00Z,226.28,225.78,0,167,59.28,167,166.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5155,Kaweah Delta Water Conservation District
+16577,361928N1195563W001,945385,1995-10-04T00:00:00Z,226.28,225.78,0,171,55.28,171,170.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5155,Kaweah Delta Water Conservation District
+16577,361928N1195563W001,945384,1995-02-21T00:00:00Z,226.28,225.78,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,5155,Kaweah Delta Water Conservation District
+16577,361928N1195563W001,945383,1994-10-11T00:00:00Z,226.28,225.78,0,215.5,10.78,215.5,215,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5155,Kaweah Delta Water Conservation District
+16577,361928N1195563W001,945382,1994-02-12T00:00:00Z,226.28,225.78,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5155,Kaweah Delta Water Conservation District
+16577,361928N1195563W001,945381,1993-10-15T00:00:00Z,226.28,225.78,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5155,Kaweah Delta Water Conservation District
+16577,361928N1195563W001,945380,1993-04-02T00:00:00Z,226.28,225.78,0,199,27.28,199,198.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5155,Kaweah Delta Water Conservation District
+16577,361928N1195563W001,945379,1992-11-04T00:00:00Z,226.28,225.78,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5155,Kaweah Delta Water Conservation District
+16577,361928N1195563W001,945378,1992-02-03T00:00:00Z,226.28,225.78,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5155,Kaweah Delta Water Conservation District
+16577,361928N1195563W001,945377,1991-10-10T00:00:00Z,226.28,225.78,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5155,Kaweah Delta Water Conservation District
+16577,361928N1195563W001,945376,1991-02-05T00:00:00Z,226.28,225.78,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5155,Kaweah Delta Water Conservation District
+16577,361928N1195563W001,945375,1990-10-13T00:00:00Z,226.28,225.78,0,248,-21.72,248,247.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5155,Kaweah Delta Water Conservation District
+16577,361928N1195563W001,945374,1990-02-09T00:00:00Z,226.28,225.78,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5155,Kaweah Delta Water Conservation District
+16577,361928N1195563W001,945373,1989-10-04T00:00:00Z,226.28,225.78,0,232,-5.72,232,231.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5155,Kaweah Delta Water Conservation District
+16577,361928N1195563W001,945372,1989-01-24T00:00:00Z,226.28,225.78,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5155,Kaweah Delta Water Conservation District
+16577,361928N1195563W001,945371,1988-10-03T00:00:00Z,226.28,225.78,0,194,32.28,194,193.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5155,Kaweah Delta Water Conservation District
+16577,361928N1195563W001,945370,1988-02-02T00:00:00Z,226.28,225.78,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5155,Kaweah Delta Water Conservation District
+16577,361928N1195563W001,945369,1987-09-25T00:00:00Z,226.28,225.78,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5155,Kaweah Delta Water Conservation District
+16577,361928N1195563W001,945368,1987-01-29T00:00:00Z,226.28,225.78,NA,NA,NA,NA,NA,Unable to locate well,NA,NA,1,Department of Water Resources,NA,5155,Kaweah Delta Water Conservation District

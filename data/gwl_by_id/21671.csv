@@ -1,0 +1,12 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+21671,357106N1193315W001,858612,1960-02-11T00:00:00Z,283.61,283.61,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21671,357106N1193315W001,858611,1959-10-01T00:00:00Z,283.61,283.61,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21671,357106N1193315W001,858610,1959-02-09T00:00:00Z,283.61,283.61,0,132.5,151.11,132.5,132.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21671,357106N1193315W001,858609,1958-10-01T00:00:00Z,283.61,283.61,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21671,357106N1193315W001,858608,1958-02-11T00:00:00Z,283.61,283.61,0,123,160.61,123,123,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21671,357106N1193315W001,858607,1957-09-30T00:00:00Z,283.61,283.61,0,140,143.61,140,140,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21671,357106N1193315W001,858606,1957-02-07T00:00:00Z,283.61,283.61,0,123.4,160.21,123.4,123.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21671,357106N1193315W001,858605,1956-10-10T00:00:00Z,283.61,283.61,0,153.5,130.11,153.5,153.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21671,357106N1193315W001,858604,1956-02-14T00:00:00Z,283.61,283.61,0,121.6,162.01,121.6,121.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21671,357106N1193315W001,858603,1955-09-10T00:00:00Z,283.61,283.61,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21671,357106N1193315W001,858602,1955-02-11T00:00:00Z,283.61,283.61,0,112.6,171.01,112.6,112.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation

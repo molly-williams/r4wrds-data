@@ -1,0 +1,73 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+19201,361081N1189540W001,793079,2008-02-27T00:00:00Z,666.32,665.82,0,60.4,605.92,60.4,59.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793078,2007-01-23T00:00:00Z,666.32,665.82,0,58.3,608.02,58.3,57.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793080,2006-10-04T00:00:00Z,666.32,665.82,0,63.3,603.02,63.3,62.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793076,2004-01-30T00:00:00Z,666.32,665.82,0,56.3,610.02,56.3,55.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793077,2003-09-29T00:00:00Z,666.32,665.82,0,72.6,593.72,72.6,72.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793075,2003-01-22T00:00:00Z,666.32,665.82,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793074,2001-01-24T00:00:00Z,666.32,665.82,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793073,2000-01-26T00:00:00Z,666.32,665.82,0,41.9,624.42,41.9,41.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793072,1999-10-12T00:00:00Z,666.32,665.82,0,41.7,624.62,41.7,41.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793071,1999-02-04T00:00:00Z,666.32,665.82,0,39.1,627.22,39.1,38.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793070,1998-10-07T00:00:00Z,666.32,665.82,0,61.6,604.72,61.6,61.1,Pumping,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793069,1998-01-22T00:00:00Z,666.32,665.82,0,56.8,609.52,56.8,56.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793068,1997-10-14T00:00:00Z,666.32,665.82,0,77.5,588.82,77.5,77,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793067,1996-09-23T00:00:00Z,666.32,665.82,0,78.8,587.52,78.8,78.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793066,1996-01-09T00:00:00Z,666.32,665.82,0,90.8,575.52,90.8,90.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793065,1995-10-03T00:00:00Z,666.32,665.82,0,79.5,586.82,79.5,79,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793064,1995-01-18T00:00:00Z,666.32,665.82,0,75.4,590.92,75.4,74.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793063,1994-10-06T00:00:00Z,666.32,665.82,0,95.5,570.82,95.5,95,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793062,1994-01-31T00:00:00Z,666.32,665.82,0,88.5,577.82,88.5,88,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793061,1993-10-12T00:00:00Z,666.32,665.82,0,88.5,577.82,88.5,88,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793060,1993-01-25T00:00:00Z,666.32,665.82,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793059,1992-10-05T00:00:00Z,666.32,665.82,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793058,1992-01-16T00:00:00Z,666.32,665.82,0,106.9,559.42,106.9,106.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793057,1991-10-02T00:00:00Z,666.32,665.82,0,106.9,559.42,106.9,106.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793056,1991-01-21T00:00:00Z,666.32,665.82,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793055,1990-09-26T00:00:00Z,666.32,665.82,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793054,1990-01-23T00:00:00Z,666.32,665.82,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793053,1989-09-26T00:00:00Z,666.32,665.82,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793052,1989-02-06T00:00:00Z,666.32,665.82,0,102,564.32,102,101.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793051,1988-10-05T00:00:00Z,666.32,665.82,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793050,1988-01-25T00:00:00Z,666.32,665.82,0,90,576.32,90,89.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793049,1987-10-02T00:00:00Z,666.32,665.82,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793048,1987-01-20T00:00:00Z,666.32,665.82,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793047,1986-10-03T00:00:00Z,666.32,665.82,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793046,1986-01-23T00:00:00Z,666.32,665.82,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793045,1985-09-25T00:00:00Z,666.32,665.82,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793044,1985-01-21T00:00:00Z,666.32,665.82,0,79,587.32,79,78.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793043,1984-09-25T00:00:00Z,666.32,665.82,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793042,1984-01-24T00:00:00Z,666.32,665.82,0,77,589.32,77,76.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793041,1983-09-21T00:00:00Z,666.32,665.82,0,77,589.32,77,76.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793040,1983-01-31T00:00:00Z,666.32,665.82,0,79,587.32,79,78.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793039,1982-10-04T00:00:00Z,666.32,665.82,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793038,1982-02-08T00:00:00Z,666.32,665.82,0,81.6,584.72,81.6,81.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793037,1981-09-15T00:00:00Z,666.32,665.82,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793036,1981-01-16T00:00:00Z,666.32,665.82,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793035,1980-09-22T00:00:00Z,666.32,665.82,0,103.6,562.72,103.6,103.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793034,1980-01-23T00:00:00Z,666.32,665.82,0,101.6,564.72,101.6,101.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793033,1979-09-18T00:00:00Z,666.32,665.82,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793032,1979-01-31T00:00:00Z,666.32,665.82,0,85,581.32,85,84.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793031,1978-01-31T00:00:00Z,666.32,665.82,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793030,1977-09-29T00:00:00Z,666.32,665.82,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793029,1977-01-27T00:00:00Z,666.32,665.82,0,103.5,562.82,103.5,103,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793028,1976-10-06T00:00:00Z,666.32,665.82,0,105.8,560.52,105.8,105.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793027,1976-01-22T00:00:00Z,666.32,665.82,0,94.2,572.12,94.2,93.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793026,1975-09-23T00:00:00Z,666.32,665.82,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793025,1975-01-21T00:00:00Z,666.32,665.82,0,90,576.32,90,89.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793024,1974-10-03T00:00:00Z,666.32,665.82,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793023,1974-01-28T00:00:00Z,666.32,665.82,0,84.1,582.22,84.1,83.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793022,1973-02-07T00:00:00Z,666.32,665.82,0,98.9,567.42,98.9,98.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793021,1972-10-03T00:00:00Z,666.32,665.82,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793020,1972-02-02T00:00:00Z,666.32,665.82,0,94.2,572.12,94.2,93.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793019,1971-09-27T00:00:00Z,666.32,665.82,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793018,1971-01-29T00:00:00Z,666.32,665.82,0,77.5,588.82,77.5,77,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793017,1970-01-10T00:00:00Z,666.32,665.82,0,75.8,590.52,75.8,75.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793016,1969-09-26T00:00:00Z,666.32,665.82,0,97,569.32,97,96.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793015,1969-02-04T00:00:00Z,666.32,665.82,0,88.6,577.72,88.6,88.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793014,1968-02-02T00:00:00Z,666.32,665.82,0,85.8,580.52,85.8,85.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793013,1967-02-03T00:00:00Z,666.32,665.82,0,96.3,570.02,96.3,95.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793012,1966-02-01T00:00:00Z,666.32,665.82,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793011,1965-02-03T00:00:00Z,666.32,665.82,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793010,1964-09-28T00:00:00Z,666.32,665.82,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+19201,361081N1189540W001,793009,1964-02-05T00:00:00Z,666.32,665.82,0,91.7,574.62,91.7,91.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation

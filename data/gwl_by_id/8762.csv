@@ -1,0 +1,63 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+8762,372546N1207202W001,2583523,2020-03-02T17:31:00Z,94.4,92.4,0,31,63.4,31,29,NA,Electric sounder measurement,Water level accuracy to nearest foot,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,2526879,2019-10-25T16:53:00Z,94.4,92.4,0,18,76.4,18,16,NA,Electric sounder measurement,Water level accuracy to nearest foot,1,Department of Water Resources,ST,1,Department of Water Resources
+8762,372546N1207202W001,2453495,2019-03-22T20:47:00Z,94.4,92.4,0,21.4,73,21.4,19.4,NA,Steel tape measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,2431643,2018-10-23T20:47:00Z,94.4,92.4,0,27.7,66.7,27.7,25.7,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,0,1,Department of Water Resources
+8762,372546N1207202W001,2286713,2018-04-03T20:34:00Z,94.4,92.4,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NM7 no keys,1,Department of Water Resources
+8762,372546N1207202W001,2269220,2017-10-02T09:35:00Z,94.4,92.4,0,37.1,57.3,37.1,35.1,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,2241290,2017-03-30T12:00:00Z,94.4,92.4,0,26.2,68.2,26.2,24.2,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,2228410,2016-10-24T12:00:00Z,94.4,92.4,0,45.9,48.5,45.9,43.9,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,2187140,2016-03-17T12:00:00Z,94.4,92.4,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,2175509,2015-10-13T12:00:00Z,94.4,92.4,0,47.2,47.2,47.2,45.2,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,2134881,2015-03-16T07:00:00Z,94.4,92.4,0,39.3,55.1,39.3,37.3,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,2106126,2014-10-17T12:00:00Z,94.4,92.4,0,38.2,56.2,38.2,36.2,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1881295,2014-02-10T12:00:00Z,94.4,92.4,0,25.9,68.5,25.9,23.9,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1811719,2013-10-15T12:00:00Z,94.4,92.4,0,26.2,68.2,26.2,24.2,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1722959,2013-03-12T12:00:00Z,94.4,92.4,0,18.7,75.7,18.7,16.7,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1704051,2012-10-16T00:00:00Z,94.4,92.4,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,65781,2012-02-07T12:00:00Z,94.4,92.4,0,14.5,79.9,14.5,12.5,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1316935,2011-10-25T00:00:00Z,94.4,92.4,0,14.9,79.5,14.9,12.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1316934,2011-02-23T00:00:00Z,94.4,92.4,0,13.8,80.6,13.8,11.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1316933,2010-11-05T00:00:00Z,94.4,92.4,NA,NA,NA,NA,NA,Unable to locate well,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1316932,2010-05-08T00:00:00Z,94.4,92.4,NA,NA,NA,NA,NA,Unable to locate well,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1316931,2009-11-09T00:00:00Z,94.4,92.4,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1316928,2009-03-11T00:00:00Z,94.4,92.4,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1316927,2008-10-28T00:00:00Z,94.4,92.4,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1316926,2008-02-26T00:00:00Z,94.4,92.4,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1316925,2007-01-31T00:00:00Z,94.4,92.4,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1316929,2006-11-16T00:00:00Z,94.4,92.4,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1316924,2006-02-08T00:00:00Z,94.4,92.4,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1316923,2005-02-10T00:00:00Z,94.4,92.4,0,14.5,79.9,14.5,12.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1316930,2004-10-13T00:00:00Z,94.4,92.4,0,39.3,55.1,39.3,37.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1316922,2004-02-10T00:00:00Z,94.4,92.4,0,21.6,72.8,21.6,19.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1316921,2003-02-13T00:00:00Z,94.4,92.4,0,15.4,79,15.4,13.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1316919,2002-01-31T00:00:00Z,94.4,92.4,0,16.3,78.1,16.3,14.3,Oil or foreign substance in casing,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1316918,2001-10-11T00:00:00Z,94.4,92.4,0,30.7,63.7,30.7,28.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1316920,2001-02-06T00:00:00Z,94.4,92.4,0,14.2,80.2,14.2,12.2,Oil or foreign substance in casing,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1316917,2000-02-10T00:00:00Z,94.4,92.4,0,15.9,78.5,15.9,13.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1316916,1999-10-14T00:00:00Z,94.4,92.4,0,37.4,57,37.4,35.4,Oil or foreign substance in casing,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1316915,1999-02-03T00:00:00Z,94.4,92.4,0,11,83.4,11,9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1316914,1998-10-15T00:00:00Z,94.4,92.4,0,18.3,76.1,18.3,16.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1316913,1998-03-04T00:00:00Z,94.4,92.4,0,9.1,85.3,9.1,7.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1316912,1997-11-21T00:00:00Z,94.4,92.4,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1316911,1997-02-20T00:00:00Z,94.4,92.4,0,23.1,71.3,23.1,21.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1316910,1996-11-14T00:00:00Z,94.4,92.4,0,24,70.4,24,22,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1316909,1996-02-08T00:00:00Z,94.4,92.4,0,23.7,70.7,23.7,21.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1316908,1995-10-17T00:00:00Z,94.4,92.4,0,24.2,70.2,24.2,22.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1316907,1995-02-15T00:00:00Z,94.4,92.4,0,26,68.4,26,24,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1316906,1994-10-27T00:00:00Z,94.4,92.4,0,26.2,68.2,26.2,24.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1316905,1994-03-10T00:00:00Z,94.4,92.4,0,25.7,68.7,25.7,23.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1316904,1993-10-20T00:00:00Z,94.4,92.4,0,26.9,67.5,26.9,24.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1316903,1992-12-09T00:00:00Z,94.4,92.4,0,27.1,67.3,27.1,25.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1316902,1992-10-15T00:00:00Z,94.4,92.4,0,27.3,67.1,27.3,25.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1316901,1991-12-17T00:00:00Z,94.4,92.4,0,26.4,68,26.4,24.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1316900,1991-10-30T00:00:00Z,94.4,92.4,0,27,67.4,27,25,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1316899,1990-12-18T00:00:00Z,94.4,92.4,0,24,70.4,24,22,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1316898,1990-10-11T00:00:00Z,94.4,92.4,0,39,55.4,39,37,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1316897,1989-12-20T00:00:00Z,94.4,92.4,0,15.8,78.6,15.8,13.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1316896,1989-11-08T00:00:00Z,94.4,92.4,0,18.9,75.5,18.9,16.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1316895,1988-12-07T00:00:00Z,94.4,92.4,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1316894,1988-10-20T00:00:00Z,94.4,92.4,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1316893,1987-12-16T00:00:00Z,94.4,92.4,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1316892,1987-10-22T00:00:00Z,94.4,92.4,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+8762,372546N1207202W001,1316891,1986-12-03T00:00:00Z,94.4,92.4,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources

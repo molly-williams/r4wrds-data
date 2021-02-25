@@ -1,0 +1,6 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+14123,367717N1196596W001,1148768,1982-02-01T00:00:00Z,350.53,349.53,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+14123,367717N1196596W001,1148767,1981-10-01T00:00:00Z,350.53,349.53,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+14123,367717N1196596W001,1148766,1981-02-06T00:00:00Z,350.53,349.53,0,25.8,324.73,25.8,24.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+14123,367717N1196596W001,1148765,1980-10-01T00:00:00Z,350.53,349.53,0,22,328.53,22,21,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+14123,367717N1196596W001,1148764,1980-01-31T00:00:00Z,350.53,349.53,0,33,317.53,33,32,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources

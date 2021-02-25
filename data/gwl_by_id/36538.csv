@@ -1,0 +1,14 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+36538,361256N1202032W001,974964,2008-12-31T00:00:00Z,560,560,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,5100,Westlands Water District
+36538,361256N1202032W001,974963,1994-01-12T00:00:00Z,560,560,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5100,Westlands Water District
+36538,361256N1202032W001,974962,1992-01-06T00:00:00Z,560,560,0,5,555,5,5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+36538,361256N1202032W001,974961,1991-01-23T00:00:00Z,560,560,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5100,Westlands Water District
+36538,361256N1202032W001,974960,1989-12-14T00:00:00Z,560,560,NA,NA,NA,NA,NA,Well has been destroyed,NA,NA,1,Department of Water Resources,NA,5100,Westlands Water District
+36538,361256N1202032W001,974959,1988-12-19T00:00:00Z,560,560,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,5100,Westlands Water District
+36538,361256N1202032W001,974958,1987-12-21T00:00:00Z,560,560,0,185,375,185,185,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+36538,361256N1202032W001,974957,1986-12-30T00:00:00Z,560,560,0,250,310,250,250,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+36538,361256N1202032W001,974956,1984-12-06T00:00:00Z,560,560,0,302,258,302,302,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+36538,361256N1202032W001,974955,1982-12-07T00:00:00Z,560,560,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,5100,Westlands Water District
+36538,361256N1202032W001,974954,1960-10-12T00:00:00Z,560,560,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+36538,361256N1202032W001,974953,1959-10-14T00:00:00Z,560,560,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5167,United States Geological Survey
+36538,361256N1202032W001,974952,1958-10-22T00:00:00Z,560,560,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5167,United States Geological Survey

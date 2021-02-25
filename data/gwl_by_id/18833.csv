@@ -1,0 +1,6 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+18833,358581N1198879W001,835508,1960-10-14T00:00:00Z,309,308,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+18833,358581N1198879W001,835507,1959-10-13T00:00:00Z,309,308,NA,NA,NA,NA,NA,Well has been destroyed,NA,NA,1,Department of Water Resources,NA,5167,United States Geological Survey
+18833,358581N1198879W001,835506,1959-04-01T00:00:00Z,309,308,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,5167,United States Geological Survey
+18833,358581N1198879W001,835505,1958-10-24T00:00:00Z,309,308,NA,NA,NA,NA,NA,Well has been destroyed,NA,NA,1,Department of Water Resources,NA,5167,United States Geological Survey
+18833,358581N1198879W001,835504,1958-04-15T00:00:00Z,309,308,0,97,212,97,96,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey

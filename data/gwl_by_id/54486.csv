@@ -1,0 +1,4 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+54486,351942N1188484W001,2656680,2020-02-26T12:00:00Z,402,402,0,349,53,349,349,NA,Acoustic or sonic sounder,Water level accuracy to nearest foot,6717,Kern Groundwater Authority GSA,NA,6717,Kern Groundwater Authority GSA
+54486,351942N1188484W001,2575335,2019-08-16T00:00:00Z,402,402,0,346,56,346,346,NA,Unknown,Water level accuracy is unknown,6717,Kern Groundwater Authority GSA,"MT_Elev: -70, MO_Elev: 30",6717,Kern Groundwater Authority GSA
+54486,351942N1188484W001,2635506,2015-12-29T00:00:00Z,402,402,0,378,24,378,378,NA,Unknown,Water level accuracy is unknown,6717,Kern Groundwater Authority GSA,"MT_Elev: -70, MO_Elev: 30",6717,Kern Groundwater Authority GSA

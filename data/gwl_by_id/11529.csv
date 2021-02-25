@@ -1,0 +1,5 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+11529,371502N1206366W001,1366835,1974-03-22T00:00:00Z,105.31,105.31,0,53,52.31,53,53,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+11529,371502N1206366W001,1366834,1973-04-17T00:00:00Z,105.31,105.31,0,39,66.31,39,39,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+11529,371502N1206366W001,1366833,1972-02-14T00:00:00Z,105.31,105.31,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+11529,371502N1206366W001,1366832,1970-03-30T00:00:00Z,105.31,105.31,0,90,15.31,90,90,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources

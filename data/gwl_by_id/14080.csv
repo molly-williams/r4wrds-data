@@ -1,0 +1,14 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+14080,368893N1205321W001,1097964,1964-10-22T00:00:00Z,153.36,152.36,0,4,149.36,4,3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+14080,368893N1205321W001,1097963,1964-04-07T00:00:00Z,153.36,152.36,0,3.7,149.66,3.7,2.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+14080,368893N1205321W001,1097962,1963-10-03T00:00:00Z,153.36,152.36,0,5.9,147.46,5.9,4.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+14080,368893N1205321W001,1097961,1963-03-13T00:00:00Z,153.36,152.36,0,6.8,146.56,6.8,5.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+14080,368893N1205321W001,1097960,1962-10-24T00:00:00Z,153.36,152.36,0,6.9,146.46,6.9,5.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+14080,368893N1205321W001,1097959,1962-03-21T00:00:00Z,153.36,152.36,0,7.1,146.26,7.1,6.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+14080,368893N1205321W001,1097958,1961-10-04T00:00:00Z,153.36,152.36,0,6.2,147.16,6.2,5.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+14080,368893N1205321W001,1097957,1961-03-17T00:00:00Z,153.36,152.36,NA,NA,NA,NA,NA,Unable to locate well,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+14080,368893N1205321W001,1097956,1960-10-01T00:00:00Z,153.36,152.36,0,5.9,147.46,5.9,4.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+14080,368893N1205321W001,1097955,1960-09-29T00:00:00Z,153.36,152.36,0,5.9,147.46,5.9,4.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+14080,368893N1205321W001,1097954,1960-03-14T00:00:00Z,153.36,152.36,0,6.6,146.76,6.6,5.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+14080,368893N1205321W001,1097953,1959-09-24T00:00:00Z,153.36,152.36,0,5.2,148.16,5.2,4.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+14080,368893N1205321W001,1097952,1959-03-16T00:00:00Z,153.36,152.36,0,3.8,149.56,3.8,2.8,Recharge or surface water effects near well,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources

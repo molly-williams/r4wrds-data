@@ -1,0 +1,5 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+5226,373796N1206777W001,2632031,2020-03-15T00:00:00Z,142,142,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,6719,Merced Irrigation-Urban GSA,MID,6719,Merced Irrigation-Urban GSA
+5226,373796N1206777W001,67202,2012-03-01T12:00:00Z,141.398,141.398,0,73,68.398,73,73,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+5226,373796N1206777W001,39659,2011-10-03T00:00:00Z,142,142,0,73.9,68.1,73.9,73.9,NA,Electric sounder measurement,Water level accuracy to nearest foot,5088,Merced Area Groundwater Pool Interests (MAGPI),NA,5088,Merced Area Groundwater Pool Interests (MAGPI)
+5226,373796N1206777W001,67714,2011-03-01T12:00:00Z,141.398,141.398,0,70,71.398,70,70,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources

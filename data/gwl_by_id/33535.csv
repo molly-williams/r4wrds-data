@@ -1,0 +1,30 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+33535,365894N1204518W001,987286,2008-11-14T00:00:00Z,256.68,255.68,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,5100,Westlands Water District
+33535,365894N1204518W001,987285,1996-11-25T00:00:00Z,256.68,255.68,NA,NA,NA,NA,NA,Well has been destroyed,NA,NA,1,Department of Water Resources,NA,5100,Westlands Water District
+33535,365894N1204518W001,987284,1995-11-30T00:00:00Z,256.68,255.68,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,5100,Westlands Water District
+33535,365894N1204518W001,987283,1994-11-29T00:00:00Z,256.68,255.68,0,336,-79.32,336,335,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+33535,365894N1204518W001,987282,1993-12-03T00:00:00Z,256.68,255.68,0,344,-87.32,344,343,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+33535,365894N1204518W001,987281,1992-11-17T00:00:00Z,256.68,255.68,0,259,-2.32,259,258,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+33535,365894N1204518W001,987280,1991-12-11T00:00:00Z,256.68,255.68,0,312,-55.32,312,311,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+33535,365894N1204518W001,987279,1990-12-05T00:00:00Z,256.68,255.68,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5100,Westlands Water District
+33535,365894N1204518W001,987278,1990-02-15T00:00:00Z,256.68,255.68,0,203,53.68,203,202,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+33535,365894N1204518W001,987277,1988-12-08T00:00:00Z,256.68,255.68,0,202,54.68,202,201,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+33535,365894N1204518W001,987276,1987-12-23T00:00:00Z,256.68,255.68,0,202,54.68,202,201,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+33535,365894N1204518W001,987275,1986-12-22T00:00:00Z,256.68,255.68,0,219,37.68,219,218,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+33535,365894N1204518W001,987274,1985-12-20T00:00:00Z,256.68,255.68,0,224,32.68,224,223,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+33535,365894N1204518W001,987273,1985-01-14T00:00:00Z,256.68,255.68,0,224,32.68,224,223,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+33535,365894N1204518W001,987272,1982-12-03T00:00:00Z,256.68,255.68,0,251,5.68,251,250,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+33535,365894N1204518W001,987271,1976-12-14T00:00:00Z,256.68,255.68,0,296,-39.32,296,295,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+33535,365894N1204518W001,987270,1975-12-17T00:00:00Z,256.68,255.68,0,344,-87.32,344,343,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+33535,365894N1204518W001,987269,1974-12-17T00:00:00Z,256.68,255.68,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+33535,365894N1204518W001,987268,1974-02-06T00:00:00Z,256.68,255.68,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+33535,365894N1204518W001,987267,1973-02-24T00:00:00Z,256.68,255.68,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+33535,365894N1204518W001,987266,1972-01-07T00:00:00Z,256.68,255.68,0,423.8,-167.12,423.8,422.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+33535,365894N1204518W001,987265,1970-12-15T00:00:00Z,256.68,255.68,0,456,-199.32,456,455,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+33535,365894N1204518W001,987264,1969-12-17T00:00:00Z,256.68,255.68,0,451,-194.32,451,450,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+33535,365894N1204518W001,987263,1968-12-17T00:00:00Z,256.68,255.68,0,490,-233.32,490,489,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+33535,365894N1204518W001,987262,1967-12-22T00:00:00Z,256.68,255.68,0,513,-256.32,513,512,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+33535,365894N1204518W001,987261,1967-01-03T00:00:00Z,256.68,255.68,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+33535,365894N1204518W001,987260,1965-12-20T00:00:00Z,256.68,255.68,0,474,-217.32,474,473,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+33535,365894N1204518W001,987259,1964-12-22T00:00:00Z,256.68,255.68,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+33535,365894N1204518W001,987258,1963-12-18T00:00:00Z,256.68,255.68,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources

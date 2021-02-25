@@ -1,0 +1,27 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+14375,366733N1205857W001,1164850,2008-12-03T00:00:00Z,390.67,389.67,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,5100,Westlands Water District
+14375,366733N1205857W001,1164849,1993-11-18T00:00:00Z,390.67,389.67,NA,NA,NA,NA,NA,Unable to locate well,NA,NA,1,Department of Water Resources,NA,5100,Westlands Water District
+14375,366733N1205857W001,1164848,1990-12-07T00:00:00Z,390.67,389.67,NA,NA,NA,NA,NA,Well has been destroyed,NA,NA,1,Department of Water Resources,NA,5100,Westlands Water District
+14375,366733N1205857W001,1164847,1990-01-10T00:00:00Z,390.67,389.67,0,372,18.67,372,371,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+14375,366733N1205857W001,1164846,1989-01-13T00:00:00Z,390.67,389.67,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NA,5100,Westlands Water District
+14375,366733N1205857W001,1164845,1988-01-06T00:00:00Z,390.67,389.67,0,364,26.67,364,363,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+14375,366733N1205857W001,1164844,1986-12-05T00:00:00Z,390.67,389.67,0,370,20.67,370,369,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+14375,366733N1205857W001,1164843,1985-12-23T00:00:00Z,390.67,389.67,0,393,-2.33,393,392,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+14375,366733N1205857W001,1164842,1985-01-03T00:00:00Z,390.67,389.67,0,397,-6.33,397,396,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+14375,366733N1205857W001,1164841,1982-12-09T00:00:00Z,390.67,389.67,0,443,-52.33,443,442,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+14375,366733N1205857W001,1164840,1977-12-12T00:00:00Z,390.67,389.67,0,599,-208.33,599,598,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+14375,366733N1205857W001,1164839,1976-12-14T00:00:00Z,390.67,389.67,0,484,-93.33,484,483,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+14375,366733N1205857W001,1164838,1975-12-16T00:00:00Z,390.67,389.67,0,500,-109.33,500,499,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+14375,366733N1205857W001,1164837,1974-12-19T00:00:00Z,390.67,389.67,0,521,-130.33,521,520,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+14375,366733N1205857W001,1164836,1974-02-05T00:00:00Z,390.67,389.67,0,539,-148.33,539,538,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+14375,366733N1205857W001,1164835,1973-02-21T00:00:00Z,390.67,389.67,0,551,-160.33,551,550,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+14375,366733N1205857W001,1164834,1972-01-05T00:00:00Z,390.67,389.67,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+14375,366733N1205857W001,1164833,1968-12-16T00:00:00Z,390.67,389.67,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+14375,366733N1205857W001,1164832,1967-12-21T00:00:00Z,390.67,389.67,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+14375,366733N1205857W001,1164831,1966-12-28T00:00:00Z,390.67,389.67,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+14375,366733N1205857W001,1164830,1965-12-19T00:00:00Z,390.67,389.67,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+14375,366733N1205857W001,1164829,1964-12-17T00:00:00Z,390.67,389.67,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+14375,366733N1205857W001,1164828,1963-12-24T00:00:00Z,390.67,389.67,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+14375,366733N1205857W001,1164827,1962-03-27T00:00:00Z,390.67,389.67,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+14375,366733N1205857W001,1164826,1960-10-13T00:00:00Z,390.67,389.67,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+14375,366733N1205857W001,1164825,1930-01-21T00:00:00Z,390.67,389.67,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NA,5100,Westlands Water District

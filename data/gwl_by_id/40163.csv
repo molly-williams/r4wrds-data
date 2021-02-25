@@ -1,0 +1,71 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+40163,360808N1190867W001,791626,1985-01-31T00:00:00Z,408.7,407.2,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+40163,360808N1190867W001,791625,1984-10-04T00:00:00Z,408.7,407.2,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+40163,360808N1190867W001,791624,1984-01-30T00:00:00Z,408.7,407.2,NA,NA,NA,NA,NA,Pump house locked,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+40163,360808N1190867W001,791623,1983-10-12T00:00:00Z,408.7,407.2,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+40163,360808N1190867W001,791622,1983-01-26T00:00:00Z,408.7,407.2,NA,NA,NA,NA,NA,Pump house locked,NA,NA,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791621,1982-09-28T00:00:00Z,408.7,407.2,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791620,1982-01-27T00:00:00Z,408.7,407.2,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+40163,360808N1190867W001,791619,1981-10-08T00:00:00Z,408.7,407.2,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+40163,360808N1190867W001,791618,1981-02-06T00:00:00Z,408.7,407.2,0,19,389.7,19,17.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791617,1980-10-01T00:00:00Z,408.7,407.2,0,22,386.7,22,20.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791616,1980-01-28T00:00:00Z,408.7,407.2,0,16.5,392.2,16.5,15,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791615,1979-09-25T00:00:00Z,408.7,407.2,0,17,391.7,17,15.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791614,1979-01-19T00:00:00Z,408.7,407.2,0,19,389.7,19,17.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791613,1978-10-31T00:00:00Z,408.7,407.2,0,18,390.7,18,16.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791612,1978-01-23T00:00:00Z,408.7,407.2,0,34.5,374.2,34.5,33,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791611,1977-09-28T00:00:00Z,408.7,407.2,0,33,375.7,33,31.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791610,1977-08-05T00:00:00Z,408.7,407.2,0,36.9,371.8,36.9,35.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791609,1977-01-25T00:00:00Z,408.7,407.2,0,30.4,378.3,30.4,28.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791608,1976-10-01T00:00:00Z,408.7,407.2,0,26.2,382.5,26.2,24.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791607,1976-01-05T00:00:00Z,408.7,407.2,0,19.1,389.6,19.1,17.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791606,1975-09-10T00:00:00Z,408.7,407.2,0,15.7,393,15.7,14.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791605,1975-02-07T00:00:00Z,408.7,407.2,0,17.2,391.5,17.2,15.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791604,1974-10-01T00:00:00Z,408.7,407.2,0,12.6,396.1,12.6,11.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791603,1974-02-06T00:00:00Z,408.7,407.2,0,13.3,395.4,13.3,11.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791602,1973-10-04T00:00:00Z,408.7,407.2,0,14.6,394.1,14.6,13.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1099,"TULE RIVER, LOWER, IRRIGATION DISTRICT"
+40163,360808N1190867W001,791601,1973-02-05T00:00:00Z,408.7,407.2,0,23.3,385.4,23.3,21.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791600,1972-10-02T00:00:00Z,408.7,407.2,0,24.7,384,24.7,23.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791599,1972-02-01T00:00:00Z,408.7,407.2,0,18.5,390.2,18.5,17,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791598,1971-09-27T00:00:00Z,408.7,407.2,0,19.7,389,19.7,18.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791597,1971-01-27T00:00:00Z,408.7,407.2,0,18.6,390.1,18.6,17.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791596,1970-09-24T00:00:00Z,408.7,407.2,0,18.3,390.4,18.3,16.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791595,1970-01-29T00:00:00Z,408.7,407.2,0,10.7,398,10.7,9.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791594,1969-02-03T00:00:00Z,408.7,407.2,0,22.8,385.9,22.8,21.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791593,1968-02-01T00:00:00Z,408.7,407.2,0,11,397.7,11,9.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791592,1967-02-22T00:00:00Z,408.7,407.2,0,20.7,388,20.7,19.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791591,1966-02-03T00:00:00Z,408.7,407.2,0,20,388.7,20,18.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791590,1965-12-20T00:00:00Z,408.7,407.2,0,22.2,386.5,22.2,20.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791589,1965-10-05T00:00:00Z,408.7,407.2,0,22.7,386,22.7,21.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791588,1965-08-23T00:00:00Z,408.7,407.2,0,23,385.7,23,21.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791587,1965-06-22T00:00:00Z,408.7,407.2,0,21.3,387.4,21.3,19.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791586,1965-04-21T00:00:00Z,408.7,407.2,0,13.3,395.4,13.3,11.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791585,1965-02-01T00:00:00Z,408.7,407.2,0,18.1,390.6,18.1,16.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791584,1964-11-28T00:00:00Z,408.7,407.2,0,19.9,388.8,19.9,18.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791583,1964-09-21T00:00:00Z,408.7,407.2,0,30.6,378.1,30.6,29.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791582,1964-07-20T00:00:00Z,408.7,407.2,0,29,379.7,29,27.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791581,1964-05-22T00:00:00Z,408.7,407.2,0,26.2,382.5,26.2,24.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791580,1964-03-24T00:00:00Z,408.7,407.2,0,27,381.7,27,25.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791579,1964-02-07T00:00:00Z,408.7,407.2,0,25.2,383.5,25.2,23.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791578,1963-11-22T00:00:00Z,408.7,407.2,0,24.3,384.4,24.3,22.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791577,1963-09-23T00:00:00Z,408.7,407.2,0,26.8,381.9,26.8,25.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791576,1963-08-19T00:00:00Z,408.7,407.2,0,28.8,379.9,28.8,27.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791575,1963-06-18T00:00:00Z,408.7,407.2,0,30.7,378,30.7,29.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791574,1963-04-15T00:00:00Z,408.7,407.2,0,23.7,385,23.7,22.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791573,1963-02-06T00:00:00Z,408.7,407.2,0,38.8,369.9,38.8,37.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791572,1962-10-08T00:00:00Z,408.7,407.2,0,36.7,372,36.7,35.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791571,1962-08-15T00:00:00Z,408.7,407.2,0,34.2,374.5,34.2,32.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791570,1962-06-07T00:00:00Z,408.7,407.2,0,299.5,109.2,299.5,298,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791569,1962-04-25T00:00:00Z,408.7,407.2,0,35.9,372.8,35.9,34.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791568,1962-02-06T00:00:00Z,408.7,407.2,0,47.2,361.5,47.2,45.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791567,1961-12-04T00:00:00Z,408.7,407.2,0,42.9,365.8,42.9,41.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791566,1961-10-09T00:00:00Z,408.7,407.2,0,44.8,363.9,44.8,43.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791565,1961-08-14T00:00:00Z,408.7,407.2,0,44.4,364.3,44.4,42.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791564,1961-06-27T00:00:00Z,408.7,407.2,0,43.3,365.4,43.3,41.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791563,1961-04-20T00:00:00Z,408.7,407.2,0,40.8,367.9,40.8,39.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791562,1961-02-17T00:00:00Z,408.7,407.2,0,39,369.7,39,37.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791561,1960-10-03T00:00:00Z,408.7,407.2,0,38.5,370.2,38.5,37,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791560,1960-08-10T00:00:00Z,408.7,407.2,0,37.1,371.6,37.1,35.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791559,1960-06-16T00:00:00Z,408.7,407.2,0,29.9,378.8,29.9,28.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791558,1960-04-13T00:00:00Z,408.7,407.2,0,32.4,376.3,32.4,30.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+40163,360808N1190867W001,791557,1960-02-17T00:00:00Z,408.7,407.2,0,33,375.7,33,31.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District

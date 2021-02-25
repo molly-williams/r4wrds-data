@@ -1,0 +1,82 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+35239,390975N1218270W001,1154314,1978-03-17T00:00:00Z,39.67,39.37,NA,NA,NA,NA,NA,Well has been destroyed,NA,NA,1,Department of Water Resources,WELL DESTROYED,777,County of Sutter
+35239,390975N1218270W001,1154313,1977-10-07T00:00:00Z,39.67,39.37,0,6.7,32.97,6.7,6.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+35239,390975N1218270W001,1154312,1977-08-22T00:00:00Z,39.67,39.37,0,6.1,33.57,6.1,5.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+35239,390975N1218270W001,1154311,1977-07-25T00:00:00Z,39.67,39.37,0,6,33.67,6,5.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+35239,390975N1218270W001,1154310,1977-06-23T00:00:00Z,39.67,39.37,0,5,34.67,5,4.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+35239,390975N1218270W001,1154309,1977-02-25T00:00:00Z,39.67,39.37,0,3.7,35.97,3.7,3.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+35239,390975N1218270W001,1154308,1976-10-08T00:00:00Z,39.67,39.37,0,6.3,33.37,6.3,6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+35239,390975N1218270W001,1154307,1976-03-03T00:00:00Z,39.67,39.37,0,5,34.67,5,4.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+35239,390975N1218270W001,1154306,1975-10-14T00:00:00Z,39.67,39.37,0,7.1,32.57,7.1,6.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+35239,390975N1218270W001,1154305,1975-03-28T00:00:00Z,39.67,39.37,0,3.6,36.07,3.6,3.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35239,390975N1218270W001,1154304,1974-10-11T00:00:00Z,39.67,39.37,0,7.4,32.27,7.4,7.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35239,390975N1218270W001,1154303,1974-03-08T00:00:00Z,39.67,39.37,0,3.8,35.87,3.8,3.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35239,390975N1218270W001,1154302,1973-10-12T00:00:00Z,39.67,39.37,0,6.9,32.77,6.9,6.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35239,390975N1218270W001,1154301,1973-03-24T00:00:00Z,39.67,39.37,0,3.6,36.07,3.6,3.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35239,390975N1218270W001,1154300,1972-10-25T00:00:00Z,39.67,39.37,0,6.8,32.87,6.8,6.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35239,390975N1218270W001,1154299,1972-03-16T00:00:00Z,39.67,39.37,0,6.3,33.37,6.3,6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+35239,390975N1218270W001,1154298,1971-10-12T00:00:00Z,39.67,39.37,0,6.6,33.07,6.6,6.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+35239,390975N1218270W001,1154297,1971-03-24T00:00:00Z,39.67,39.37,0,5.5,34.17,5.5,5.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+35239,390975N1218270W001,1154296,1970-10-14T00:00:00Z,39.67,39.37,0,7.2,32.47,7.2,6.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+35239,390975N1218270W001,1154295,1970-03-23T00:00:00Z,39.67,39.37,0,4.5,35.17,4.5,4.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+35239,390975N1218270W001,1154294,1969-10-10T00:00:00Z,39.67,39.37,0,6,33.67,6,5.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+35239,390975N1218270W001,1154293,1969-04-01T00:00:00Z,39.67,39.37,0,6.7,32.97,6.7,6.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+35239,390975N1218270W001,1154292,1968-10-03T00:00:00Z,39.67,39.37,0,6.9,32.77,6.9,6.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+35239,390975N1218270W001,1154291,1968-03-11T00:00:00Z,39.67,39.37,0,5.3,34.37,5.3,5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+35239,390975N1218270W001,1154290,1967-10-10T00:00:00Z,39.67,39.37,0,6.3,33.37,6.3,6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+35239,390975N1218270W001,1154289,1967-03-21T00:00:00Z,39.67,39.37,0,4.6,35.07,4.6,4.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+35239,390975N1218270W001,1154288,1966-10-14T00:00:00Z,39.67,39.37,0,7.4,32.27,7.4,7.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+35239,390975N1218270W001,1154287,1966-03-13T00:00:00Z,39.67,39.37,0,5.7,33.97,5.7,5.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+35239,390975N1218270W001,1154286,1965-10-08T00:00:00Z,39.67,39.37,0,5.8,33.87,5.8,5.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+35239,390975N1218270W001,1154285,1965-03-17T00:00:00Z,39.67,39.37,0,6,33.67,6,5.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+35239,390975N1218270W001,1154284,1964-10-15T00:00:00Z,39.67,39.37,0,5.2,34.47,5.2,4.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+35239,390975N1218270W001,1154283,1964-03-25T00:00:00Z,39.67,39.37,0,5.2,34.47,5.2,4.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+35239,390975N1218270W001,1154282,1963-10-22T00:00:00Z,39.67,39.37,0,6,33.67,6,5.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+35239,390975N1218270W001,1154281,1963-03-22T00:00:00Z,39.67,39.37,0,5.2,34.47,5.2,4.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+35239,390975N1218270W001,1154280,1962-10-17T00:00:00Z,39.67,39.37,0,3.7,35.97,3.7,3.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+35239,390975N1218270W001,1154279,1962-03-08T00:00:00Z,39.67,39.37,0,3.7,35.97,3.7,3.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+35239,390975N1218270W001,1154278,1961-10-02T00:00:00Z,39.67,39.37,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NO WRENCH,777,County of Sutter
+35239,390975N1218270W001,1154277,1961-03-08T00:00:00Z,39.67,39.37,0,5.3,34.37,5.3,5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35239,390975N1218270W001,1154276,1960-10-05T00:00:00Z,39.67,39.37,0,4,35.67,4,3.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35239,390975N1218270W001,1154275,1960-03-15T00:00:00Z,39.67,39.37,0,5.6,34.07,5.6,5.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+35239,390975N1218270W001,1154274,1959-10-12T00:00:00Z,39.67,39.37,0,6.5,33.17,6.5,6.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+35239,390975N1218270W001,1154273,1959-03-16T00:00:00Z,39.67,39.37,0,7.6,32.07,7.6,7.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+35239,390975N1218270W001,1154272,1958-10-10T00:00:00Z,39.67,39.37,0,6.3,33.37,6.3,6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+35239,390975N1218270W001,1154271,1958-03-12T00:00:00Z,39.67,39.37,0,3.8,35.87,3.8,3.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+35239,390975N1218270W001,1154270,1957-10-01T00:00:00Z,39.67,39.37,0,4.7,34.97,4.7,4.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,777,County of Sutter
+35239,390975N1218270W001,1154269,1957-09-19T00:00:00Z,39.67,39.37,0,4,35.67,4,3.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35239,390975N1218270W001,1154268,1953-04-08T00:00:00Z,39.67,39.37,0,4,35.67,4,3.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35239,390975N1218270W001,1154267,1952-09-30T00:00:00Z,39.67,39.37,0,4.1,35.57,4.1,3.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35239,390975N1218270W001,1154266,1952-04-23T00:00:00Z,39.67,39.37,0,4,35.67,4,3.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35239,390975N1218270W001,1154265,1951-11-30T00:00:00Z,39.67,39.37,0,5.8,33.87,5.8,5.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35239,390975N1218270W001,1154264,1948-07-29T00:00:00Z,39.67,39.37,0,2.8,36.87,2.8,2.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35239,390975N1218270W001,1154263,1948-03-02T00:00:00Z,39.67,39.37,0,5.8,33.87,5.8,5.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35239,390975N1218270W001,1154262,1947-12-03T00:00:00Z,39.67,39.37,0,6.2,33.47,6.2,5.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35239,390975N1218270W001,1154261,1947-08-28T00:00:00Z,39.67,39.37,0,4.1,35.57,4.1,3.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35239,390975N1218270W001,1154260,1947-05-16T00:00:00Z,39.67,39.37,0,4.3,35.37,4.3,4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35239,390975N1218270W001,1154259,1947-01-31T00:00:00Z,39.67,39.37,0,6,33.67,6,5.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35239,390975N1218270W001,1154258,1946-11-13T00:00:00Z,39.67,39.37,0,6.3,33.37,6.3,6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35239,390975N1218270W001,1154257,1946-07-29T00:00:00Z,39.67,39.37,0,5.2,34.47,5.2,4.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35239,390975N1218270W001,1154256,1946-02-05T00:00:00Z,39.67,39.37,0,4.4,35.27,4.4,4.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35239,390975N1218270W001,1154255,1946-01-10T00:00:00Z,39.67,39.37,0,2.4,37.27,2.4,2.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35239,390975N1218270W001,1154254,1945-08-28T00:00:00Z,39.67,39.37,0,1.1,38.57,1.1,0.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35239,390975N1218270W001,1154253,1944-11-21T00:00:00Z,39.67,39.37,0,6.1,33.57,6.1,5.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35239,390975N1218270W001,1154252,1944-08-02T00:00:00Z,39.67,39.37,0,2.4,37.27,2.4,2.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35239,390975N1218270W001,1154251,1944-04-08T00:00:00Z,39.67,39.37,0,5,34.67,5,4.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35239,390975N1218270W001,1154250,1944-02-18T00:00:00Z,39.67,39.37,0,10.2,29.47,10.2,9.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35239,390975N1218270W001,1154249,1944-01-15T00:00:00Z,39.67,39.37,0,6.3,33.37,6.3,6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35239,390975N1218270W001,1154248,1943-12-10T00:00:00Z,39.67,39.37,0,6.5,33.17,6.5,6.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35239,390975N1218270W001,1154247,1943-10-16T00:00:00Z,39.67,39.37,0,5.7,33.97,5.7,5.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35239,390975N1218270W001,1154246,1943-03-06T00:00:00Z,39.67,39.37,0,5.4,34.27,5.4,5.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35239,390975N1218270W001,1154245,1942-11-23T00:00:00Z,39.67,39.37,0,4,35.67,4,3.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35239,390975N1218270W001,1154244,1942-10-06T00:00:00Z,39.67,39.37,0,4.8,34.87,4.8,4.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35239,390975N1218270W001,1154243,1942-08-08T00:00:00Z,39.67,39.37,0,3.1,36.57,3.1,2.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35239,390975N1218270W001,1154242,1942-07-06T00:00:00Z,39.67,39.37,0,3,36.67,3,2.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35239,390975N1218270W001,1154241,1942-05-21T00:00:00Z,39.67,39.37,0,4.6,35.07,4.6,4.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35239,390975N1218270W001,1154240,1942-04-20T00:00:00Z,39.67,39.37,0,4.4,35.27,4.4,4.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35239,390975N1218270W001,1154239,1942-03-25T00:00:00Z,39.67,39.37,0,4,35.67,4,3.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35239,390975N1218270W001,1154238,1942-02-19T00:00:00Z,39.67,39.37,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,INACCESSIBLE,624,Bureau of Reclamation
+35239,390975N1218270W001,1154237,1942-01-09T00:00:00Z,39.67,39.37,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,INACCESSIBLE,624,Bureau of Reclamation
+35239,390975N1218270W001,1154236,1941-11-26T00:00:00Z,39.67,39.37,0,6,33.67,6,5.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35239,390975N1218270W001,1154235,1941-11-10T00:00:00Z,39.67,39.37,0,5.6,34.07,5.6,5.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35239,390975N1218270W001,1154234,1941-10-21T00:00:00Z,39.67,39.37,0,5.7,33.97,5.7,5.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation

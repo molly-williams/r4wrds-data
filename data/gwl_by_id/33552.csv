@@ -1,0 +1,12 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+33552,366222N1203424W001,2655780,2020-03-31T14:00:00Z,174.56,174.56,0,55.6,118.96,55.6,55.6,NA,Acoustic or sonic sounder,Water level accuracy to nearest tenth of a foot,6553,Westlands Water District GSA,NA,6553,Westlands Water District GSA
+33552,366222N1203424W001,2461482,2019-03-21T09:20:00Z,174.56,173.56,0,58,116.56,58,57,Casing leaking or wet,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,624,Bureau of Reclamation
+33552,366222N1203424W001,2431833,2018-10-15T15:10:00Z,174.56,173.56,0,13,161.56,13,12,Casing leaking or wet,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,624,Bureau of Reclamation
+33552,366222N1203424W001,2290181,2018-03-12T12:40:00Z,174.56,173.56,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,"no pump, Abandon well",624,Bureau of Reclamation
+33552,366222N1203424W001,2281376,2017-10-19T14:30:00Z,174.56,173.56,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+33552,366222N1203424W001,2256569,2017-03-09T07:20:00Z,174.56,173.56,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+33552,366222N1203424W001,2233806,2016-10-12T07:15:00Z,174.56,173.56,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+33552,366222N1203424W001,2197869,2016-03-15T08:40:00Z,174.56,173.56,0,65,109.56,65,64,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,624,Bureau of Reclamation
+33552,366222N1203424W001,2176226,2015-10-13T09:30:00Z,174.56,173.56,0,58,116.56,58,57,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,Dry?,624,Bureau of Reclamation
+33552,366222N1203424W001,2142970,2015-03-10T13:30:00Z,174.56,173.56,NA,NA,NA,NA,NA,Dry well,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+33552,366222N1203424W001,1989300,2014-02-14T07:30:00Z,174.56,173.56,2.1,25,151.66,22.9,21.9,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,624,Bureau of Reclamation

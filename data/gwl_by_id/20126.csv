@@ -1,0 +1,10 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+20126,365030N1200624W001,1020399,2008-12-11T00:00:00Z,193.24,191.74,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,5100,Westlands Water District
+20126,365030N1200624W001,1020398,1994-12-06T00:00:00Z,193.24,191.74,0,181.5,11.74,181.5,180,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+20126,365030N1200624W001,1020397,1993-12-07T00:00:00Z,193.24,191.74,0,178.5,14.74,178.5,177,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+20126,365030N1200624W001,1020396,1992-12-01T00:00:00Z,193.24,191.74,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5100,Westlands Water District
+20126,365030N1200624W001,1020395,1991-12-19T00:00:00Z,193.24,191.74,0,170.5,22.74,170.5,169,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+20126,365030N1200624W001,1020394,1989-12-13T00:00:00Z,193.24,191.74,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5100,Westlands Water District
+20126,365030N1200624W001,1020393,1988-12-12T00:00:00Z,193.24,191.74,0,142.5,50.74,142.5,141,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+20126,365030N1200624W001,1020392,1987-12-15T00:00:00Z,193.24,191.74,0,151.5,41.74,151.5,150,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+20126,365030N1200624W001,1020391,1986-12-16T00:00:00Z,193.24,191.74,0,129.5,63.74,129.5,128,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District

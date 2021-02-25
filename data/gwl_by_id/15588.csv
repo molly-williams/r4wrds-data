@@ -1,0 +1,5 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+15588,367353N1206124W001,1163560,1973-02-21T00:00:00Z,333.57,332.57,0,416,-82.43,416,415,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+15588,367353N1206124W001,1163559,1972-01-04T00:00:00Z,333.57,332.57,0,470.8,-137.23,470.8,469.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+15588,367353N1206124W001,1163558,1970-12-16T00:00:00Z,333.57,332.57,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+15588,367353N1206124W001,1163557,1968-12-16T00:00:00Z,333.57,332.57,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources

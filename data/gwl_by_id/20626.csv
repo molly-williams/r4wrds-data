@@ -1,0 +1,33 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+20626,363061N1200941W001,2491968,2019-11-12T11:46:00Z,295,295,0,201.81,93.19,201.81,201.81,NA,Acoustic or sonic sounder,Water level accuracy to nearest tenth of a foot,5100,Westlands Water District,NA,5100,Westlands Water District
+20626,363061N1200941W001,2471750,2019-06-04T13:45:00Z,295,295,0,284,11,284,284,NA,Acoustic or sonic sounder,Water level accuracy to nearest tenth of a foot,5100,Westlands Water District,NA,5100,Westlands Water District
+20626,363061N1200941W001,2437993,2018-12-05T00:00:00Z,295,295,NA,NA,NA,NA,NA,Pump house locked,NA,NA,5100,Westlands Water District,NA,5100,Westlands Water District
+20626,363061N1200941W001,2305066,2018-06-11T00:00:00Z,295,295,0,296.37,-1.37,296.37,296.37,NA,Acoustic or sonic sounder,Water level accuracy to nearest tenth of a foot,5100,Westlands Water District,NA,5100,Westlands Water District
+20626,363061N1200941W001,2279706,2017-12-18T14:37:00Z,295,295,NA,NA,NA,NA,NA,Special/Other,NA,NA,5100,Westlands Water District,No access,5100,Westlands Water District
+20626,363061N1200941W001,2225257,2016-12-05T11:10:00Z,295,295,0,356,-61,356,356,NA,Acoustic or sonic sounder,Water level accuracy to nearest foot,5100,Westlands Water District,NA,5100,Westlands Water District
+20626,363061N1200941W001,2171865,2015-11-10T00:00:00Z,295,295,NA,NA,NA,NA,NA,Pump house locked,NA,NA,5100,Westlands Water District,NA,5100,Westlands Water District
+20626,363061N1200941W001,2115487,2015-01-21T00:00:00Z,295,295,NA,NA,NA,NA,NA,Pump house locked,NA,NA,5100,Westlands Water District,NA,5100,Westlands Water District
+20626,363061N1200941W001,1883306,2013-12-30T11:16:00Z,295,295,0,376,-81,376,376,NA,Acoustic or sonic sounder,Water level accuracy to nearest foot,5100,Westlands Water District,NA,5100,Westlands Water District
+20626,363061N1200941W001,94161,2013-01-10T12:48:00Z,295,295,NA,NA,NA,NA,NA,Pumping,NA,NA,5100,Westlands Water District,NA,5100,Westlands Water District
+20626,363061N1200941W001,36863,2011-12-21T00:00:00Z,295,295,0,199,96,199,199,NA,Acoustic or sonic sounder,Water level accuracy to nearest foot,5100,Westlands Water District,NA,5100,Westlands Water District
+20626,363061N1200941W001,2178687,2010-11-16T00:00:00Z,295,295,0,211,84,211,211,NA,Acoustic or sonic sounder,Water level accuracy to nearest foot,5100,Westlands Water District,NA,5100,Westlands Water District
+20626,363061N1200941W001,2178688,2009-11-25T00:00:00Z,295,295,NA,NA,NA,NA,NA,Special/Other,NA,NA,5100,Westlands Water District,No access,5100,Westlands Water District
+20626,363061N1200941W001,2178689,2008-12-02T00:00:00Z,295,295,NA,NA,NA,NA,NA,Pumping,NA,NA,5100,Westlands Water District,NA,5100,Westlands Water District
+20626,363061N1200941W001,2178690,2008-01-09T00:00:00Z,295,295,NA,NA,NA,NA,NA,Special/Other,NA,NA,5100,Westlands Water District,Unknown problem,5100,Westlands Water District
+20626,363061N1200941W001,2178691,2006-12-01T00:00:00Z,295,295,0,265,30,265,265,NA,Acoustic or sonic sounder,Water level accuracy to nearest foot,5100,Westlands Water District,NA,5100,Westlands Water District
+20626,363061N1200941W001,2225258,2005-12-12T00:00:00Z,295,295,0,130,165,130,130,NA,Acoustic or sonic sounder,Water level accuracy to nearest foot,5100,Westlands Water District,NA,5100,Westlands Water District
+20626,363061N1200941W001,2225259,2004-12-13T00:00:00Z,295,295,0,170,125,170,170,NA,Acoustic or sonic sounder,Water level accuracy to nearest foot,5100,Westlands Water District,NA,5100,Westlands Water District
+20626,363061N1200941W001,2225260,2003-12-09T00:00:00Z,295,295,NA,NA,NA,NA,NA,Pump house locked,NA,NA,5100,Westlands Water District,NA,5100,Westlands Water District
+20626,363061N1200941W001,2225261,2002-12-02T00:00:00Z,295,295,NA,NA,NA,NA,NA,Special/Other,NA,NA,5100,Westlands Water District,No access,5100,Westlands Water District
+20626,363061N1200941W001,2225262,2001-11-27T00:00:00Z,295,295,0,111,184,111,111,NA,Acoustic or sonic sounder,Water level accuracy to nearest foot,5100,Westlands Water District,NA,5100,Westlands Water District
+20626,363061N1200941W001,2225263,2000-12-04T00:00:00Z,295,295,0,137,158,137,137,NA,Acoustic or sonic sounder,Water level accuracy to nearest foot,5100,Westlands Water District,NA,5100,Westlands Water District
+20626,363061N1200941W001,2225264,1999-11-24T00:00:00Z,295,295,NA,NA,NA,NA,NA,Casing leaking or wet,NA,NA,5100,Westlands Water District,No access,5100,Westlands Water District
+20626,363061N1200941W001,2225265,1998-12-08T00:00:00Z,295,295,0,85,210,85,85,NA,Acoustic or sonic sounder,Water level accuracy to nearest foot,5100,Westlands Water District,NA,5100,Westlands Water District
+20626,363061N1200941W001,2225266,1997-12-04T00:00:00Z,295,295,0,135,160,135,135,NA,Acoustic or sonic sounder,Water level accuracy to nearest foot,5100,Westlands Water District,NA,5100,Westlands Water District
+20626,363061N1200941W001,2225267,1996-12-05T00:00:00Z,295,295,NA,NA,NA,NA,NA,Pumping,NA,NA,5100,Westlands Water District,NA,5100,Westlands Water District
+20626,363061N1200941W001,2225268,1995-12-06T00:00:00Z,295,295,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,5100,Westlands Water District,NA,5100,Westlands Water District
+20626,363061N1200941W001,2225269,1994-12-01T00:00:00Z,295,295,NA,NA,NA,NA,NA,Pumping,NA,NA,5100,Westlands Water District,NA,5100,Westlands Water District
+20626,363061N1200941W001,2225270,1993-11-15T00:00:00Z,295,295,0,114,181,114,114,NA,Acoustic or sonic sounder,Water level accuracy to nearest foot,5100,Westlands Water District,NA,5100,Westlands Water District
+20626,363061N1200941W001,2225271,1992-12-02T00:00:00Z,295,295,0,142,153,142,142,NA,Acoustic or sonic sounder,Water level accuracy to nearest foot,5100,Westlands Water District,NA,5100,Westlands Water District
+20626,363061N1200941W001,2225272,1991-12-06T00:00:00Z,295,295,0,624,-329,624,624,Other,Acoustic or sonic sounder,Water level accuracy to nearest foot,5100,Westlands Water District,reading doesn't look right,5100,Westlands Water District
+20626,363061N1200941W001,2225273,1990-11-23T00:00:00Z,295,295,0,111,184,111,111,NA,Acoustic or sonic sounder,Water level accuracy to nearest foot,5100,Westlands Water District,NA,5100,Westlands Water District

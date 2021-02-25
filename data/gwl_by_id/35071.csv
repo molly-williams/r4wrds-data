@@ -1,0 +1,4 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+35071,361089N1200035W001,976942,1972-01-04T00:00:00Z,277.9,275.9,NA,NA,NA,NA,NA,Well has been destroyed,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+35071,361089N1200035W001,976941,1970-12-16T00:00:00Z,277.9,275.9,0,408,-130.1,408,406,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35071,361089N1200035W001,976940,1969-12-09T00:00:00Z,277.9,275.9,0,433,-155.1,433,431,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources

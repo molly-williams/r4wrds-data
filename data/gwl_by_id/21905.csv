@@ -1,0 +1,7 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+21905,361264N1201643W001,976499,1963-12-17T00:00:00Z,494.47,493.97,NA,NA,NA,NA,NA,Well has been destroyed,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+21905,361264N1201643W001,976498,1961-05-03T00:00:00Z,494.47,493.97,0,513.5,-19.03,513.5,513,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+21905,361264N1201643W001,976497,1960-10-14T00:00:00Z,494.47,493.97,0,496,-1.53,496,495.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+21905,361264N1201643W001,976496,1959-10-16T00:00:00Z,494.47,493.97,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,5167,United States Geological Survey
+21905,361264N1201643W001,976495,1958-10-21T00:00:00Z,494.47,493.97,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,5167,United States Geological Survey
+21905,361264N1201643W001,976494,1958-05-08T00:00:00Z,494.47,493.97,0,474.4,20.07,474.4,473.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey

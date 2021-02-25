@@ -1,0 +1,31 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+5095,383465N1227261W001,1410008,2004-04-06T00:00:00Z,93.75,92.75,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+5095,383465N1227261W001,1410007,2003-10-22T00:00:00Z,93.75,92.75,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+5095,383465N1227261W001,1410006,2003-04-16T00:00:00Z,93.75,92.75,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+5095,383465N1227261W001,1410005,2002-11-06T00:00:00Z,93.75,92.75,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+5095,383465N1227261W001,1410004,2002-04-22T00:00:00Z,93.75,92.75,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+5095,383465N1227261W001,1410003,2001-11-28T00:00:00Z,93.75,92.75,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+5095,383465N1227261W001,1410002,2001-05-04T00:00:00Z,93.75,92.75,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,CAN'T FIND,1,Department of Water Resources
+5095,383465N1227261W001,1409995,2000-12-11T00:00:00Z,93.75,92.75,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+5095,383465N1227261W001,1409993,2000-03-28T00:00:00Z,93.75,92.75,0,128.8,-35.05,128.8,127.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+5095,383465N1227261W001,1409999,1999-11-18T00:00:00Z,93.75,92.75,0,137,-43.25,137,136,Casing leaking or wet,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+5095,383465N1227261W001,1409998,1999-03-31T00:00:00Z,93.75,92.75,0,127.9,-34.15,127.9,126.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+5095,383465N1227261W001,1410001,1998-11-17T00:00:00Z,93.75,92.75,0,130.5,-36.75,130.5,129.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+5095,383465N1227261W001,1410000,1998-04-09T00:00:00Z,93.75,92.75,0,116.6,-22.85,116.6,115.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+5095,383465N1227261W001,1409997,1997-11-19T00:00:00Z,93.75,92.75,0,128.9,-35.15,128.9,127.9,Other,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+5095,383465N1227261W001,1409996,1997-04-10T00:00:00Z,93.75,92.75,0,134,-40.25,134,133,Other,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+5095,383465N1227261W001,1409994,1996-12-11T00:00:00Z,93.75,92.75,0,114.3,-20.55,114.3,113.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+5095,383465N1227261W001,1409992,1996-04-11T00:00:00Z,93.75,92.75,0,123.7,-29.95,123.7,122.7,Other,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+5095,383465N1227261W001,1409991,1995-10-30T00:00:00Z,93.75,92.75,0,129.4,-35.65,129.4,128.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+5095,383465N1227261W001,1409990,1995-06-27T00:00:00Z,93.75,92.75,0,128.7,-34.95,128.7,127.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+5095,383465N1227261W001,1409989,1994-10-19T00:00:00Z,93.75,92.75,0,138,-44.25,138,137,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+5095,383465N1227261W001,1409987,1994-05-12T00:00:00Z,93.75,92.75,0,119.5,-25.75,119.5,118.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+5095,383465N1227261W001,1409986,1993-11-09T00:00:00Z,93.75,92.75,0,116.5,-22.75,116.5,115.5,Casing leaking or wet,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+5095,383465N1227261W001,1409985,1993-04-22T00:00:00Z,93.75,92.75,0,132,-38.25,132,131,Casing leaking or wet,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+5095,383465N1227261W001,1409984,1992-10-16T00:00:00Z,93.75,92.75,0,115,-21.25,115,114,Other,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+5095,383465N1227261W001,1409983,1992-04-16T00:00:00Z,93.75,92.75,0,145.8,-52.05,145.8,144.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+5095,383465N1227261W001,1409982,1991-10-23T00:00:00Z,93.75,92.75,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,TIGHT PLUG,1,Department of Water Resources
+5095,383465N1227261W001,1409981,1991-04-04T00:00:00Z,93.75,92.75,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,TIGHT PLUG,1,Department of Water Resources
+5095,383465N1227261W001,1409980,1990-10-29T00:00:00Z,93.75,92.75,0,150,-56.25,150,149,Casing leaking or wet,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+5095,383465N1227261W001,1409979,1990-04-13T00:00:00Z,93.75,92.75,NA,NA,NA,NA,NA,Casing leaking or wet,NA,NA,1,Department of Water Resources,TRIED SEVERAL TIMES TO MEASURE,1,Department of Water Resources
+5095,383465N1227261W001,1409988,1989-11-03T00:00:00Z,93.75,92.75,0,133.5,-39.75,133.5,132.5,Casing leaking or wet,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources

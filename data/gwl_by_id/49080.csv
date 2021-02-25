@@ -1,0 +1,5 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+49080,348940N1195200W001,2125540,2015-03-12T00:00:00Z,2541.5,2540,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,5082,Santa Barbara County Water Agency,Obstructed,5082,Santa Barbara County Water Agency
+49080,348940N1195200W001,2107883,2014-03-20T00:00:00Z,2541.5,2540,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,5082,Santa Barbara County Water Agency,Well RP not measurable.,5082,Santa Barbara County Water Agency
+49080,348940N1195200W001,2107882,2013-03-21T00:00:00Z,2541.5,2540,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,5082,Santa Barbara County Water Agency,Well RP not measurable.,5082,Santa Barbara County Water Agency
+49080,348940N1195200W001,2107879,2012-03-05T00:00:00Z,2541.5,2540,0,639.53,1901.97,639.53,638.03,NA,Electric sounder measurement,Water level accuracy to nearest hundredth of a foot,5082,Santa Barbara County Water Agency,NA,5082,Santa Barbara County Water Agency

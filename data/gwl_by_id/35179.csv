@@ -1,0 +1,50 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+35179,363414N1195068W001,2187073,2016-02-13T12:00:00Z,260.726,258.726,0,95.1,165.626,95.1,93.1,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+35179,363414N1195068W001,1713685,2013-02-01T12:00:00Z,260.726,258.726,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+35179,363414N1195068W001,1713554,2012-02-11T12:00:00Z,260.726,258.726,0,86.8,173.926,86.8,84.8,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+35179,363414N1195068W001,895683,2011-02-17T00:00:00Z,260.72,258.72,0,92,168.72,92,90,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1083,KINGS COUNTY WATER DISTRICT
+35179,363414N1195068W001,895681,2010-02-08T00:00:00Z,260.72,258.72,0,91.3,169.42,91.3,89.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1083,KINGS COUNTY WATER DISTRICT
+35179,363414N1195068W001,895682,2009-10-22T00:00:00Z,260.72,258.72,0,101.1,159.62,101.1,99.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1083,KINGS COUNTY WATER DISTRICT
+35179,363414N1195068W001,895677,2009-02-11T00:00:00Z,260.72,258.72,0,90.4,170.32,90.4,88.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1083,KINGS COUNTY WATER DISTRICT
+35179,363414N1195068W001,895678,2008-11-04T00:00:00Z,260.72,258.72,0,95.5,165.22,95.5,93.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1083,KINGS COUNTY WATER DISTRICT
+35179,363414N1195068W001,895679,2008-02-16T00:00:00Z,260.72,258.72,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1083,KINGS COUNTY WATER DISTRICT
+35179,363414N1195068W001,895680,2007-11-03T00:00:00Z,260.72,258.72,0,91,169.72,91,89,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1083,KINGS COUNTY WATER DISTRICT
+35179,363414N1195068W001,895676,2007-03-22T00:00:00Z,260.72,258.72,0,92,168.72,92,90,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1083,KINGS COUNTY WATER DISTRICT
+35179,363414N1195068W001,895674,2001-10-21T00:00:00Z,260.72,258.72,0,88,172.72,88,86,Oil or foreign substance in casing,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1083,KINGS COUNTY WATER DISTRICT
+35179,363414N1195068W001,895675,2001-03-25T00:00:00Z,260.72,258.72,0,99,161.72,99,97,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1083,KINGS COUNTY WATER DISTRICT
+35179,363414N1195068W001,895673,2000-01-29T00:00:00Z,260.72,258.72,0,87,173.72,87,85,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1083,KINGS COUNTY WATER DISTRICT
+35179,363414N1195068W001,895672,1999-10-24T00:00:00Z,260.72,258.72,0,90,170.72,90,88,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1083,KINGS COUNTY WATER DISTRICT
+35179,363414N1195068W001,895671,1998-02-08T00:00:00Z,260.72,258.72,0,91,169.72,91,89,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1083,KINGS COUNTY WATER DISTRICT
+35179,363414N1195068W001,895670,1964-09-30T00:00:00Z,260.72,258.72,NA,NA,NA,NA,NA,Well has been destroyed,NA,NA,1,Department of Water Resources,NA,1083,KINGS COUNTY WATER DISTRICT
+35179,363414N1195068W001,895669,1964-05-03T00:00:00Z,260.72,258.72,NA,NA,NA,NA,NA,Well has been destroyed,NA,NA,1,Department of Water Resources,NA,1083,KINGS COUNTY WATER DISTRICT
+35179,363414N1195068W001,895668,1964-04-05T00:00:00Z,260.72,258.72,NA,NA,NA,NA,NA,Well has been destroyed,NA,NA,1,Department of Water Resources,NA,1083,KINGS COUNTY WATER DISTRICT
+35179,363414N1195068W001,895667,1964-02-12T00:00:00Z,260.72,258.72,NA,NA,NA,NA,NA,Well has been destroyed,NA,NA,1,Department of Water Resources,NA,1083,KINGS COUNTY WATER DISTRICT
+35179,363414N1195068W001,895666,1964-01-06T00:00:00Z,260.72,258.72,NA,NA,NA,NA,NA,Well has been destroyed,NA,NA,1,Department of Water Resources,NA,1083,KINGS COUNTY WATER DISTRICT
+35179,363414N1195068W001,895665,1962-02-27T00:00:00Z,260.72,258.72,0,59.6,201.12,59.6,57.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35179,363414N1195068W001,895664,1961-03-27T00:00:00Z,260.72,258.72,0,56,204.72,56,54,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35179,363414N1195068W001,895663,1960-11-03T00:00:00Z,260.72,258.72,NA,NA,NA,NA,NA,Casing leaking or wet,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+35179,363414N1195068W001,895662,1960-02-24T00:00:00Z,260.72,258.72,0,44.5,216.22,44.5,42.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35179,363414N1195068W001,895661,1959-10-21T00:00:00Z,260.72,258.72,0,51.2,209.52,51.2,49.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35179,363414N1195068W001,895660,1959-02-25T00:00:00Z,260.72,258.72,0,47.7,213.02,47.7,45.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35179,363414N1195068W001,895659,1958-11-05T00:00:00Z,260.72,258.72,0,48.2,212.52,48.2,46.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35179,363414N1195068W001,895658,1958-02-27T00:00:00Z,260.72,258.72,0,48.6,212.12,48.6,46.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35179,363414N1195068W001,895657,1957-10-16T00:00:00Z,260.72,258.72,0,50,210.72,50,48,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35179,363414N1195068W001,895656,1957-02-14T00:00:00Z,260.72,258.72,0,46.5,214.22,46.5,44.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35179,363414N1195068W001,895655,1956-10-30T00:00:00Z,260.72,258.72,0,47.2,213.52,47.2,45.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35179,363414N1195068W001,895654,1956-03-07T00:00:00Z,260.72,258.72,0,45,215.72,45,43,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35179,363414N1195068W001,895653,1955-09-19T00:00:00Z,260.72,258.72,0,46,214.72,46,44,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35179,363414N1195068W001,895652,1954-09-29T00:00:00Z,260.72,258.72,0,42.1,218.62,42.1,40.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35179,363414N1195068W001,895651,1953-10-26T00:00:00Z,260.72,258.72,0,40.5,220.22,40.5,38.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35179,363414N1195068W001,895650,1952-10-04T00:00:00Z,260.72,258.72,0,38.5,222.22,38.5,36.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35179,363414N1195068W001,895649,1951-10-05T00:00:00Z,260.72,258.72,0,39,221.72,39,37,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35179,363414N1195068W001,895648,1950-09-25T00:00:00Z,260.72,258.72,0,36.4,224.32,36.4,34.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35179,363414N1195068W001,895647,1949-10-20T00:00:00Z,260.72,258.72,0,33.5,227.22,33.5,31.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35179,363414N1195068W001,895646,1948-10-25T00:00:00Z,260.72,258.72,0,31.3,229.42,31.3,29.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35179,363414N1195068W001,895645,1946-10-16T00:00:00Z,260.72,258.72,0,27.5,233.22,27.5,25.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35179,363414N1195068W001,895644,1945-10-09T00:00:00Z,260.72,258.72,0,27,233.72,27,25,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35179,363414N1195068W001,895643,1944-10-06T00:00:00Z,260.72,258.72,0,26.9,233.82,26.9,24.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35179,363414N1195068W001,895642,1943-10-12T00:00:00Z,260.72,258.72,0,25.4,235.32,25.4,23.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35179,363414N1195068W001,895641,1942-10-06T00:00:00Z,260.72,258.72,0,28.5,232.22,28.5,26.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35179,363414N1195068W001,895640,1940-10-09T00:00:00Z,260.72,258.72,0,29.4,231.32,29.4,27.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35179,363414N1195068W001,895639,1939-10-04T00:00:00Z,260.72,258.72,0,29,231.72,29,27,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35179,363414N1195068W001,895638,1938-10-14T00:00:00Z,260.72,258.72,0,26.4,234.32,26.4,24.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources

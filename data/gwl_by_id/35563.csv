@@ -1,0 +1,7 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+35563,359378N1189512W001,828029,1970-09-23T00:00:00Z,712,711.5,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35563,359378N1189512W001,828028,1970-01-29T00:00:00Z,712,711.5,0,61.2,650.8,61.2,60.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35563,359378N1189512W001,828027,1969-02-04T00:00:00Z,712,711.5,0,72.4,639.6,72.4,71.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35563,359378N1189512W001,828026,1968-02-01T00:00:00Z,712,711.5,0,55.6,656.4,55.6,55.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35563,359378N1189512W001,828025,1967-02-02T00:00:00Z,712,711.5,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35563,359378N1189512W001,828024,1966-01-27T00:00:00Z,712,711.5,0,62.6,649.4,62.6,62.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation

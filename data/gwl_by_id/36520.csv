@@ -1,0 +1,11 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+36520,354975N1193865W001,725842,1975-01-21T00:00:00Z,306.11,305.61,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36520,354975N1193865W001,725841,1974-09-25T00:00:00Z,306.11,305.61,NA,NA,NA,NA,NA,Unable to locate well,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36520,354975N1193865W001,725840,1974-01-31T00:00:00Z,306.11,305.61,0,228,78.11,228,227.5,Nearby pump operating,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36520,354975N1193865W001,725839,1973-09-25T00:00:00Z,306.11,305.61,0,239.6,66.51,239.6,239.1,Casing leaking or wet,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36520,354975N1193865W001,725838,1973-02-02T00:00:00Z,306.11,305.61,0,221.5,84.61,221.5,221,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36520,354975N1193865W001,725837,1972-09-28T00:00:00Z,306.11,305.61,0,227.5,78.61,227.5,227,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36520,354975N1193865W001,725836,1972-01-27T00:00:00Z,306.11,305.61,0,218.5,87.61,218.5,218,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36520,354975N1193865W001,725835,1971-09-23T00:00:00Z,306.11,305.61,0,121.3,184.81,121.3,120.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36520,354975N1193865W001,725834,1971-01-27T00:00:00Z,306.11,305.61,0,103.8,202.31,103.8,103.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36520,354975N1193865W001,725833,1970-01-28T00:00:00Z,306.11,305.61,0,105.5,200.61,105.5,105,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation

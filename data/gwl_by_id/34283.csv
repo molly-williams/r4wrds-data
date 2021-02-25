@@ -1,0 +1,37 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+34283,360842N1190534W001,791828,1961-12-04T00:00:00Z,427.71,426.21,NA,NA,NA,NA,NA,Well has been destroyed,NA,NA,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+34283,360842N1190534W001,791827,1961-02-10T00:00:00Z,427.71,426.21,0,39.3,388.41,39.3,37.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+34283,360842N1190534W001,791826,1960-06-16T00:00:00Z,427.71,426.21,0,38.2,389.51,38.2,36.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+34283,360842N1190534W001,791825,1960-04-13T00:00:00Z,427.71,426.21,0,37.1,390.61,37.1,35.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+34283,360842N1190534W001,791824,1960-02-17T00:00:00Z,427.71,426.21,0,35,392.71,35,33.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+34283,360842N1190534W001,791823,1958-02-18T00:00:00Z,427.71,426.21,0,32.1,395.61,32.1,30.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+34283,360842N1190534W001,791822,1957-10-01T00:00:00Z,427.71,426.21,0,36.2,391.51,36.2,34.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+34283,360842N1190534W001,791821,1957-05-16T00:00:00Z,427.71,426.21,0,33.5,394.21,33.5,32,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+34283,360842N1190534W001,791820,1957-03-20T00:00:00Z,427.71,426.21,0,30,397.71,30,28.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+34283,360842N1190534W001,791819,1957-01-10T00:00:00Z,427.71,426.21,0,31,396.71,31,29.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+34283,360842N1190534W001,791818,1956-10-10T00:00:00Z,427.71,426.21,0,33.3,394.41,33.3,31.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+34283,360842N1190534W001,791817,1956-07-31T00:00:00Z,427.71,426.21,0,32.5,395.21,32.5,31,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+34283,360842N1190534W001,791816,1956-04-03T00:00:00Z,427.71,426.21,0,31.8,395.91,31.8,30.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+34283,360842N1190534W001,791815,1956-02-07T00:00:00Z,427.71,426.21,0,32.6,395.11,32.6,31.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+34283,360842N1190534W001,791814,1955-09-26T00:00:00Z,427.71,426.21,0,35.9,391.81,35.9,34.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+34283,360842N1190534W001,791813,1955-03-14T00:00:00Z,427.71,426.21,0,29,398.71,29,27.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+34283,360842N1190534W001,791812,1955-02-02T00:00:00Z,427.71,426.21,0,29.9,397.81,29.9,28.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+34283,360842N1190534W001,791811,1954-09-22T00:00:00Z,427.71,426.21,0,31.4,396.31,31.4,29.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+34283,360842N1190534W001,791810,1954-08-23T00:00:00Z,427.71,426.21,0,28.8,398.91,28.8,27.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+34283,360842N1190534W001,791809,1945-11-01T00:00:00Z,427.71,426.21,0,21.4,406.31,21.4,19.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+34283,360842N1190534W001,791808,1944-10-31T00:00:00Z,427.71,426.21,0,21.5,406.21,21.5,20,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+34283,360842N1190534W001,791807,1943-11-05T00:00:00Z,427.71,426.21,0,18.8,408.91,18.8,17.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+34283,360842N1190534W001,791806,1942-10-30T00:00:00Z,427.71,426.21,0,19,408.71,19,17.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+34283,360842N1190534W001,791805,1941-11-06T00:00:00Z,427.71,426.21,0,17.5,410.21,17.5,16,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+34283,360842N1190534W001,791804,1940-11-19T00:00:00Z,427.71,426.21,0,20.1,407.61,20.1,18.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+34283,360842N1190534W001,791803,1939-11-11T00:00:00Z,427.71,426.21,0,21.4,406.31,21.4,19.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+34283,360842N1190534W001,791802,1938-11-22T00:00:00Z,427.71,426.21,0,16.1,411.61,16.1,14.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+34283,360842N1190534W001,791801,1937-11-27T00:00:00Z,427.71,426.21,0,19.2,408.51,19.2,17.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+34283,360842N1190534W001,791800,1936-10-19T00:00:00Z,427.71,426.21,0,23.3,404.41,23.3,21.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+34283,360842N1190534W001,791799,1935-10-17T00:00:00Z,427.71,426.21,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+34283,360842N1190534W001,791798,1933-10-20T00:00:00Z,427.71,426.21,0,21.7,406.01,21.7,20.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+34283,360842N1190534W001,791797,1930-10-07T00:00:00Z,427.71,426.21,0,29.5,398.21,29.5,28,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+34283,360842N1190534W001,791796,1929-12-20T00:00:00Z,427.71,426.21,0,26.9,400.81,26.9,25.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+34283,360842N1190534W001,791795,1928-12-26T00:00:00Z,427.71,426.21,0,23.7,404.01,23.7,22.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+34283,360842N1190534W001,791794,1928-06-28T00:00:00Z,427.71,426.21,0,31.1,396.61,31.1,29.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District
+34283,360842N1190534W001,791793,1927-11-03T00:00:00Z,427.71,426.21,0,19.5,408.21,19.5,18,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5199,Pixley Irrigation District

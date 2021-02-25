@@ -1,0 +1,9 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+22529,357594N1200232W001,2616712,2020-03-09T17:38:00Z,604.03,603.03,0,51,553.03,51,50,NA,Electric sounder measurement,Water level accuracy to nearest foot,1,Department of Water Resources,NA,1,Department of Water Resources
+22529,357594N1200232W001,2527028,2019-12-03T21:39:00Z,604.03,603.03,0,47.6,556.43,47.6,46.6,Acoustical sounder,Acoustic or sonic sounder,Water level accuracy to nearest foot,1,Department of Water Resources,NA,1,Department of Water Resources
+22529,357594N1200232W001,2454138,2019-03-21T22:06:00Z,604.03,603.03,0,48,556.03,48,47,Acoustical sounder,Acoustic or sonic sounder,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+22529,357594N1200232W001,2431861,2018-10-23T18:48:00Z,604.03,603.03,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22529,357594N1200232W001,2287787,2018-03-26T18:48:00Z,604.03,603.03,0,46.6,557.43,46.6,45.6,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+22529,357594N1200232W001,2272754,2017-10-27T12:24:00Z,604.03,603.03,NA,NA,NA,NA,NA,Unable to locate well,NA,NA,1,Department of Water Resources,unable to locate,1,Department of Water Resources
+22529,357594N1200232W001,2107796,2014-11-13T10:40:00Z,604.03,603.3,0,48,556.03,48,47.27,NA,Steel tape measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+22529,357594N1200232W001,850408,2000-04-12T00:00:00Z,604.03,603.03,0,40.6,563.43,40.6,39.6,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources

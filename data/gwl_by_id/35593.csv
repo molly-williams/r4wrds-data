@@ -1,0 +1,6 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+35593,362989N1201932W001,907927,1968-12-16T00:00:00Z,350.98,349.98,NA,NA,NA,NA,NA,Well has been destroyed,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+35593,362989N1201932W001,907926,1960-10-13T00:00:00Z,350.98,349.98,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+35593,362989N1201932W001,907925,1960-05-10T00:00:00Z,350.98,349.98,0,417,-66.02,417,416,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+35593,362989N1201932W001,907924,1959-05-07T00:00:00Z,350.98,349.98,0,433.4,-82.42,433.4,432.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+35593,362989N1201932W001,907923,1958-05-09T00:00:00Z,350.98,349.98,0,386.8,-35.82,386.8,385.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey

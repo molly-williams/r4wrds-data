@@ -1,0 +1,25 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+22569,359494N1200579W001,2581418,2020-03-20T11:15:00Z,623.09,623.09,0,274,349.09,274,274,NA,Acoustic or sonic sounder,Water level accuracy to nearest foot,1,Department of Water Resources,NA,1,Department of Water Resources
+22569,359494N1200579W001,2494099,2019-10-08T20:44:00Z,623.09,623.09,0,292,331.09,292,292,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+22569,359494N1200579W001,2454120,2019-03-20T16:13:00Z,623.09,623.09,0,279,344.09,279,279,Acoustical sounder,Acoustic or sonic sounder,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,0,1,Department of Water Resources
+22569,359494N1200579W001,2430868,2018-10-24T17:19:00Z,623.09,623.09,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,Gate locked.,1,Department of Water Resources
+22569,359494N1200579W001,2286657,2018-03-14T20:12:00Z,623.09,623.09,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,Well inside gated area. No 429. 2 wells.,1,Department of Water Resources
+22569,359494N1200579W001,2268881,2017-10-31T16:17:00Z,623.09,623.09,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22569,359494N1200579W001,2241541,2017-04-10T12:00:00Z,623.09,623.09,0,268.2,354.89,268.2,268.2,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+22569,359494N1200579W001,2224097,2016-12-08T10:30:00Z,623.09,623.09,0,294.5,328.59,294.5,294.5,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+22569,359494N1200579W001,2189014,2016-04-04T00:00:00Z,623.09,623.09,0,269.4,353.69,269.4,269.4,Acoustical sounder,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+22569,359494N1200579W001,2134671,2015-02-11T09:00:00Z,623.09,623.09,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22569,359494N1200579W001,2106466,2014-11-06T10:30:00Z,623.09,623.09,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22569,359494N1200579W001,1882970,2014-03-26T00:00:00Z,623.09,623.09,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22569,359494N1200579W001,1713750,2013-04-15T12:00:00Z,623.09,623.09,0,281,342.09,281,281,Pumped recently,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+22569,359494N1200579W001,65518,2012-04-26T12:00:00Z,697.12,695.12,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22569,359494N1200579W001,819745,2009-04-17T00:00:00Z,623.09,623.09,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22569,359494N1200579W001,819744,2007-04-19T00:00:00Z,623.09,623.09,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22569,359494N1200579W001,819743,2005-04-22T00:00:00Z,623.09,623.09,0,243,380.09,243,243,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+22569,359494N1200579W001,819742,2004-04-05T00:00:00Z,623.09,623.09,0,247,376.09,247,247,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+22569,359494N1200579W001,819741,2003-04-21T00:00:00Z,623.09,623.09,0,236,387.09,236,236,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+22569,359494N1200579W001,819739,2002-04-05T00:00:00Z,623.09,623.09,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22569,359494N1200579W001,819740,2001-04-04T00:00:00Z,623.09,623.09,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22569,359494N1200579W001,819738,2000-04-13T00:00:00Z,623.09,623.09,0,217,406.09,217,217,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+22569,359494N1200579W001,819737,1998-04-09T00:00:00Z,623.09,623.09,0,232,391.09,232,232,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+22569,359494N1200579W001,819736,1997-02-27T00:00:00Z,623.09,623.09,0,238,385.09,238,238,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources

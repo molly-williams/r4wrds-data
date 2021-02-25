@@ -1,0 +1,57 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+47284,352510N1191160W001,2621013,2020-04-30T00:00:00Z,330,330,0,203,127,203,203,NA,Acoustic or sonic sounder,Water level accuracy to nearest foot,5031,Kern River Fan Group,NA,5031,Kern River Fan Group
+47284,352510N1191160W001,2656633,2020-03-26T10:00:00Z,330,330,0,202,128,202,202,NA,Acoustic or sonic sounder,Water level accuracy to nearest foot,2057,Kern River GSA,NA,2057,Kern River GSA
+47284,352510N1191160W001,2484824,2019-10-29T00:00:00Z,335,330,0,201,134,201,196,NA,Acoustic or sonic sounder,Water level accuracy to nearest foot,5031,Kern River Fan Group,NA,5031,Kern River Fan Group
+47284,352510N1191160W001,2451665,2019-04-01T00:00:00Z,335,330,0,204,131,204,199,NA,Acoustic or sonic sounder,Water level accuracy to nearest foot,5031,Kern River Fan Group,NA,5031,Kern River Fan Group
+47284,352510N1191160W001,2413716,2018-10-02T00:00:00Z,335,330,NA,NA,NA,NA,NA,Pumping,NA,NA,5031,Kern River Fan Group,NA,5031,Kern River Fan Group
+47284,352510N1191160W001,2411640,2018-03-30T00:00:00Z,335,330,0,205,130,205,200,NA,Acoustic or sonic sounder,Water level accuracy to nearest foot,5031,Kern River Fan Group,NA,5031,Kern River Fan Group
+47284,352510N1191160W001,2267088,2017-10-10T00:00:00Z,335,330,0,208,127,208,203,NA,Acoustic or sonic sounder,Water level accuracy to nearest foot,5031,Kern River Fan Group,NA,5031,Kern River Fan Group
+47284,352510N1191160W001,2635230,2017-05-09T00:00:00Z,330,330,0,201,129,201,201,NA,Unknown,Water level accuracy is unknown,2057,Kern River GSA,"MT_Elev: 54, MO_Elev: 126",2057,Kern River GSA
+47284,352510N1191160W001,2235589,2017-03-09T00:00:00Z,335,330,0,216,119,216,211,NA,Acoustic or sonic sounder,Water level accuracy to nearest foot,5031,Kern River Fan Group,NA,5031,Kern River Fan Group
+47284,352510N1191160W001,2213868,2016-10-10T00:00:00Z,335,330,NA,NA,NA,NA,NA,Pumping,NA,NA,5031,Kern River Fan Group,NA,5031,Kern River Fan Group
+47284,352510N1191160W001,2185491,2016-03-15T00:00:00Z,335,330,0,203,132,203,198,NA,Acoustic or sonic sounder,Water level accuracy to nearest tenth of a foot,5031,Kern River Fan Group,NA,5031,Kern River Fan Group
+47284,352510N1191160W001,2175315,2015-10-20T00:00:00Z,335,330,0,210,125,210,205,NA,Acoustic or sonic sounder,Water level accuracy to nearest tenth of a foot,5031,Kern River Fan Group,NA,5031,Kern River Fan Group
+47284,352510N1191160W001,2635229,2015-10-07T00:00:00Z,330,330,0,210,120,210,210,NA,Unknown,Water level accuracy is unknown,2057,Kern River GSA,"MT_Elev: 54, MO_Elev: 126",2057,Kern River GSA
+47284,352510N1191160W001,2134492,2015-04-07T00:00:00Z,335,330,0,203,132,203,198,NA,Acoustic or sonic sounder,Water level accuracy to nearest tenth of a foot,5031,Kern River Fan Group,NA,5031,Kern River Fan Group
+47284,352510N1191160W001,2635228,2015-03-31T00:00:00Z,330,330,0,190,140,190,190,NA,Unknown,Water level accuracy is unknown,2057,Kern River GSA,"MT_Elev: 54, MO_Elev: 126",2057,Kern River GSA
+47284,352510N1191160W001,2116616,2015-02-04T00:00:00Z,335,330,0,193,142,193,188,NA,Acoustic or sonic sounder,Water level accuracy to nearest tenth of a foot,5031,Kern River Fan Group,NA,5031,Kern River Fan Group
+47284,352510N1191160W001,2635227,2014-10-01T00:00:00Z,330,330,0,191,139,191,191,NA,Unknown,Water level accuracy is unknown,2057,Kern River GSA,"MT_Elev: 54, MO_Elev: 126",2057,Kern River GSA
+47284,352510N1191160W001,2635226,2014-06-02T00:00:00Z,330,330,0,201,129,201,201,NA,Unknown,Water level accuracy is unknown,2057,Kern River GSA,"MT_Elev: 54, MO_Elev: 126",2057,Kern River GSA
+47284,352510N1191160W001,1887289,2014-03-12T00:00:00Z,335,330,0,185,150,185,180,NA,Acoustic or sonic sounder,Water level accuracy to nearest tenth of a foot,5031,Kern River Fan Group,NA,5031,Kern River Fan Group
+47284,352510N1191160W001,1874474,2013-12-06T00:00:00Z,335,330,0,171,164,171,166,NA,Acoustic or sonic sounder,Water level accuracy to nearest tenth of a foot,5031,Kern River Fan Group,NA,5031,Kern River Fan Group
+47284,352510N1191160W001,1795897,2013-09-25T00:00:00Z,335,330,0,182,153,182,177,NA,Acoustic or sonic sounder,Water level accuracy to nearest tenth of a foot,5031,Kern River Fan Group,NA,5031,Kern River Fan Group
+47284,352510N1191160W001,1684609,2013-03-27T00:00:00Z,335,330,0,176,159,176,171,NA,Acoustic or sonic sounder,Water level accuracy to nearest tenth of a foot,5031,Kern River Fan Group,NA,5031,Kern River Fan Group
+47284,352510N1191160W001,89901,2012-12-07T00:00:00Z,335,330,0,158,177,158,153,NA,Acoustic or sonic sounder,Water level accuracy to nearest tenth of a foot,5031,Kern River Fan Group,NA,5031,Kern River Fan Group
+47284,352510N1191160W001,68039,2012-09-27T00:00:00Z,335,330,0,179,156,179,174,NA,Acoustic or sonic sounder,Water level accuracy to nearest tenth of a foot,5031,Kern River Fan Group,NA,5031,Kern River Fan Group
+47284,352510N1191160W001,55129,2012-04-04T00:00:00Z,335,330,NA,NA,NA,NA,NA,Pumping,NA,NA,5031,Kern River Fan Group,NA,5031,Kern River Fan Group
+47284,352510N1191160W001,55128,2012-02-03T14:00:00Z,335,330,0,148,187,148,143,NA,Acoustic or sonic sounder,Water level accuracy to nearest foot,5031,Kern River Fan Group,NA,5031,Kern River Fan Group
+47284,352510N1191160W001,55127,2012-01-04T11:00:00Z,335,330,0,147,188,147,142,NA,Acoustic or sonic sounder,Water level accuracy to nearest foot,5031,Kern River Fan Group,NA,5031,Kern River Fan Group
+47284,352510N1191160W001,36027,2011-11-09T00:00:00Z,330,330,0,152,178,152,152,NA,Acoustic or sonic sounder,Water level accuracy to nearest foot,5031,Kern River Fan Group,NA,5031,Kern River Fan Group
+47284,352510N1191160W001,2635225,2011-03-01T00:00:00Z,330,330,0,156,174,156,156,NA,Unknown,Water level accuracy is unknown,2057,Kern River GSA,"MT_Elev: 54, MO_Elev: 126",2057,Kern River GSA
+47284,352510N1191160W001,2635224,2011-01-01T00:00:00Z,330,330,0,157,173,157,157,NA,Unknown,Water level accuracy is unknown,2057,Kern River GSA,"MT_Elev: 54, MO_Elev: 126",2057,Kern River GSA
+47284,352510N1191160W001,2635223,2010-03-05T00:00:00Z,330,330,0,161,169,161,161,NA,Unknown,Water level accuracy is unknown,2057,Kern River GSA,"MT_Elev: 54, MO_Elev: 126",2057,Kern River GSA
+47284,352510N1191160W001,2635222,2009-10-12T00:00:00Z,330,330,0,177,153,177,177,NA,Unknown,Water level accuracy is unknown,2057,Kern River GSA,"MT_Elev: 54, MO_Elev: 126",2057,Kern River GSA
+47284,352510N1191160W001,2635221,2009-02-11T00:00:00Z,330,330,0,159,171,159,159,NA,Unknown,Water level accuracy is unknown,2057,Kern River GSA,"MT_Elev: 54, MO_Elev: 126",2057,Kern River GSA
+47284,352510N1191160W001,2635220,2008-10-01T00:00:00Z,330,330,0,197,133,197,197,NA,Unknown,Water level accuracy is unknown,2057,Kern River GSA,"MT_Elev: 54, MO_Elev: 126",2057,Kern River GSA
+47284,352510N1191160W001,2635219,2008-03-01T00:00:00Z,330,330,0,179,151,179,179,NA,Unknown,Water level accuracy is unknown,2057,Kern River GSA,"MT_Elev: 54, MO_Elev: 126",2057,Kern River GSA
+47284,352510N1191160W001,2635218,2008-01-01T00:00:00Z,330,330,0,148,182,148,148,NA,Unknown,Water level accuracy is unknown,2057,Kern River GSA,"MT_Elev: 54, MO_Elev: 126",2057,Kern River GSA
+47284,352510N1191160W001,2635217,2006-03-31T00:00:00Z,330,330,0,149,181,149,149,NA,Unknown,Water level accuracy is unknown,2057,Kern River GSA,"MT_Elev: 54, MO_Elev: 126",2057,Kern River GSA
+47284,352510N1191160W001,2635216,2004-02-24T00:00:00Z,330,330,0,138,192,138,138,NA,Unknown,Water level accuracy is unknown,2057,Kern River GSA,"MT_Elev: 54, MO_Elev: 126",2057,Kern River GSA
+47284,352510N1191160W001,2635215,2003-01-31T00:00:00Z,330,330,0,143,187,143,143,NA,Unknown,Water level accuracy is unknown,2057,Kern River GSA,"MT_Elev: 54, MO_Elev: 126",2057,Kern River GSA
+47284,352510N1191160W001,2635214,2002-01-31T00:00:00Z,330,330,0,135,195,135,135,NA,Unknown,Water level accuracy is unknown,2057,Kern River GSA,"MT_Elev: 54, MO_Elev: 126",2057,Kern River GSA
+47284,352510N1191160W001,2635213,2001-12-01T00:00:00Z,330,330,0,137,193,137,137,NA,Unknown,Water level accuracy is unknown,2057,Kern River GSA,"MT_Elev: 54, MO_Elev: 126",2057,Kern River GSA
+47284,352510N1191160W001,2635212,2001-11-01T00:00:00Z,330,330,0,151,179,151,151,NA,Unknown,Water level accuracy is unknown,2057,Kern River GSA,"MT_Elev: 54, MO_Elev: 126",2057,Kern River GSA
+47284,352510N1191160W001,2635211,2001-10-12T00:00:00Z,330,330,0,154,176,154,154,NA,Unknown,Water level accuracy is unknown,2057,Kern River GSA,"MT_Elev: 54, MO_Elev: 126",2057,Kern River GSA
+47284,352510N1191160W001,2635210,2001-04-01T00:00:00Z,330,330,0,147,183,147,147,NA,Unknown,Water level accuracy is unknown,2057,Kern River GSA,"MT_Elev: 54, MO_Elev: 126",2057,Kern River GSA
+47284,352510N1191160W001,2635209,2001-03-01T00:00:00Z,330,330,0,133,197,133,133,NA,Unknown,Water level accuracy is unknown,2057,Kern River GSA,"MT_Elev: 54, MO_Elev: 126",2057,Kern River GSA
+47284,352510N1191160W001,2635208,2001-02-15T00:00:00Z,330,330,0,155,175,155,155,NA,Unknown,Water level accuracy is unknown,2057,Kern River GSA,"MT_Elev: 54, MO_Elev: 126",2057,Kern River GSA
+47284,352510N1191160W001,2635207,2001-02-01T00:00:00Z,330,330,0,155,175,155,155,NA,Unknown,Water level accuracy is unknown,2057,Kern River GSA,"MT_Elev: 54, MO_Elev: 126",2057,Kern River GSA
+47284,352510N1191160W001,2635206,2000-10-01T00:00:00Z,330,330,0,144,186,144,144,NA,Unknown,Water level accuracy is unknown,2057,Kern River GSA,"MT_Elev: 54, MO_Elev: 126",2057,Kern River GSA
+47284,352510N1191160W001,2635205,2000-03-01T00:00:00Z,330,330,0,135,195,135,135,NA,Unknown,Water level accuracy is unknown,2057,Kern River GSA,"MT_Elev: 54, MO_Elev: 126",2057,Kern River GSA
+47284,352510N1191160W001,2635204,1999-10-15T00:00:00Z,330,330,0,150,180,150,150,NA,Unknown,Water level accuracy is unknown,2057,Kern River GSA,"MT_Elev: 54, MO_Elev: 126",2057,Kern River GSA
+47284,352510N1191160W001,2635203,1999-03-01T00:00:00Z,330,330,0,133,197,133,133,NA,Unknown,Water level accuracy is unknown,2057,Kern River GSA,"MT_Elev: 54, MO_Elev: 126",2057,Kern River GSA
+47284,352510N1191160W001,2635202,1998-03-01T00:00:00Z,330,330,0,137,193,137,137,NA,Unknown,Water level accuracy is unknown,2057,Kern River GSA,"MT_Elev: 54, MO_Elev: 126",2057,Kern River GSA
+47284,352510N1191160W001,2635201,1997-10-15T00:00:00Z,330,330,0,153,177,153,153,NA,Unknown,Water level accuracy is unknown,2057,Kern River GSA,"MT_Elev: 54, MO_Elev: 126",2057,Kern River GSA
+47284,352510N1191160W001,2635200,1997-03-01T00:00:00Z,330,330,0,141,189,141,141,NA,Unknown,Water level accuracy is unknown,2057,Kern River GSA,"MT_Elev: 54, MO_Elev: 126",2057,Kern River GSA
+47284,352510N1191160W001,2634807,1996-03-01T00:00:00Z,330,330,0,145,185,145,145,NA,Unknown,Water level accuracy is unknown,2057,Kern River GSA,"MT_Elev: 54, MO_Elev: 126",2057,Kern River GSA
+47284,352510N1191160W001,2634806,1995-03-21T00:00:00Z,330,330,0,153,177,153,153,NA,Unknown,Water level accuracy is unknown,2057,Kern River GSA,"MT_Elev: 54, MO_Elev: 126",2057,Kern River GSA

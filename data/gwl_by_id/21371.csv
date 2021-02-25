@@ -1,0 +1,9 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+21371,361025N1200216W001,976961,1962-03-21T00:00:00Z,281.9,280.9,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+21371,361025N1200216W001,976960,1961-05-05T00:00:00Z,281.9,280.9,0,354,-72.1,354,353,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+21371,361025N1200216W001,976959,1960-10-12T00:00:00Z,281.9,280.9,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+21371,361025N1200216W001,976958,1960-05-11T00:00:00Z,281.9,280.9,0,337.9,-56,337.9,336.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+21371,361025N1200216W001,976957,1959-10-14T00:00:00Z,281.9,280.9,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5167,United States Geological Survey
+21371,361025N1200216W001,976956,1959-05-06T00:00:00Z,281.9,280.9,0,331.8,-49.9,331.8,330.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+21371,361025N1200216W001,976955,1958-10-22T00:00:00Z,281.9,280.9,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5167,United States Geological Survey
+21371,361025N1200216W001,976954,1958-05-06T00:00:00Z,281.9,280.9,0,280.5,1.4,280.5,279.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey

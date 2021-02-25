@@ -1,0 +1,8 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+22532,357242N1199888W001,850423,1961-03-08T00:00:00Z,513.96,512.96,NA,NA,NA,NA,NA,Unable to locate well,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22532,357242N1199888W001,850422,1960-10-14T00:00:00Z,513.96,512.96,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+22532,357242N1199888W001,850421,1959-10-15T00:00:00Z,513.96,512.96,NA,NA,NA,NA,NA,Unable to locate well,NA,NA,1,Department of Water Resources,NA,5167,United States Geological Survey
+22532,357242N1199888W001,850420,1959-03-31T00:00:00Z,513.96,512.96,0,123.8,390.16,123.8,122.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+22532,357242N1199888W001,850419,1958-10-21T00:00:00Z,513.96,512.96,NA,NA,NA,NA,NA,Unable to locate well,NA,NA,1,Department of Water Resources,NA,5167,United States Geological Survey
+22532,357242N1199888W001,850418,1958-04-16T00:00:00Z,513.96,512.96,0,123.4,390.56,123.4,122.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+22532,357242N1199888W001,850417,1955-10-22T00:00:00Z,513.96,512.96,0,133.2,380.76,133.2,132.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey

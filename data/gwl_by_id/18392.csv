@@ -1,0 +1,11 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+18392,368533N1196168W001,2461385,2019-03-16T08:00:00Z,434.07,432.57,NA,NA,NA,NA,NA,Well has been destroyed,NA,NA,1,Department of Water Resources,filled in,624,Bureau of Reclamation
+18392,368533N1196168W001,2431737,2018-10-19T09:00:00Z,434.07,432.57,0,67,367.07,67,65.5,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,624,Bureau of Reclamation
+18392,368533N1196168W001,2290077,2018-03-12T10:40:00Z,434.07,432.57,99.5,160,373.57,60.5,59,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,0,624,Bureau of Reclamation
+18392,368533N1196168W001,2281135,2017-10-19T08:45:00Z,434.07,432.57,38.6,100,372.67,61.4,59.9,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,no pump,624,Bureau of Reclamation
+18392,368533N1196168W001,2256465,2017-03-08T08:40:00Z,434.07,432.57,35,100,369.07,65,63.5,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,624,Bureau of Reclamation
+18392,368533N1196168W001,2233702,2016-10-17T13:15:00Z,434.07,432.57,36.1,100,370.17,63.9,62.4,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,624,Bureau of Reclamation
+18392,368533N1196168W001,2197758,2016-03-09T08:40:00Z,434.07,432.57,38.5,100,372.57,61.5,60,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,624,Bureau of Reclamation
+18392,368533N1196168W001,2176109,2015-10-16T08:45:00Z,434.07,432.57,8.5,70,372.57,61.5,60,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,624,Bureau of Reclamation
+18392,368533N1196168W001,2142859,2015-03-11T14:30:00Z,434.07,432.57,22.2,81,375.27,58.8,57.3,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,624,Bureau of Reclamation
+18392,368533N1196168W001,1989181,2014-02-10T16:45:00Z,434.07,432.57,8.7,60,382.77,51.3,49.8,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,624,Bureau of Reclamation

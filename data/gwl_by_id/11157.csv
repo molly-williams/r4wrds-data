@@ -1,0 +1,3 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+11157,370177N1203202W001,1991160,2014-02-13T15:00:00Z,183.21,182.71,0,204,-20.79,204,203.5,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,624,Bureau of Reclamation
+11157,370177N1203202W001,1989647,2013-02-19T15:30:00Z,183.21,182.71,0,174,9.21,174,173.5,Oil or foreign substance in casing,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,Oil in Casing,624,Bureau of Reclamation

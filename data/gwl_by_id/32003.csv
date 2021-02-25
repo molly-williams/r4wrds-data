@@ -1,0 +1,4 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+32003,369216N1207057W001,1807640,2013-10-22T00:00:00Z,147.55,146.45,NA,NA,NA,NA,NA,Well has been destroyed,NA,NA,624,Bureau of Reclamation,well abandoned,624,Bureau of Reclamation
+32003,369216N1207057W001,1726559,2013-04-24T00:00:00Z,147.55,146.45,0,6.6,140.95,6.6,5.5,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,624,Bureau of Reclamation,NA,624,Bureau of Reclamation
+32003,369216N1207057W001,1684342,2012-10-16T00:00:00Z,147.55,146.45,0,8.7,138.85,8.7,7.6,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,624,Bureau of Reclamation,NA,624,Bureau of Reclamation

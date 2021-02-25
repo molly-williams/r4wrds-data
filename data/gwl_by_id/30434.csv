@@ -1,0 +1,6 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+30434,370468N1207793W001,1215004,1960-10-01T00:00:00Z,101.23,101.23,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+30434,370468N1207793W001,1215003,1960-03-16T00:00:00Z,101.23,101.23,NA,NA,NA,NA,NA,Well has been destroyed,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+30434,370468N1207793W001,1215002,1959-09-21T00:00:00Z,101.23,101.23,NA,NA,NA,NA,NA,Well has been destroyed,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+30434,370468N1207793W001,1215001,1959-03-17T00:00:00Z,101.23,101.23,0,8.3,92.93,8.3,8.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+30434,370468N1207793W001,1215000,1958-09-23T00:00:00Z,101.23,101.23,0,11.5,89.73,11.5,11.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation

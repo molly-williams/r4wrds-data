@@ -1,0 +1,7 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+13576,368002N1202654W001,1136060,1970-10-05T00:00:00Z,174.89,174.89,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+13576,368002N1202654W001,1136059,1970-02-04T00:00:00Z,174.89,174.89,0,41,133.89,41,41,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+13576,368002N1202654W001,1136058,1969-10-02T00:00:00Z,174.89,174.89,0,54.4,120.49,54.4,54.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+13576,368002N1202654W001,1136057,1969-02-12T00:00:00Z,174.89,174.89,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+13576,368002N1202654W001,1136056,1968-02-08T00:00:00Z,174.89,174.89,0,54.6,120.29,54.6,54.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+13576,368002N1202654W001,1136055,1967-02-10T00:00:00Z,174.89,174.89,0,48.1,126.79,48.1,48.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation

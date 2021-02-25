@@ -1,0 +1,47 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+3290,376974N1210857W001,1497097,1992-10-01T00:00:00Z,64.94,67.34,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NA,219,Modesto Irrigation District
+3290,376974N1210857W001,1497096,1992-03-01T00:00:00Z,64.94,67.34,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NA,219,Modesto Irrigation District
+3290,376974N1210857W001,1497095,1991-11-01T00:00:00Z,64.94,67.34,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NA,219,Modesto Irrigation District
+3290,376974N1210857W001,1497094,1991-02-01T00:00:00Z,64.94,67.34,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NA,219,Modesto Irrigation District
+3290,376974N1210857W001,1497093,1990-10-01T00:00:00Z,64.94,67.34,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,219,Modesto Irrigation District
+3290,376974N1210857W001,1497092,1989-11-01T00:00:00Z,64.94,67.34,0,20.9,44.04,20.9,23.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,219,Modesto Irrigation District
+3290,376974N1210857W001,1497091,1989-03-01T00:00:00Z,64.94,67.34,0,20.4,44.54,20.4,22.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,219,Modesto Irrigation District
+3290,376974N1210857W001,1497090,1988-11-01T00:00:00Z,64.94,67.34,0,21.4,43.54,21.4,23.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,219,Modesto Irrigation District
+3290,376974N1210857W001,1497089,1988-03-01T00:00:00Z,64.94,67.34,0,17.1,47.84,17.1,19.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,219,Modesto Irrigation District
+3290,376974N1210857W001,1497088,1987-11-01T00:00:00Z,64.94,67.34,0,16.8,48.14,16.8,19.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,219,Modesto Irrigation District
+3290,376974N1210857W001,1497087,1987-02-01T00:00:00Z,64.94,67.34,0,15.9,49.04,15.9,18.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,219,Modesto Irrigation District
+3290,376974N1210857W001,1497086,1986-11-01T00:00:00Z,64.94,67.34,0,16.3,48.64,16.3,18.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,219,Modesto Irrigation District
+3290,376974N1210857W001,1497085,1985-11-01T00:00:00Z,64.94,67.34,0,13.2,51.74,13.2,15.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,219,Modesto Irrigation District
+3290,376974N1210857W001,1497084,1985-02-01T00:00:00Z,64.94,67.34,0,13.4,51.54,13.4,15.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,219,Modesto Irrigation District
+3290,376974N1210857W001,1497083,1984-11-01T00:00:00Z,64.94,67.34,0,13.6,51.34,13.6,16,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,219,Modesto Irrigation District
+3290,376974N1210857W001,1497082,1983-11-01T00:00:00Z,64.94,67.34,0,14.2,50.74,14.2,16.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,219,Modesto Irrigation District
+3290,376974N1210857W001,1497081,1983-03-01T00:00:00Z,64.94,67.34,0,13.9,51.04,13.9,16.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,219,Modesto Irrigation District
+3290,376974N1210857W001,1497080,1982-11-01T00:00:00Z,64.94,67.34,0,16,48.94,16,18.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,219,Modesto Irrigation District
+3290,376974N1210857W001,1497079,1982-03-01T00:00:00Z,64.94,67.34,0,17,47.94,17,19.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,219,Modesto Irrigation District
+3290,376974N1210857W001,1497078,1981-11-01T00:00:00Z,64.94,67.34,0,16.5,48.44,16.5,18.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,219,Modesto Irrigation District
+3290,376974N1210857W001,1497077,1981-03-01T00:00:00Z,64.94,67.34,0,17,47.94,17,19.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,219,Modesto Irrigation District
+3290,376974N1210857W001,1497076,1980-11-01T00:00:00Z,64.94,67.34,0,15,49.94,15,17.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,219,Modesto Irrigation District
+3290,376974N1210857W001,1497075,1980-03-01T00:00:00Z,64.94,67.34,0,16.9,48.04,16.9,19.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,219,Modesto Irrigation District
+3290,376974N1210857W001,1497074,1979-11-01T00:00:00Z,64.94,67.34,0,15.5,49.44,15.5,17.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,219,Modesto Irrigation District
+3290,376974N1210857W001,1497073,1979-03-01T00:00:00Z,64.94,67.34,0,17.1,47.84,17.1,19.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,219,Modesto Irrigation District
+3290,376974N1210857W001,1497072,1978-10-01T00:00:00Z,64.94,67.34,0,17.3,47.64,17.3,19.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,219,Modesto Irrigation District
+3290,376974N1210857W001,1497071,1978-03-01T00:00:00Z,64.94,67.34,0,20,44.94,20,22.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,219,Modesto Irrigation District
+3290,376974N1210857W001,1497070,1977-11-01T00:00:00Z,64.94,67.34,0,20,44.94,20,22.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,219,Modesto Irrigation District
+3290,376974N1210857W001,1497069,1977-03-01T00:00:00Z,64.94,67.34,0,14.6,50.34,14.6,17,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,219,Modesto Irrigation District
+3290,376974N1210857W001,1497068,1976-10-01T00:00:00Z,64.94,67.34,0,14.6,50.34,14.6,17,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,219,Modesto Irrigation District
+3290,376974N1210857W001,1497067,1976-07-15T00:00:00Z,64.94,67.34,0,15.8,49.14,15.8,18.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,219,Modesto Irrigation District
+3290,376974N1210857W001,1497066,1976-03-01T00:00:00Z,64.94,67.34,0,16.7,48.24,16.7,19.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,219,Modesto Irrigation District
+3290,376974N1210857W001,1497065,1975-03-04T00:00:00Z,64.94,67.34,0,14.5,50.44,14.5,16.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,219,Modesto Irrigation District
+3290,376974N1210857W001,1497064,1974-03-03T00:00:00Z,64.94,67.34,0,17,47.94,17,19.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,219,Modesto Irrigation District
+3290,376974N1210857W001,1497063,1973-03-01T00:00:00Z,64.94,67.34,0,16.6,48.34,16.6,19,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,219,Modesto Irrigation District
+3290,376974N1210857W001,1497062,1972-02-20T00:00:00Z,64.94,67.34,0,17.1,47.84,17.1,19.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,219,Modesto Irrigation District
+3290,376974N1210857W001,1497061,1971-03-15T00:00:00Z,64.94,67.34,0,16.3,48.64,16.3,18.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,219,Modesto Irrigation District
+3290,376974N1210857W001,1497060,1970-11-01T00:00:00Z,64.94,67.34,0,17.8,47.14,17.8,20.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,219,Modesto Irrigation District
+3290,376974N1210857W001,1497059,1970-03-02T00:00:00Z,64.94,67.34,0,14.8,50.14,14.8,17.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,219,Modesto Irrigation District
+3290,376974N1210857W001,1497058,1969-03-03T00:00:00Z,64.94,67.34,0,17,47.94,17,19.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,219,Modesto Irrigation District
+3290,376974N1210857W001,1497057,1968-03-03T00:00:00Z,64.94,67.34,0,15,49.94,15,17.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,219,Modesto Irrigation District
+3290,376974N1210857W001,1497056,1967-03-01T00:00:00Z,64.94,67.34,0,15.8,49.14,15.8,18.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,219,Modesto Irrigation District
+3290,376974N1210857W001,1497055,1966-03-01T00:00:00Z,64.94,67.34,0,13.8,51.14,13.8,16.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,219,Modesto Irrigation District
+3290,376974N1210857W001,1497054,1965-03-01T00:00:00Z,64.94,67.34,0,15,49.94,15,17.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,219,Modesto Irrigation District
+3290,376974N1210857W001,1497053,1964-03-01T00:00:00Z,64.94,67.34,0,13.6,51.34,13.6,16,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,219,Modesto Irrigation District
+3290,376974N1210857W001,1497052,1963-03-01T00:00:00Z,64.94,67.34,0,14.2,50.74,14.2,16.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,219,Modesto Irrigation District

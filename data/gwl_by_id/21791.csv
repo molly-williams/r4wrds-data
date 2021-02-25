@@ -1,0 +1,88 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+21791,352964N1191741W001,757299,2004-01-16T00:00:00Z,341.04,340.54,0,118.3,222.74,118.3,117.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757300,2003-11-13T00:00:00Z,341.04,340.54,0,120.3,220.74,120.3,119.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757297,2002-01-14T00:00:00Z,341.04,340.54,0,100.5,240.54,100.5,100,Pumping,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757296,2001-10-02T00:00:00Z,341.04,340.54,0,105.9,235.14,105.9,105.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757298,2001-01-09T00:00:00Z,341.04,340.54,0,80.6,260.44,80.6,80.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757295,2000-01-06T00:00:00Z,341.04,340.54,0,76.6,264.44,76.6,76.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757294,1999-10-05T00:00:00Z,341.04,340.54,0,84.2,256.84,84.2,83.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757293,1999-01-21T00:00:00Z,341.04,340.54,0,68,273.04,68,67.5,Other,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757292,1998-10-05T00:00:00Z,341.04,340.54,0,77.6,263.44,77.6,77.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757291,1998-01-28T00:00:00Z,341.04,340.54,0,92.4,248.64,92.4,91.9,Casing leaking or wet,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757290,1997-10-03T00:00:00Z,341.04,340.54,0,100.4,240.64,100.4,99.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1082,VENTURA COUNTY FLOOD CONTROL DISTRICT
+21791,352964N1191741W001,757289,1997-01-14T00:00:00Z,341.04,340.54,0,102.2,238.84,102.2,101.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1082,VENTURA COUNTY FLOOD CONTROL DISTRICT
+21791,352964N1191741W001,757288,1996-10-08T00:00:00Z,341.04,340.54,0,109.8,231.24,109.8,109.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757287,1996-02-06T00:00:00Z,341.04,340.54,0,119.3,221.74,119.3,118.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757286,1995-10-19T00:00:00Z,341.04,340.54,0,134.3,206.74,134.3,133.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757285,1995-03-07T00:00:00Z,341.04,340.54,0,141.5,199.54,141.5,141,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757284,1994-10-03T00:00:00Z,341.04,340.54,0,151.7,189.34,151.7,151.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757283,1994-02-02T00:00:00Z,341.04,340.54,0,144.8,196.24,144.8,144.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757282,1993-10-05T00:00:00Z,341.04,340.54,0,152.3,188.74,152.3,151.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757281,1993-01-27T00:00:00Z,341.04,340.54,0,147.5,193.54,147.5,147,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757280,1992-10-06T00:00:00Z,341.04,340.54,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757279,1992-01-30T00:00:00Z,341.04,340.54,0,137.3,203.74,137.3,136.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757278,1991-10-04T00:00:00Z,341.04,340.54,0,138.1,202.94,138.1,137.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757277,1991-01-24T00:00:00Z,341.04,340.54,0,118.8,222.24,118.8,118.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757276,1990-10-05T00:00:00Z,341.04,340.54,0,121.5,219.54,121.5,121,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757275,1990-01-24T00:00:00Z,341.04,340.54,NA,NA,NA,NA,NA,Casing leaking or wet,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757274,1989-10-03T00:00:00Z,341.04,340.54,0,106,235.04,106,105.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757273,1989-02-17T00:00:00Z,341.04,340.54,0,96.1,244.94,96.1,95.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757272,1988-10-05T00:00:00Z,341.04,340.54,0,96,245.04,96,95.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757271,1988-02-03T00:00:00Z,341.04,340.54,0,82,259.04,82,81.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757270,1987-10-08T00:00:00Z,341.04,340.54,0,85,256.04,85,84.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757269,1987-01-29T00:00:00Z,341.04,340.54,0,90.5,250.54,90.5,90,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757268,1986-10-09T00:00:00Z,341.04,340.54,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21791,352964N1191741W001,757267,1986-02-04T00:00:00Z,341.04,340.54,0,99.5,241.54,99.5,99,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21791,352964N1191741W001,757266,1985-10-07T00:00:00Z,341.04,340.54,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21791,352964N1191741W001,757265,1985-01-28T00:00:00Z,341.04,340.54,0,94.5,246.54,94.5,94,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21791,352964N1191741W001,757264,1984-10-01T00:00:00Z,341.04,340.54,0,123,218.04,123,122.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21791,352964N1191741W001,757263,1984-01-19T00:00:00Z,341.04,340.54,0,94.5,246.54,94.5,94,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21791,352964N1191741W001,757262,1983-10-11T00:00:00Z,341.04,340.54,0,100.5,240.54,100.5,100,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21791,352964N1191741W001,757261,1983-01-28T00:00:00Z,341.04,340.54,0,109,232.04,109,108.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757260,1982-10-08T00:00:00Z,341.04,340.54,0,122,219.04,122,121.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757259,1982-02-05T00:00:00Z,341.04,340.54,0,110,231.04,110,109.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21791,352964N1191741W001,757258,1981-09-30T00:00:00Z,341.04,340.54,0,127,214.04,127,126.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21791,352964N1191741W001,757257,1981-02-10T00:00:00Z,341.04,340.54,0,108,233.04,108,107.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757256,1980-10-06T00:00:00Z,341.04,340.54,0,115,226.04,115,114.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757255,1980-01-30T00:00:00Z,341.04,340.54,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757254,1979-10-03T00:00:00Z,341.04,340.54,0,114,227.04,114,113.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757253,1979-01-26T00:00:00Z,341.04,340.54,0,123,218.04,123,122.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757252,1978-10-11T00:00:00Z,341.04,340.54,0,133,208.04,133,132.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757251,1978-02-22T00:00:00Z,341.04,340.54,0,150,191.04,150,149.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757250,1977-10-14T00:00:00Z,341.04,340.54,0,137,204.04,137,136.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757249,1977-08-24T00:00:00Z,341.04,340.54,0,144,197.04,144,143.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757248,1977-06-10T00:00:00Z,341.04,340.54,0,133,208.04,133,132.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757247,1977-02-08T00:00:00Z,341.04,340.54,0,122,219.04,122,121.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757246,1976-10-12T00:00:00Z,341.04,340.54,0,124.5,216.54,124.5,124,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757245,1976-07-23T00:00:00Z,341.04,340.54,0,138,203.04,138,137.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757244,1976-02-04T00:00:00Z,341.04,340.54,0,113,228.04,113,112.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757243,1975-09-29T00:00:00Z,341.04,340.54,0,134,207.04,134,133.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757242,1975-02-04T00:00:00Z,341.04,340.54,0,109,232.04,109,108.5,Other,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757241,1974-10-01T00:00:00Z,341.04,340.54,0,115,226.04,115,114.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757240,1974-02-11T00:00:00Z,341.04,340.54,0,97.5,243.54,97.5,97,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757239,1973-10-15T00:00:00Z,341.04,340.54,0,101,240.04,101,100.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757238,1973-01-31T00:00:00Z,341.04,340.54,0,96,245.04,96,95.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757237,1972-10-04T00:00:00Z,341.04,340.54,0,99,242.04,99,98.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757236,1972-01-28T00:00:00Z,341.04,340.54,0,81,260.04,81,80.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757235,1971-09-17T00:00:00Z,341.04,340.54,0,91,250.04,91,90.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757234,1971-01-21T00:00:00Z,341.04,340.54,0,70,271.04,70,69.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757233,1970-09-17T00:00:00Z,341.04,340.54,0,86,255.04,86,85.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+21791,352964N1191741W001,757232,1969-12-22T00:00:00Z,341.04,340.54,0,71.7,269.34,71.7,71.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1080,U S BUREAU OF STANDARDS
+21791,352964N1191741W001,757231,1969-11-24T00:00:00Z,341.04,340.54,0,66.1,274.94,66.1,65.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1080,U S BUREAU OF STANDARDS
+21791,352964N1191741W001,757230,1969-10-20T00:00:00Z,341.04,340.54,0,72.7,268.34,72.7,72.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1080,U S BUREAU OF STANDARDS
+21791,352964N1191741W001,757229,1969-03-20T00:00:00Z,341.04,340.54,0,85.6,255.44,85.6,85.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+21791,352964N1191741W001,757228,1969-02-11T00:00:00Z,341.04,340.54,0,83.5,257.54,83.5,83,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+21791,352964N1191741W001,757227,1968-10-16T00:00:00Z,341.04,340.54,0,89.4,251.64,89.4,88.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+21791,352964N1191741W001,757226,1968-09-25T00:00:00Z,341.04,340.54,0,101.6,239.44,101.6,101.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+21791,352964N1191741W001,757225,1968-08-27T00:00:00Z,341.04,340.54,0,94.2,246.84,94.2,93.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+21791,352964N1191741W001,757224,1968-07-23T00:00:00Z,341.04,340.54,0,90.5,250.54,90.5,90,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+21791,352964N1191741W001,757223,1968-06-25T00:00:00Z,341.04,340.54,0,90.2,250.84,90.2,89.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+21791,352964N1191741W001,757222,1968-04-24T00:00:00Z,341.04,340.54,0,83.1,257.94,83.1,82.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+21791,352964N1191741W001,757221,1968-03-19T00:00:00Z,341.04,340.54,0,79.9,261.14,79.9,79.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+21791,352964N1191741W001,757220,1967-10-24T00:00:00Z,341.04,340.54,0,89,252.04,89,88.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+21791,352964N1191741W001,757219,1967-03-21T00:00:00Z,341.04,340.54,0,95.9,245.14,95.9,95.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+21791,352964N1191741W001,757218,1965-01-26T00:00:00Z,341.04,340.54,0,77.5,263.54,77.5,77,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21791,352964N1191741W001,757217,1964-09-21T00:00:00Z,341.04,340.54,0,81.2,259.84,81.2,80.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21791,352964N1191741W001,757216,1964-01-27T00:00:00Z,341.04,340.54,0,66.3,274.74,66.3,65.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21791,352964N1191741W001,757215,1962-02-02T00:00:00Z,341.04,340.54,0,56.2,284.84,56.2,55.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21791,352964N1191741W001,757214,1961-01-24T00:00:00Z,341.04,340.54,0,49.3,291.74,49.3,48.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation

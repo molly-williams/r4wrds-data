@@ -1,0 +1,7 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+34033,365016N1191998W001,1040873,1964-09-30T00:00:00Z,403.22,402.72,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+34033,365016N1191998W001,1040872,1964-02-05T00:00:00Z,403.22,402.72,0,1,402.22,1,0.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+34033,365016N1191998W001,1040871,1963-09-27T00:00:00Z,403.22,402.72,NA,NA,NA,NA,NA,Casing leaking or wet,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+34033,365016N1191998W001,1040870,1963-02-05T00:00:00Z,403.22,402.72,0,1.7,401.52,1.7,1.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+34033,365016N1191998W001,1040869,1962-10-12T00:00:00Z,403.22,402.72,0,1.1,402.12,1.1,0.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+34033,365016N1191998W001,1040868,1961-09-25T00:00:00Z,403.22,402.72,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation

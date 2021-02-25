@@ -1,0 +1,31 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+12139,350433N1189807W001,1250461,1967-09-25T00:00:00Z,644.56,642.56,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+12139,350433N1189807W001,1250460,1967-01-30T00:00:00Z,644.56,642.56,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+12139,350433N1189807W001,1250459,1966-09-26T00:00:00Z,644.56,642.56,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+12139,350433N1189807W001,1250458,1966-01-24T00:00:00Z,644.56,642.56,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+12139,350433N1189807W001,1250457,1965-09-27T00:00:00Z,644.56,642.56,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+12139,350433N1189807W001,1250456,1965-01-25T00:00:00Z,644.56,642.56,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+12139,350433N1189807W001,1250455,1964-09-21T00:00:00Z,644.56,642.56,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+12139,350433N1189807W001,1250454,1964-01-28T00:00:00Z,644.56,642.56,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+12139,350433N1189807W001,1250453,1963-09-17T00:00:00Z,644.56,642.56,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+12139,350433N1189807W001,1250452,1962-02-01T00:00:00Z,644.56,642.56,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+12139,350433N1189807W001,1250451,1960-10-04T00:00:00Z,644.56,642.56,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,1114,KERN COUNTY LAND COMPANY
+12139,350433N1189807W001,1250450,1959-09-21T00:00:00Z,644.56,642.56,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,5167,United States Geological Survey
+12139,350433N1189807W001,1250449,1959-02-03T00:00:00Z,644.56,642.56,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,5167,United States Geological Survey
+12139,350433N1189807W001,1250448,1958-12-06T00:00:00Z,644.56,642.56,0,539.4,105.16,539.4,537.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+12139,350433N1189807W001,1250447,1958-09-25T00:00:00Z,644.56,642.56,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,5167,United States Geological Survey
+12139,350433N1189807W001,1250446,1958-02-01T00:00:00Z,644.56,642.56,0,525.9,118.66,525.9,523.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+12139,350433N1189807W001,1250445,1957-09-23T00:00:00Z,644.56,642.56,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,5167,United States Geological Survey
+12139,350433N1189807W001,1250444,1957-02-25T00:00:00Z,644.56,642.56,0,511.2,133.36,511.2,509.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+12139,350433N1189807W001,1250443,1954-09-14T00:00:00Z,644.56,642.56,0,500,144.56,500,498,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+12139,350433N1189807W001,1250442,1954-02-02T00:00:00Z,644.56,642.56,0,481.3,163.26,481.3,479.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+12139,350433N1189807W001,1250441,1953-01-21T00:00:00Z,644.56,642.56,0,424.7,219.86,424.7,422.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+12139,350433N1189807W001,1250440,1952-09-15T00:00:00Z,644.56,642.56,0,458,186.56,458,456,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+12139,350433N1189807W001,1250439,1952-01-15T00:00:00Z,644.56,642.56,0,413.2,231.36,413.2,411.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+12139,350433N1189807W001,1250438,1951-11-26T00:00:00Z,644.56,642.56,0,421,223.56,421,419,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+12139,350433N1189807W001,1250437,1951-09-24T00:00:00Z,644.56,642.56,0,435.3,209.26,435.3,433.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+12139,350433N1189807W001,1250436,1951-01-16T00:00:00Z,644.56,642.56,0,395.1,249.46,395.1,393.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+12139,350433N1189807W001,1250435,1950-11-29T00:00:00Z,644.56,642.56,0,402,242.56,402,400,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+12139,350433N1189807W001,1250434,1950-09-13T00:00:00Z,644.56,642.56,0,406.5,238.06,406.5,404.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+12139,350433N1189807W001,1250433,1950-01-23T00:00:00Z,644.56,642.56,0,371.6,272.96,371.6,369.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+12139,350433N1189807W001,1250432,1949-09-13T00:00:00Z,644.56,642.56,0,401.3,243.26,401.3,399.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey

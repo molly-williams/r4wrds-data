@@ -1,0 +1,5 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+37959,366457N1204250W001,986331,2007-10-01T00:00:00Z,225.53,223.53,0,71.7,153.83,71.7,69.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+37959,366457N1204250W001,986330,2007-04-01T00:00:00Z,225.53,223.53,0,55.8,169.73,55.8,53.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+37959,366457N1204250W001,986329,2006-10-01T00:00:00Z,225.53,223.53,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,5100,Westlands Water District
+37959,366457N1204250W001,986328,2006-04-01T00:00:00Z,225.53,223.53,0,56.8,168.73,56.8,54.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District

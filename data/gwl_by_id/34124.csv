@@ -1,0 +1,10 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+34124,390797N1220898W001,1156155,1981-03-12T00:00:00Z,84.67,82.47,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+34124,390797N1220898W001,1156154,1980-10-20T00:00:00Z,84.67,82.47,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+34124,390797N1220898W001,1156153,1980-03-20T00:00:00Z,84.67,82.47,0,28.3,56.37,28.3,26.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+34124,390797N1220898W001,1156152,1979-10-01T00:00:00Z,84.67,82.47,0,55.8,28.87,55.8,53.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+34124,390797N1220898W001,1156151,1979-03-12T00:00:00Z,84.67,82.47,0,31.9,52.77,31.9,29.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+34124,390797N1220898W001,1156150,1978-10-02T00:00:00Z,84.67,82.47,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+34124,390797N1220898W001,1156149,1978-03-14T00:00:00Z,84.67,82.47,0,31.6,53.07,31.6,29.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+34124,390797N1220898W001,1156148,1977-10-21T00:00:00Z,84.67,82.47,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+34124,390797N1220898W001,1156147,1977-03-01T00:00:00Z,84.67,82.47,0,39.9,44.77,39.9,37.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation

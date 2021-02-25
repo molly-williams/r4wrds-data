@@ -1,0 +1,86 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+7547,372435N1203349W001,2134914,2015-03-09T10:15:00Z,217.3,217.3,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,2106159,2014-10-17T12:00:00Z,217.3,217.3,0,145.6,71.7,145.6,145.6,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1881328,2014-02-10T12:00:00Z,217.3,217.3,0,176.6,40.7,176.6,176.6,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1811752,2013-10-15T12:00:00Z,217.3,217.3,0,86.6,130.7,86.6,86.6,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1722992,2013-03-12T12:00:00Z,217.3,217.3,0,163.2,54.1,163.2,163.2,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1704084,2012-10-18T00:00:00Z,217.3,217.3,0,118.4,98.9,118.4,118.4,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,65814,2012-02-07T12:00:00Z,217.3,217.3,0,155,62.3,155,155,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322736,2011-10-25T00:00:00Z,217.3,217.3,0,136.7,80.6,136.7,136.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322735,2011-02-23T00:00:00Z,217.3,217.3,0,152.4,64.9,152.4,152.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322734,2010-11-03T00:00:00Z,217.3,217.3,0,160,57.3,160,160,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322733,2010-05-08T00:00:00Z,217.3,217.3,0,156,61.3,156,156,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322732,2009-11-09T00:00:00Z,217.3,217.3,0,158,59.3,158,158,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322729,2009-03-10T00:00:00Z,217.3,217.3,0,142,75.3,142,142,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322728,2008-10-28T00:00:00Z,217.3,217.3,0,154,63.3,154,154,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322727,2008-02-27T00:00:00Z,217.3,217.3,0,131,86.3,131,131,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322726,2007-01-31T00:00:00Z,217.3,217.3,0,127,90.3,127,127,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322730,2006-11-15T00:00:00Z,217.3,217.3,0,129,88.3,129,129,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322725,2006-02-07T00:00:00Z,217.3,217.3,0,121,96.3,121,121,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322724,2005-02-09T00:00:00Z,217.3,217.3,0,134,83.3,134,134,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322731,2004-10-12T00:00:00Z,217.3,217.3,0,141,76.3,141,141,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322723,2004-02-10T00:00:00Z,217.3,217.3,0,121,96.3,121,121,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322722,2003-02-13T00:00:00Z,217.3,217.3,0,118,99.3,118,118,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322720,2002-01-29T00:00:00Z,217.3,217.3,0,109,108.3,109,109,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322719,2001-10-10T00:00:00Z,217.3,217.3,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NO ECHO,1,Department of Water Resources
+7547,372435N1203349W001,1322721,2001-02-05T00:00:00Z,217.3,217.3,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322718,2000-02-09T00:00:00Z,217.3,217.3,0,108,109.3,108,108,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322717,1999-10-12T00:00:00Z,217.3,217.3,0,118,99.3,118,118,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322716,1999-02-01T00:00:00Z,217.3,217.3,0,108,109.3,108,108,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322715,1998-10-13T00:00:00Z,217.3,217.3,0,116,101.3,116,116,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322714,1998-03-02T00:00:00Z,217.3,217.3,0,112,105.3,112,112,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322713,1997-10-14T00:00:00Z,217.3,217.3,0,122,95.3,122,122,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322712,1997-02-19T00:00:00Z,217.3,217.3,0,103,114.3,103,103,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322711,1996-11-06T00:00:00Z,217.3,217.3,0,111,106.3,111,111,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322710,1996-02-07T00:00:00Z,217.3,217.3,0,107,110.3,107,107,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322709,1995-10-18T00:00:00Z,217.3,217.3,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322708,1995-02-16T00:00:00Z,217.3,217.3,0,116,101.3,116,116,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322707,1994-10-27T00:00:00Z,217.3,217.3,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322706,1994-03-09T00:00:00Z,217.3,217.3,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322705,1993-10-19T00:00:00Z,217.3,217.3,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322704,1992-12-08T00:00:00Z,217.3,217.3,0,124.1,93.2,124.1,124.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322703,1992-10-14T00:00:00Z,217.3,217.3,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322702,1991-12-18T00:00:00Z,217.3,217.3,0,122.7,94.6,122.7,122.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322701,1991-10-29T00:00:00Z,217.3,217.3,0,125,92.3,125,125,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322700,1990-12-19T00:00:00Z,217.3,217.3,0,108,109.3,108,108,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322699,1990-10-10T00:00:00Z,217.3,217.3,0,117,100.3,117,117,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322698,1989-12-21T00:00:00Z,217.3,217.3,0,98,119.3,98,98,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322697,1989-11-07T00:00:00Z,217.3,217.3,0,109,108.3,109,109,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322696,1988-12-05T00:00:00Z,217.3,217.3,0,89,128.3,89,89,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322695,1988-10-19T00:00:00Z,217.3,217.3,0,97,120.3,97,97,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322694,1987-12-15T00:00:00Z,217.3,217.3,0,83,134.3,83,83,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322693,1987-10-21T00:00:00Z,217.3,217.3,0,86,131.3,86,86,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322692,1986-12-02T00:00:00Z,217.3,217.3,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322691,1986-10-28T00:00:00Z,217.3,217.3,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322690,1985-12-18T00:00:00Z,217.3,217.3,0,67,150.3,67,67,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322689,1985-10-09T00:00:00Z,217.3,217.3,0,81,136.3,81,81,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322688,1984-12-12T00:00:00Z,217.3,217.3,0,72,145.3,72,72,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322687,1984-10-24T00:00:00Z,217.3,217.3,0,77.5,139.8,77.5,77.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322686,1983-10-21T00:00:00Z,217.3,217.3,0,77,140.3,77,77,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322685,1982-12-16T00:00:00Z,217.3,217.3,0,97,120.3,97,97,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322684,1982-10-08T00:00:00Z,217.3,217.3,0,93,124.3,93,93,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322683,1981-12-17T00:00:00Z,217.3,217.3,0,106,111.3,106,106,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322682,1981-10-09T00:00:00Z,217.3,217.3,0,108,109.3,108,108,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322681,1981-01-07T00:00:00Z,217.3,217.3,0,100,117.3,100,100,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322680,1980-10-08T00:00:00Z,217.3,217.3,0,101,116.3,101,101,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322679,1980-03-17T00:00:00Z,217.3,217.3,0,99,118.3,99,99,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322678,1979-10-22T00:00:00Z,217.3,217.3,0,109,108.3,109,109,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322677,1979-02-05T00:00:00Z,217.3,217.3,0,120,97.3,120,120,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322676,1978-10-26T00:00:00Z,217.3,217.3,0,100,117.3,100,100,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322675,1978-03-20T00:00:00Z,217.3,217.3,0,105,112.3,105,105,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322674,1977-10-28T00:00:00Z,217.3,217.3,0,114,103.3,114,114,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322673,1977-06-24T00:00:00Z,217.3,217.3,0,118,99.3,118,118,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322672,1977-02-11T00:00:00Z,217.3,217.3,0,99,118.3,99,99,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322671,1976-11-08T00:00:00Z,217.3,217.3,0,86,131.3,86,86,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322670,1976-02-23T00:00:00Z,217.3,217.3,0,84,133.3,84,84,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322669,1975-02-25T00:00:00Z,217.3,217.3,0,78,139.3,78,78,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322668,1974-03-18T00:00:00Z,217.3,217.3,0,77,140.3,77,77,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322667,1973-04-18T00:00:00Z,217.3,217.3,0,82.3,135,82.3,82.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322666,1972-02-24T00:00:00Z,217.3,217.3,0,91,126.3,91,91,Oil or foreign substance in casing,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322665,1971-03-12T00:00:00Z,217.3,217.3,0,78,139.3,78,78,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322664,1970-10-16T00:00:00Z,217.3,217.3,0,82,135.3,82,82,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322663,1970-03-26T00:00:00Z,217.3,217.3,0,64.1,153.2,64.1,64.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322662,1969-03-20T00:00:00Z,217.3,217.3,NA,NA,NA,NA,NA,Casing leaking or wet,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322661,1968-03-22T00:00:00Z,217.3,217.3,0,68,149.3,68,68,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322660,1967-03-31T00:00:00Z,217.3,217.3,0,72.9,144.4,72.9,72.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+7547,372435N1203349W001,1322659,1966-03-25T00:00:00Z,217.3,217.3,0,68.8,148.5,68.8,68.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,778,Merced Irrigation District

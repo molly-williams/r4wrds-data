@@ -1,0 +1,13 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+49811,362478N1202020W001,2491953,2019-11-12T08:16:00Z,403,403,0,359.71,43.29,359.71,359.71,NA,Acoustic or sonic sounder,Water level accuracy to nearest tenth of a foot,5100,Westlands Water District,NA,5100,Westlands Water District
+49811,362478N1202020W001,2471735,2019-06-04T11:50:00Z,403,403,0,374.7,28.3,374.7,374.7,NA,Acoustic or sonic sounder,Water level accuracy to nearest tenth of a foot,5100,Westlands Water District,NA,5100,Westlands Water District
+49811,362478N1202020W001,2437978,2018-12-05T00:00:00Z,403,403,0,367.8,35.2,367.8,367.8,NA,Acoustic or sonic sounder,Water level accuracy to nearest tenth of a foot,5100,Westlands Water District,NA,5100,Westlands Water District
+49811,362478N1202020W001,2305051,2018-06-11T00:00:00Z,403,403,NA,NA,NA,NA,NA,Pumping,NA,NA,5100,Westlands Water District,NA,5100,Westlands Water District
+49811,362478N1202020W001,2274650,2017-11-21T10:00:00Z,403,403,0,352,51,352,352,NA,Acoustic or sonic sounder,Water level accuracy to nearest tenth of a foot,5100,Westlands Water District,NA,5100,Westlands Water District
+49811,362478N1202020W001,2249753,2017-05-17T12:28:00Z,403,403,0,371.7,31.3,371.7,371.7,NA,Acoustic or sonic sounder,Water level accuracy to nearest tenth of a foot,5100,Westlands Water District,NA,5100,Westlands Water District
+49811,362478N1202020W001,2225373,2016-11-30T10:30:00Z,403,403,0,412,-9,412,412,NA,Acoustic or sonic sounder,Water level accuracy to nearest foot,5100,Westlands Water District,NA,5100,Westlands Water District
+49811,362478N1202020W001,2196143,2016-05-11T11:59:00Z,403,403,NA,NA,NA,NA,NA,Pumping,NA,NA,5100,Westlands Water District,NA,5100,Westlands Water District
+49811,362478N1202020W001,2156962,2015-10-15T13:04:00Z,403,403,NA,NA,NA,NA,NA,Pumping,NA,NA,5100,Westlands Water District,NA,5100,Westlands Water District
+49811,362478N1202020W001,2114782,2015-01-28T13:15:00Z,403,403,0,373,30,373,373,NA,Acoustic or sonic sounder,Water level accuracy to nearest foot,5100,Westlands Water District,NA,5100,Westlands Water District
+49811,362478N1202020W001,1813242,2013-12-09T12:30:00Z,403,403,NA,NA,NA,NA,NA,Pumping,NA,NA,5100,Westlands Water District,NA,5100,Westlands Water District
+49811,362478N1202020W001,2141920,2013-06-09T00:00:00Z,403,403,0,350,53,350,350,NA,Electric sounder measurement,Water level accuracy to nearest foot,5100,Westlands Water District,WCR water level reading,5100,Westlands Water District

@@ -1,0 +1,6 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+32690,367675N1195560W001,1150272,1982-02-01T00:00:00Z,393.57,392.57,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+32690,367675N1195560W001,1150271,1981-10-01T00:00:00Z,393.57,392.57,0,16,377.57,16,15,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+32690,367675N1195560W001,1150270,1981-02-06T00:00:00Z,393.57,392.57,0,14.4,379.17,14.4,13.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+32690,367675N1195560W001,1150269,1980-10-01T00:00:00Z,393.57,392.57,0,14,379.57,14,13,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,206,Fresno Irrigation District
+32690,367675N1195560W001,1150268,1980-01-31T00:00:00Z,393.57,392.57,0,19,374.57,19,18,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources

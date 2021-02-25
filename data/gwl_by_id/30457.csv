@@ -1,0 +1,4 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+30457,332470N1171082W001,1254413,1985-03-18T00:00:00Z,537.36,537.36,0,8.5,528.86,8.5,8.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+30457,332470N1171082W001,1254412,1984-10-17T00:00:00Z,537.36,537.36,0,15.85,521.51,15.85,15.85,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+30457,332470N1171082W001,1254411,1984-05-09T00:00:00Z,537.36,537.36,0,12.35,525.01,12.35,12.35,Pumped recently,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey

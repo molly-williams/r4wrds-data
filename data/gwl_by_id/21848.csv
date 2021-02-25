@@ -1,0 +1,10 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+21848,353292N1188698W001,766310,1974-09-18T00:00:00Z,540.22,539.72,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+21848,353292N1188698W001,766309,1974-01-30T00:00:00Z,540.22,539.72,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+21848,353292N1188698W001,766308,1973-01-17T00:00:00Z,540.22,539.72,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+21848,353292N1188698W001,766307,1972-09-20T00:00:00Z,540.22,539.72,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+21848,353292N1188698W001,766306,1972-01-13T00:00:00Z,540.22,539.72,0,375.9,164.32,375.9,375.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+21848,353292N1188698W001,766305,1971-09-24T00:00:00Z,540.22,539.72,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+21848,353292N1188698W001,766304,1971-01-20T00:00:00Z,540.22,539.72,0,370.4,169.82,370.4,369.9,Oil or foreign substance in casing,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+21848,353292N1188698W001,766303,1969-09-01T00:00:00Z,540.22,539.72,0,385.2,155.02,385.2,384.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+21848,353292N1188698W001,766302,1969-01-21T00:00:00Z,540.22,539.72,0,400.1,140.12,400.1,399.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District

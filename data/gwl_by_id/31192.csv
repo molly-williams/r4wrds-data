@@ -1,0 +1,10 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+31192,371832N1205279W001,2462586,2019-03-11T09:10:00Z,129.81,129.31,2,22,109.81,20,19.5,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+31192,371832N1205279W001,2431883,2018-10-17T00:00:00Z,129.81,129.31,0,30,99.81,30,29.5,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+31192,371832N1205279W001,2256777,2017-03-08T10:20:00Z,129.81,129.31,20.5,43,107.31,22.5,22,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,624,Bureau of Reclamation
+31192,371832N1205279W001,2233588,2016-10-11T07:15:00Z,129.81,129.31,45,67,107.81,22,21.5,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,624,Bureau of Reclamation
+31192,371832N1205279W001,2197582,2016-03-16T07:20:00Z,129.81,129.31,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+31192,371832N1205279W001,2176244,2015-10-21T07:15:00Z,129.81,129.31,10,34,105.81,24,23.5,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,624,Bureau of Reclamation
+31192,371832N1205279W001,2141461,2015-03-09T07:30:00Z,129.81,129.31,29.7,52,107.51,22.3,21.8,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,624,Bureau of Reclamation
+31192,371832N1205279W001,1989319,2014-02-28T07:30:00Z,129.81,129.31,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,locked gate,624,Bureau of Reclamation
+31192,371832N1205279W001,1989727,2012-02-08T07:15:00Z,129.81,129.31,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation

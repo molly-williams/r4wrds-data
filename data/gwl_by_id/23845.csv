@@ -1,0 +1,9 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+23845,353686N1189315W001,746400,1962-10-03T00:00:00Z,466.67,465.67,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23845,353686N1189315W001,746399,1962-01-31T00:00:00Z,466.67,465.67,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23845,353686N1189315W001,746398,1961-10-05T00:00:00Z,466.67,465.67,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23845,353686N1189315W001,746397,1961-02-09T00:00:00Z,466.67,465.67,0,265.8,200.87,265.8,264.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23845,353686N1189315W001,746396,1960-10-05T00:00:00Z,466.67,465.67,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23845,353686N1189315W001,746395,1960-02-09T00:00:00Z,466.67,465.67,0,270,196.67,270,269,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23845,353686N1189315W001,746394,1959-09-21T00:00:00Z,466.67,465.67,0,390.1,76.57,390.1,389.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23845,353686N1189315W001,746393,1958-01-30T00:00:00Z,466.67,465.67,0,235,231.67,235,234,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey

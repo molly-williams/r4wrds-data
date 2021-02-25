@@ -1,0 +1,5 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+9031,347644N1185285W001,1305127,1962-04-12T00:00:00Z,2872.92,2872.92,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,5167,United States Geological Survey
+9031,347644N1185285W001,1305126,1959-11-12T00:00:00Z,2872.92,2872.92,0,167.4,2705.52,167.4,167.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+9031,347644N1185285W001,1305125,1957-11-12T00:00:00Z,2872.92,2872.92,0,177.9,2695.02,177.9,177.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+9031,347644N1185285W001,1305124,1957-10-24T00:00:00Z,2872.92,2872.92,0,206.9,2666.02,206.9,206.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey

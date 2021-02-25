@@ -1,0 +1,39 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+21851,353308N1188541W001,766389,1979-01-23T00:00:00Z,603.77,603.77,NA,NA,NA,NA,NA,Well has been destroyed,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+21851,353308N1188541W001,766388,1978-10-17T00:00:00Z,603.77,603.77,NA,NA,NA,NA,NA,Well has been destroyed,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+21851,353308N1188541W001,766387,1978-01-30T00:00:00Z,603.77,603.77,NA,NA,NA,NA,NA,Unable to locate well,NA,NA,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+21851,353308N1188541W001,766386,1977-10-03T00:00:00Z,603.77,603.77,0,392.4,211.37,392.4,392.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+21851,353308N1188541W001,766385,1977-01-17T00:00:00Z,603.77,603.77,0,381,222.77,381,381,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+21851,353308N1188541W001,766384,1976-09-28T00:00:00Z,603.77,603.77,0,376.5,227.27,376.5,376.5,Casing leaking or wet,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+21851,353308N1188541W001,766383,1976-01-21T00:00:00Z,603.77,603.77,0,396.8,206.97,396.8,396.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+21851,353308N1188541W001,766382,1975-09-25T00:00:00Z,603.77,603.77,0,397.8,205.97,397.8,397.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+21851,353308N1188541W001,766381,1975-01-22T00:00:00Z,603.77,603.77,0,399.6,204.17,399.6,399.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+21851,353308N1188541W001,766380,1974-09-18T00:00:00Z,603.77,603.77,0,404.6,199.17,404.6,404.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+21851,353308N1188541W001,766379,1974-01-30T00:00:00Z,603.77,603.77,0,395.7,208.07,395.7,395.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+21851,353308N1188541W001,766378,1973-09-19T00:00:00Z,603.77,603.77,0,423.6,180.17,423.6,423.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+21851,353308N1188541W001,766377,1973-01-17T00:00:00Z,603.77,603.77,0,395.3,208.47,395.3,395.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+21851,353308N1188541W001,766376,1972-09-20T00:00:00Z,603.77,603.77,0,426,177.77,426,426,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+21851,353308N1188541W001,766375,1972-01-13T00:00:00Z,603.77,603.77,0,397,206.77,397,397,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+21851,353308N1188541W001,766374,1971-09-24T00:00:00Z,603.77,603.77,0,408.6,195.17,408.6,408.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+21851,353308N1188541W001,766373,1971-01-20T00:00:00Z,603.77,603.77,0,396.3,207.47,396.3,396.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+21851,353308N1188541W001,766372,1970-09-17T00:00:00Z,603.77,603.77,0,398.1,205.67,398.1,398.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+21851,353308N1188541W001,766371,1970-02-09T00:00:00Z,603.77,603.77,0,386.4,217.37,386.4,386.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+21851,353308N1188541W001,766370,1969-01-21T00:00:00Z,603.77,603.77,0,399.6,204.17,399.6,399.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5118,Arvin-Edison Water Storage District
+21851,353308N1188541W001,766369,1968-09-24T00:00:00Z,603.77,603.77,0,402,201.77,402,402,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21851,353308N1188541W001,766368,1968-01-30T00:00:00Z,603.77,603.77,0,398,205.77,398,398,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21851,353308N1188541W001,766367,1967-09-26T00:00:00Z,603.77,603.77,0,404,199.77,404,404,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21851,353308N1188541W001,766366,1967-01-31T00:00:00Z,603.77,603.77,0,400,203.77,400,400,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21851,353308N1188541W001,766365,1966-09-27T00:00:00Z,603.77,603.77,0,399,204.77,399,399,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21851,353308N1188541W001,766364,1966-01-25T00:00:00Z,603.77,603.77,0,380,223.77,380,380,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21851,353308N1188541W001,766363,1965-09-29T00:00:00Z,603.77,603.77,0,400,203.77,400,400,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21851,353308N1188541W001,766362,1965-01-26T00:00:00Z,603.77,603.77,0,386,217.77,386,386,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21851,353308N1188541W001,766361,1964-09-22T00:00:00Z,603.77,603.77,0,397.4,206.37,397.4,397.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21851,353308N1188541W001,766360,1964-01-01T00:00:00Z,603.77,603.77,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21851,353308N1188541W001,766359,1963-01-30T00:00:00Z,603.77,603.77,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21851,353308N1188541W001,766358,1962-10-02T00:00:00Z,603.77,603.77,0,388.2,215.57,388.2,388.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21851,353308N1188541W001,766357,1962-02-01T00:00:00Z,603.77,603.77,0,393.7,210.07,393.7,393.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21851,353308N1188541W001,766356,1961-10-02T00:00:00Z,603.77,603.77,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21851,353308N1188541W001,766355,1961-02-02T00:00:00Z,603.77,603.77,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21851,353308N1188541W001,766354,1960-10-05T00:00:00Z,603.77,603.77,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21851,353308N1188541W001,766353,1960-02-09T00:00:00Z,603.77,603.77,0,384.1,219.67,384.1,384.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+21851,353308N1188541W001,766352,1958-12-05T00:00:00Z,603.77,603.77,0,367.9,235.87,367.9,367.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey

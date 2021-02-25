@@ -1,0 +1,39 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+36573,403677N1223112W001,732222,2010-10-21T00:00:00Z,432.81,431.51,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,SKIPPED,1,Department of Water Resources
+36573,403677N1223112W001,732221,2010-08-04T00:00:00Z,432.81,431.51,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+36573,403677N1223112W001,732220,2010-03-25T00:00:00Z,432.81,431.51,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+36573,403677N1223112W001,732219,2009-10-22T00:00:00Z,432.81,431.51,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+36573,403677N1223112W001,732218,2009-09-16T00:00:00Z,432.81,431.51,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NEAR MEAN HORSE - DROP,1,Department of Water Resources
+36573,403677N1223112W001,732217,2009-08-05T00:00:00Z,432.81,431.51,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+36573,403677N1223112W001,732216,2009-06-23T00:00:00Z,432.81,431.51,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,MEAN ANIMALS - DROP?,1,Department of Water Resources
+36573,403677N1223112W001,732215,2009-05-16T00:00:00Z,432.81,431.51,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+36573,403677N1223112W001,732214,2009-03-26T00:00:00Z,432.81,431.51,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,MEAN HORSES,1,Department of Water Resources
+36573,403677N1223112W001,732213,2009-01-16T00:00:00Z,432.81,431.51,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+36573,403677N1223112W001,732212,2008-10-23T00:00:00Z,432.81,431.51,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+36573,403677N1223112W001,732211,2008-08-06T00:00:00Z,432.81,431.51,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+36573,403677N1223112W001,732210,2008-03-14T00:00:00Z,432.81,431.51,0,25.2,407.61,25.2,23.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+36573,403677N1223112W001,732209,2007-10-21T00:00:00Z,432.81,431.51,0,31.9,400.91,31.9,30.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+36573,403677N1223112W001,732208,2007-08-21T00:00:00Z,432.81,431.51,0,31.9,400.91,31.9,30.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+36573,403677N1223112W001,732207,2007-08-10T00:00:00Z,432.81,431.51,0,32.8,400.01,32.8,31.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+36573,403677N1223112W001,732206,2007-03-22T00:00:00Z,432.81,431.51,0,29.1,403.71,29.1,27.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+36573,403677N1223112W001,732205,2006-10-12T00:00:00Z,432.81,431.51,0,27.1,405.71,27.1,25.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+36573,403677N1223112W001,732204,2006-08-03T00:00:00Z,432.81,431.51,0,28.1,404.71,28.1,26.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+36573,403677N1223112W001,732203,2006-03-30T00:00:00Z,432.81,431.51,0,24.9,407.91,24.9,23.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+36573,403677N1223112W001,732201,2005-10-21T00:00:00Z,432.81,431.51,0,27.9,404.91,27.9,26.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+36573,403677N1223112W001,732202,2005-08-05T00:00:00Z,432.81,431.51,0,28.5,404.31,28.5,27.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5164,Tehama County Flood Control & Water Conservation District
+36573,403677N1223112W001,732200,2005-04-06T00:00:00Z,432.81,431.51,0,25.6,407.21,25.6,24.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+36573,403677N1223112W001,732199,2004-10-25T00:00:00Z,432.81,431.51,0,27.4,405.41,27.4,26.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+36573,403677N1223112W001,732198,2004-07-30T00:00:00Z,432.81,431.51,0,28.4,404.41,28.4,27.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,SOUNDER,1,Department of Water Resources
+36573,403677N1223112W001,732197,2004-04-07T00:00:00Z,432.81,431.51,0,25.2,407.61,25.2,23.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+36573,403677N1223112W001,732196,2003-10-20T00:00:00Z,432.81,431.51,0,27.9,404.91,27.9,26.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+36573,403677N1223112W001,732195,2003-07-31T00:00:00Z,432.81,431.51,0,28.5,404.31,28.5,27.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+36573,403677N1223112W001,732194,2003-03-12T00:00:00Z,432.81,431.51,0,26,406.81,26,24.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+36573,403677N1223112W001,732192,2002-10-22T00:00:00Z,432.81,431.51,0,28.8,404.01,28.8,27.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+36573,403677N1223112W001,732193,2002-08-21T00:00:00Z,432.81,431.51,0,29.2,403.61,29.2,27.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+36573,403677N1223112W001,732191,2002-07-20T00:00:00Z,432.81,431.51,0,29.4,403.41,29.4,28.1,Pumped recently,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+36573,403677N1223112W001,732190,2002-03-21T00:00:00Z,432.81,431.51,0,26.7,406.11,26.7,25.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+36573,403677N1223112W001,732189,2001-10-08T00:00:00Z,432.81,431.51,0,29,403.81,29,27.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+36573,403677N1223112W001,732188,2001-08-28T00:00:00Z,432.81,431.51,0,29.5,403.31,29.5,28.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+36573,403677N1223112W001,732187,2001-07-15T00:00:00Z,432.81,431.51,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,TEH CO DID NOT HAVE,5164,Tehama County Flood Control & Water Conservation District
+36573,403677N1223112W001,732186,2001-03-23T00:00:00Z,432.81,431.51,0,26.4,406.41,26.4,25.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+36573,403677N1223112W001,732185,2000-10-06T00:00:00Z,432.81,431.51,0,28.2,404.61,28.2,26.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources

@@ -1,0 +1,10 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+37431,357600N1199588W001,850767,2001-10-11T00:00:00Z,494.01,493.01,0,55.4,438.61,55.4,54.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+37431,357600N1199588W001,850768,2001-01-12T00:00:00Z,494.01,493.01,0,55.6,438.41,55.6,54.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+37431,357600N1199588W001,850766,1961-03-08T00:00:00Z,494.01,493.01,0,288.3,205.71,288.3,287.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+37431,357600N1199588W001,850765,1960-10-14T00:00:00Z,494.01,493.01,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+37431,357600N1199588W001,850764,1959-10-14T00:00:00Z,494.01,493.01,0,257.3,236.71,257.3,256.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+37431,357600N1199588W001,850763,1959-04-01T00:00:00Z,494.01,493.01,0,282.1,211.91,282.1,281.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+37431,357600N1199588W001,850762,1958-10-23T00:00:00Z,494.01,493.01,0,243.1,250.91,243.1,242.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+37431,357600N1199588W001,850761,1958-04-16T00:00:00Z,494.01,493.01,0,270.9,223.11,270.9,269.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+37431,357600N1199588W001,850760,1956-05-22T00:00:00Z,494.01,493.01,0,234.2,259.81,234.2,233.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey

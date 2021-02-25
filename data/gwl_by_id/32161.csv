@@ -1,0 +1,12 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+32161,363869N1199827W001,886856,1966-12-29T00:00:00Z,222.85,222.85,0,142,80.85,142,142,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+32161,363869N1199827W001,886855,1965-12-13T00:00:00Z,222.85,222.85,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+32161,363869N1199827W001,886854,1964-12-16T00:00:00Z,222.85,222.85,0,141,81.85,141,141,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+32161,363869N1199827W001,886853,1963-12-19T00:00:00Z,222.85,222.85,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+32161,363869N1199827W001,886852,1960-10-13T00:00:00Z,222.85,222.85,0,130,92.85,130,130,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+32161,363869N1199827W001,886851,1960-05-12T00:00:00Z,222.85,222.85,0,226.6,-3.75,226.6,226.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+32161,363869N1199827W001,886850,1959-10-14T00:00:00Z,222.85,222.85,0,148.7,74.15,148.7,148.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+32161,363869N1199827W001,886849,1959-02-27T00:00:00Z,222.85,222.85,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,5167,United States Geological Survey
+32161,363869N1199827W001,886848,1958-10-21T00:00:00Z,222.85,222.85,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+32161,363869N1199827W001,886847,1958-10-16T00:00:00Z,222.85,222.85,0,117.5,105.35,117.5,117.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+32161,363869N1199827W001,886846,1958-05-09T00:00:00Z,222.85,222.85,0,102,120.85,102,102,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey

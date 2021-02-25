@@ -1,0 +1,4 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+50681,363682N1194395W001,2183090,2016-03-10T00:00:00Z,282,281,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,5155,Kaweah Delta Water Conservation District,NA,5155,Kaweah Delta Water Conservation District
+50681,363682N1194395W001,2162240,2015-10-14T00:00:00Z,282,281,NA,NA,NA,NA,NA,Pumping,NA,NA,5155,Kaweah Delta Water Conservation District,NA,5155,Kaweah Delta Water Conservation District
+50681,363682N1194395W001,2133867,2015-02-27T00:00:00Z,282,281,0,156,126,156,155,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,5155,Kaweah Delta Water Conservation District,NA,5155,Kaweah Delta Water Conservation District

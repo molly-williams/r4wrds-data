@@ -1,0 +1,67 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+49378,382047N1214809W001,2211233,2015-01-02T09:00:00Z,5.72,3.52,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,Measurment discontinued due to lack of funding.,1,Department of Water Resources
+49378,382047N1214809W001,2112250,2014-12-01T00:00:00Z,5.72,3.52,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112249,2014-11-03T00:00:00Z,5.72,3.52,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2029746,2014-10-27T12:30:00Z,5.72,3.52,2,8.4,-0.68,6.4,4.2,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112248,2014-10-27T12:30:00Z,5.72,3.52,0,8.4,-2.68,8.4,6.2,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112247,2014-09-18T12:05:00Z,5.72,3.52,0,8.6,-2.88,8.6,6.4,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112246,2014-08-15T00:00:00Z,5.72,3.52,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,1992308,2014-07-14T09:10:00Z,5.72,3.52,2,7.8,-0.08,5.8,3.6,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112245,2014-07-14T09:10:00Z,5.72,3.52,0,7.8,-2.08,7.8,5.6,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112244,2014-06-18T09:20:00Z,5.72,3.52,0,8.7,-2.98,8.7,6.5,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,1986446,2014-05-20T10:05:00Z,5.72,3.52,2,8.1,-0.38,6.1,3.9,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112243,2014-05-20T10:05:00Z,5.72,3.52,0,8.1,-2.38,8.1,5.9,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,1976850,2014-04-23T10:20:00Z,5.72,3.52,2,8.2,-0.48,6.2,4,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112242,2014-04-23T10:20:00Z,5.72,3.52,0,8.2,-2.48,8.2,6,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112241,2014-03-24T00:00:00Z,5.72,3.52,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,1884081,2014-03-03T00:00:00Z,5.72,3.52,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112240,2014-02-03T00:00:00Z,5.72,3.52,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112239,2014-01-02T00:00:00Z,5.72,3.52,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112238,2013-12-02T00:00:00Z,5.72,3.52,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112237,2013-11-01T00:00:00Z,5.72,3.52,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112236,2013-10-01T00:00:00Z,5.72,3.52,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112235,2013-09-02T00:00:00Z,5.72,3.52,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112234,2013-08-16T00:00:00Z,5.72,3.52,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112233,2013-07-16T10:05:00Z,5.72,3.52,0,7.7,-1.98,7.7,5.5,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112232,2013-06-19T09:40:00Z,5.72,3.52,0,7.8,-2.08,7.8,5.6,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112231,2013-05-14T09:50:00Z,5.72,3.52,0,8.7,-2.98,8.7,6.5,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112230,2013-04-15T00:00:00Z,5.72,3.52,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112229,2013-03-15T00:00:00Z,5.72,3.52,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112228,2013-02-15T00:00:00Z,5.72,3.52,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112227,2013-01-18T00:00:00Z,5.72,3.52,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112226,2012-12-15T00:00:00Z,5.72,3.52,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112225,2012-11-15T00:00:00Z,5.72,3.52,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112224,2012-10-15T00:00:00Z,5.72,3.52,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112223,2012-09-15T00:00:00Z,5.72,3.52,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112222,2012-08-24T00:00:00Z,5.72,3.52,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112221,2012-07-24T10:15:00Z,5.72,3.52,0,7.1,-1.38,7.1,4.9,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112220,2012-06-25T10:20:00Z,5.72,3.52,0,7.1,-1.38,7.1,4.9,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112219,2012-05-30T09:35:00Z,5.72,3.52,0,7.8,-2.08,7.8,5.6,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112218,2012-04-15T00:00:00Z,5.72,3.52,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112217,2012-03-15T00:00:00Z,5.72,3.52,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112216,2012-02-22T09:55:00Z,5.72,3.52,0,7.7,-1.98,7.7,5.5,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112215,2012-01-18T00:00:00Z,5.72,3.52,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112214,2011-12-01T00:00:00Z,5.72,3.52,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112213,2011-11-01T00:00:00Z,5.72,3.52,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112212,2011-10-26T09:35:00Z,5.72,3.52,0,8.8,-3.08,8.8,6.6,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112211,2011-09-16T10:55:00Z,5.72,3.52,0,9.1,-3.38,9.1,6.9,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112210,2011-08-17T09:15:00Z,5.72,3.52,0,8.6,-2.88,8.6,6.4,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112209,2011-07-01T00:00:00Z,5.72,3.52,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112208,2011-06-27T09:25:00Z,5.72,3.52,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,temporary fence,1,Department of Water Resources
+49378,382047N1214809W001,2112207,2011-05-01T00:00:00Z,5.72,3.52,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112206,2011-04-01T00:00:00Z,5.72,3.52,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112205,2011-03-01T00:00:00Z,5.72,3.52,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112204,2011-02-01T00:00:00Z,5.72,3.52,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112203,2011-01-02T00:00:00Z,5.72,3.52,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112202,2010-12-01T00:00:00Z,5.72,3.52,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112201,2010-11-01T00:00:00Z,5.72,3.52,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112200,2010-10-01T00:00:00Z,5.72,3.52,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112199,2010-09-27T00:00:00Z,5.72,3.52,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112198,2010-08-23T00:00:00Z,5.72,3.52,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112197,2010-07-20T10:20:00Z,5.72,3.52,0,8.8,-3.08,8.8,6.6,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112196,2010-06-29T09:35:00Z,5.72,3.52,0,8,-2.28,8,5.8,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112195,2010-05-01T00:00:00Z,5.72,3.52,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112194,2010-04-01T00:00:00Z,5.72,3.52,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112193,2010-03-01T00:00:00Z,5.72,3.52,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112192,2010-02-22T00:00:00Z,5.72,3.52,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49378,382047N1214809W001,2112191,2010-01-03T00:00:00Z,5.72,3.52,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources

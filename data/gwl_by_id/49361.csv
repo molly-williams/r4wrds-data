@@ -1,0 +1,67 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+49361,382419N1214831W001,2211223,2015-01-02T09:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,Measurment discontinued due to lack of funding.,1,Department of Water Resources
+49361,382419N1214831W001,2111237,2014-12-01T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49361,382419N1214831W001,2111236,2014-11-03T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49361,382419N1214831W001,2029736,2014-10-29T13:15:00Z,8.02,6.32,0,10,-1.98,10,8.3,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+49361,382419N1214831W001,2111235,2014-10-29T13:15:00Z,8.02,6.32,0,10,-1.98,10,8.3,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+49361,382419N1214831W001,2111234,2014-09-16T12:20:00Z,8.02,6.32,0,9.1,-1.08,9.1,7.4,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+49361,382419N1214831W001,2111233,2014-08-15T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,shovel and trimmer needed,1,Department of Water Resources
+49361,382419N1214831W001,1992298,2014-07-10T09:35:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,need trimmer and shovel,1,Department of Water Resources
+49361,382419N1214831W001,2111232,2014-07-10T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,shovel and trimmer needed,1,Department of Water Resources
+49361,382419N1214831W001,2111231,2014-06-16T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,shovel and trimmer needed,1,Department of Water Resources
+49361,382419N1214831W001,1986436,2014-05-19T10:25:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,need trimmer and shovel,1,Department of Water Resources
+49361,382419N1214831W001,2111230,2014-05-19T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,shovel and trimmer needed,1,Department of Water Resources
+49361,382419N1214831W001,1976840,2014-04-22T10:50:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,need trimmer,1,Department of Water Resources
+49361,382419N1214831W001,2111229,2014-04-22T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,shovel and trimmer needed,1,Department of Water Resources
+49361,382419N1214831W001,1884071,2014-03-24T09:40:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,need trimmer,1,Department of Water Resources
+49361,382419N1214831W001,2111228,2014-03-24T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,shovel and trimmer needed,1,Department of Water Resources
+49361,382419N1214831W001,2111227,2014-02-03T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,shovel and trimmer needed,1,Department of Water Resources
+49361,382419N1214831W001,2111226,2014-01-02T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49361,382419N1214831W001,2111225,2013-12-02T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49361,382419N1214831W001,2111224,2013-11-01T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49361,382419N1214831W001,2111223,2013-10-01T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49361,382419N1214831W001,2111222,2013-09-02T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49361,382419N1214831W001,2111221,2013-08-16T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49361,382419N1214831W001,2111220,2013-07-15T08:45:00Z,8.02,6.32,0,8.9,-0.88,8.9,7.2,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+49361,382419N1214831W001,2111219,2013-06-13T09:50:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49361,382419N1214831W001,2111218,2013-05-13T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,bring hedge trimmer,1,Department of Water Resources
+49361,382419N1214831W001,2111217,2013-04-15T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49361,382419N1214831W001,2111216,2013-03-15T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49361,382419N1214831W001,2111215,2013-02-15T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49361,382419N1214831W001,2111214,2013-01-18T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49361,382419N1214831W001,2111213,2012-12-15T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49361,382419N1214831W001,2111212,2012-11-15T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49361,382419N1214831W001,2111211,2012-10-15T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49361,382419N1214831W001,2111210,2012-09-15T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49361,382419N1214831W001,2111209,2012-08-24T10:45:00Z,8.02,6.32,0,7.9,0.12,7.9,6.2,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+49361,382419N1214831W001,2111208,2012-07-23T10:55:00Z,8.02,6.32,0,7.6,0.42,7.6,5.9,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+49361,382419N1214831W001,2111207,2012-06-26T09:50:00Z,8.02,6.32,0,7.8,0.22,7.8,6.1,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+49361,382419N1214831W001,2111206,2012-05-28T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,bring hedge trimmer,1,Department of Water Resources
+49361,382419N1214831W001,2111205,2012-04-15T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,bring hedge trimmer,1,Department of Water Resources
+49361,382419N1214831W001,2111204,2012-03-15T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,bring hedge trimmer,1,Department of Water Resources
+49361,382419N1214831W001,2111203,2012-02-15T10:00:00Z,8.02,6.32,0,7.8,0.22,7.8,6.1,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+49361,382419N1214831W001,2111202,2012-01-18T10:50:00Z,8.02,6.32,0,7.8,0.22,7.8,6.1,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+49361,382419N1214831W001,2111201,2011-12-01T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,bring hedge trimmer,1,Department of Water Resources
+49361,382419N1214831W001,2111200,2011-11-01T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,bring hedge trimmer,1,Department of Water Resources
+49361,382419N1214831W001,2111199,2011-10-24T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,bring hedge trimmer,1,Department of Water Resources
+49361,382419N1214831W001,2111198,2011-09-14T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,bring hedge trimmer,1,Department of Water Resources
+49361,382419N1214831W001,2111197,2011-08-15T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,bring hedge trimmer,1,Department of Water Resources
+49361,382419N1214831W001,2111196,2011-07-01T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49361,382419N1214831W001,2111195,2011-06-21T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,access road not mowed,1,Department of Water Resources
+49361,382419N1214831W001,2111194,2011-05-01T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49361,382419N1214831W001,2111193,2011-04-01T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49361,382419N1214831W001,2111192,2011-03-01T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49361,382419N1214831W001,2111191,2011-02-01T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49361,382419N1214831W001,2111190,2011-01-02T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49361,382419N1214831W001,2111189,2010-12-01T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,need trimmer and shovel,1,Department of Water Resources
+49361,382419N1214831W001,2111188,2010-11-01T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49361,382419N1214831W001,2111187,2010-10-01T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49361,382419N1214831W001,2111186,2010-09-27T13:00:00Z,8.02,6.32,0,8.5,-0.48,8.5,6.8,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+49361,382419N1214831W001,2111185,2010-08-23T13:45:00Z,8.02,6.32,0,7.7,0.32,7.7,6,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+49361,382419N1214831W001,2111184,2010-07-19T10:30:00Z,8.02,6.32,0,7.7,0.32,7.7,6,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+49361,382419N1214831W001,2111183,2010-06-28T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49361,382419N1214831W001,2111182,2010-05-01T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49361,382419N1214831W001,2111181,2010-04-01T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49361,382419N1214831W001,2111180,2010-03-01T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49361,382419N1214831W001,2111179,2010-02-22T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+49361,382419N1214831W001,2111178,2010-01-03T00:00:00Z,8.02,6.32,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources

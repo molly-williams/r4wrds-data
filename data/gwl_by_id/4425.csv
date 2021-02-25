@@ -1,0 +1,57 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+4425,377782N1208668W001,1676406,1996-03-27T00:00:00Z,109.48,109.48,0,21.9,87.58,21.9,21.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+4425,377782N1208668W001,1676405,1995-11-15T00:00:00Z,109.48,109.48,0,23.1,86.38,23.1,23.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+4425,377782N1208668W001,1676404,1993-10-28T00:00:00Z,109.48,109.48,0,20,89.48,20,20,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+4425,377782N1208668W001,1676403,1993-04-12T00:00:00Z,109.48,109.48,0,21.8,87.68,21.8,21.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+4425,377782N1208668W001,1676402,1992-10-20T00:00:00Z,109.48,109.48,0,20.4,89.08,20.4,20.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+4425,377782N1208668W001,1676401,1992-02-27T00:00:00Z,109.48,109.48,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+4425,377782N1208668W001,1676400,1989-11-02T00:00:00Z,109.48,109.48,0,56,53.48,56,56,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+4425,377782N1208668W001,1676399,1989-03-10T00:00:00Z,109.48,109.48,0,11.9,97.58,11.9,11.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+4425,377782N1208668W001,1676398,1988-03-10T00:00:00Z,109.48,109.48,0,11.8,97.68,11.8,11.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+4425,377782N1208668W001,1676397,1986-03-01T00:00:00Z,109.48,109.48,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,281,Oakdale Irrigation District
+4425,377782N1208668W001,1676396,1985-10-01T00:00:00Z,109.48,109.48,0,13.2,96.28,13.2,13.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,281,Oakdale Irrigation District
+4425,377782N1208668W001,1676395,1981-11-01T00:00:00Z,109.48,109.48,0,11.2,98.28,11.2,11.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,281,Oakdale Irrigation District
+4425,377782N1208668W001,1676394,1981-03-01T00:00:00Z,109.48,109.48,0,9.8,99.68,9.8,9.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,281,Oakdale Irrigation District
+4425,377782N1208668W001,1676393,1980-11-10T00:00:00Z,109.48,109.48,0,10.3,99.18,10.3,10.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,281,Oakdale Irrigation District
+4425,377782N1208668W001,1676392,1979-11-23T00:00:00Z,109.48,109.48,0,12.6,96.88,12.6,12.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,281,Oakdale Irrigation District
+4425,377782N1208668W001,1676391,1979-02-16T00:00:00Z,109.48,109.48,0,14.5,94.98,14.5,14.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,281,Oakdale Irrigation District
+4425,377782N1208668W001,1676390,1978-10-28T00:00:00Z,109.48,109.48,0,18,91.48,18,18,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,281,Oakdale Irrigation District
+4425,377782N1208668W001,1676389,1978-02-28T00:00:00Z,109.48,109.48,0,19,90.48,19,19,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,281,Oakdale Irrigation District
+4425,377782N1208668W001,1676388,1977-09-28T00:00:00Z,109.48,109.48,0,30,79.48,30,30,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,281,Oakdale Irrigation District
+4425,377782N1208668W001,1676387,1977-02-22T00:00:00Z,109.48,109.48,0,14.6,94.88,14.6,14.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,281,Oakdale Irrigation District
+4425,377782N1208668W001,1676386,1975-04-18T00:00:00Z,109.48,109.48,0,8.3,101.18,8.3,8.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,281,Oakdale Irrigation District
+4425,377782N1208668W001,1676385,1974-03-01T00:00:00Z,109.48,109.48,0,6.4,103.08,6.4,6.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,281,Oakdale Irrigation District
+4425,377782N1208668W001,1676384,1973-03-01T00:00:00Z,109.48,109.48,0,8.3,101.18,8.3,8.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,281,Oakdale Irrigation District
+4425,377782N1208668W001,1676383,1972-03-01T00:00:00Z,109.48,109.48,0,7,102.48,7,7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,281,Oakdale Irrigation District
+4425,377782N1208668W001,1676382,1971-03-01T00:00:00Z,109.48,109.48,0,6,103.48,6,6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,281,Oakdale Irrigation District
+4425,377782N1208668W001,1676381,1970-12-01T00:00:00Z,109.48,109.48,0,6.4,103.08,6.4,6.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,281,Oakdale Irrigation District
+4425,377782N1208668W001,1676380,1970-03-01T00:00:00Z,109.48,109.48,0,5.4,104.08,5.4,5.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,281,Oakdale Irrigation District
+4425,377782N1208668W001,1676379,1969-03-01T00:00:00Z,109.48,109.48,0,7.3,102.18,7.3,7.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,281,Oakdale Irrigation District
+4425,377782N1208668W001,1676378,1968-03-01T00:00:00Z,109.48,109.48,0,6.3,103.18,6.3,6.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,281,Oakdale Irrigation District
+4425,377782N1208668W001,1676377,1967-04-01T00:00:00Z,109.48,109.48,0,7.7,101.78,7.7,7.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,281,Oakdale Irrigation District
+4425,377782N1208668W001,1676376,1966-03-01T00:00:00Z,109.48,109.48,0,6.6,102.88,6.6,6.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,281,Oakdale Irrigation District
+4425,377782N1208668W001,1676375,1965-03-01T00:00:00Z,109.48,109.48,0,2.7,106.78,2.7,2.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,281,Oakdale Irrigation District
+4425,377782N1208668W001,1676374,1964-10-01T00:00:00Z,109.48,109.48,0,5.9,103.58,5.9,5.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,281,Oakdale Irrigation District
+4425,377782N1208668W001,1676373,1964-03-01T00:00:00Z,109.48,109.48,0,7.3,102.18,7.3,7.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,281,Oakdale Irrigation District
+4425,377782N1208668W001,1676372,1963-03-01T00:00:00Z,109.48,109.48,0,6.6,102.88,6.6,6.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,281,Oakdale Irrigation District
+4425,377782N1208668W001,1676371,1962-03-01T00:00:00Z,109.48,109.48,0,9.6,99.88,9.6,9.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,281,Oakdale Irrigation District
+4425,377782N1208668W001,1676370,1961-03-01T00:00:00Z,109.48,109.48,0,7.1,102.38,7.1,7.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,281,Oakdale Irrigation District
+4425,377782N1208668W001,1676369,1960-12-01T00:00:00Z,109.48,109.48,0,7.7,101.78,7.7,7.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,281,Oakdale Irrigation District
+4425,377782N1208668W001,1676368,1960-03-01T00:00:00Z,109.48,109.48,0,5.5,103.98,5.5,5.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,281,Oakdale Irrigation District
+4425,377782N1208668W001,1676367,1959-10-01T00:00:00Z,109.48,109.48,0,6.3,103.18,6.3,6.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,281,Oakdale Irrigation District
+4425,377782N1208668W001,1676366,1959-03-01T00:00:00Z,109.48,109.48,0,3.7,105.78,3.7,3.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,281,Oakdale Irrigation District
+4425,377782N1208668W001,1676365,1958-10-01T00:00:00Z,109.48,109.48,0,3.6,105.88,3.6,3.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,281,Oakdale Irrigation District
+4425,377782N1208668W001,1676364,1958-03-01T00:00:00Z,109.48,109.48,0,5,104.48,5,5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,281,Oakdale Irrigation District
+4425,377782N1208668W001,1676363,1957-10-01T00:00:00Z,109.48,109.48,0,5.8,103.68,5.8,5.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,281,Oakdale Irrigation District
+4425,377782N1208668W001,1676362,1957-03-01T00:00:00Z,109.48,109.48,0,5.6,103.88,5.6,5.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,281,Oakdale Irrigation District
+4425,377782N1208668W001,1676361,1956-10-01T00:00:00Z,109.48,109.48,0,6.7,102.78,6.7,6.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,281,Oakdale Irrigation District
+4425,377782N1208668W001,1676360,1956-03-01T00:00:00Z,109.48,109.48,0,6.2,103.28,6.2,6.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,281,Oakdale Irrigation District
+4425,377782N1208668W001,1676359,1955-10-01T00:00:00Z,109.48,109.48,0,7.2,102.28,7.2,7.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,281,Oakdale Irrigation District
+4425,377782N1208668W001,1676358,1955-03-01T00:00:00Z,109.48,109.48,0,4.5,104.98,4.5,4.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,281,Oakdale Irrigation District
+4425,377782N1208668W001,1676357,1954-10-01T00:00:00Z,109.48,109.48,0,7,102.48,7,7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,281,Oakdale Irrigation District
+4425,377782N1208668W001,1676356,1954-03-01T00:00:00Z,109.48,109.48,0,0.7,108.78,0.7,0.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,281,Oakdale Irrigation District
+4425,377782N1208668W001,1676355,1953-03-01T00:00:00Z,109.48,109.48,0,0.2,109.28,0.2,0.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,281,Oakdale Irrigation District
+4425,377782N1208668W001,1676354,1952-10-01T00:00:00Z,109.48,109.48,0,1,108.48,1,1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,281,Oakdale Irrigation District
+4425,377782N1208668W001,1676353,1952-03-01T00:00:00Z,109.48,109.48,0,1.3,108.18,1.3,1.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,281,Oakdale Irrigation District
+4425,377782N1208668W001,1676352,1951-10-01T00:00:00Z,109.48,109.48,0,3,106.48,3,3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,281,Oakdale Irrigation District
+4425,377782N1208668W001,1676351,1950-10-01T00:00:00Z,109.48,109.48,0,2.6,106.88,2.6,2.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,281,Oakdale Irrigation District

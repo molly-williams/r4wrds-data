@@ -1,0 +1,4 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+22523,360503N1191640W001,809438,2010-02-02T00:00:00Z,363.7,362.7,NA,NA,NA,NA,NA,Well has been destroyed,NA,NA,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+22523,360503N1191640W001,809437,2006-01-31T00:00:00Z,363.7,362.7,0,33,330.7,33,32,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District
+22523,360503N1191640W001,809436,1977-08-05T00:00:00Z,363.7,362.7,0,38.3,325.4,38.3,37.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5202,Porterville Irrigation District

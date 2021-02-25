@@ -1,0 +1,7 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+12767,387643N1217960W001,1237437,1985-10-15T00:00:00Z,62.98,61.48,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+12767,387643N1217960W001,1237436,1985-03-14T00:00:00Z,62.98,61.48,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+12767,387643N1217960W001,1237435,1984-10-12T00:00:00Z,62.98,61.48,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+12767,387643N1217960W001,1237434,1984-03-16T00:00:00Z,62.98,61.48,0,18.9,44.08,18.9,17.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+12767,387643N1217960W001,1237433,1983-10-12T00:00:00Z,62.98,61.48,0,21,41.98,21,19.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+12767,387643N1217960W001,1237432,1983-04-05T00:00:00Z,62.98,61.48,0,19.6,43.38,19.6,18.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation

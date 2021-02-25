@@ -1,0 +1,22 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+48391,375080N1186380W001,2625980,2020-06-03T12:17:00Z,6427,6426,0,5.77,6421.23,5.77,4.77,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,5136,Mono County,NA,5136,Mono County
+48391,375080N1186380W001,2485300,2019-11-18T10:18:00Z,6427,6426,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,5136,Mono County,"Some kind of obstruction in casing, only seem to be able to get measurement in Spring when water level is higher.",5136,Mono County
+48391,375080N1186380W001,2457381,2019-05-06T10:11:00Z,6427,6426,0,4.65,6422.35,4.65,3.65,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,5136,Mono County,NA,5136,Mono County
+48391,375080N1186380W001,2423050,2018-11-26T16:33:00Z,6427,6426,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,5136,Mono County,Roots in casing,5136,Mono County
+48391,375080N1186380W001,2294120,2018-04-30T11:00:00Z,6427,6426,0,4.28,6422.72,4.28,3.28,NA,Electric sounder measurement,Water level accuracy to nearest hundredth of a foot,5136,Mono County,NA,5136,Mono County
+48391,375080N1186380W001,2269252,2017-11-17T11:41:00Z,6427,6426,0,16.71,6410.29,16.71,15.71,NA,Electric sounder measurement,Water level accuracy to nearest hundredth of a foot,5136,Mono County,mud encountered at 14ft,5136,Mono County
+48391,375080N1186380W001,2240527,2017-04-21T09:00:00Z,6427,6426,0,4.55,6422.45,4.55,3.55,NA,Electric sounder measurement,Water level accuracy to nearest hundredth of a foot,5136,Mono County,NA,5136,Mono County
+48391,375080N1186380W001,2410050,2016-10-31T00:00:00Z,6427,6426,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,5136,Mono County,Winter snow conditions inaccessibility,5136,Mono County
+48391,375080N1186380W001,2235567,2016-06-10T13:15:00Z,6427,6426,0,7.3,6419.7,7.3,6.3,NA,Electric sounder measurement,Water level accuracy to nearest hundredth of a foot,5136,Mono County,NA,5136,Mono County
+48391,375080N1186380W001,2235566,2015-12-08T12:55:00Z,6427,6426,NA,NA,NA,NA,NA,Tape hung up,NA,NA,5136,Mono County,roots in casing at 15.9',5136,Mono County
+48391,375080N1186380W001,2158834,2015-06-23T10:35:00Z,6427,6426,0,13,6414,13,12,NA,Unknown,Water level accuracy is unknown,5136,Mono County,NA,5136,Mono County
+48391,375080N1186380W001,2158833,2014-12-05T12:25:00Z,6427,6426,0,15.5,6411.5,15.5,14.5,NA,Unknown,Water level accuracy is unknown,5136,Mono County,NA,5136,Mono County
+48391,375080N1186380W001,2158831,2014-06-04T12:20:00Z,6427,6426,0,7.2,6419.8,7.2,6.2,NA,Unknown,Water level accuracy is unknown,5136,Mono County,NA,5136,Mono County
+48391,375080N1186380W001,1824075,2013-12-06T00:00:00Z,6427,6426,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,5136,Mono County,roots in casing @15',5136,Mono County
+48391,375080N1186380W001,1745206,2013-06-09T12:20:00Z,6427,6426,0,7.5,6419.5,7.5,6.5,NA,Unknown,Water level accuracy is unknown,5136,Mono County,NA,5136,Mono County
+48391,375080N1186380W001,89755,2012-12-18T00:00:00Z,6427,6426,0,15.5,6411.5,15.5,14.5,NA,Unknown,Water level accuracy is unknown,5136,Mono County,NA,5136,Mono County
+48391,375080N1186380W001,89754,2012-06-05T12:00:00Z,6427,6426,0,6.5,6420.5,6.5,5.5,NA,Unknown,Water level accuracy is unknown,5136,Mono County,NA,5136,Mono County
+48391,375080N1186380W001,2305595,2012-04-01T00:00:00Z,6427,6426,NA,NA,NA,NA,NA,Special/Other,NA,NA,5136,Mono County,SGSI contract records unavailable,5136,Mono County
+48391,375080N1186380W001,18480,2011-12-01T15:15:00Z,6427,6426,0,17.3,6409.7,17.3,16.3,NA,Unknown,Water level accuracy is unknown,5136,Mono County,NA,5136,Mono County
+48391,375080N1186380W001,18478,2011-06-10T12:35:00Z,6427,6426,0,4.9,6422.1,4.9,3.9,NA,Unknown,Water level accuracy is unknown,5136,Mono County,NA,5136,Mono County
+48391,375080N1186380W001,18476,2010-12-01T14:10:00Z,6427,6426,0,17,6410,17,16,NA,Unknown,Water level accuracy is unknown,5136,Mono County,NA,5136,Mono County

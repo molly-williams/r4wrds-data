@@ -1,0 +1,5 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+20818,365691N1199263W001,1022152,1971-03-01T00:00:00Z,223.65,222.65,0,128,95.65,128,127,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+20818,365691N1199263W001,1022151,1970-10-19T00:00:00Z,223.65,222.65,0,134,89.65,134,133,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+20818,365691N1199263W001,1022150,1969-03-11T00:00:00Z,223.65,222.65,0,124,99.65,124,123,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+20818,365691N1199263W001,1022149,1968-03-11T00:00:00Z,223.65,222.65,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources

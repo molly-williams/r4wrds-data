@@ -1,0 +1,7 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+14066,367786N1205741W002,1130087,1962-03-28T00:00:00Z,254.34,253.34,0,371.4,-117.06,371.4,370.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+14066,367786N1205741W002,1130086,1961-05-05T00:00:00Z,254.34,253.34,0,382,-127.66,382,381,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+14066,367786N1205741W002,1130085,1960-10-12T00:00:00Z,254.34,253.34,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+14066,367786N1205741W002,1130084,1960-05-11T00:00:00Z,254.34,253.34,0,379.4,-125.06,379.4,378.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+14066,367786N1205741W002,1130083,1959-05-09T00:00:00Z,254.34,253.34,0,374,-119.66,374,373,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+14066,367786N1205741W002,1130082,1958-05-07T00:00:00Z,254.34,253.34,0,307.5,-53.16,307.5,306.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey

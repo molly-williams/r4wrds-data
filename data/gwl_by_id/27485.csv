@@ -1,0 +1,35 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+27485,375738N1206546W001,2617904,2020-03-10T10:00:00Z,274.66,274.66,0,229.5,45.16,229.5,229.5,Acoustical sounder,Acoustic or sonic sounder,Water level accuracy to nearest foot,1,Department of Water Resources,NA,1,Department of Water Resources
+27485,375738N1206546W001,2527040,2019-10-16T19:33:00Z,274.66,274.66,0,283.4,-8.74,283.4,283.4,NA,Electric sounder measurement,Water level accuracy to nearest foot,1,Department of Water Resources,NA,1,Department of Water Resources
+27485,375738N1206546W001,2452165,2019-03-20T18:18:00Z,274.66,274.66,0,262.6,12.06,262.6,262.6,NA,Steel tape measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+27485,375738N1206546W001,2431096,2018-10-07T11:00:00Z,274.66,274.66,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+27485,375738N1206546W001,2287623,2018-03-26T12:00:00Z,274.66,274.66,0,270.3,4.36,270.3,270.3,NA,Steel tape measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+27485,375738N1206546W001,2275058,2017-10-09T18:58:00Z,274.66,274.66,0,265.2,9.46,265.2,265.2,Acoustical sounder,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,0,1,Department of Water Resources
+27485,375738N1206546W001,2240670,2017-03-20T12:00:00Z,274.66,274.66,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+27485,375738N1206546W001,2216923,2016-10-17T12:00:00Z,274.66,274.66,0,264,10.66,264,264,Acoustical sounder,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+27485,375738N1206546W001,2186248,2016-03-16T00:00:00Z,274.66,274.66,0,266.8,7.86,266.8,266.8,NA,Steel tape measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+27485,375738N1206546W001,2164782,2015-10-21T00:00:00Z,274.66,274.66,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+27485,375738N1206546W001,2134040,2015-03-17T07:45:00Z,274.66,274.66,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+27485,375738N1206546W001,2135351,2015-03-17T00:00:00Z,274.66,274.66,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,Well measurement inadvertantly skipped during run,1,Department of Water Resources
+27485,375738N1206546W001,2107442,2014-10-16T00:00:00Z,274.66,274.66,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+27485,375738N1206546W001,1877216,2014-03-11T00:00:00Z,274.66,274.66,0,248.1,26.56,248.1,248.1,NA,Steel tape measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+27485,375738N1206546W001,1811829,2013-12-11T00:00:00Z,274.66,274.66,0,246.5,28.16,246.5,246.5,Acoustical sounder,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+27485,375738N1206546W001,1723290,2013-03-13T12:00:00Z,274.66,274.66,0,243.8,30.86,243.8,243.8,NA,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+27485,375738N1206546W001,78553,2012-11-06T00:00:00Z,274.66,274.66,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+27485,375738N1206546W001,65524,2012-04-09T12:00:00Z,274.66,274.66,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+27485,375738N1206546W001,1554123,2011-11-15T00:00:00Z,274.66,274.66,0,236,38.66,236,236,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+27485,375738N1206546W001,1554122,2011-03-29T00:00:00Z,274.66,274.66,0,235.7,38.96,235.7,235.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+27485,375738N1206546W001,1554121,2010-11-09T00:00:00Z,274.66,274.66,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+27485,375738N1206546W001,1554120,2009-04-28T00:00:00Z,274.66,274.66,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+27485,375738N1206546W001,1554119,2008-12-09T00:00:00Z,274.66,274.66,0,229,45.66,229,229,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+27485,375738N1206546W001,1554118,2008-03-26T00:00:00Z,274.66,274.66,0,224,50.66,224,224,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+27485,375738N1206546W001,1554117,2007-03-22T00:00:00Z,274.66,274.66,0,223,51.66,223,223,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+27485,375738N1206546W001,1554116,2006-11-21T00:00:00Z,274.66,274.66,0,220,54.66,220,220,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+27485,375738N1206546W001,1554115,2006-03-13T00:00:00Z,274.66,274.66,0,215,59.66,215,215,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+27485,375738N1206546W001,1554114,2005-04-21T00:00:00Z,274.66,274.66,0,213,61.66,213,213,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+27485,375738N1206546W001,1554113,2003-03-25T00:00:00Z,274.66,274.66,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+27485,375738N1206546W001,1554111,2002-03-14T00:00:00Z,274.66,274.66,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+27485,375738N1206546W001,1554112,2001-03-07T00:00:00Z,274.66,274.66,0,205,69.66,205,205,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+27485,375738N1206546W001,1554110,2000-03-21T00:00:00Z,274.66,274.66,0,204,70.66,204,204,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+27485,375738N1206546W001,1554109,1999-11-03T00:00:00Z,274.66,274.66,0,215,59.66,215,215,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+27485,375738N1206546W001,1554108,1999-04-14T00:00:00Z,274.66,274.66,0,207,67.66,207,207,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources

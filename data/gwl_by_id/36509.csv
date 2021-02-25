@@ -1,0 +1,15 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+36509,353080N1188357W001,767823,1966-09-27T00:00:00Z,643.78,642.78,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36509,353080N1188357W001,767822,1966-01-26T00:00:00Z,643.78,642.78,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36509,353080N1188357W001,767821,1965-09-28T00:00:00Z,643.78,642.78,0,482,161.78,482,481,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36509,353080N1188357W001,767820,1965-01-26T00:00:00Z,643.78,642.78,0,486,157.78,486,485,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36509,353080N1188357W001,767819,1964-09-22T00:00:00Z,643.78,642.78,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36509,353080N1188357W001,767818,1964-01-28T00:00:00Z,643.78,642.78,0,466,177.78,466,465,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36509,353080N1188357W001,767817,1963-09-17T00:00:00Z,643.78,642.78,0,471.9,171.88,471.9,470.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36509,353080N1188357W001,767816,1962-01-30T00:00:00Z,643.78,642.78,0,454.3,189.48,454.3,453.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36509,353080N1188357W001,767815,1961-10-06T00:00:00Z,643.78,642.78,0,434,209.78,434,433,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36509,353080N1188357W001,767814,1961-02-03T00:00:00Z,643.78,642.78,0,454.7,189.08,454.7,453.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36509,353080N1188357W001,767813,1960-10-04T00:00:00Z,643.78,642.78,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36509,353080N1188357W001,767812,1960-02-09T00:00:00Z,643.78,642.78,0,440,203.78,440,439,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36509,353080N1188357W001,767811,1959-10-01T00:00:00Z,643.78,642.78,0,440.2,203.58,440.2,439.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+36509,353080N1188357W001,767810,1957-02-18T00:00:00Z,643.78,642.78,0,418.3,225.48,418.3,417.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey

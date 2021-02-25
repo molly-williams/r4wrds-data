@@ -1,0 +1,4 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+46819,369454N1218708W003,92467,2012-10-08T12:00:00Z,127.24,128.44,NA,NA,NA,NA,NA,Well has been destroyed,NA,NA,5057,Santa Cruz County Environmental Health Services,well destroyed,5092,Soquel Creek Water District
+46819,369454N1218708W003,56202,2012-01-10T12:00:00Z,127.24,128.44,0,121.8,5.44,121.8,123,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,5057,Santa Cruz County Environmental Health Services,last reading for this well; well scheduled for replacement,5092,Soquel Creek Water District
+46819,369454N1218708W003,40111,2011-10-31T12:00:00Z,127.24,128.44,0,122.36,4.88,122.36,123.56,NA,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,5057,Santa Cruz County Environmental Health Services,NA,5092,Soquel Creek Water District

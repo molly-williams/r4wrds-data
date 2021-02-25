@@ -1,0 +1,24 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+17324,364175N1203924W001,1053191,1982-12-07T00:00:00Z,519.05,518.05,NA,NA,NA,NA,NA,Unable to locate well,NA,NA,1,Department of Water Resources,NA,5100,Westlands Water District
+17324,364175N1203924W001,1053190,1981-12-09T00:00:00Z,519.05,518.05,0,296,223.05,296,295,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+17324,364175N1203924W001,1053189,1980-12-18T00:00:00Z,519.05,518.05,0,702,-182.95,702,701,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+17324,364175N1203924W001,1053188,1979-12-17T00:00:00Z,519.05,518.05,0,721,-201.95,721,720,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+17324,364175N1203924W001,1053187,1978-12-22T00:00:00Z,519.05,518.05,0,726,-206.95,726,725,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5100,Westlands Water District
+17324,364175N1203924W001,1053186,1976-12-15T00:00:00Z,519.05,518.05,0,742,-222.95,742,741,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+17324,364175N1203924W001,1053185,1975-12-18T00:00:00Z,519.05,518.05,0,768,-248.95,768,767,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+17324,364175N1203924W001,1053184,1974-12-19T00:00:00Z,519.05,518.05,0,806,-286.95,806,805,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+17324,364175N1203924W001,1053183,1974-02-07T00:00:00Z,519.05,518.05,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+17324,364175N1203924W001,1053182,1973-02-20T00:00:00Z,519.05,518.05,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+17324,364175N1203924W001,1053181,1972-01-05T00:00:00Z,519.05,518.05,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+17324,364175N1203924W001,1053180,1970-12-17T00:00:00Z,519.05,518.05,0,832,-312.95,832,831,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+17324,364175N1203924W001,1053179,1968-12-18T00:00:00Z,519.05,518.05,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+17324,364175N1203924W001,1053178,1967-12-18T00:00:00Z,519.05,518.05,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+17324,364175N1203924W001,1053177,1966-12-30T00:00:00Z,519.05,518.05,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+17324,364175N1203924W001,1053176,1965-12-13T00:00:00Z,519.05,518.05,0,826,-306.95,826,825,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+17324,364175N1203924W001,1053175,1964-12-15T00:00:00Z,519.05,518.05,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+17324,364175N1203924W001,1053174,1963-12-19T00:00:00Z,519.05,518.05,NA,NA,NA,NA,NA,Can't get tape in casing,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+17324,364175N1203924W001,1053173,1962-03-26T00:00:00Z,519.05,518.05,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+17324,364175N1203924W001,1053172,1960-10-12T00:00:00Z,519.05,518.05,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+17324,364175N1203924W001,1053171,1960-05-11T00:00:00Z,519.05,518.05,0,784,-264.95,784,783,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+17324,364175N1203924W001,1053170,1959-05-05T00:00:00Z,519.05,518.05,0,764,-244.95,764,763,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+17324,364175N1203924W001,1053169,1958-05-07T00:00:00Z,519.05,518.05,0,698.3,-179.25,698.3,697.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey

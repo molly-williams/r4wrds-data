@@ -1,0 +1,5 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+20473,362850N1201893W001,908043,1960-10-13T00:00:00Z,362.98,362.98,NA,NA,NA,NA,NA,Tape hung up,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+20473,362850N1201893W001,908042,1959-10-15T00:00:00Z,362.98,362.98,0,465.2,-102.22,465.2,465.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+20473,362850N1201893W001,908041,1958-10-24T00:00:00Z,362.98,362.98,0,464.4,-101.42,464.4,464.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+20473,362850N1201893W001,908040,1958-05-09T00:00:00Z,362.98,362.98,0,455.7,-92.72,455.7,455.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey

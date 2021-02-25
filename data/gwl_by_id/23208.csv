@@ -1,0 +1,31 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+23208,357792N1194582W001,853553,1981-01-26T00:00:00Z,217.12,213.62,NA,NA,NA,NA,NA,Well has been destroyed,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23208,357792N1194582W001,853552,1980-09-22T00:00:00Z,217.12,213.62,NA,NA,NA,NA,NA,Unable to locate well,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23208,357792N1194582W001,853551,1980-01-16T00:00:00Z,217.12,213.62,0,220.5,-3.38,220.5,217,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23208,357792N1194582W001,853550,1979-09-24T00:00:00Z,217.12,213.62,0,302,-84.88,302,298.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23208,357792N1194582W001,853549,1979-01-25T00:00:00Z,217.12,213.62,0,203.2,13.92,203.2,199.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23208,357792N1194582W001,853548,1978-10-10T00:00:00Z,217.12,213.62,0,300,-82.88,300,296.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23208,357792N1194582W001,853547,1978-02-01T00:00:00Z,217.12,213.62,0,271,-53.88,271,267.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23208,357792N1194582W001,853546,1977-10-12T00:00:00Z,217.12,213.62,0,295,-77.88,295,291.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23208,357792N1194582W001,853545,1977-06-01T00:00:00Z,217.12,213.62,0,265.7,-48.58,265.7,262.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23208,357792N1194582W001,853544,1977-02-01T00:00:00Z,217.12,213.62,0,246.5,-29.38,246.5,243,Oil or foreign substance in casing,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23208,357792N1194582W001,853543,1976-10-06T00:00:00Z,217.12,213.62,0,272.2,-55.08,272.2,268.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23208,357792N1194582W001,853542,1976-01-26T00:00:00Z,217.12,213.62,0,243,-25.88,243,239.5,Oil or foreign substance in casing,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23208,357792N1194582W001,853541,1975-09-23T00:00:00Z,217.12,213.62,0,278,-60.88,278,274.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23208,357792N1194582W001,853540,1975-01-23T00:00:00Z,217.12,213.62,0,235.2,-18.08,235.2,231.7,Oil or foreign substance in casing,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23208,357792N1194582W001,853539,1974-09-25T00:00:00Z,217.12,213.62,0,319,-101.88,319,315.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+23208,357792N1194582W001,853538,1974-01-30T00:00:00Z,217.12,213.62,0,258.5,-41.38,258.5,255,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+23208,357792N1194582W001,853537,1974-01-28T00:00:00Z,217.12,213.62,0,201.2,15.92,201.2,197.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23208,357792N1194582W001,853536,1973-10-12T00:00:00Z,217.12,213.62,0,310,-92.88,310,306.5,Oil or foreign substance in casing,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+23208,357792N1194582W001,853535,1973-09-24T00:00:00Z,217.12,213.62,0,280.2,-63.08,280.2,276.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23208,357792N1194582W001,853534,1973-02-09T00:00:00Z,217.12,213.62,0,247,-29.88,247,243.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+23208,357792N1194582W001,853533,1973-01-29T00:00:00Z,217.12,213.62,0,222.8,-5.68,222.8,219.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23208,357792N1194582W001,853532,1972-10-13T00:00:00Z,217.12,213.62,0,310,-92.88,310,306.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+23208,357792N1194582W001,853531,1972-09-25T00:00:00Z,217.12,213.62,0,281,-63.88,281,277.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23208,357792N1194582W001,853530,1972-02-10T00:00:00Z,217.12,213.62,0,236,-18.88,236,232.5,Oil or foreign substance in casing,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+23208,357792N1194582W001,853529,1972-01-24T00:00:00Z,217.12,213.62,0,202,15.12,202,198.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23208,357792N1194582W001,853528,1971-09-20T00:00:00Z,217.12,213.62,NA,NA,NA,NA,NA,Unable to locate well,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23208,357792N1194582W001,853527,1971-01-26T00:00:00Z,217.12,213.62,0,201.8,15.32,201.8,198.3,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23208,357792N1194582W001,853526,1970-09-21T00:00:00Z,217.12,213.62,0,256.7,-39.58,256.7,253.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23208,357792N1194582W001,853525,1970-01-26T00:00:00Z,217.12,213.62,0,193,24.12,193,189.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+23208,357792N1194582W001,853524,1969-01-30T00:00:00Z,217.12,213.62,0,200,17.12,200,196.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation

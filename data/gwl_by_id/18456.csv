@@ -1,0 +1,6 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+18456,363131N1202116W001,885462,1968-12-19T00:00:00Z,339.02,339.02,NA,NA,NA,NA,NA,Measurement Discontinued,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+18456,363131N1202116W001,885461,1960-10-11T00:00:00Z,339.02,339.02,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+18456,363131N1202116W001,885460,1960-05-10T00:00:00Z,339.02,339.02,0,379,-39.98,379,379,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+18456,363131N1202116W001,885459,1959-05-07T00:00:00Z,339.02,339.02,0,390.8,-51.78,390.8,390.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey
+18456,363131N1202116W001,885458,1958-05-08T00:00:00Z,339.02,339.02,0,355,-15.98,355,355,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5167,United States Geological Survey

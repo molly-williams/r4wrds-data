@@ -1,0 +1,79 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+35295,358886N1190809W001,2617880,2020-03-12T19:36:00Z,502.71,502.71,0,445.8,56.91,445.8,445.8,Acoustical sounder,Acoustic or sonic sounder,Water level accuracy to nearest foot,1,Department of Water Resources,NA,1,Department of Water Resources
+35295,358886N1190809W001,2494248,2019-10-01T03:11:00Z,502.71,502.71,0,500,2.71,500,500,Acoustical sounder,Acoustic or sonic sounder,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+35295,358886N1190809W001,2454649,2019-03-04T20:46:00Z,502.71,502.71,0,429.3,73.41,429.3,429.3,Acoustical sounder,Acoustic or sonic sounder,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,0,1,Department of Water Resources
+35295,358886N1190809W001,2430914,2018-10-01T20:03:00Z,502.71,502.71,0,513,-10.29,513,513,Acoustical sounder,Electric sounder measurement,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,new coordinates,1,Department of Water Resources
+35295,358886N1190809W001,2287672,2018-03-05T12:00:00Z,502.71,502.71,0,435,67.71,435,435,NA,Acoustic or sonic sounder,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+35295,358886N1190809W001,2275231,2017-10-17T18:41:00Z,502.71,502.71,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,Moved location,1,Department of Water Resources
+35295,358886N1190809W001,2241347,2017-03-13T12:00:00Z,502.71,502.71,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,Pumping,1,Department of Water Resources
+35295,358886N1190809W001,2187777,2016-03-08T12:00:00Z,502.71,502.71,0,436,66.71,436,436,Acoustical sounder,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+35295,358886N1190809W001,2176477,2015-10-05T12:00:00Z,502.71,502.71,0,529,-26.29,529,529,Acoustical sounder,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+35295,358886N1190809W001,2134648,2015-03-02T09:45:00Z,502.71,502.71,0,425,77.71,425,425,Acoustical sounder,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+35295,358886N1190809W001,2107324,2014-09-29T12:00:00Z,502.71,502.71,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+35295,358886N1190809W001,1882096,2014-01-13T12:00:00Z,502.71,502.71,0,431,71.71,431,431,Acoustical sounder,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+35295,358886N1190809W001,1811811,2013-10-07T12:00:00Z,502.71,502.71,0,472,30.71,472,472,Acoustical sounder,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+35295,358886N1190809W001,1723539,2013-01-15T12:00:00Z,502.71,502.71,0,421,81.71,421,421,Acoustical sounder,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+35295,358886N1190809W001,1704011,2012-10-08T00:00:00Z,502.71,502.71,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+35295,358886N1190809W001,65628,2012-01-24T12:00:00Z,502.71,502.71,0,403,99.71,403,403,Acoustical sounder,Unknown,Water level accuracy to nearest tenth of a foot,1,Department of Water Resources,NA,1,Department of Water Resources
+35295,358886N1190809W001,827714,2011-10-17T00:00:00Z,502.71,502.71,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+35295,358886N1190809W001,827713,2011-01-10T00:00:00Z,502.71,502.71,0,396,106.71,396,396,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35295,358886N1190809W001,827712,2010-10-25T00:00:00Z,502.71,502.71,0,417,85.71,417,417,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35295,358886N1190809W001,827711,2010-01-11T00:00:00Z,502.71,502.71,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+35295,358886N1190809W001,827710,2009-10-26T00:00:00Z,502.71,502.71,0,421,81.71,421,421,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35295,358886N1190809W001,827708,2009-01-15T00:00:00Z,502.71,502.71,0,384,118.71,384,384,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35295,358886N1190809W001,827707,2008-10-06T00:00:00Z,502.71,502.71,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+35295,358886N1190809W001,827706,2008-01-29T00:00:00Z,502.71,502.71,0,381,121.71,381,381,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35295,358886N1190809W001,827705,2007-10-15T00:00:00Z,502.71,502.71,0,426,76.71,426,426,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35295,358886N1190809W001,827704,2007-01-08T00:00:00Z,502.71,502.71,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+35295,358886N1190809W001,827709,2006-10-16T00:00:00Z,502.71,502.71,0,367,135.71,367,367,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35295,358886N1190809W001,827703,2006-01-09T00:00:00Z,502.71,502.71,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+35295,358886N1190809W001,827702,2005-10-17T00:00:00Z,502.71,502.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+35295,358886N1190809W001,827701,2005-02-15T00:00:00Z,502.71,502.71,0,381,121.71,381,381,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35295,358886N1190809W001,827700,2004-11-25T00:00:00Z,502.71,502.71,0,422,80.71,422,422,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35295,358886N1190809W001,827699,2004-01-29T00:00:00Z,502.71,502.71,0,373,129.71,373,373,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35295,358886N1190809W001,827698,2003-10-31T00:00:00Z,502.71,502.71,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1,Department of Water Resources
+35295,358886N1190809W001,827696,2003-01-31T00:00:00Z,502.71,502.71,0,370,132.71,370,370,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35295,358886N1190809W001,827697,2002-11-14T00:00:00Z,502.71,502.71,0,406,96.71,406,406,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35295,358886N1190809W001,827694,2002-01-11T00:00:00Z,502.71,502.71,0,374,128.71,374,374,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,P-35,1,Department of Water Resources
+35295,358886N1190809W001,827693,2001-10-04T00:00:00Z,502.71,502.71,0,439,63.71,439,439,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35295,358886N1190809W001,827695,2001-01-26T00:00:00Z,502.71,502.71,0,382,120.71,382,382,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35295,358886N1190809W001,827692,2000-01-07T00:00:00Z,502.71,502.71,0,393,109.71,393,393,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35295,358886N1190809W001,827691,1999-10-07T00:00:00Z,502.71,502.71,0,430,72.71,430,430,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35295,358886N1190809W001,827690,1998-10-09T00:00:00Z,502.71,502.71,0,435,67.71,435,435,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35295,358886N1190809W001,827689,1998-01-09T00:00:00Z,502.71,502.71,0,389,113.71,389,389,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1,Department of Water Resources
+35295,358886N1190809W001,827688,1997-10-10T00:00:00Z,502.71,502.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1070,TENNECO-WEST
+35295,358886N1190809W001,827687,1997-01-10T00:00:00Z,502.71,502.71,0,394,108.71,394,394,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1070,TENNECO-WEST
+35295,358886N1190809W001,827686,1996-10-10T00:00:00Z,502.71,502.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1070,TENNECO-WEST
+35295,358886N1190809W001,827685,1995-10-06T00:00:00Z,502.71,502.71,0,435,67.71,435,435,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1070,TENNECO-WEST
+35295,358886N1190809W001,827684,1995-02-14T00:00:00Z,502.71,502.71,0,374,128.71,374,374,Casing leaking or wet,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1070,TENNECO-WEST
+35295,358886N1190809W001,827683,1994-01-28T00:00:00Z,502.71,502.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,1070,TENNECO-WEST
+35295,358886N1190809W001,827682,1993-10-08T00:00:00Z,502.71,502.71,0,431,71.71,431,431,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1070,TENNECO-WEST
+35295,358886N1190809W001,827681,1993-01-29T00:00:00Z,502.71,502.71,0,423,79.71,423,423,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1070,TENNECO-WEST
+35295,358886N1190809W001,827680,1992-10-09T00:00:00Z,502.71,502.71,0,478,24.71,478,478,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1070,TENNECO-WEST
+35295,358886N1190809W001,827679,1992-01-31T00:00:00Z,502.71,502.71,0,374,128.71,374,374,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1070,TENNECO-WEST
+35295,358886N1190809W001,827678,1991-10-04T00:00:00Z,502.71,502.71,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1070,TENNECO-WEST
+35295,358886N1190809W001,827677,1991-02-01T00:00:00Z,502.71,502.71,0,390,112.71,390,390,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1070,TENNECO-WEST
+35295,358886N1190809W001,827676,1990-10-05T00:00:00Z,502.71,502.71,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1070,TENNECO-WEST
+35295,358886N1190809W001,827675,1990-01-26T00:00:00Z,502.71,502.71,0,370,132.71,370,370,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1070,TENNECO-WEST
+35295,358886N1190809W001,827674,1989-10-06T00:00:00Z,502.71,502.71,0,412,90.71,412,412,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1070,TENNECO-WEST
+35295,358886N1190809W001,827673,1989-02-07T00:00:00Z,502.71,502.71,0,369,133.71,369,369,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1070,TENNECO-WEST
+35295,358886N1190809W001,827672,1988-10-11T00:00:00Z,502.71,502.71,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1070,TENNECO-WEST
+35295,358886N1190809W001,827671,1988-02-09T00:00:00Z,502.71,502.71,0,403,99.71,403,403,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1070,TENNECO-WEST
+35295,358886N1190809W001,827670,1987-10-15T00:00:00Z,502.71,502.71,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1070,TENNECO-WEST
+35295,358886N1190809W001,827669,1987-02-06T00:00:00Z,502.71,502.71,0,370,132.71,370,370,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1070,TENNECO-WEST
+35295,358886N1190809W001,827668,1986-10-06T00:00:00Z,502.71,502.71,0,420,82.71,420,420,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35295,358886N1190809W001,827667,1986-02-04T00:00:00Z,502.71,502.71,0,371,131.71,371,371,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35295,358886N1190809W001,827666,1985-11-01T00:00:00Z,502.71,502.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35295,358886N1190809W001,827665,1985-02-13T00:00:00Z,502.71,502.71,0,368,134.71,368,368,Acoustical sounder,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35295,358886N1190809W001,827664,1984-10-01T00:00:00Z,502.71,502.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35295,358886N1190809W001,827663,1984-03-06T00:00:00Z,502.71,502.71,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35295,358886N1190809W001,827662,1983-10-30T00:00:00Z,502.71,502.71,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35295,358886N1190809W001,827661,1983-02-01T00:00:00Z,502.71,502.71,0,354,148.71,354,354,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1070,TENNECO-WEST
+35295,358886N1190809W001,827660,1982-08-09T00:00:00Z,502.71,502.71,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,1070,TENNECO-WEST
+35295,358886N1190809W001,827659,1982-01-25T00:00:00Z,502.71,502.71,0,391,111.71,391,391,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35295,358886N1190809W001,827658,1981-08-12T00:00:00Z,502.71,502.71,0,495,7.71,495,495,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+35295,358886N1190809W001,827657,1981-01-26T00:00:00Z,502.71,502.71,0,393,109.71,393,393,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1070,TENNECO-WEST
+35295,358886N1190809W001,827656,1980-08-26T00:00:00Z,502.71,502.71,0,488,14.71,488,488,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1070,TENNECO-WEST
+35295,358886N1190809W001,827655,1980-02-11T00:00:00Z,502.71,502.71,0,388,114.71,388,388,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1070,TENNECO-WEST
+35295,358886N1190809W001,827654,1979-09-04T00:00:00Z,502.71,502.71,0,473,29.71,473,473,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1070,TENNECO-WEST
+35295,358886N1190809W001,827653,1979-01-23T00:00:00Z,502.71,502.71,0,399,103.71,399,399,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1117,UNKNOWN AGENCY

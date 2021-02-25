@@ -1,0 +1,54 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+22165,357172N1192337W001,860839,2004-11-08T00:00:00Z,321.65,320.65,0,201.8,119.85,201.8,200.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+22165,357172N1192337W001,860837,2004-01-26T00:00:00Z,321.65,320.65,0,164.9,156.75,164.9,163.9,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+22165,357172N1192337W001,860838,2003-11-13T00:00:00Z,321.65,320.65,0,182.1,139.55,182.1,181.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+22165,357172N1192337W001,860835,2002-01-24T00:00:00Z,321.65,320.65,0,161.6,160.05,161.6,160.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+22165,357172N1192337W001,860834,2001-10-08T00:00:00Z,321.65,320.65,0,207.6,114.05,207.6,206.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+22165,357172N1192337W001,860836,2001-01-16T00:00:00Z,321.65,320.65,0,151.5,170.15,151.5,150.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+22165,357172N1192337W001,860833,2000-01-14T00:00:00Z,321.65,320.65,0,146.7,174.95,146.7,145.7,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+22165,357172N1192337W001,860832,1999-10-14T00:00:00Z,321.65,320.65,0,172.5,149.15,172.5,171.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+22165,357172N1192337W001,860831,1999-01-29T00:00:00Z,321.65,320.65,0,140,181.65,140,139,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+22165,357172N1192337W001,860830,1998-10-27T00:00:00Z,321.65,320.65,0,165.6,156.05,165.6,164.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+22165,357172N1192337W001,860829,1998-02-10T00:00:00Z,321.65,320.65,0,152.4,169.25,152.4,151.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+22165,357172N1192337W001,860828,1997-10-15T00:00:00Z,321.65,320.65,0,178.6,143.05,178.6,177.6,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,1082,VENTURA COUNTY FLOOD CONTROL DISTRICT
+22165,357172N1192337W001,860827,1997-01-30T00:00:00Z,321.65,320.65,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,1082,VENTURA COUNTY FLOOD CONTROL DISTRICT
+22165,357172N1192337W001,860826,1996-10-09T00:00:00Z,321.65,320.65,NA,NA,NA,NA,NA,Special/Other,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+22165,357172N1192337W001,860825,1996-01-31T00:00:00Z,321.65,320.65,0,164.4,157.25,164.4,163.4,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+22165,357172N1192337W001,860824,1995-10-11T00:00:00Z,321.65,320.65,0,187.5,134.15,187.5,186.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+22165,357172N1192337W001,860823,1995-02-22T00:00:00Z,321.65,320.65,0,172.5,149.15,172.5,171.5,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+22165,357172N1192337W001,860822,1994-10-11T00:00:00Z,321.65,320.65,0,233.1,88.55,233.1,232.1,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+22165,357172N1192337W001,860821,1994-02-04T00:00:00Z,321.65,320.65,NA,NA,NA,NA,NA,Pump house locked,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+22165,357172N1192337W001,860820,1993-10-14T00:00:00Z,321.65,320.65,0,185.8,135.85,185.8,184.8,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+22165,357172N1192337W001,860819,1993-02-19T00:00:00Z,321.65,320.65,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+22165,357172N1192337W001,860818,1992-10-26T00:00:00Z,321.65,320.65,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+22165,357172N1192337W001,860817,1992-02-11T00:00:00Z,321.65,320.65,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+22165,357172N1192337W001,860816,1991-10-08T00:00:00Z,321.65,320.65,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+22165,357172N1192337W001,860815,1991-02-06T00:00:00Z,321.65,320.65,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+22165,357172N1192337W001,860814,1990-10-12T00:00:00Z,321.65,320.65,0,198,123.65,198,197,Pumping,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+22165,357172N1192337W001,860813,1990-01-29T00:00:00Z,321.65,320.65,NA,NA,NA,NA,NA,Pump house locked,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+22165,357172N1192337W001,860812,1989-10-13T00:00:00Z,321.65,320.65,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+22165,357172N1192337W001,860811,1989-01-26T00:00:00Z,321.65,320.65,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+22165,357172N1192337W001,860810,1988-10-20T00:00:00Z,321.65,320.65,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+22165,357172N1192337W001,860809,1988-02-22T00:00:00Z,321.65,320.65,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+22165,357172N1192337W001,860808,1987-10-06T00:00:00Z,321.65,320.65,0,152,169.65,152,151,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+22165,357172N1192337W001,860807,1987-01-26T00:00:00Z,321.65,320.65,0,104,217.65,104,103,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+22165,357172N1192337W001,860806,1986-10-08T00:00:00Z,321.65,320.65,0,119,202.65,119,118,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22165,357172N1192337W001,860805,1986-01-30T00:00:00Z,321.65,320.65,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22165,357172N1192337W001,860804,1985-10-04T00:00:00Z,321.65,320.65,0,155,166.65,155,154,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22165,357172N1192337W001,860803,1985-01-22T00:00:00Z,321.65,320.65,0,122,199.65,122,121,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22165,357172N1192337W001,860802,1984-10-09T00:00:00Z,321.65,320.65,0,150,171.65,150,149,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22165,357172N1192337W001,860801,1984-01-26T00:00:00Z,321.65,320.65,0,114,207.65,114,113,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22165,357172N1192337W001,860800,1983-09-29T00:00:00Z,321.65,320.65,0,131,190.65,131,130,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22165,357172N1192337W001,860799,1983-02-08T00:00:00Z,321.65,320.65,0,153,168.65,153,152,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+22165,357172N1192337W001,860798,1982-09-30T00:00:00Z,321.65,320.65,0,159,162.65,159,158,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+22165,357172N1192337W001,860797,1982-01-28T00:00:00Z,321.65,320.65,0,154,167.65,154,153,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22165,357172N1192337W001,860796,1981-09-21T00:00:00Z,321.65,320.65,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+22165,357172N1192337W001,860795,1981-02-17T00:00:00Z,321.65,320.65,0,148,173.65,148,147,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+22165,357172N1192337W001,860794,1980-09-29T00:00:00Z,321.65,320.65,0,169,152.65,169,168,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+22165,357172N1192337W001,860793,1980-02-07T00:00:00Z,321.65,320.65,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+22165,357172N1192337W001,860792,1979-09-25T00:00:00Z,321.65,320.65,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,423,Kern County Water Agency
+22165,357172N1192337W001,860791,1979-01-31T00:00:00Z,321.65,320.65,0,161,160.65,161,160,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+22165,357172N1192337W001,860790,1978-10-03T00:00:00Z,321.65,320.65,0,217,104.65,217,216,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+22165,357172N1192337W001,860789,1978-02-06T00:00:00Z,321.65,320.65,0,187,134.65,187,186,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+22165,357172N1192337W001,860788,1977-10-05T00:00:00Z,321.65,320.65,0,249,72.65,249,248,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency
+22165,357172N1192337W001,860787,1976-10-05T00:00:00Z,321.65,320.65,0,215,106.65,215,214,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,423,Kern County Water Agency

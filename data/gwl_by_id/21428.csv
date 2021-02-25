@@ -1,0 +1,5 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+21428,350981N1191051W001,663871,1986-10-01T00:00:00Z,360.4,360.4,0,0,360.4,0,0,Air or pressure gauge measurement,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5042,Wheeler Ridge-Maricopa Water Storage District
+21428,350981N1191051W001,663870,1986-01-01T00:00:00Z,360.4,360.4,0,170,190.4,170,170,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5042,Wheeler Ridge-Maricopa Water Storage District
+21428,350981N1191051W001,663869,1982-12-01T00:00:00Z,360.4,360.4,0,187,173.4,187,187,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5042,Wheeler Ridge-Maricopa Water Storage District
+21428,350981N1191051W001,663868,1981-12-01T00:00:00Z,360.4,360.4,0,192,168.4,192,192,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5042,Wheeler Ridge-Maricopa Water Storage District

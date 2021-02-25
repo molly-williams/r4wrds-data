@@ -1,0 +1,68 @@
+STN_ID,SITE_CODE,WLM_ID,MSMT_DATE,WLM_RPE,WLM_GSE,RDNG_WS,RDNG_RP,WSE,RPE_WSE,GSE_WSE,WLM_QA_DESC,WLM_DESC,WLM_ACC_DESC,WLM_ORG_ID,WLM_ORG_NAME,MSMT_CMT,COOP_AGENCY_ORG_ID,COOP_ORG_NAME
+20191,358447N1192595W001,839324,1991-10-02T00:00:00Z,298.66,297.66,NA,NA,NA,NA,NA,Well has been destroyed,NA,NA,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839323,1991-01-29T00:00:00Z,298.66,297.66,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839322,1990-10-03T00:00:00Z,298.66,297.66,0,93,205.66,93,92,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839321,1990-02-09T00:00:00Z,298.66,297.66,0,74,224.66,74,73,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839320,1989-10-05T00:00:00Z,298.66,297.66,0,79,219.66,79,78,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839319,1989-01-27T00:00:00Z,298.66,297.66,0,71,227.66,71,70,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839318,1988-10-05T00:00:00Z,298.66,297.66,0,81,217.66,81,80,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839317,1988-02-04T00:00:00Z,298.66,297.66,0,68,230.66,68,67,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839316,1987-10-07T00:00:00Z,298.66,297.66,0,74,224.66,74,73,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839315,1987-02-04T00:00:00Z,298.66,297.66,0,64,234.66,64,63,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839314,1986-09-30T00:00:00Z,298.66,297.66,0,66,232.66,66,65,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+20191,358447N1192595W001,839313,1986-02-04T00:00:00Z,298.66,297.66,0,68,230.66,68,67,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+20191,358447N1192595W001,839312,1985-10-08T00:00:00Z,298.66,297.66,0,72,226.66,72,71,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+20191,358447N1192595W001,839311,1985-01-29T00:00:00Z,298.66,297.66,0,65,233.66,65,64,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+20191,358447N1192595W001,839310,1984-10-04T00:00:00Z,298.66,297.66,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+20191,358447N1192595W001,839309,1984-02-01T00:00:00Z,298.66,297.66,NA,NA,NA,NA,NA,Pumping,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+20191,358447N1192595W001,839308,1983-09-28T00:00:00Z,298.66,297.66,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+20191,358447N1192595W001,839307,1983-01-31T00:00:00Z,298.66,297.66,NA,NA,NA,NA,NA,Pump house locked,NA,NA,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839306,1982-09-28T00:00:00Z,298.66,297.66,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839305,1982-01-26T00:00:00Z,298.66,297.66,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+20191,358447N1192595W001,839304,1981-09-23T00:00:00Z,298.66,297.66,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,624,Bureau of Reclamation
+20191,358447N1192595W001,839303,1981-01-28T00:00:00Z,298.66,297.66,NA,NA,NA,NA,NA,Temporarily inaccessible,NA,NA,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839302,1980-09-26T00:00:00Z,298.66,297.66,0,109,189.66,109,108,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839301,1980-01-24T00:00:00Z,298.66,297.66,0,97,201.66,97,96,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839300,1979-09-21T00:00:00Z,298.66,297.66,0,115,183.66,115,114,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839299,1979-01-26T00:00:00Z,298.66,297.66,0,99,199.66,99,98,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839298,1978-10-05T00:00:00Z,298.66,297.66,0,111,187.66,111,110,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839297,1978-01-26T00:00:00Z,298.66,297.66,0,102,196.66,102,101,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839296,1977-10-07T00:00:00Z,298.66,297.66,0,116,182.66,116,115,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839295,1977-01-27T00:00:00Z,298.66,297.66,0,99,199.66,99,98,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839294,1976-10-11T00:00:00Z,298.66,297.66,0,109,189.66,109,108,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839293,1976-01-19T00:00:00Z,298.66,297.66,0,94,204.66,94,93,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839292,1975-09-24T00:00:00Z,298.66,297.66,0,103,195.66,103,102,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839291,1975-01-29T00:00:00Z,298.66,297.66,0,96,202.66,96,95,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839290,1974-10-01T00:00:00Z,298.66,297.66,0,103,195.66,103,102,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839289,1974-02-15T00:00:00Z,298.66,297.66,0,89,209.66,89,88,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839288,1973-10-01T00:00:00Z,298.66,297.66,0,106,192.66,106,105,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839287,1973-01-31T00:00:00Z,298.66,297.66,0,90,208.66,90,89,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839286,1972-09-28T00:00:00Z,298.66,297.66,0,118,180.66,118,117,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839285,1972-01-28T00:00:00Z,298.66,297.66,0,87,211.66,87,86,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839284,1971-09-22T00:00:00Z,298.66,297.66,0,106,192.66,106,105,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839283,1971-01-28T00:00:00Z,298.66,297.66,0,89,209.66,89,88,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839282,1970-09-23T00:00:00Z,298.66,297.66,0,117,181.66,117,116,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839281,1970-01-30T00:00:00Z,298.66,297.66,0,85,213.66,85,84,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839280,1969-09-25T00:00:00Z,298.66,297.66,0,107,191.66,107,106,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+20191,358447N1192595W001,839279,1969-01-29T00:00:00Z,298.66,297.66,0,104,194.66,104,103,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839278,1968-01-30T00:00:00Z,298.66,297.66,0,98,200.66,98,97,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839277,1967-02-07T00:00:00Z,298.66,297.66,0,104,194.66,104,103,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839276,1966-02-03T00:00:00Z,298.66,297.66,0,100,198.66,100,99,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839275,1965-02-01T00:00:00Z,298.66,297.66,0,107,191.66,107,106,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839274,1964-09-29T00:00:00Z,298.66,297.66,0,135,163.66,135,134,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839273,1964-02-04T00:00:00Z,298.66,297.66,0,108,190.66,108,107,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839272,1963-09-23T00:00:00Z,298.66,297.66,0,121,177.66,121,120,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839271,1963-02-07T00:00:00Z,298.66,297.66,0,116,182.66,116,115,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839270,1962-10-08T00:00:00Z,298.66,297.66,0,130,168.66,130,129,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839269,1962-02-05T00:00:00Z,298.66,297.66,0,123,175.66,123,122,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839268,1961-09-27T00:00:00Z,298.66,297.66,0,163,135.66,163,162,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839267,1961-02-08T00:00:00Z,298.66,297.66,0,117,181.66,117,116,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839266,1960-09-26T00:00:00Z,298.66,297.66,0,160,138.66,160,159,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839265,1960-02-10T00:00:00Z,298.66,297.66,0,116,182.66,116,115,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,5195,Delano Earlimart ID
+20191,358447N1192595W001,839264,1959-09-29T00:00:00Z,298.66,297.66,0,141,157.66,141,140,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+20191,358447N1192595W001,839263,1959-02-02T00:00:00Z,298.66,297.66,0,112,186.66,112,111,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+20191,358447N1192595W001,839262,1958-10-03T00:00:00Z,298.66,297.66,0,121,177.66,121,120,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+20191,358447N1192595W001,839261,1958-02-15T00:00:00Z,298.66,297.66,0,132.2,166.46,132.2,131.2,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+20191,358447N1192595W001,839260,1958-02-12T00:00:00Z,298.66,297.66,0,120,178.66,120,119,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+20191,358447N1192595W001,839259,1957-10-02T00:00:00Z,298.66,297.66,0,138,160.66,138,137,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
+20191,358447N1192595W001,839258,1957-02-18T00:00:00Z,298.66,297.66,0,127,171.66,127,126,NA,Unknown,Water level accuracy is unknown,1,Department of Water Resources,NA,624,Bureau of Reclamation
