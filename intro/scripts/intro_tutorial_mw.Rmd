@@ -1,0 +1,539 @@
+---
+title: "mw_tutorial"
+author: "Molly Williams"
+date: "8/10/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Load packages and data
+
+```{r}
+library(tidyverse)
+library(here)
+
+stations <- read_csv(here("intro/data/gwl/stations.csv"))
+
+install.packages("readxl")
+library(readxl)
+
+ces <- read_xlsx(here("intro/data/calenviroscreen/ces3results.xlsx"))
+
+# by default, read_xlsx() only reads the first sheet in a file
+metadata <- read_xlsx(here("intro/data/calenviroscreen/ces3results.xlsx"), 
+                      sheet = 2, skip = 6)
+
+# Read the index summary sheet and select the appropriate number of rows to skip
+watershed <- read_xlsx(here("intro/data",
+                            "healthy_watersheds",
+                            "CA_PHWA_TabularResults_170518.xlsx"),
+                       sheet = 2,
+                       skip = 4)
+
+```
+
+
+# Working with Sac County shapefile
+```{r}
+
+# load 
+library(sf)
+sac_county <- st_read(here("intro/data/shp/sac/sac_county.shp"))
+
+# plot 
+library(ggplot2)
+ggplot(sac_county) + geom_sf() + theme_bw()
+
+# write and export data
+
+# create a directory to write data
+dir.create(here("intro/data_output"))
+write_csv(stations,
+          here("intro/data_output", "my_stations.csv"))
+
+# write a shapefile
+st_write(sac_county, here("intro/data_output",
+                          "sac_county.shp"))
+
+# create, write and read an rds file
+
+bfast <- "yogurt parfait"
+write_rds(bfast, here("intro/data_output/breakfast.rds"))
+read_rds(here("intro/data_output/breakfast.rds"))
+
+# rds files are useful for writing “intermediate data output” that perhaps took a long time to create in R. By writing these to .rds files, we can easily access them in later parts of the data pipeline without needing to re-create them from scratch.
+
+# one of the main differences between RDS files and RDA (Rdata) files is that you can only store a single file or object with rds but you can store many objects with rda. They are both very compressible as well, so a 10MB csv will often be much smaller in size with an rda or rds format (like ~ 1.5 MB)
+
+# another difference = when reading in rda, you can’t specify what that object name is (it loads as whatever you saved it as). With rds you can specify the object name
+
+```
+
+
+# Module 5: data visualization with ggplot2
+
+```{r}
+library(tidyverse)
+library(here)
+
+# load groundwater level data
+gwl <- read_csv(here("intro/data/gwl/gwl.csv"))
+
+View(gwl)
+
+# ggplot
+ggplot(data=gwl) + 
+  geom_line(mapping=aes(x=MSMT_DATE, y=GSE_WSE))
+
+# use geom_area 
+
+ggplot(data=gwl) + 
+  geom_area(aes(MSMT_DATE, GSE_WSE))
+
+
+# slightly more complex plot - order matters, Ggplot will build in layers 
+ggplot(gwl) + 
+  geom_point(aes(MSMT_DATE, -GSE_WSE), # plots negative versions of the values
+            alpha=0.3) +
+  geom_line(aes(MSMT_DATE, -GSE_WSE), color = "red")
+
+
+#histogram
+
+ggplot(gwl)+
+  geom_histogram(aes(GSE_WSE)) # y axis = calculated 
+
+
+# a boxplot
+ggplot(gwl) + geom_boxplot(aes(GSE_WSE))
+
+
+# let's now look at 10 groundwater stations
+gwl_10 <- read_csv(here("intro/data/gwl/gwl_10.csv"))
+
+# plot
+ggplot(gwl_10) +
+  geom_point(aes(x = MSMT_DATE, y = GSE_WSE))
+
+# how many stations are we lookin' at? - aside on data
+# class and structure
+length(unique(gwl_10$SITE_CODE))
+class(gwl_10$SITE_CODE)
+dim(gwl_10$SITE_CODE)
+dim(gwl_10) # dataframes have a property dim
+length(gwl_10) # length is number of columns in dataframe
+table(gwl_10$SITE_CODE)
+
+# use a color aesthetic
+ggplot(gwl_10) +
+  geom_point(aes(x = MSMT_DATE, 
+                 y = GSE_WSE, 
+                 color = SITE_CODE),
+             alpha = 0.3)
+
+# can also color by a continuous variable, 
+# like the total completed depth
+ggplot(gwl_10) +
+  geom_point(aes(x = MSMT_DATE, 
+                 y = GSE_WSE, 
+                 color = WELL_DEPTH),
+             alpha = 0.3)
+
+# ggplot allows us to ask question of the data 
+# and perform EDA: exploratory data analysis
+
+# what's the depth to water distribution of the 
+# 10 sites in our dataset?
+
+# hard to read x axis text because they're long
+ggplot(data = gwl_10) +
+  geom_boxplot(aes(x = SITE_CODE, y = GSE_WSE))
+
+# use a coord_flip()
+ggplot(data = gwl_10) +
+  geom_boxplot(aes(x = SITE_CODE, y = GSE_WSE)) +
+  coord_flip()
+
+# make more complex
+range(gwl_10$MSMT_DATE) # range of the dates
+
+ggplot(data = gwl_10) +
+  geom_boxplot(aes(y = SITE_CODE, x = GSE_WSE,
+                   fill = WELL_USE)) +
+  labs(
+    y = "",
+    x = "Depth to groundwater (ft)",
+    fill = "Well type",
+    title = "Depth to groundwater at 10 sites",
+    subtitle = "Sacramento and Placer County (1961-present)",
+    caption = "Source: Periodic Groundwater level database, CA-DWR."
+  )
+
+
+# facet makes subplots - make a subplot for each
+# SITE_ID in the data
+ggplot(gwl_10) + 
+  geom_line(aes(MSMT_DATE, GSE_WSE, color = WELL_USE)) +
+  facet_wrap(~SITE_CODE) # don't forget tilde!
+  
+
+
+# save some plots
+my_plot <- ggplot(gwl_10) + 
+  geom_line(aes(MSMT_DATE, GSE_WSE, color = WELL_USE)) +
+  facet_wrap(~SITE_CODE) + # don't forget tilde!
+  scale_color_viridis_d()
+my_plot
+
+# save to pdf by creating device
+pdf(here("intro/data_output", "my_plot.pdf")) # open a PDF connection
+my_plot # print to the plot to the PDF
+dev.off() # close the connection, i.e., save plot
+
+# save with ggsave - 1 step
+ggsave(here("intro/data_output", "my_plot_ggsave.png"), 
+       my_plot, width = 10, height = 7)
+
+# bespoke plots are a google away!
+```
+
+
+
+
+## Module 7: data wrangling with dplyr 
+
+```{r}
+
+library(here)
+library(tidyverse)
+
+#import 
+stations <- read_csv(here("intro/data/gwl/stations.csv"))
+
+#filter
+stations_sac <- dplyr::filter(stations, COUNTY_NAME == "Sacramento")
+table(stations_sac$WELL_USE)
+
+# combine filter arguments
+
+stations_sac <- filter(stations,
+                       COUNTY_NAME == "Sacramento",
+                       WELL_USE == "Residential")
+
+# use with multiples or lists
+vector1 <- c(124, "names", "A") # doesn't work, can't mix data types
+
+sep_counties <- c("Sacramento", "Placer", "El Dorado")
+
+# %in% operator detects mutliple matches. Looks for strings in column COUNTY_NAME that match strings in sep_counties
+stations_multcounties <- filter(stations, COUNTY_NAME %in% sep_counties)
+
+
+# exclude everything but yolo county 
+stations_trim <- filter(stations, !COUNTY_NAME == "Yolo")
+
+
+# select
+stations_sel1 <- select(stations, c(STN_ID, LATITUDE, LONGITUDE, COUNTY_NAME))
+
+# use : to indicate a range of columns
+stations_sel2 <- select(stations, -c(LATITUDE:BASIN_NAME, WELL_USE))
+
+# select by condiions, like starts_with or contains
+stations_sel3 <- select(stations, starts_with("W"), contains("NAME"))
+
+
+# Lay the pipe 
+
+stations_multcounty <- stations %>% 
+  filter(COUNTY_NAME %in% c("Sacramento", "Placer")) %>% 
+  select(starts_with("W"), contains("NAME"), contains("ID")) %>% 
+  rename(station_id = STN_ID)
+
+
+# mutate
+
+# modify data - create a new column converting to meters
+stations_mutate1 <- stations %>% 
+  mutate(WELL_DEPTH_m = WELL_DEPTH * 0.3048)
+
+stations_mutate1 %>% 
+  ggplot() + 
+  geom_point(aes(x=STN_ID, y=WELL_DEPTH), color="darkblue", alpha=0.5) +
+  geom_point(aes(x=STN_ID, y=WELL_DEPTH_m), color="maroon", pch=21, alpha=0.8)
+
+
+# Group by and summarize
+
+n_by_county <- stations %>% 
+  group_by(COUNTY_NAME) %>% 
+  count(sort=T) # same thing as tally? 
+
+# remember to ungroup() before doing something else
+
+
+# arrange
+stations %>% 
+  group_by(COUNTY_NAME) %>% 
+  count() %>% 
+  arrange(desc(COUNTY_NAME)) # arrange the data by whatever variable of interest
+
+
+
+# summarize and get the top 10 avg depth wells by county
+stations %>% 
+  group_by(COUNTY_NAME) %>% 
+  summarize(mean_well_depth = mean(WELL_DEPTH, na.rm=TRUE)) %>% 
+  arrange(desc(mean_well_depth)) %>% # gets the deepest
+  head(10) %>% # take top 10 records
+  ggplot() + geom_col(aes(x=COUNTY_NAME, y=mean_well_depth)) +
+  labs(title = "Mean well depth", 
+       subtitle = "Top 10 Counties with deepest wells") + 
+  coord_flip()
+
+```
+
+
+## Module 8: Spreadsheets and pivoting
+
+```{r}
+library(tidyverse)
+library(readxl)
+library(here)
+
+# get some data:
+ces <- read_xlsx(here("intro/data/calenviroscreen/ces3results.xlsx"))
+
+ces_clean <- ces %>%  # convert incorrectly classed non numeric columns
+  mutate(across(c(`Ozone`:`Pop. Char. Pctl`), as.numeric))
+
+library(janitor)
+ces_janitor <- ces %>% clean_names()
+names(ces_janitor)
+
+# PIVOTING
+# from wide to long
+ces_long <- pivot_longer(data = ces_clean, 
+                         # pivot on some columns
+                         cols = c(`Ozone`:`Pop. Char. Pctl`),
+                         names_to = "CES_variable",
+                         # name of the column for pivoted values
+                         values_to = "CES_values"
+                         )
+
+# plot data more easily in 
+ces_long %>% filter(`California County` %in% c("Sacramento", "Placer") ) %>% 
+  ggplot() +
+  geom_col(aes(x=CES_variable, y=CES_values)) +
+  facet_wrap(~`California County`) + 
+  coord_flip()
+  
+# PIVOTING BACK TO WIDE
+ces_wide <- pivot_wider(data = ces_long, 
+                        names_from = "CES_variable",
+                        values_from = "CES_values")
+
+```
+
+
+## Module 11: Mapmaking!
+
+```{r}
+
+library(sf)
+sac <- st_read(here("intro/data/shp/sac/sac_county.shp"), quiet=TRUE)
+
+plot(sac[1])
+
+
+#  what about a csv with lat/lon
+# groundwater level station data in Sac county
+stations <- read_csv(here("intro/data/gwl/stations_sac.csv"))
+
+# convert the simple dataframe to a sf dataframe
+# functions in sf almost all start with "st_"
+stations <- st_as_sf(stations, 
+                     coords = c("LONGITUDE", "LATITUDE"), # X goes first
+                     crs = 4269, # projections 
+                     remove = FALSE)
+
+
+# check projection:
+st_crs(sac)$epsg
+st_crs(stations)$epsg
+
+# transform data to match EPSG (projections)
+sac <- st_transform(sac, crs = st_crs(stations))
+
+# check they are the same:
+identical(st_crs(stations), st_crs(sac))
+
+# Mapview
+library(mapview)
+
+mapview(sac) # plot interactive map
+mapview(sac) + mapview(stations)
+
+# if layers don't show up in web browser, change this default setting:
+mapviewOptions(fgb = FALSE)
+
+# spatial joins in R
+
+# all stations in CA
+all_gw_stations <- read_csv(here("data/gwl/stations.csv")) %>% 
+  st_as_sf(coords = c("LONGITUDE", "LATITUDE"), # X goes first
+           crs = 4269, # projections 
+           remove = FALSE)
+
+plot(all_gw_stations$geometry)
+
+# let's filter to Sacramento:
+stations_sac <- stations %>% filter(COUNTY_NAME == "Sacramento")
+
+plot(stations_sac$geometry)
+
+# what if we want to crop or clip data by other spatial data
+# best to do this in a projected CRS (coordinate ref system)
+all_gw_stations_3310 <- st_transform(all_gw_stations, 3310)
+st_crs(all_gw_stations_3310)$epsg
+
+# same projection for our county layer
+sac_3310 <- st_transform(sac, 3310)
+
+
+# perform the intersection/crop
+stations_sac_3310 <- st_intersection(
+  # first part x is thing you want to crop
+  x=all_gw_stations_3310,
+  # thing you are cropping by
+  y=sac_3310
+)
+
+table(stations_sac_3310$COUNTY_NAME)
+
+mapview(stations_sac_3310, zcol="COUNTY_NAME") + mapview(sac)
+mapview(stations_sac_3310, zcol="COUNTY_NAME", burst=TRUE) + mapview(sac)
+
+# methods to do spatial joins:
+methods(class = "sfc")
+
+# Making a Map
+
+# static maps
+plot(stations_sac_3310$geometry)
+# interactive with mapview
+
+# another package to check out is {tmap}
+
+# let's make a simple ggplot
+(p <- ggplot() + 
+    geom_sf(data = sac) +
+    geom_sf(data = stations_sac, color="blue", alpha=0.4))
+
+# more complex
+(p <- ggplot() + 
+  geom_sf(data = sac) +
+  geom_sf(data = stations_sac, aes(color=WELL_DEPTH), alpha=0.4) +
+  scale_color_viridis_c("Well Depth (ft)"))
+p # can wrap in parenthesis to print at same time
+
+#install.packages("ggspatial")
+library(ggspatial)
+
+p + 
+  # north arrow and scale bar
+  ggspatial::annotation_north_arrow(location = "tl") +
+  ggspatial::annotation_scale(location = "br") +
+  labs( x = "Longitude", y= "Latitude", 
+        title = "Groundwater monitoring stations",
+        subtitle = "Sacramento County",
+        caption = "R is great.") + 
+  theme_minimal()
+
+dir.create("figures") # create the folder
+ggsave(filename = "figures/sac_gw_map.pdf", width = 8, height = 8,
+       dpi = 300, units = "in")
+
+
+
+# random starwars fun -----------------------------------------------------
+
+starwars %>% 
+  sample_n(15) %>%   
+  ggplot(aes(height, mass)) + 
+  geom_point(aes(color = species)) + 
+  ggrepel::geom_label_repel(aes(label = name, fill = species), 
+                            alpha = 0.5, max.overlaps = 100) + 
+  scale_y_log10() + 
+  scale_color_viridis_d() +
+  scale_fill_viridis_d() +
+  # facet_wrap(~species) + 
+  labs(y = "Height (cm)", 
+       x = "Weight (kg)", 
+       color = "Species") + 
+  guides(fill = "none") +
+  theme_bw() 
+
+
+```
+
+
+
+## EDA 
+
+```{r}
+
+
+# answer just question 1
+library(here)
+library(tidyverse)
+library(sf)
+library(mapview)
+
+# read in groundwater level measurements, stations, perforations, and 
+# CES data pre-joined 
+gwl <- read_rds(here("intro/data/sacramento_gw_data_w_calenviro.rds"))
+
+# What well uses are most common? and where are they located?
+gwl %>% # pipe takes everything to the left of the pipe (gwl)
+  count(WELL_USE, sort = TRUE) # and inserts it as first arguemnt of next function
+  
+# pipe above is the same as:
+count(gwl, WELL_USE, sort = TRUE)
+
+# visualize well counts with a plot and clean up the plot
+p1 <- gwl %>% 
+  count(WELL_USE, sort = TRUE) %>% 
+  # remove NA well uses
+  filter(!is.na(WELL_USE)) %>% 
+  ggplot(aes(fct_reorder(WELL_USE, n), n)) +
+  geom_col(aes(fill = WELL_USE)) +
+  coord_flip() + 
+  guides(fill = "none") +
+  labs(title = "Monitoring well use", x = "", y = "Count")
+
+# converting groundwater levels to sf object
+gwl <- st_as_sf(gwl, 
+                coords = c("LONGITUDE", "LATITUDE"),
+                crs = 4269, 
+                remove = FALSE)
+
+# Sacramento county spatial data
+sac <- st_read(here("intro/data/shp/sac/sac_county.shp")) %>% 
+  st_transform(st_crs(gwl))
+
+# plot of groundwater stations
+gwl_stations <- gwl %>% 
+  filter(is.na(WELL_USE)) %>% 
+  group_by(SITE_CODE) %>% 
+  slice(1) # pull the first observation
+
+# out of time, see course website for full example and other questions
+# https://www.r4wrds.com/intro/m_exploratory_da#question-1-well-use-and-location
+
+
+```
+
