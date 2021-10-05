@@ -1,0 +1,722 @@
+---
+title: "intermediate script"
+author: "Molly Williams"
+date: "10/5/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# .Rprofile
+
+```{r}
+
+library(tidyverse)
+
+install.packages("usethis")
+
+usethis::edit_r_profile(scope = "project") # opens up a new Rprofile script
+
+
+cowsay::say(what = "hello r4wrds participants!", by = "cow")
+
+
+```
+
+
+
+# .Renviron
+
+Loads variables you want to keep hidden, or allow to be configurable per user
+
+```{r}
+
+# access environmental variables with 
+Sys.getenv() # returns all env vars on your machine
+
+# access an existing env var by quoted name
+Sys.getenv("USER")
+
+# let's specify our own env vars (custom):
+usethis::edit_r_environ(scope = "project")
+
+```
+
+
+# Create a function
+
+```{r}
+
+inspire_me <- function(animal){
+
+  # get pieces to make link
+  repo <- "JakubPetriska/060958fd744ca34f099e947cd080b540"
+  csv  <- "raw/963b5a9355f04741239407320ac973a6096cd7b6/quotes.csv"
+  
+  # silently read dataframe
+  suppressMessages(
+    quotes  <- readr::read_csv(
+      glue::glue("https://gist.githubusercontent.com/{repo}/{csv}")
+    )  
+  )
+  
+  # paste together the full quote
+  quotes$full_quote  <- paste0(quotes$Quote, " -", quotes$Author)
+  
+  # make a user-specified animal say the quote
+  cowsay::say(sample(quotes$full_quote, 1), by = animal)
+
+}
+
+# have the environmental variable say a quote
+inspire_me(Sys.getenv("ANIMAL"))
+
+
+#can change the animal in .Renviron to any animal 
+
+```
+
+
+# Modularization of functions
+
+
+```{r}
+# list packages in a vector and load them all
+pkgs <- c("readr", "cowsay")
+purrr::walk(pkgs, require, character.only = TRUE)
+
+# read quotes from a url
+f_read_data <- function(url){
+  suppressMessages(
+    quotes  <- read_csv(url)  
+  )
+  return(quotes)
+}
+
+# paste the quote to the author
+f_preprocess_data <- function(d){
+  d$full_quote  <- paste0(d$Quote, " -", d$Author)
+  return(d)
+}
+
+# print a random animal and a random quote
+f_inspire_me <- function(d){
+  animals <- names(animals)
+  say(sample(d$full_quote, 1), by = sample(animals, 1))
+}
+```
+
+
+
+# Interactive visualizations
+
+```{r}
+
+install.packages("tidygeocoder")
+
+library(tidygeocoder) # geocode our addresses
+library(tidyverse)    # wrangle data
+library(janitor)      # clean column names
+library(glue)         # modern paste() function
+library(sf)           # make spatial data
+library(mapview)      # interactive maps!
+mapviewOptions(fgb = FALSE)
+
+
+# the url for the Form data 
+form_data <- paste0("https://docs.google.com/spreadsheets/d/e/",
+                    "2PACX-1vSODxBm_z5Gu8a42C6ZFEa3S5iTbYV-",
+                    "qucCGvasGS6c0qFUAml5vSMEgbvI9PYo1HJ20Y_WY62aTAb-",
+                    "/pub?gid=1462593645&single=true&output=csv")
+
+# read in url and clean
+dat <- read_csv(form_data) %>% # takes the URL above and reads it in
+  janitor::clean_names() %>% # comes from janitor package
+  dplyr::rename( dining_name = 3, dining_address = 4)
+
+# geocode using Open Street Map (osm) API because it's free
+dat_geo <- dat %>%
+  geocode(dining_address, method = 'osm', lat = latitude , long = longitude) # looks up the address, returns lat and long, creating new columns for latitude and longitude
+
+# make into sf object so we can map
+dat_geo <- dat_geo %>% 
+  filter(!is.na(latitude) & !is.na(longitude)) %>% # remove NAs
+  st_as_sf(coords = c("longitude", "latitude"), 
+           crs = 4326, # spatial projection
+           remove = FALSE) # keep lat/lon columns in addition to geometry column being added
+
+# map!
+mapview(
+  dat_geo, 
+  zcol = "comfort_using_r", 
+  layer.name = "R comfort level", 
+  cex = 6.5
+)
+
+
+
+```
+
+
+
+# Make a fancier map with leaflet
+
+```{r}
+install.packages("leafpm")
+install.packages("leaflet.extras")
+
+library(leafpm)
+library(leaflet)
+library(leaflet.extras)
+library(htmltools)
+
+# set up our map
+m <- leaflet() %>% #call the blank map
+  # add tiles or the "basemaps"
+  addTiles(group = "OSM") %>% # defaults to Open Street Maps
+  addProviderTiles(providers$CartoDB.Positron, group = "Positron") %>% 
+  addProviderTiles(providers$Stamen.TonerLite, group = "Toner Lite") %>%
+  addCircleMarkers(
+    lng = -121.4944, lat = 38.5816, fillColor = "red", color = "black",
+    popup = "Sacramento!", group = "Home",
+  ) %>% 
+  addCircleMarkers(
+    data = dat_geo, group = "Food & Drink",
+    label = ~htmlEscape(first_name),
+    popup = glue(
+      "<b>Name:</b> {dat_geo$first_name}<br>
+      <b>Food_Name:</b> {dat_geo$dining_name}<br>
+      <b>Food_Address:</b> {dat_geo$dining_address}<br>
+      <b>R comfort (1-10):</b> {dat_geo$comfort_using_r}"
+    )
+  )  %>% 
+  addLayersControl(
+    baseGroups = c("Toner Lite", "Positron", "OSM"),
+    overlayGroups = c("Home", "Food & Drink"),
+    options = layersControlOptions(collapsed = FALSE)
+  ) %>% 
+  addMeasure()
+
+m  # Print the map
+```
+
+
+# Network with D3
+
+```{r}
+
+# Libraries
+install.packages("igraph")
+install.packages("networkD3")
+
+library(igraph)
+library(networkD3)
+
+# create a dataset:
+data <- tibble(
+  from = c(
+    "Dam","Dam","Dam", "Dam",
+    "River","River","River", "River","River",
+    "Canal", "Canal", 
+    "Diversion","Diversion", 
+    "Reservoir", "Reservoir","Reservoir",
+    "Lake","Lake","Lake", "Lake", 
+    "Road","Road","Road",
+    "Culvert", "Culvert",
+    "Fish", "Fish","Fish",
+    "Frog","Frog","Frog",
+    "MacroInvertebrates","MacroInvertebrates"
+  ),
+  to = c(
+    "River","Reservoir","Canal","Diversion",
+    "Lake","Reservoir","Frog","Fish","MacroInvertebrates",
+    "Diversion", "Reservoir",
+    "Dam", "River",
+    "River","Dam","Fish",
+    "Fish","Dam","Frog","MacroInvertebrates",
+    "Fish","Dam", "Canal",
+    "Road", "Dam",
+    "Frog", "River","MacroInvertebrates",
+    "Fish", "River", "Lake",
+    "River", "Lake"
+  )
+)
+
+# Plot
+(p <- simpleNetwork(data, height = "600px", width = "600px", 
+                    fontSize = 16, fontFamily = "serif",
+                    nodeColour = "darkblue", linkColour = "steelblue",
+                    opacity = 0.9, zoom = FALSE, charge = -500))
+```
+
+
+
+
+# Plotly: CalEnviroScreen
+
+```{r}
+# Load CES data for Sac county
+install.packages("cowplot")
+library(cowplot)
+
+
+ces3_sac <- readRDS(here::here("data/ces3_sac.rds"))
+
+mapview(ces3_sac, zcol = "CIscoreP") #map color to the impact of pollution data column
+
+
+
+# Static plot of Groundwater threats vs. CES score
+(ces_plot <- ces3_sac %>% 
+   ggplot(aes(x = gwthreatsP, y = CIscoreP, label = tract)) + 
+   geom_point() +
+   geom_smooth(method = "gam") +
+   cowplot::theme_half_open(font_size = 12) +
+   labs(
+     title = "CES Score vs. Groundwater Threats in Sacramento County",
+     subtitle = "Higher CI Score indicates higher threat/impact",
+     x = "Groundwater Threats (percentile)", 
+     y = "CI Score (percentile)"
+   )
+)
+
+# Interactive plotly
+install.packages("plotly")
+library(plotly)
+ggplotly(ces_plot)
+
+```
+
+
+# Iteration and functional programming
+
+Loops are a building block of functional programming 
+
+## For loops: make iteration very explicit using a counter (i)
+```{r}
+
+library(tidyverse)
+library(here)
+
+eldorado <- read_csv(here("data", "gwl", "county", "El Dorado.csv"))
+placer   <- read_csv(here("data", "gwl", "county", "Placer.csv"))
+sac      <- read_csv(here("data", "gwl", "county", "Sacramento.csv"))
+
+# iterate over files and read them in with a for loop
+
+# list all files we want to read in
+files_in <- fs::dir_ls(here("data/gwl/county/"))
+
+
+# initalize a list of defined length
+l <- vector("list", length = length(files_in))
+class(l)
+
+# use double bracket notation to access list elements by index 
+l[[1]]
+l[[2]]
+
+# loop over all files in files_in, and read them into each element of the list 
+for(i in seq_along(l)) { # l is object we're going to read them into , could also be 1:3 but this is more consistent
+  l[[i]] <- read_csv(files_in[i])
+  cat("\nComplete.\n\n")
+  
+  } 
+  
+  # we run the loop for i=1, i=2, i=3
+
+#silly loop
+for(index in 1:1000){
+  cat("We are on index:", index, "of the loop!\n")
+}
+
+
+# A list can hold any R object
+
+my_list <- list(a = 1:3, b = data.frame(x=1, y=2), c="apples")
+  
+
+# combine all list elements into a single dataframe 
+ldf <- bind_rows(l) # has all of the rows that were in each of the list elements of l 
+
+# split into another list by a column
+ldf <- split(ldf, ldf$SITE_CODE)
+length(ldf)
+
+
+# loop over each list element and write a csv file 
+fs::dir_create(here("data/gwl/site_code")) # create directory called site_code
+
+# create a vector of filenames to write out
+files_out <- glue::glue("{here('data/gwl/site_code', names(ldf))}.csv")
+
+
+# how we can write each split dataframe of ldf as a separate csv file 
+for(i in seq_along(ldf)){
+  write_csv(ldf[[i]], files_out[i])
+}
+
+
+```
+
+
+# lapply
+lapply is part of base R and enables functional programming. Simplifies loops with no indexing or initialization
+
+```{r}
+
+files_in
+
+l <- lapply(files_in, read_csv) # same as the for loop above! reads in each file in files_in to list 
+
+
+
+```
+
+
+# write files with mapply
+takes more than one input, send files in and out
+
+```{r}
+
+# operates on each set of elements
+
+ldf <- bind_rows(l) #stitches data frames into one
+
+ldf <- split(ldf, ldf$SITE_CODE) # split by site code; there are 723 unique values of site code
+
+length(ldf)
+
+# write out
+
+files_out #output path from above
+mapply(function(x, y){write_csv(x,y)} , ldf, files_out) # list objects to send through the factory, this is an anonymous function within mapply (no object in the namespace)
+
+# can also explicitly define the function and use it elsewhere
+
+my_function <- function(x, y) {
+  write_csv(x, y)
+}
+
+mapply(my_function, ldf, files_out)
+
+# can't do this because write_csv is not set up for working with lists
+my_function(ldf, files_out)
+class(ldf)
+length(files_out)
+
+```
+
+
+
+# map
+
+```{r}
+# redo what we've already done - read in county csvs 
+# like lapply, the first argument to map is the thing you want to operate on/map over 
+# tilde ~ is where you start the function you want to map 
+# .x is a placeholder for where you put each element you want to map 
+
+l <- map(files_in, ~read_csv(.x))
+
+# as before, let's bind rows, split into dataframes by site code, then write
+
+ldf <- bind_rows(l)
+
+ldf <- group_split(ldf, SITE_CODE) # like split, but doesn't name the list
+
+names(ldf)
+
+
+# write
+
+walk2(ldf, files_out, ~write_csv(.x, .y)) # like map, but silent; from purrr
+# .x is placeholder for first argument, .y for second argument 
+
+
+
+```
+
+
+# map_df 
+
+```{r}
+
+# a common task is to read in dataframes and combine them into one
+
+files_in
+
+map_df(files_in, ~read_csv(.x)) %>%  #read dataframes and combine into one
+  group_split(SITE_CODE) %>% # split by SITE_CODE column into separate data frames
+  walk2(files_out, ~write_csv(.x, .y)) # walked over the dataframes above and files_out and wrote csvs
+
+
+
+
+
+
+
+```
+
+
+# map: putting it all together with a modular function 
+
+```{r}
+
+library(tidyverse)
+library(here)
+library(purrr)
+
+source(here("scripts/functions/f_import_clean_export.R"))
+
+
+# create a directory to store the results
+fs::dir_create(here("results"))
+
+
+# files in and files out
+
+files_in <- fs::dir_ls(here("data/gwl/county/"))
+
+basename(files_in)
+
+files_out <- here("results", str_replace_all(basename(files_in), ".csv", ".shp")) #change all the filenames from .csv to .shp
+
+
+walk2(files_in, files_out, ~f_import_clean_export(.x, .y)) # fills results folder with shapefiles for each of the three counties
+
+
+
+
+
+```
+
+
+# Advanced spatial and mapmaking
+
+## Install 
+
+```{r}
+
+
+library(here) # path management
+library(tidyverse) # data wrangling & viz
+library(purrr) # iteration
+library(janitor) # name cleaning
+library(glue) # pasting stuff together
+library(here) # file paths
+
+# SPATIAL PACKAGES
+library(sf) # analysis tools
+library(mapview)  # interactive maps!
+mapviewOptions(fgb = FALSE) # to save interactive maps
+
+# library(devtools)
+# devtools::install_github("UrbanInstitute/urbnmapr")
+
+library(urbnmapr) # county & state boundaries
+library(units) # for convert spatial and other units
+library(dataRetrieval) # download USGS river data
+library(tmap) # mapping
+library(tmaptools) # mapping tools
+```
+
+
+## Import spatial data 
+
+```{r}
+# get CA
+ca <- urbnmapr::get_urbn_map(map="states", sf=TRUE) %>% 
+  filter(state_abbv == "CA")
+# warning is ok!
+
+# get CA county boundary
+ca_co <- urbnmapr::get_urbn_map(map = "counties", sf=TRUE) %>%
+  filter(state_abbv == "CA")
+
+mapview(ca)
+
+# shapefile
+sac_co <- sf::st_read(here("data/shp/sac/sac_county.shp"))
+
+# check CRS
+st_crs(sac_co)$epsg
+
+# match with other data
+sac_co <- st_transform(sac_co, st_crs(ca_co))
+st_crs(sac_co) == st_crs(ca_co) # should be TRUE!
+
+# make a box around sacramento county
+# (a grid with an n=1) for inset
+sac_box <- st_make_grid(sac_co, n = 1)
+
+sac_grid_10 <- st_make_grid(sac_co, n=10, square=FALSE) # creates hexagonal grid instead of square
+
+mapview(sac_box) + mapview(sac_grid_10) + mapview(sac_co, color="orange", lwd=2 #line width
+                                                  )
+
+
+```
+
+
+## Static map with base 'plot()'
+
+```{r}
+
+# if we don't specify the geometry, base plot will plot a map for every attribute in dataset
+
+plot(ca_co$geometry)
+
+# make sure we have all the pieces with a quick test plot
+plot(ca$geometry, col = alpha("gray", 0.5), border = "black", lwd=2)
+
+
+
+# add layers, use add=TRUE
+plot(ca_co$geometry, add = T, border = "purple", col = NA)
+plot(sac_co$geometry, add = T, border = "cyan4", col = "skyblue",alpha=0.4, lwd = 2)
+plot(sac_box, add = T, border = "orange", col = NA, lwd = 1.4)
+plot(sac_grid_10, add=T, border="green", col=NA, lwd=0.5) # add grid over the top
+
+
+
+# if something isn't showing up, check projections (iteratively!)
+map(list(ca_co, ca, sac_co), ~st_crs(.x)$epsg)
+
+
+```
+
+
+## Get groundwater stations (iteratively)
+
+```{r}
+
+# read the stations
+gw_files <- list.files(path = here("data/gwl/county"),
+                       full.names = TRUE, pattern = "*.csv")
+
+# read all files into dataframes and combine with purrr
+gw_df <- map_df(gw_files, ~read.csv(.x))
+
+# the readr package will also do this same thing by default
+# when passed a list of files with the same data types
+gw_df <- read_csv(gw_files)
+
+# now make "spatial" as sf objects
+gw_df <- st_as_sf(gw_df, coords=c("LONGITUDE","LATITUDE"), 
+                  crs=4326, remove=FALSE) %>% 
+  st_transform(., st_crs(ca_co)) # transform to match ca_co
+
+class(gw_df)
+
+# preview!
+mapview(gw_df, zcol="COUNTY_NAME", layer.name="GW Stations") +
+  mapview(sac_co, legend=FALSE)
+
+
+
+```
+
+
+## Spatial intersection
+Use [ ] to subset or crop our data frame
+
+```{r}
+
+# basic subsetting
+gw_df[1, ] # 1st row, all columns
+
+gw_sac_join1 <- gw_df[sac_co, ] # choose rows that match sac_co data frame, which filters down gw_sf to just data points in sac county
+
+
+plot(sac_co$geometry, col = alpha("forestgreen", 0.6))
+plot(gw_sac_join1$geometry, bg = alpha("orange", 0.3), pch=21, add = TRUE)
+title("GW Stations (orange) \nthat occur in Sacramento County")
+
+
+gw_sac_join2 <- st_join(gw_df, sac_co, left=FALSE)
+# adds the attributes from the y object to the x object 
+
+mapview(gw_sac_join2, col.region="orange", legend=FALSE) +
+  mapview(sac_co, alpha = 0.5, legend = FALSE)
+
+
+
+# how to do it using simple filtration and make a new map to look at well use 
+
+gw_sac <- gw_df %>% 
+  filter(COUNTY_NAME == "Sacramento")
+
+table(gw_sac$WELL_USE)
+
+mapview(gw_sac, zcol="WELL_USE", layer.name="Well Use")
+
+
+
+```
+
+
+# River data - find nearest USGS station
+
+```{r}
+
+sac_loi <- gw_sac %>% filter(STN_ID %in% c("52418", "5605"))
+
+mapview(sac_co, alpha.regions=0, 
+          color="black", lwd=3, legend=FALSE) +
+  mapview(sac_loi, col.regions="purple",layer.name="Locations of Interest")
+
+install.packages("dataRetrieval")
+library(dataRetrieval)
+
+# Need to convert our locations of interest to WGS84
+sac_loi <- sac_loi %>% 
+  st_transform(4326)
+
+# now we can go get flowline data!
+us_nwis <- map(sac_loi$geometry,
+                ~findNLDI(location = .x,
+                          nav  = c("UM"), 
+                          find = c("nwis", "flowlines"),
+                          distance_km = 120)
+                )
+
+
+# we can split these data into separate data frame
+# and add them as objects to the .Global environment.
+# first add names based on our station IDs:
+us_nwis <- set_names(us_nwis, nm=glue("id_{sac_loi$STN_ID}"))
+
+# then split into separate dataframes
+# us_nwis %>% list2env(.GlobalEnv)
+
+# Or we can combine with map_df
+us_flowlines <- map_df(us_nwis, ~rbind(.x$UM_flowlines))
+us_nwissite <- map_df(us_nwis, ~rbind(.x$UM_nwissite))
+
+mapview(sac_loi, col.region="purple", legend = TRUE, 
+        cex=3, layer.name="GW LOI") +
+  mapview(us_nwissite, col.regions="orange", 
+          legend = TRUE, layer.name="UM NWIS Sites") +
+  mapview(us_flowlines, color="steelblue", lwd=2, 
+          layer.name="UM Flowlines", legend=FALSE)
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
